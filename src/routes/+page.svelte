@@ -21,7 +21,7 @@
 						<span
 							style="
 							display: inline-block;
-							transform: translateY({0.05 * Math.random() * 0.5 - 1}em);
+							transform: translateY({1 - 0.05 * Math.random() * 0.5}em);
 							color: hsl({Math.random() * 40 - 20}deg 60% 13.73%);
 							opacity: {0.9 - Math.random() * 0.2};
 						"
@@ -93,7 +93,7 @@
 	}
 
 	article {
-		padding: 5rem;
+		padding: 4rem 5rem 5rem;
 		line-height: 1;
 		position: relative;
 
@@ -102,6 +102,12 @@
 
 		height: 100vh;
 		overflow: hidden;
+	}
+
+	@media all and (max-width: 400px) {
+		article {
+			padding: 1rem 2rem 2rem;	
+		}
 	}
 
 
@@ -113,7 +119,7 @@
 		font-family: var(--font-family-drop-caps);
 		font-size: 2.85em;
 		scale: 1.15;
-		translate: 0.11em -.28em;
+		translate: 0.12em .42em;
 		float: left;
 		line-height: 1;
 		color: #ac0303;
@@ -127,10 +133,16 @@
 		font-size: calc(var(--font-size) * 1.4);
 	}
 
+	.stanza:last-of-type {
+		margin-bottom: 2rem;
+	}
+
 	.author {
+		margin-top: 3rem;
 		text-align: right;
 		font-size: var(--font-size-s);
 		max-width: 30rem;
+		opacity: .5;
 	}
 
 	.centaur {
@@ -138,6 +150,14 @@
 		bottom: 2rem;
 		right: 2rem;
 		width: 10vw;
+		vertical-align: bottom;
+	}
+
+	@media all and (max-width: 400px) {
+		.centaur {
+			width: 30vw;
+			z-index: -1;
+		}
 	}
 
 	.centaur img {

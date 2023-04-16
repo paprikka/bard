@@ -1,4 +1,5 @@
 import { editorialTeam, type EditorialTeamMember } from '../data/editorial-team';
+import RSSParser from 'rss-parser';
 
 const  getDayOfYear = (date: Date) => {
     const startOfYear = new Date(date.getFullYear(), 0, 0);
@@ -29,10 +30,28 @@ const makePrompt = (author: EditorialTeamMember, newsModern: any) => {
     return prompt
 };
 
-import newsToday from '../data/today.json';
+// import newsToday from '../data/today.json';
+const parser = new RSSParser();
 
-const getNewsToday = () => {
-	return newsToday;
+type FeedItem = {
+  title?: string
+  description?: string
+  pubDate?: string
+  link?: string
+}
+
+const getNewsToday = async (): Promise<{feedItems: FeedItem[]}> => {
+  const feed = await parser.parseURL('https://feeds.a.dj.com/rss/RSSWorldNews.xml')
+  const feedItems = feed.items.map((item) => {
+    return {
+      title: item.title,
+      description: item.contentSnippet,
+      pubDate: item.pubDate,
+      link: item.link
+    }
+  })
+  
+  return  {feedItems}
 };
 
 const getNewsMedieval = async (author: EditorialTeamMember, news: typeof newsToday['feedItems'] ) => {
@@ -56,8 +75,8 @@ const getNewsMedieval = async (author: EditorialTeamMember, news: typeof newsTod
 
 const getSong = async () => {
 	const author = getBard();
-	const newsToday = getNewsToday();
-    const newsMedieval = await getNewsMedieval(author, newsToday.feedItems);
+	const newsToday = await getNewsToday();
+  const newsMedieval = await getNewsMedieval(author, newsToday.feedItems);
 
 	return { author, newsMedieval };
 };
