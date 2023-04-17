@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Æthelred the Skald",
+    "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+  },
+  "newsMedieval": "In the halls of justice, Russians weigh,\nThe fate of a scribe who strays from lay,\nA hearing held, decisions await,\nFor Gershkovich, future meets debate.\n\nA lender falls, the Reaper's scythe swings,\nReverse-mortgages' sorrows it brings,\nRising rates claim another's demise,\nBankrupt truths hidden 'neath twisted lies.\n\nBut to lands of credit and equity,\nInvestors gather, hearts light and free,\nOdin shines on BlackRock's stoic halls,\nAs wealth accrues and fortune enthralls.",
+  "feedItemsParsed": [
+    {
+      "title": "WSJ Reporter Appears in Russian Court for Detention Appeal Hearing",
+      "description": "The court could uphold pretrial detention, order Evan Gershkovich moved to another jail, allow him house arrest or grant him bail.",
+      "link": "https://www.wsj.com/articles/moscow-court-to-hear-appeal-on-detention-of-jailed-wsj-reporter-evan-gershkovich-9c464c6c",
+      "id": "WP-WSJ-0000791958"
+    },
+    {
+      "title": "Rising Rates Brought Down Reverse-Mortgage Lender",
+      "description": "A government-backed reverse-mortgage program intended to help seniors tap their home equity ran into problems as interest rates rose, pushing one of the largest participating lenders into bankruptcy last fall, recent court documents show.",
+      "link": "https://www.wsj.com/articles/rising-interest-rates-brought-down-reverse-mortgage-lender-99207358",
+      "id": "WP-WSJ-0000790884"
+    },
+    {
+      "title": "Investors Stay Upbeat on Private Equity, Credit",
+      "description": "A BlackRock institutional investor survey shows most intend to put more money into the asset classes this year.",
+      "link": "https://www.wsj.com/articles/investors-stay-upbeat-on-private-equity-credit-76ff51ea",
+      "id": "WP-WSJ-0000792842"
+    }
+  ]
+}

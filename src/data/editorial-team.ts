@@ -22,7 +22,7 @@ export const editorialTeam: EditorialTeamMember[] = [
 	{
 		name: 'Brother Arnulfus',
 		description:
-			'A Benedictine monk who doth write devotional poems in Latin, praising God and the saints.'
+			'A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale.'
 	},
 	// {
 	// 	name: 'Fatima al-Zahra',

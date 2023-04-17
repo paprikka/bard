@@ -1,42 +1,55 @@
 <script lang="ts">
-	import Superpope from "../components/superpope.svelte";
+	import Char from '../components/char.svelte';
+	import Superpope from '../components/superpope.svelte';
+	import type { ArchiveItem } from '../data/update-local-news';
+	import { songToSegments, type LinkItem } from './song-to-segments';
 
-	export let data;
+	export let data = {
+		songs: []
+	};
 
-	$: formattedNews = !data?.song?.newsMedieval
-		? []
-		: [...data.song.newsMedieval.split('\n\n')]
-				.slice(0, 5)
-				.map(
-					(stanza: string) => stanza.split('\n')
-						.map((line) => line.trim().split('')));
+	const getSongAsSegments = (song: ArchiveItem) => {
+		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback to
+		const highlightsDict: (LinkItem | null)[] = stanzas.map((stanza, index) => {
+			// using a regular expression find all words with more than 4 characters, excluding punctuation and newlines
+			const longerWords = stanza.match(/\w{4,}/g);
+
+			if (!(longerWords && longerWords.length)) return null;
+
+			const randomLongerWord = longerWords[Math.floor(Math.random() * longerWords.length)];
+
+			if (!song?.feedItemsParsed) return null;
+			const link = song.feedItemsParsed.at(index)?.link;
+			if (!link) return null;
+
+			const linkItem: LinkItem = {
+				word: randomLongerWord,
+				link
+			};
+			return linkItem;
+		});
+
+		
+		const segments = songToSegments(song, highlightsDict);
+		return segments;
+	};
+
+	$: song = data.songs[0];
+	$: formattedNews = !song ? [] : getSongAsSegments(data.songs[0]);
 </script>
 
 <article>
-	{#each formattedNews as paragraph, paragraphIndex}
+	{#each formattedNews as stanza, stanzaIndex}
 		<p class="stanza">
-			{#each paragraph as line, lineIndex}
+			{#each stanza as line, lineIndex}
 				{#each line as char, charIndex}
-					{#if charIndex === 0 && lineIndex === 0 && paragraphIndex === 0}
-						<span> {char} </span>
-					{:else}
-						<span
-							style="
-							display: inline-block;
-							transform: translateY({1 - 0.05 * Math.random() * 0.5}em);
-							color: hsl({Math.random() * 40 - 20}deg 60% 13.73%);
-							opacity: {0.9 - Math.random() * 0.2};
-						"
-						>
-							{char}
-						</span>
-					{/if}
+					<Char {char} {charIndex} {lineIndex} {stanzaIndex} />
 				{/each}
 				<br />
 			{/each}
 		</p>
 	{/each}
-	<p class="author">— {data.song.author.name}, {data.song.author.description}</p>
+	<p class="author">— {song.author.name}, {song.author.description}</p>
 </article>
 <a class="centaur" href="https://www.centaur-warns.com/"
 	><img src="/centaur.png" alt="a centaur" /></a
@@ -44,6 +57,7 @@
 
 <div class="overlay" />
 <Superpope />
+
 <style>
 	@font-face {
 		font-family: 'font-default';
@@ -81,7 +95,7 @@
 
 	:global(body) {
 		font-size: var(--font-size-m);
-		/* background: url('/background.jpg') repeat center center fixed; */
+		background: url('/background.jpg') repeat center center fixed;
 		background-color: #f9d395;
 		background-size: 60%;
 	}
@@ -107,31 +121,17 @@
 		overflow: hidden;
 	}
 
-	@media all and (max-width: 400px) {
-		article {
-			padding: 1rem 2rem 2rem;	
-		}
-	}
-
-
 	article p:first-child {
 		margin-top: 0;
 	}
 
-	article p:first-child > span:first-child {
-		font-family: var(--font-family-drop-caps);
-		font-size: 2.85em;
-		scale: 1.15;
-		translate: 0.12em .42em;
-		float: left;
-		line-height: 1;
-		color: #ac0303;
-		opacity: 0.8;
-		width: 1.05em;
+	@media all and (max-width: 400px) {
+		article {
+			padding: 1rem 2rem 2rem;
+		}
 	}
 
 	.stanza {
-		white-space: break-spaces;
 		text-align: start;
 		font-size: calc(var(--font-size) * 1.4);
 	}
@@ -145,7 +145,7 @@
 		text-align: right;
 		font-size: var(--font-size-s);
 		max-width: 30rem;
-		opacity: .5;
+		opacity: 0.5;
 	}
 
 	.centaur {
