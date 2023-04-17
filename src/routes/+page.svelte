@@ -1,11 +1,14 @@
 <script lang="ts">
 	import Superpope from "../components/superpope.svelte";
 
-	export let data;
+	export let data = {
+		songs: []
+	};
 
-	$: formattedNews = !data?.song?.newsMedieval
+	$: song = data.songs[0];
+	$: formattedNews = !song
 		? []
-		: [...data.song.newsMedieval.split('\n\n')]
+		: [...data.songs[0].newsMedieval.split('\n\n')]
 				.slice(0, 5)
 				.map(
 					(stanza: string) => stanza.split('\n')
@@ -36,7 +39,7 @@
 			{/each}
 		</p>
 	{/each}
-	<p class="author">— {data.song.author.name}, {data.song.author.description}</p>
+	<p class="author">— {song.author.name}, {song.author.description}</p>
 </article>
 <a class="centaur" href="https://www.centaur-warns.com/"
 	><img src="/centaur.png" alt="a centaur" /></a

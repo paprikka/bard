@@ -6,8 +6,8 @@
 <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
 <description>World News</description>
 <language>en-us</language>
-<pubDate>Mon, 17 Apr 2023 11:11:01 -0400</pubDate>
-<lastBuildDate>Mon, 17 Apr 2023 11:11:01 -0400</lastBuildDate>
+<pubDate>Mon, 17 Apr 2023 12:29:06 -0400</pubDate>
+<lastBuildDate>Mon, 17 Apr 2023 12:29:06 -0400</lastBuildDate>
 <copyright>Dow Jones &amp; Company, Inc.</copyright>
 <generator>http://online.wsj.com/page/2_0006.html</generator>
 <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
@@ -16,6 +16,86 @@
 <link>http://online.wsj.com/page/2_0006.html</link>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
 </image>
+<item>
+<title>Tech, Media &amp; Telecom Roundup: Market Talk</title>
+<link>https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-8c6eadf8</link>
+<description><![CDATA[Find insights on Freenet, Searchlight Capital Partners’and British Columbia Investment Management, Audioboom, and more featured in the latest Market Talks covering Technology, Media and Telecom.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 12:27:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000790394</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Energy &amp; Utilities Roundup: Market Talk</title>
+<link>https://www.wsj.com/articles/energy-utilities-roundup-market-talk-921858a0</link>
+<description><![CDATA[Gain insight on California’s electricity-bill plan, John Wood Group, and more in the latest Market Talks covering Energy and Utilities.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 12:26:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000790380</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>McCarthy Says House GOP Plans to Vote on Debt Limit, Spending Cuts</title>
+<link>https://www.wsj.com/articles/mccarthy-says-house-gop-plans-to-vote-on-debt-limit-spending-cuts-cc39c0d8</link>
+<description><![CDATA[The House speaker said Republicans want to put limits on federal spending and require Americans to work to receive federal benefits.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 12:23:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000791269</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Politics and Policy</wsj:articletype>
+</item>
+<item>
+<title>Apple Launches High-Yield Savings Account</title>
+<link>https://www.wsj.com/articles/apple-launches-high-yield-savings-account-4880ecc2</link>
+<description><![CDATA[Apple Card credit-card holders can open accounts with a 4.15% annual percentage yield.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 12:18:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000791223</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Personal Finance</wsj:articletype>
+</item>
+<item>
+<title>How I Rediscovered The Joy of Reading in Retirement</title>
+<link>https://www.wsj.com/articles/reading-in-retirement-6609fed1</link>
+<description><![CDATA[Having more free time has given me a kind of connection with books that I haven’t had since I was a little girl. But the experience hasn’t been what I expected.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 12:00:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000601721</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Journal Reports: Retirement</wsj:articletype>
+</item>
+<item>
+<title>Microsoft Could Inflate Google's Mobile Search Toll</title>
+<link>https://www.wsj.com/articles/microsoft-could-inflate-googles-mobile-search-toll-2eaa979f</link>
+<description><![CDATA[Google’s search margins would face pressure if it now has to bid against Microsoft for default status on mobile devices from Samsung and Apple.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 11:55:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000791163</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Heard on the Street</wsj:articletype>
+</item>
+<item>
+<title>Treasury Yields Rise As Markets Price In Another Hike</title>
+<link>https://www.wsj.com/articles/french-government-bonds-remain-top-option-for-liquidity-4ad0fa4</link>
+<description><![CDATA[Treasury yields rose as investors see the Federal Reserve increasing interest rates at least one more time this year.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 11:48:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000790031</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Bosses Pay Workers to Move Closer to Offices</title>
+<link>https://www.wsj.com/articles/bosses-want-workers-in-offices-so-much-that-they-are-paying-to-move-them-ca3c1f62</link>
+<description><![CDATA[Job postings in the U.S. that mention relocation benefits were up nearly 75% as of February.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 11:21:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000784738</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Managing Your Career</wsj:articletype>
+</item>
 <item>
 <title>America's Most Prolific Logger Recasts Itself as Environmental Do-Gooder</title>
 <link>https://www.wsj.com/articles/americas-most-prolific-logger-recasts-itself-as-environmental-do-gooder-d02df140</link>
@@ -87,6 +167,16 @@
 <wsj:articletype>Letters</wsj:articletype>
 </item>
 <item>
+<title>Pacific Ocean Garbage Patch Is Bursting With Life</title>
+<link>https://www.wsj.com/articles/pacific-ocean-garbage-patch-is-bursting-with-life-e57b04f3</link>
+<description><![CDATA[Biologists who fished toothbrushes, rope and broken bottle shards from the patch found them studded with gooseneck barnacles and jet-black sea anemones.]]></description>
+<content:encoded/>
+<pubDate>Mon, 17 Apr 2023 11:00:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000790785</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Science</wsj:articletype>
+</item>
+<item>
 <title>Nielsen Regains Key Media Accreditation</title>
 <link>https://www.wsj.com/articles/nielsen-regains-key-media-accreditation-99c7cb75</link>
 <description><![CDATA[The TV ratings giant’s seal of approval had been suspended by the Media Rating Council since 2021.]]></description>
@@ -107,16 +197,6 @@
 <wsj:articletype>Letters</wsj:articletype>
 </item>
 <item>
-<title>Pacific Ocean Garbage Patch Is Bursting With Life</title>
-<link>https://www.wsj.com/articles/pacific-ocean-garbage-patch-is-bursting-with-life-e57b04f3</link>
-<description><![CDATA[Biologists who fished toothbrushes, rope and broken bottle shards from the patch found them studded with gooseneck barnacles and jet-black sea anemones.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 11:00:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000790785</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>Science</wsj:articletype>
-</item>
-<item>
 <title>Give Me an Employee of the Month</title>
 <link>https://www.wsj.com/articles/teen-job-work-experience-employee-of-the-month-6fa1cae0</link>
 <description><![CDATA[The most reliable lawyers had real-life work experience, often as a teen, before passing the bar.]]></description>
@@ -135,86 +215,6 @@
 <guid isPermaLink="false">WP-WSJ-0000790293</guid>
 <category domain="AccessClassName">PAID</category>
 <wsj:articletype>Russia News</wsj:articletype>
-</item>
-<item>
-<title>The Man Who Kept the Show's Lights on for 35 Years</title>
-<link>https://www.wsj.com/articles/the-man-who-kept-the-shows-lights-on-for-35-years-aa4d52a4</link>
-<description><![CDATA[Having seen Broadway’s longest-running production more than anyone else, Alan Lampel is retiring when it closes.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:49:00 -0400</pubDate>
-<guid isPermaLink="false">SB11695864883913753948804589566212936371776</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>MobileDeco1</wsj:articletype>
-</item>
-<item>
-<title>Dozens of U.N. Countries Criticize Russia Over Detention of WSJ Reporter</title>
-<link>https://www.wsj.com/articles/dozens-of-u-n-countries-criticize-russia-over-detention-of-wsj-reporter-evan-gershkovich-f7514fbe</link>
-<description><![CDATA[More than 40 countries have signed on to a statement criticizing Russia over the detention of Evan Gershkovich and protesting Russia’s moves to intimidate the media.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:46:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000790227</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>World News</wsj:articletype>
-</item>
-<item>
-<title>SEC Sues Bittrex Crypto Exchange and Former CEO</title>
-<link>https://www.wsj.com/articles/sec-sues-bittrex-crypto-exchange-and-former-ceo-91545544</link>
-<description><![CDATA[Regulators allege the company listed assets that required it to register and follow investor-protection rules.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:44:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000790988</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>Financial Regulation</wsj:articletype>
-</item>
-<item>
-<title>America's Most Prolific Logger Recasts Itself as Environmental Do-Gooder</title>
-<link>https://www.wsj.com/articles/weyerhaeuser-logging-carbon-emissions-offset-market-environment-76850c01</link>
-<description><![CDATA[Weyerhaeuser uses new climate math to court green investors, while cutting down as many trees as ever.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:31:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000760027</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>Business</wsj:articletype>
-</item>
-<item>
-<title>Coal Is Too Hot to Handle---Maybe Even for Glencore</title>
-<link>https://www.wsj.com/articles/coal-is-too-hot-to-handlemaybe-even-for-glencore-7188edae</link>
-<description><![CDATA[The Swiss commodities giant has long argued that its thermal-coal assets worked better as part of a diversified miner. But its new bid for Teck Resources calls that contention into question.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:29:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000790734</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>Heard on the Street</wsj:articletype>
-</item>
-<item>
-<title>Natural Gas Extends Last Week's Rally</title>
-<link>https://www.wsj.com/articles/natural-gas-extending-last-weeks-rally-on-midwest-chill-f86e9de8</link>
-<description><![CDATA[Natural gas prices rose as cold weather and even some snow returned to Chicago and other parts of the Midwest, providing an unexpected resurgence of gas-fired heating demand.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:29:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000790576</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>NewsPlus</wsj:articletype>
-</item>
-<item>
-<title>Pentagon Document Leak: What We Know So Far and the Biggest Takeaways</title>
-<link>https://www.wsj.com/articles/pentagon-leak-classified-intelligence-documents-takeaways-6dd576b8</link>
-<description><![CDATA[Jack Teixeira, an Air National Guardsman, was charged in connection with a leak of purported highly classified documents surrounding the war in Ukraine and other topics.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:27:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000770042</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>National Security</wsj:articletype>
-</item>
-<item>
-<title>Dollar Positioning Turns to Underweight in April: BofA Survey</title>
-<link>https://www.wsj.com/articles/asian-currencies-weaken-amid-ongoing-fed-rate-increase-bets-603901d2</link>
-<description><![CDATA[Investor positioning in the dollar switched to underweight in April after a brief and reluctant move higher last month, according to Bank of America’s latest foreign exchange and rates survey. The dollar, however, was broadly higher on the session.]]></description>
-<content:encoded/>
-<pubDate>Mon, 17 Apr 2023 10:21:00 -0400</pubDate>
-<guid isPermaLink="false">WP-WSJ-0000789901</guid>
-<category domain="AccessClassName">PAID</category>
-<wsj:articletype>NewsPlus</wsj:articletype>
 </item>
 </channel>
 </rss>

@@ -17,7 +17,7 @@ const getArchiveItem = async () => {
 }
 
 export const load = async () => ({
-	song: await getArchiveItem()
+	songs: [await getArchiveItem()]
 });
 
 export const prerender = true;
