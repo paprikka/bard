@@ -54,7 +54,7 @@ const getNewsToday = async (): Promise<{feedItems: FeedItem[]}> => {
   return  {feedItems}
 };
 
-const getNewsMedieval = async (author: EditorialTeamMember, news: typeof newsToday['feedItems'] ) => {
+const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[] ) => {
     const apiKey = process.env.OPENAI_API_KEY
     const prompt = makePrompt(author, news)
     const result = await fetch("https://api.openai.com/v1/chat/completions", {
