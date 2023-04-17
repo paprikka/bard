@@ -1,0 +1,73 @@
+//You're a JS developer. Implement a typescript function which follows the spec below. It's  a type of a tokenizer.
+
+import type { ArchiveItem } from "../data/update-local-news";
+
+type SimpleSegment = {
+    type: 'token',
+    value: string
+}
+
+type LinkSegment = {
+    type: 'link',
+    value: SimpleSegment[],
+    link: string
+}
+
+type Segment = SimpleSegment | LinkSegment;
+// contains the word to higlight and a link
+export type LinkItem = { word: string, link: string };
+
+const toSegments = (multilineText: string, dict: (LinkItem | null)[]): Segment[][] => {
+    // Create a dictionary for quick lookups
+    const linkDict: { [word: string]: string } = dict.reduce((acc, curr) => {
+        if(!curr) return acc;
+        acc[curr.word] = curr.link;
+        return acc;
+    }, {} as { [word: string]: string });
+
+    // Split text by lines
+    const lines = multilineText.split('\n');
+    const wordToToken = (word: string): SimpleSegment[] => word.split('').map(char => ({
+        type: 'token',
+        value: char
+    }))
+
+    // Process each line
+    return lines.map(line => {
+        const segments: Segment[] = [];
+        const words = line.split(/\s+/);
+        words.forEach((word, index) => {
+            if (linkDict[word]) {
+                // Create a LinkSegment with SimpleSegments for each character
+                segments.push({
+                    type: 'link',
+                    value: wordToToken(word),
+                    link: linkDict[word]
+                });
+            } else {
+                // Create SimpleSegments for each character
+                word.split('').forEach(char => {
+                    segments.push({
+                        type: 'token',
+                        value: char
+                    });
+                });
+            }
+
+            // Handle whitespace
+            if (index < words.length - 1) {
+                segments.push({
+                    type: 'token',
+                    value: ' '
+                });
+            }
+        });
+        return segments;
+    });
+};
+
+export const songToSegments = (song: ArchiveItem, dict: (LinkItem | null)[]): Segment[][][] => {
+    const result = song.newsMedieval.split('\n\n').map(paragraph => toSegments(paragraph, dict))
+ 
+    return result
+}

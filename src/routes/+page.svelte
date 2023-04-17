@@ -1,55 +1,39 @@
 <script lang="ts">
 	import Superpope from '../components/superpope.svelte';
 	import type { ArchiveItem } from '../data/update-local-news';
+	import { songToSegments, type LinkItem } from './song-to-segments';
 
 	export let data = {
 		songs: []
 	};
-	type SimpleSegment = {
-		type: 'token',
-		value: string
-	}
-	
-	type WrappedSegment = {
-		type: 'segment',
-		value: WrappedSegment[],
-		wrapper: (segments: WrappedSegment[]) => SimpleSegment[],
-	}
-
-	type Segment = SimpleSegment | WrappedSegment;
 
 	const getSongAsSegments = (song: ArchiveItem) => {
-		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback to ensure we fit on the screen
-		const segments = stanzas.map(
-			(stanza) => stanza.split('\n')
-			.map(
-				(line) => line.split('').map(char => ({
-					type: 'token',
-					value: char
-				}))
-			)
-		)
-
-		const highlights = stanzas.map((stanza) => {
+		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback to
+		console.log(song.feedItemsParsed.map((item) => item.title));
+		const highlightsDict: (LinkItem | null)[] = stanzas.map((stanza, index) => {
 			// using a regular expression find all words with more than 4 characters, excluding punctuation and newlines
 			const longerWords = stanza.match(/\w{4,}/g);
-			console.log({ longerWords });
+			console.log({ longerWords: longerWords?.join(', ') });
+
 			if (!(longerWords && longerWords.length)) return null;
 
 			const randomLongerWord = longerWords[Math.floor(Math.random() * longerWords.length)];
 
-			return {
-				word: randomLongerWord,
-				index: stanza.indexOf(randomLongerWord)
-			};
-			// replace the first instance of randomLongerWord in stanza with %% randomLongerWord %%
-			const highlightedStanza = stanza.replace(
-				randomLongerWord,
-				`%${randomLongerWord.length}%${randomLongerWord}`
-			);
+			if (!song?.feedItemsParsed) return null;
+			const link = song.feedItemsParsed.at(index)?.link;
+			if (!link) return null;
 
-			console.log({ longerWords, randomLongerWord, highlightedStanza });
+			const linkItem: LinkItem = {
+				word: randomLongerWord,
+				link // 👆 what the fuck?
+			};
+			console.log({ linkItem });
+			return linkItem;
 		});
+
+		console.log({highlightsDict})
+
+		const segments = songToSegments(song, highlightsDict);
 
 		return segments;
 	};
@@ -65,6 +49,18 @@
 				{#each line as char, charIndex}
 					{#if charIndex === 0 && lineIndex === 0 && stanzaIndex === 0}
 						<span>{char.value}</span>
+					{:else if char.type === 'link'}
+						<a href={char.link} target="_blank" >
+							{#each char.value as linkChar}
+							<span
+							style="
+							display: inline-block;
+							transform: translateY({1 - 0.05 * Math.random() * 0.5}em);
+							color: hsl({Math.random() * 40 - 20}deg 96.57% 34.31%);
+							opacity: {0.9 - Math.random() * 0.2};
+						">{linkChar.value}</span>
+						{/each}
+						</a>
 					{:else}
 						<span
 							style="
@@ -72,8 +68,7 @@
 							transform: translateY({1 - 0.05 * Math.random() * 0.5}em);
 							color: hsl({Math.random() * 40 - 20}deg 60% 13.73%);
 							opacity: {0.9 - Math.random() * 0.2};
-						">{char.value}</span
-						>
+						">{char.value}</span>
 					{/if}
 				{/each}
 				<br />
@@ -126,7 +121,7 @@
 
 	:global(body) {
 		font-size: var(--font-size-m);
-		/* background: url('/background.jpg') repeat center center fixed; */
+		background: url('/background.jpg') repeat center center fixed;
 		background-color: #f9d395;
 		background-size: 60%;
 	}
@@ -183,6 +178,13 @@
 	.stanza:last-of-type {
 		margin-bottom: 2rem;
 	}
+
+	.stanza a {
+		display: inline-block;
+	}
+
+	/* .stanza a:hover{
+	} */
 
 	.author {
 		margin-top: 3rem;
