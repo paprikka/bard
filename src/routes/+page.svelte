@@ -1,27 +1,70 @@
 <script lang="ts">
-	import Superpope from "../components/superpope.svelte";
+	import Superpope from '../components/superpope.svelte';
+	import type { ArchiveItem } from '../data/update-local-news';
 
 	export let data = {
 		songs: []
 	};
+	type SimpleSegment = {
+		type: 'token',
+		value: string
+	}
+	
+	type WrappedSegment = {
+		type: 'segment',
+		value: WrappedSegment[],
+		wrapper: (segments: WrappedSegment[]) => SimpleSegment[],
+	}
+
+	type Segment = SimpleSegment | WrappedSegment;
+
+	const getSongAsSegments = (song: ArchiveItem) => {
+		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback to ensure we fit on the screen
+		const segments = stanzas.map(
+			(stanza) => stanza.split('\n')
+			.map(
+				(line) => line.split('').map(char => ({
+					type: 'token',
+					value: char
+				}))
+			)
+		)
+
+		const highlights = stanzas.map((stanza) => {
+			// using a regular expression find all words with more than 4 characters, excluding punctuation and newlines
+			const longerWords = stanza.match(/\w{4,}/g);
+			console.log({ longerWords });
+			if (!(longerWords && longerWords.length)) return null;
+
+			const randomLongerWord = longerWords[Math.floor(Math.random() * longerWords.length)];
+
+			return {
+				word: randomLongerWord,
+				index: stanza.indexOf(randomLongerWord)
+			};
+			// replace the first instance of randomLongerWord in stanza with %% randomLongerWord %%
+			const highlightedStanza = stanza.replace(
+				randomLongerWord,
+				`%${randomLongerWord.length}%${randomLongerWord}`
+			);
+
+			console.log({ longerWords, randomLongerWord, highlightedStanza });
+		});
+
+		return segments;
+	};
 
 	$: song = data.songs[0];
-	$: formattedNews = !song
-		? []
-		: [...data.songs[0].newsMedieval.split('\n\n')]
-				.slice(0, 5)
-				.map(
-					(stanza: string) => stanza.split('\n')
-						.map((line) => line.trim().split('')));
+	$: formattedNews = !song ? [] : getSongAsSegments(data.songs[0]);
 </script>
 
 <article>
-	{#each formattedNews as paragraph, paragraphIndex}
+	{#each formattedNews as stanza, stanzaIndex}
 		<p class="stanza">
-			{#each paragraph as line, lineIndex}
+			{#each stanza as line, lineIndex}
 				{#each line as char, charIndex}
-					{#if charIndex === 0 && lineIndex === 0 && paragraphIndex === 0}
-						<span> {char} </span>
+					{#if charIndex === 0 && lineIndex === 0 && stanzaIndex === 0}
+						<span>{char.value}</span>
 					{:else}
 						<span
 							style="
@@ -29,10 +72,8 @@
 							transform: translateY({1 - 0.05 * Math.random() * 0.5}em);
 							color: hsl({Math.random() * 40 - 20}deg 60% 13.73%);
 							opacity: {0.9 - Math.random() * 0.2};
-						"
+						">{char.value}</span
 						>
-							{char}
-						</span>
 					{/if}
 				{/each}
 				<br />
@@ -47,6 +88,7 @@
 
 <div class="overlay" />
 <Superpope />
+
 <style>
 	@font-face {
 		font-family: 'font-default';
@@ -112,10 +154,9 @@
 
 	@media all and (max-width: 400px) {
 		article {
-			padding: 1rem 2rem 2rem;	
+			padding: 1rem 2rem 2rem;
 		}
 	}
-
 
 	article p:first-child {
 		margin-top: 0;
@@ -125,7 +166,7 @@
 		font-family: var(--font-family-drop-caps);
 		font-size: 2.85em;
 		scale: 1.15;
-		translate: 0.12em .42em;
+		translate: 0.12em 0.42em;
 		float: left;
 		line-height: 1;
 		color: #ac0303;
@@ -148,7 +189,7 @@
 		text-align: right;
 		font-size: var(--font-size-s);
 		max-width: 30rem;
-		opacity: .5;
+		opacity: 0.5;
 	}
 
 	.centaur {
