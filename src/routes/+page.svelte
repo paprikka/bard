@@ -1,4 +1,6 @@
 <script lang="ts">
+	import Superpope from "../components/superpope.svelte";
+
 	export let data;
 
 	$: formattedNews = !data?.song?.newsMedieval
@@ -41,7 +43,7 @@
 >
 
 <div class="overlay" />
-
+<Superpope />
 <style>
 	@font-face {
 		font-family: 'font-default';
@@ -74,6 +76,7 @@
 	:global(html, body) {
 		margin: 0;
 		padding: 0;
+		cursor: url('/cursor.png') 0 0, auto;
 	}
 
 	:global(body) {
