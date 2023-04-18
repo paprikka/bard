@@ -1,4 +1,11 @@
 <slot />
+<nav>
+	<ul>
+		<li><a href="/">Today</a></li>
+		<li><a href="/archive">Archive</a></li>
+		<li><a href="https://sonnet.io/posts/reactive-hole/">Why?</a></li>
+	</ul>
+</nav>
 <svelte:head>
 	<title>Bard: Spicy Medieval News</title>
 </svelte:head>
@@ -43,5 +50,36 @@
 		background: url('/background.jpg') repeat center center fixed;
 		background-color: #f9d395;
 		background-size: 60%;
+	}
+
+	nav {
+		position: absolute;
+		left: 5rem;
+		bottom: 5rem;
+
+		font-family: var(--font-family);
+		font-size: var(--font-size-m);
+	}
+
+	nav ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		gap: 1em;
+	}
+	nav li {
+		display: inline-block;
+	}
+	nav a {
+		color: #ac0303;
+		text-decoration: none;
+		opacity: 0.6;
+		transition: opacity 0.2s;
+	}
+
+	nav a:hover {
+		text-decoration: underline;
+		opacity: 1;
 	}
 </style>
