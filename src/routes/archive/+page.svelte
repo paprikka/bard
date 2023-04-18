@@ -34,6 +34,12 @@
 		overflow: hidden;
 	}
 
+	@media all and (max-width: 400px) {
+		article {
+			padding: 2rem;
+		}
+	}
+
 	a {
 		color: #ac0303;
 		text-decoration: none;
@@ -51,5 +57,15 @@
 
 	.author {
 		font-size: var(--font-size-s);
+	}
+
+	@media all and (max-width: 400px) {
+		.author {
+			display: block;
+		}
+
+		li {
+			margin-bottom: 1em;
+		}
 	}
 </style>

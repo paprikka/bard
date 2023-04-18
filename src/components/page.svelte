@@ -61,8 +61,9 @@
 <a class="centaur" href="https://sonnet.io/">
 	<img src="/centaur.png" alt="a centaur" />
 </a>
-<div class="overlay" />
-<Superpope />
+<div class="overlay">
+	<Superpope />
+</div>
 
 <style>
 	.overlay {
@@ -92,7 +93,7 @@
 
 	@media all and (max-width: 400px) {
 		article {
-			padding: 2rem;
+			padding: 2rem; /* TODO: use variables instead */
 		}
 	}
 

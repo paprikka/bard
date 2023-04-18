@@ -61,6 +61,13 @@
 		font-size: var(--font-size-m);
 	}
 
+	/*TODO: use variables */
+	@media all and (max-width: 400px) {
+		nav {
+			left: 2rem;
+			bottom: 2rem;
+		}
+	}
 	nav ul {
 		list-style: none;
 		margin: 0;
