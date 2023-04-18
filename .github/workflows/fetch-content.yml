@@ -8,6 +8,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Build and Test
+      - name: Get new content
         run: |
-          echo "fetching content..."
+          npm i
+          npm run archive:update
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Rafal Pastuszak'
+          git config --global user.email 'paprikka@users.noreply.github.com'
+          git commit -am "chore(content): $(date +'%d-%m-%Y')"
+          git push
