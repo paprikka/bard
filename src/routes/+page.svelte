@@ -3,12 +3,21 @@
 	import Superpope from '../components/superpope.svelte';
 	import type { ArchiveItem } from '../data/update-local-news';
 	import { songToSegments, type LinkItem } from './song-to-segments';
+	const {floor } = Math
 
 	export let data = {
 		songs: []
 	};
 
+	const randomWithSeed = (seed: number) => {
+		let x = Math.sin(seed) * 10000;
+		return x - floor(x);
+	};
+
 	const getSongAsSegments = (song: ArchiveItem) => {
+		const dayAsMilliSeconds = 1000 * 60 * 60 * 24;
+		const seed = floor(Date.now() / dayAsMilliSeconds) * dayAsMilliSeconds;
+
 		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback to
 		const highlightsDict: (LinkItem | null)[] = stanzas.map((stanza, index) => {
 			// using a regular expression find all words with more than 4 characters, excluding punctuation and newlines
@@ -16,7 +25,7 @@
 
 			if (!(longerWords && longerWords.length)) return null;
 
-			const randomLongerWord = longerWords[Math.floor(Math.random() * longerWords.length)];
+			const randomLongerWord = longerWords[floor(randomWithSeed(seed) * longerWords.length)];
 
 			if (!song?.feedItemsParsed) return null;
 			const link = song.feedItemsParsed.at(index)?.link;
@@ -51,10 +60,10 @@
 	{/each}
 	<p class="author">{song.author.name}, {song.author.description}</p>
 </article>
-<a class="centaur" href="https://sonnet.io/"
-	><img src="/centaur.png" alt="a centaur" /></a
->
 
+<a class="centaur" href="https://sonnet.io/">
+	<img src="/centaur.png" alt="a centaur" />
+</a>
 <div class="overlay" />
 <Superpope />
 
@@ -73,7 +82,7 @@
 		font-style: normal;
 	}
 
-	:root {
+	:global(:root) {
 		--font-family: 'font-default', serif;
 		--font-family-drop-caps: 'font-drop-caps', serif;
 
@@ -110,7 +119,7 @@
 	}
 
 	article {
-		padding: 4rem 5rem 5rem;
+		padding: 5rem;
 		line-height: 1;
 		position: relative;
 
@@ -127,7 +136,7 @@
 
 	@media all and (max-width: 400px) {
 		article {
-			padding: 1rem 2rem 2rem;
+			padding: 2rem;
 		}
 	}
 
@@ -163,6 +172,15 @@
 		right: 2rem;
 		width: 10vw;
 		vertical-align: bottom;
+		transition: scale .2s;
+	}
+
+	.centaur:hover {
+		scale: 1.05;
+	}
+
+	.centaur:active {
+		scale: 1;
 	}
 
 	@media all and (max-width: 400px) {
