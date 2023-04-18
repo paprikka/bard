@@ -12,8 +12,8 @@ const getDayOfYear = (date: Date) => {
 	return dayOfYear;
 };
 
-const getBard = () => {
-	return editorialTeam[getDayOfYear(new Date()) % editorialTeam.length];
+const getBard = (offset: number) => {
+	return editorialTeam[(getDayOfYear(new Date()) + offset) % editorialTeam.length];
 };
 
 const makePrompt = (
@@ -71,7 +71,9 @@ const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[]) =>
 		author,
 		news.map(({ title, description }) => ({ title, description }))
 	);
+	
 	console.log('Prompt:', prompt);
+	
 	const result = await fetch('https://api.openai.com/v1/chat/completions', {
 		method: 'POST',
 		headers: {
@@ -90,26 +92,43 @@ const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[]) =>
 export type ArchiveItem = {
 	author: EditorialTeamMember;
 	newsMedieval: string;
-	feedItemsParsed: FeedItem[];
+	feedItems: FeedItem[];
 };
 
-const getSong = async () => {
-	const author = getBard();
-	const newsToday = await getNewsToday();
-
-	await persistFeed(newsToday.feedString);
-
-	const feedItemsParsed = newsToday.feedItems.slice(0, 3);
-	const newsMedieval = await getNewsMedieval(author, feedItemsParsed);
+const getArchiveItem = async (author: EditorialTeamMember, feedItems: FeedItem[]) => {
+	const newsMedieval = await getNewsMedieval(author, feedItems);
 
 	console.log('===========================');
 	console.log('Medieval:', newsMedieval);
 	console.log('===========================');
-	console.log('Modern:', newsToday.feedItems.map((_) => _.title).join('\n'));
+	console.log('Modern:', feedItems.map((_) => _.title).join('\n'));
 	console.log('===========================');
 
-	return { author, newsMedieval, feedItemsParsed };
+	return { author, newsMedieval, feedItems };
 };
+
+
+const getArchiveItems = async () => {
+	const newsToday = await getNewsToday();
+	await persistFeed(newsToday.feedString);
+
+	const newsItemsGrouped = newsToday.feedItems.reduce((acc, item) => {
+		const last = acc.at(-1)
+		if(last?.length === 3) return [...acc, [item]];
+
+		const head = acc.slice(0, -1);
+		const tail = [...last || [], item];
+		// console.log({head, tail})
+		return [...head, tail];
+	}, [[]] as FeedItem[][]);
+
+
+	const promises = newsItemsGrouped
+		.slice(0, 3) // keep low before the release
+		.map((newsItems, ind) => getArchiveItem(getBard(ind), newsItems));
+
+	return Promise.all(promises)
+}
 
 const dateToDDMMYYYY = (date: Date) => {
 	const day = date.getDate();
@@ -143,7 +162,7 @@ const persistArchive = async (content: string) => {
 export const updateLocalNews = () => {
 	console.log('Fetching news...');
 
-	return getSong()
+	return getArchiveItems()
 		.then((song) => JSON.stringify(song, null, 2))
 		.then(persistArchive);
 };

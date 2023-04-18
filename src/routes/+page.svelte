@@ -18,17 +18,18 @@
 		const dayAsMilliSeconds = 1000 * 60 * 60 * 24;
 		const seed = floor(Date.now() / dayAsMilliSeconds) * dayAsMilliSeconds;
 
-		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback to
+		const stanzas = song.newsMedieval.split('\n\n').slice(0, 5); // fallback in case GPT misbehaves
 		const highlightsDict: (LinkItem | null)[] = stanzas.map((stanza, index) => {
 			// using a regular expression find all words with more than 4 characters, excluding punctuation and newlines
 			const longerWords = stanza.match(/\w{4,}/g);
-
+			
 			if (!(longerWords && longerWords.length)) return null;
-
+			
 			const randomLongerWord = longerWords[floor(randomWithSeed(seed) * longerWords.length)];
-
-			if (!song?.feedItemsParsed) return null;
-			const link = song.feedItemsParsed.at(index)?.link;
+			
+			console.log({longerWords, randomLongerWord, song})
+			if (!song?.feedItems) return null;
+			const link = song.feedItems.at(index)?.link;
 			if (!link) return null;
 
 			const linkItem: LinkItem = {
@@ -37,14 +38,13 @@
 			};
 			return linkItem;
 		});
-
 		
 		const segments = songToSegments(song, highlightsDict);
 		return segments;
 	};
 
 	$: song = data.songs[0];
-	$: formattedNews = !song ? [] : getSongAsSegments(data.songs[0]);
+	$: formattedNews = !song ? [] : getSongAsSegments(song);
 </script>
 
 <article>

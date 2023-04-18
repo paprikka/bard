@@ -3,7 +3,7 @@ import { getArchiveItemPath, type ArchiveItem } from "../data/update-local-news"
 
 import { readFile } from "fs/promises";
 
-const getArchiveItem = async () => {
+const getPersistedArchiveItems = async () => {
   
   const now = new Date();
   const path = getArchiveItemPath(now);
@@ -12,12 +12,12 @@ const getArchiveItem = async () => {
   const archiveItem = await readFile(path, 'utf8')
     .then((content) => JSON.parse(content))
 
-  return archiveItem as ArchiveItem;
+  return archiveItem as ArchiveItem[];
 
 }
 
 export const load = async () => ({
-	songs: [await getArchiveItem()]
+	songs: await getPersistedArchiveItems()
 });
 
 export const prerender = true;

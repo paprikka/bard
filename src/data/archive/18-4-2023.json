@@ -1,27 +1,83 @@
-{
-  "author": {
-    "name": "Æthelred the Skald",
-    "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "Lo! Hear the troubling tale I tell,\nOf Southwest Airlines and their fell:\nTheir flights did cease o’er land and wave,\nFor issues intermittent, grave.\n\nTo Anatolia's realm, we sail,\nWhere negligence brought doom and wail,\nIn Earthquake's wake, with harm profound,\nErdogan's rule did aid the ground.\n\nNow heed, O chiefs, whose coffers keep,\nFor AI comes, to stir thy sleep,\nThe Finance Function, soon to change,\nThy risk-averse hearts must rearrange.",
+    "feedItems": [
+      {
+        "title": "Southwest Airlines Halts Flights, FAA Says",
+        "description": "Airline implements ground stop, citing ‘intermittent issues.’",
+        "link": "https://www.wsj.com/articles/southwest-airlines-halts-flights-faa-says-30f72bf8",
+        "id": "WP-WSJ-0000795231"
+      },
+      {
+        "title": "Decades of Negligence and Mismanagement Made Turkey's Earthquake Deadlier",
+        "description": "A comprehensive review shows that widespread problems in the country’s construction boom under the Erdogan government added to the devastating toll.",
+        "link": "https://www.wsj.com/articles/turkey-earthquake-construction-death-toll-9193952c",
+        "id": "WP-WSJ-0000791105"
+      },
+      {
+        "title": "AI Is Heading to the Finance Function. Here's How Risk-Averse CFOs Can Adapt.",
+        "description": "Nascent technologies promise to disrupt budgeting and forecasting and automate mundane accounting duties, but inertia among finance chiefs may slow adoption.",
+        "link": "https://www.wsj.com/articles/ai-is-heading-to-the-finance-function-heres-how-risk-averse-cfos-can-adapt-4249fce1",
+        "id": "WP-WSJ-0000792189"
+      }
+    ]
   },
-  "newsMedieval": "In the halls of justice, Russians weigh,\nThe fate of a scribe who strays from lay,\nA hearing held, decisions await,\nFor Gershkovich, future meets debate.\n\nA lender falls, the Reaper's scythe swings,\nReverse-mortgages' sorrows it brings,\nRising rates claim another's demise,\nBankrupt truths hidden 'neath twisted lies.\n\nBut to lands of credit and equity,\nInvestors gather, hearts light and free,\nOdin shines on BlackRock's stoic halls,\nAs wealth accrues and fortune enthralls.",
-  "feedItemsParsed": [
-    {
-      "title": "WSJ Reporter Appears in Russian Court for Detention Appeal Hearing",
-      "description": "The court could uphold pretrial detention, order Evan Gershkovich moved to another jail, allow him house arrest or grant him bail.",
-      "link": "https://www.wsj.com/articles/moscow-court-to-hear-appeal-on-detention-of-jailed-wsj-reporter-evan-gershkovich-9c464c6c",
-      "id": "WP-WSJ-0000791958"
+  {
+    "author": {
+      "name": "Conchobar mac Nessa",
+      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
     },
-    {
-      "title": "Rising Rates Brought Down Reverse-Mortgage Lender",
-      "description": "A government-backed reverse-mortgage program intended to help seniors tap their home equity ran into problems as interest rates rose, pushing one of the largest participating lenders into bankruptcy last fall, recent court documents show.",
-      "link": "https://www.wsj.com/articles/rising-interest-rates-brought-down-reverse-mortgage-lender-99207358",
-      "id": "WP-WSJ-0000790884"
+    "newsMedieval": "In lands afar of sun and sea,\nA tale I weave of St. Barts' spree,\nA sum so vast, a price untold,\nFor acres fair and waters bold.\n\nOnce graced by Rockefeller's hand,\nNow claiméd by another's brand,\nA fortune paid beyond compare,\nA record sum for island fair.\n\nIn Amazon, a beast doth slow,\nYet landlord's gold doth never woe,\nFor Prologis sees rents increase,\nAs online wealth doth ne'er cease.\n\nNow turn our eyes to banks afar,\nTheir struggles marked, like many a scar,\nThe vault doth creak in weary state,\nAs first-quarter earnings bear the weight.",
+    "feedItems": [
+      {
+        "title": "St. Barts Estate Sells for About $136 Million, a Record for the Caribbean Island",
+        "description": "The roughly 130-acre waterfront property was once owned by David Rockefeller, who used it as a vacation home",
+        "link": "https://www.wsj.com/articles/st-barts-estate-sells-for-about-136-million-a-record-for-the-caribbean-island-fdb1762c",
+        "id": "WP-WSJ-0000792751"
+      },
+      {
+        "title": "Amazon's Slowdown Has Yet to Pinch Its Landlord",
+        "description": "Warehouse giant Prologis said rents continued to rise in the first quarter, as U.S. consumers keep spending money online.",
+        "link": "https://www.wsj.com/articles/amazons-slowdown-has-yet-to-pinch-its-landlord-dc9f8cc8",
+        "id": "WP-WSJ-0000794959"
+      },
+      {
+        "title": "Track How U.S. Banks Are Faring in First-Quarter Earnings",
+        "description": "The industry is under stress it hasn’t seen in years. The Wall Street Journal breaks down the reports to give you a glimpse into the vault.",
+        "link": "https://www.wsj.com/articles/track-how-u-s-banks-are-faring-in-first-quarter-earnings-beaff0cc",
+        "id": "WP-WSJ-0000768491"
+      }
+    ]
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
     },
-    {
-      "title": "Investors Stay Upbeat on Private Equity, Credit",
-      "description": "A BlackRock institutional investor survey shows most intend to put more money into the asset classes this year.",
-      "link": "https://www.wsj.com/articles/investors-stay-upbeat-on-private-equity-credit-76ff51ea",
-      "id": "WP-WSJ-0000792842"
-    }
-  ]
-}
+    "newsMedieval": "In this season of tax, a marvel dost appear,\nThe hold profound, away with haste doth steer.\nBy four-score less and five, the wait doth ease,\nAnd IRS doth weary minds appease.\n\nO lo! The tide of pestilence doth turn,\nTo single dose, our gaze for hope discern.\nOmicron-targeting, the shot we trust,\nIn high-risk plight, a booster aid robust.\n\nFrom distant North, Canada doth pluck,\nA leviathan of steel, in plight so stuck,\nIn harbored refuge, midst Toronto's thrall,\nA gift of aide, to valiant Ukraine calls.",
+    "feedItems": [
+      {
+        "title": "Tax Day: IRS Left Fewer Taxpayers on Hold This Year",
+        "description": "The average wait time to speak to a representative dropped 85% this tax season, officials said.",
+        "link": "https://www.wsj.com/articles/irs-left-fewer-taxpayers-on-hold-this-year-1b867468",
+        "id": "WP-WSJ-0000793487"
+      },
+      {
+        "title": "Single Dose of Omicron-Targeting Vaccines to Become Main Covid-19 Shot in U.S.",
+        "description": "The FDA also authorized a second Omicron-targeting booster shot for high-risk groups.",
+        "link": "https://www.wsj.com/articles/single-dose-of-omicron-targeting-vaccines-to-become-main-covid-19-shot-in-u-s-143c3ac0",
+        "id": "WP-WSJ-0000792906"
+      },
+      {
+        "title": "Canada Plans to Seize Russian Cargo Plane and Give It to Ukraine",
+        "description": "The Canadian government plans to seize a giant Russian cargo plane that has been stuck in Toronto for more than a year and give it to Ukraine to aid that country’s war efforts, according to Ukraine’s prime minister.",
+        "link": "https://www.wsj.com/articles/canada-plans-to-seize-russian-cargo-plane-and-give-it-to-ukraine-6145d499",
+        "id": "WP-WSJ-0000794885"
+      }
+    ]
+  }
+]
