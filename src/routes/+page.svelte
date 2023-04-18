@@ -49,9 +49,9 @@
 			{/each}
 		</p>
 	{/each}
-	<p class="author">— {song.author.name}, {song.author.description}</p>
+	<p class="author">{song.author.name}, {song.author.description}</p>
 </article>
-<a class="centaur" href="https://www.centaur-warns.com/"
+<a class="centaur" href="https://sonnet.io/"
 	><img src="/centaur.png" alt="a centaur" /></a
 >
 
@@ -141,11 +141,20 @@
 	}
 
 	.author {
-		margin-top: 3rem;
-		text-align: right;
+		margin: 3rem 0 0 0;
+		position: relative;
+		padding-left: 1.25em;
 		font-size: var(--font-size-s);
-		max-width: 30rem;
+		max-width: 20em;
 		opacity: 0.5;
+		position: relative;
+	}
+
+	.author::before {
+		content: '—';
+		position: absolute;
+		left: 0;
+		top: -.1em;
 	}
 
 	.centaur {
