@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Segment } from '../routes/song-to-segments';
+	import type { Segment } from "./song-to-segments";
 	const { random } = Math;
 
 	export let charIndex: number;

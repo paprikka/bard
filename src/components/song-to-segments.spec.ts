@@ -2,6 +2,7 @@ import { expect, it } from 'vitest';
 import { songToSegments } from './song-to-segments';
 import type { ArchiveItem } from '../data/update-local-news';
 
+
 it('should return an empty array', () => {
 	expect(
 		songToSegments(
@@ -10,7 +11,7 @@ it('should return an empty array', () => {
 					description: '',
 					name: ''
 				},
-				feedItemsParsed: [],
+				feedItems: [],
 				newsMedieval: ''
 			},
 			[]
@@ -30,7 +31,7 @@ um dos
 
 xxx yyy
         `.trim(),
-		feedItemsParsed: [
+		feedItems: [
 			{
 				title: 'title 1',
 				link: 'link 1'
@@ -88,7 +89,7 @@ um dos
 
 xxx yyy
         `.trim(),
-		feedItemsParsed: [
+		feedItems: [
 			{
 				title: 'title 1',
 				link: 'link 1'
@@ -165,7 +166,7 @@ um dos
 
 xxx yyy two
         `.trim(),
-		feedItemsParsed: [
+		feedItems: [
 			{
 				title: 'title 1',
 				link: 'link 1'
@@ -246,7 +247,7 @@ um dos
 
 xxx yyy two
         `.trim(),
-		feedItemsParsed: [
+		feedItems: [
 			{
 				title: 'title 1',
 				link: 'link 1'
@@ -318,7 +319,7 @@ um dos
 
 xxx yyy
         `.trim(),
-		feedItemsParsed: [
+		feedItems: [
 			{
 				title: 'title 1',
 				link: 'link 1'
