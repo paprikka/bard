@@ -53,12 +53,13 @@
 	}
 
 	nav {
-		position: absolute;
+		position: fixed;
 		left: 5rem;
 		bottom: 5rem;
 
 		font-family: var(--font-family);
 		font-size: var(--font-size-m);
+		background-color: #f9d39544;
 	}
 
 	/*TODO: use variables */

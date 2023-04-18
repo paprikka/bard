@@ -1,0 +1,83 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "Hearken, ye folk, to the tale of this time,\nOf the Biden kin, who their fair taxes climb!\nWith gold and coin, some one hundred-seventh score,\nIn the year of our Lord, two thousand twenty and four.\n\nOnward I sing, of the Russian might,\nSergei Lavrov, the sage, in Latin lands takes flight;\nTo Brazil he traveled, a tale of war he sought to quell,\nThen to lands of Venezuela, Nicaragua, and Cuba he dwells.\n\nLo and behold, the young vikings strive,\nThe labor market's rough seas, they must contrive;\nFutures uncertain, the land abounds with dread,\nA new generation's saga, for employment to be wed.",
+    "feedItems": [
+      {
+        "title": "Bidens Paid About $170,000 in Taxes for 2022",
+        "description": "The first couple reported $579,514 in adjusted gross income, slightly less than 2021.",
+        "link": "https://www.wsj.com/articles/bidens-paid-about-170-000-in-taxes-for-2022-a5d5813b",
+        "id": "WP-WSJ-0000797244"
+      },
+      {
+        "title": "Russian Foreign Minister Seeks Deeper Ties in Latin America",
+        "description": "In a visit to the region, Sergei Lavrov thanked Brazil for its proposal to end the Ukraine war before flying to Venezuela, Nicaragua and Cuba.",
+        "link": "https://www.wsj.com/articles/russian-foreign-minister-seeks-deeper-ties-in-latin-america-24801709",
+        "id": "WP-WSJ-0000796987"
+      },
+      {
+        "title": "Gen Z Faces a Tough Labor Market",
+        "description": "College students discuss their employment opportunities and job hunting.",
+        "link": "https://www.wsj.com/articles/gen-z-faces-a-tough-labor-market-students-graduates-university-job-unemployment-law-internship-work-experience-8f3135f5",
+        "id": "SB11695864883913753948804589567360461251186"
+      }
+    ]
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Nessa",
+      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+    },
+    "newsMedieval": "Of laws and lawmakers I shall sing,\nIn Erin's land their voices ring,\nFrom China's Xinjiang, import stout,\nAgainst forced labor laws cry out.\n\nA tale of Julie Su I glean,\nAs Biden's Labor nominee keen,\nWith fierce union's interest in heart,\nShe fights for workers, plays her part.\n\nAnd now my song to Trump doth soar,\nWith Disney by his side, he swore,\nAgainst great DeSantis, in the fray,\n'Woke' tempest rises, holds its sway.",
+    "feedItems": [
+      {
+        "title": "Lawmakers Look for Tough Implementation of Forced Labor Law Targeting China",
+        "description": "U.S. lawmakers scrutinized possible loopholes in an anti-forced labor law blocking many imports from China’s Xinjiang region, expressing bipartisan support for cracking down on companies with supply chains stemming from the region.",
+        "link": "https://www.wsj.com/articles/lawmakers-look-for-tough-implementation-of-forced-labor-law-targeting-china-9e9b3e0e",
+        "id": "WP-WSJ-0000796453"
+      },
+      {
+        "title": "A Big Labor Partisan Named Julie Su",
+        "description": "Biden’s Labor nominee puts union interests above workers.",
+        "link": "https://www.wsj.com/articles/julie-su-department-of-labor-nominee-biden-california-ab5-unions-workers-8d3ed6da",
+        "id": "SB11060834557182014156604589554643290157168"
+      },
+      {
+        "title": "Donald Trump Sides With Disney",
+        "description": "The former President goes for woke to trash Ron DeSantis.",
+        "link": "https://www.wsj.com/articles/donald-trump-disney-ron-desantis-florida-bob-iger-20fb5776",
+        "id": "SB10039764738899044154404589568543883800038"
+      }
+    ]
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+    },
+    "newsMedieval": "In Aprile's month of nineteen and twenty-three,\nUnraveling errors, corrections to be,\nA manuscript's tale of veracity free,\nIn the garb of Amplification dons, we see.\n\nNeath Diamond's resplendent field of play,\nFour noble clubs their grievance shalt say,\nThee an unpaid feast dost partake each day,\nAs they cheers and chants, do mask the fray.\n\nSeek I then to tell of auction most flawed,\nFDIC with craft, the fate of the SVB gnawed,\nNonbank bidders' plight a burden unthawed,\nAnd cost to ye commoners' hearts thus clawed.",
+    "feedItems": [
+      {
+        "title": "Corrections & Amplifications",
+        "description": "Corrections & Amplifications for the edition of April 19, 2023.",
+        "link": "https://www.wsj.com/articles/corrections-amplifications-70b8a602",
+        "id": "SB10039764738899044154404589568393455973138"
+      },
+      {
+        "title": "Pro Take: Diamond Sports Should Be Stripped of 'Free Lunch', MLB Clubs Say",
+        "description": "Diamond Sports Group will face off Wednesday with Major League Baseball and four of its teams, which say it has been eating a “free lunch” in chapter 11 by broadcasting games without paying for the exclusive rights.",
+        "link": "https://www.wsj.com/articles/pro-take-diamond-sports-should-be-stripped-of-free-lunch-mlb-clubs-say-b3950ee9",
+        "id": "WP-WSJ-0000797101"
+      },
+      {
+        "title": "How the FDIC Rigged the SVB Auction",
+        "description": "The agency snubbed nonbank bidders, which cost taxpayers more.",
+        "link": "https://www.wsj.com/articles/fdic-nonbanks-silicon-valley-bank-sale-martin-gruenberg-609af47",
+        "id": "SB11217464675432254657604589566313568466626"
+      }
+    ]
+  }
+]

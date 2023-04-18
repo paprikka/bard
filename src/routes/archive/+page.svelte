@@ -29,9 +29,6 @@
 		color: #380e0e;
 		opacity: 0.8;
 		font-family: var(--font-family);
-
-		height: 100vh;
-		overflow: hidden;
 	}
 
 	@media all and (max-width: 400px) {
