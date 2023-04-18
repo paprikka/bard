@@ -1,5 +1,5 @@
 import RSSParser from 'rss-parser';
-import { writeFile } from 'fs/promises';
+import { writeFile, readdir } from 'fs/promises';
 import { editorialTeam, type EditorialTeamMember } from './editorial-team';
 import Path from 'path';
 
@@ -71,9 +71,9 @@ const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[]) =>
 		author,
 		news.map(({ title, description }) => ({ title, description }))
 	);
-	
+
 	console.log('Prompt:', prompt);
-	
+
 	const result = await fetch('https://api.openai.com/v1/chat/completions', {
 		method: 'POST',
 		headers: {
@@ -107,30 +107,31 @@ const getArchiveItem = async (author: EditorialTeamMember, feedItems: FeedItem[]
 	return { author, newsMedieval, feedItems };
 };
 
-
 const getArchiveItems = async () => {
 	const newsToday = await getNewsToday();
 	await persistFeed(newsToday.feedString);
 
-	const newsItemsGrouped = newsToday.feedItems.reduce((acc, item) => {
-		const last = acc.at(-1)
-		if(last?.length === 3) return [...acc, [item]];
+	const newsItemsGrouped = newsToday.feedItems.reduce(
+		(acc, item) => {
+			const last = acc.at(-1);
+			if (last?.length === 3) return [...acc, [item]];
 
-		const head = acc.slice(0, -1);
-		const tail = [...last || [], item];
-		// console.log({head, tail})
-		return [...head, tail];
-	}, [[]] as FeedItem[][]);
-
+			const head = acc.slice(0, -1);
+			const tail = [...(last || []), item];
+			// console.log({head, tail})
+			return [...head, tail];
+		},
+		[[]] as FeedItem[][]
+	);
 
 	const promises = newsItemsGrouped
 		.slice(0, 3) // keep low before the release
 		.map((newsItems, ind) => getArchiveItem(getBard(ind), newsItems));
 
-	return Promise.all(promises)
-}
+	return Promise.all(promises);
+};
 
-const dateToDDMMYYYY = (date: Date) => {
+export const dateToDayID = (date: Date) => {
 	const day = date.getDate();
 	const month = date.getMonth() + 1;
 	const year = date.getFullYear();
@@ -138,12 +139,20 @@ const dateToDDMMYYYY = (date: Date) => {
 	return `${day}-${month}-${year}`;
 };
 
-export const getArchiveItemPath = (date: Date) =>
-	Path.join(process.cwd(), `./src/data/archive/${dateToDDMMYYYY(date)}.json`);
+export const getAllArchiveItemIDs = () => {
+	const path = Path.resolve(process.cwd(), './src/data/archive');
+
+	return readdir(path)
+		.then((files) => files.filter((file) => file.endsWith('.json')))
+		.then((files) => files.map((file) => file.replace('.json', '')));
+};
+
+export const getArchiveItemPath = (dayID: string) =>
+	Path.join(process.cwd(), `./src/data/archive/${dayID}.json`);
 
 const persistFeed = async (content: string) => {
 	const path = Path.resolve(process.cwd(), './src/data/archive');
-	const filename = Path.join(path, `${dateToDDMMYYYY(new Date())}.xml`);
+	const filename = Path.join(path, `${dateToDayID(new Date())}.xml`);
 
 	console.log(`Saving RSS feed to ${filename}...`);
 
@@ -152,7 +161,7 @@ const persistFeed = async (content: string) => {
 
 const persistArchive = async (content: string) => {
 	const path = Path.resolve(process.cwd(), './src/data/archive');
-	const filename = Path.join(path, `${dateToDDMMYYYY(new Date())}.json`);
+	const filename = Path.join(path, `${dateToDayID(new Date())}.json`);
 
 	console.log(`Saving news to ${filename}...`);
 

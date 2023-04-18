@@ -1,27 +1,29 @@
-{
-  "author": {
-    "name": "Brother Arnulfus",
-    "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
-  },
-  "newsMedieval": "In mid-April's time, anon the year twenty-three,\nÆt a board meeting, be wisdom prepare and be,\nLeaky data, danger doth raise, the SEC's decree,\nCyber threats and insurance, now heed we must thee.\n\nA wondrous announcement by Elon Musk hath been made,\nHis AI project, with wisdom to aid and persuade,\nTo fathom the depths of the universe's grand shade,\nIn talk with Fox News, these plans hÆth he laid.\n\nAn ill-spoken Governor from Oklahoma's fair land,\nUrges for resignations, his request shalln't disband,\nFor 'twas heard in dark whispers, for killing they planned,\nOf hapless scribes and lynching, foul deeds in their hand.",
-  "feedItemsParsed": [
-    {
-      "title": "What The Board Needs To Know",
-      "description": "Everything from the week beginning April 17th, 2023 that a corporate board director needs to know ahead of a board meeting. This week, we ask whether board directors are prepared for the prospect of data leaks, plus updates on what directors need to know about the SEC’s expected cyber rules timeline, the potential for further cyber insurance rate rises and more stringent policy requirements, and a new study on the role of the chief executive in managing cyber risks.",
-      "link": "https://www.wsj.com/articles/what-the-board-needs-to-know-6b87f5c0",
-      "id": "WP-WSJ-0000792003"
-    },
-    {
-      "title": "Elon Musk Says His AI Project Will Seek to Understand the Nature of the Universe",
-      "description": "Musk spoke about his AI ambitions in an interview with Fox News Channel’s “Tucker Carlson Tonight,” excerpts show.",
-      "link": "https://www.wsj.com/articles/elon-musk-says-his-ai-project-will-seek-to-understand-the-nature-of-the-universe-a750d792",
-      "id": "WP-WSJ-0000792260"
-    },
-    {
-      "title": "Oklahoma Governor Calls for Resignations After Threatening Audio Surfaces",
-      "description": "McCurtain County officials allegedly discussed killing journalists and lynchings.",
-      "link": "https://www.wsj.com/articles/oklahoma-governor-calls-for-resignations-after-threatening-audio-surfaces-88d6c8b0",
-      "id": "WP-WSJ-0000792209"
-    }
-  ]
-}
+[
+	{
+		"author": {
+			"name": "Brother Arnulfus",
+			"description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+		},
+		"newsMedieval": "In mid-April's time, anon the year twenty-three,\nÆt a board meeting, be wisdom prepare and be,\nLeaky data, danger doth raise, the SEC's decree,\nCyber threats and insurance, now heed we must thee.\n\nA wondrous announcement by Elon Musk hath been made,\nHis AI project, with wisdom to aid and persuade,\nTo fathom the depths of the universe's grand shade,\nIn talk with Fox News, these plans hÆth he laid.\n\nAn ill-spoken Governor from Oklahoma's fair land,\nUrges for resignations, his request shalln't disband,\nFor 'twas heard in dark whispers, for killing they planned,\nOf hapless scribes and lynching, foul deeds in their hand.",
+		"feedItems": [
+			{
+				"title": "What The Board Needs To Know",
+				"description": "Everything from the week beginning April 17th, 2023 that a corporate board director needs to know ahead of a board meeting. This week, we ask whether board directors are prepared for the prospect of data leaks, plus updates on what directors need to know about the SEC’s expected cyber rules timeline, the potential for further cyber insurance rate rises and more stringent policy requirements, and a new study on the role of the chief executive in managing cyber risks.",
+				"link": "https://www.wsj.com/articles/what-the-board-needs-to-know-6b87f5c0",
+				"id": "WP-WSJ-0000792003"
+			},
+			{
+				"title": "Elon Musk Says His AI Project Will Seek to Understand the Nature of the Universe",
+				"description": "Musk spoke about his AI ambitions in an interview with Fox News Channel’s “Tucker Carlson Tonight,” excerpts show.",
+				"link": "https://www.wsj.com/articles/elon-musk-says-his-ai-project-will-seek-to-understand-the-nature-of-the-universe-a750d792",
+				"id": "WP-WSJ-0000792260"
+			},
+			{
+				"title": "Oklahoma Governor Calls for Resignations After Threatening Audio Surfaces",
+				"description": "McCurtain County officials allegedly discussed killing journalists and lynchings.",
+				"link": "https://www.wsj.com/articles/oklahoma-governor-calls-for-resignations-after-threatening-audio-surfaces-88d6c8b0",
+				"id": "WP-WSJ-0000792209"
+			}
+		]
+	}
+]

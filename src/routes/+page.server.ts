@@ -1,18 +1,12 @@
-import { getArchiveItemPath, type ArchiveItem } from '../data/update-local-news';
-import { readFile } from 'fs/promises';
+import { dateToDayID } from '../data/update-local-news';
+import { getPersistedArchiveItems } from './get-persisted-archive-items';
 
-const getPersistedArchiveItems = async () => {
-	const now = new Date();
-	const path = getArchiveItemPath(now);
-	console.log('Getting archive item stored at', path);
-
-	const archiveItem = await readFile(path, 'utf8').then((content) => JSON.parse(content));
-
-	return archiveItem as ArchiveItem[];
+const getTodaysSong = () => {
+	const todayID = dateToDayID(new Date());
+	return getPersistedArchiveItems(todayID).then((items) => items[0]);
 };
-
 export const load = async () => ({
-	song: [...(await getPersistedArchiveItems())][0]
+	song: await getTodaysSong()
 });
 
 export const prerender = true;
