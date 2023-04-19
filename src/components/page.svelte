@@ -3,6 +3,7 @@
 	import Superpope from './superpope.svelte';
 	import { songToSegments, type LinkItem } from './song-to-segments';
 	import type { ArchiveItem } from '../data/update-local-news';
+	import ArticleContainter from './article-containter.svelte';
 	const { floor } = Math;
 
 	export let song: ArchiveItem;
@@ -44,7 +45,7 @@
 	$: formattedNews = getSongAsSegments(song);
 </script>
 
-<article>
+<ArticleContainter faded={false}>
 	{#each formattedNews as stanza, stanzaIndex}
 		<p class="stanza">
 			{#each stanza as line, lineIndex}
@@ -56,7 +57,7 @@
 		</p>
 	{/each}
 	<p class="author">{song.author.name}, {song.author.description}</p>
-</article>
+</ArticleContainter>
 
 <a class="centaur" href="https://sonnet.io/">
 	<img src="/centaur.png" alt="a centaur" />
@@ -73,22 +74,6 @@
 
 		inset: 0;
 		z-index: 1;
-	}
-
-	article {
-		padding: 5rem;
-		line-height: 1;
-		position: relative;
-
-		color: #380e0e;
-		font-family: var(--font-family);
-
-		height: 100vh;
-		overflow: hidden;
-	}
-
-	article p:first-child {
-		margin-top: 0;
 	}
 
 	@media all and (max-width: 400px) {

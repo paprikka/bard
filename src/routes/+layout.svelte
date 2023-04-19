@@ -3,6 +3,7 @@
 	<ul>
 		<li><a href="/">Today</a></li>
 		<li><a href="/archive">Archive</a></li>
+		<li><a href="/team">Team</a></li>
 		<li><a href="https://sonnet.io/posts/reactive-hole/">Why?</a></li>
 	</ul>
 </nav>
@@ -32,6 +33,10 @@
 		--font-size-s: clamp(1rem, 0.3rem + 1vw, 2rem);
 		--font-size-m: clamp(1.25rem, 0.5rem + 2vw, 2rem);
 		--font-size-l: clamp(2.5rem, 2.2993rem + 0.8451vw, 3.25rem);
+
+		--color-text: #380e0e;
+		--color-link: #ac0303;
+		--color-bg: #f9d395;
 	}
 
 	:global(*) {
@@ -48,7 +53,7 @@
 	:global(body) {
 		font-size: var(--font-size-m);
 		background: url('/background.jpg') repeat center center fixed;
-		background-color: #f9d395;
+		background-color: var(--color-bg);
 		background-size: 60%;
 	}
 
@@ -59,7 +64,6 @@
 
 		font-family: var(--font-family);
 		font-size: var(--font-size-m);
-		background-color: #f9d39544;
 	}
 
 	/*TODO: use variables */

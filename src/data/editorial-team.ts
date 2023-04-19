@@ -1,29 +1,34 @@
 export type EditorialTeamMember = {
-    name: string,
-    description: string
-}
+	id: string;
+	name: string;
+	description: string;
+};
 
 export const editorialTeam: EditorialTeamMember[] = [
 	{
 		name: 'Æthelred the Skald',
+		id: 'aethelred',
 		description:
 			'A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess.'
 	},
 	{
 		name: 'Conchobar mac Nessa',
+		id: 'conchobar',
 		description:
 			'An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history.'
 	},
 	{
 		name: 'Guillemette de Ventadour',
+		id: 'guillemette',
 		description:
 			'A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice.'
 	},
 	{
 		name: 'Brother Arnulfus',
+		id: 'arnulfus',
 		description:
 			'A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale.'
-	},
+	}
 	// {
 	// 	name: 'Fatima al-Zahra',
 	// 	description:

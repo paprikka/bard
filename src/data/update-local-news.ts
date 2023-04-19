@@ -91,11 +91,16 @@ const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[]) =>
 
 export type ArchiveItem = {
 	author: EditorialTeamMember;
+	date: string;
 	newsMedieval: string;
 	feedItems: FeedItem[];
 };
 
-const getArchiveItem = async (author: EditorialTeamMember, feedItems: FeedItem[]) => {
+const getArchiveItem = async (
+	author: EditorialTeamMember,
+	feedItems: FeedItem[],
+	dayID: string
+): Promise<ArchiveItem> => {
 	const newsMedieval = await getNewsMedieval(author, feedItems);
 
 	console.log('===========================');
@@ -104,10 +109,11 @@ const getArchiveItem = async (author: EditorialTeamMember, feedItems: FeedItem[]
 	console.log('Modern:', feedItems.map((_) => _.title).join('\n'));
 	console.log('===========================');
 
-	return { author, newsMedieval, feedItems };
+	return { author, newsMedieval, feedItems, date: dayID };
 };
 
-const getArchiveItems = async () => {
+const getArchiveItems = async (date: Date) => {
+	const dayID = dateToDayID(date);
 	const newsToday = await getNewsToday();
 	await persistFeed(newsToday.feedString);
 
@@ -126,17 +132,17 @@ const getArchiveItems = async () => {
 
 	const promises = newsItemsGrouped
 		.slice(0, 3) // keep low before the release
-		.map((newsItems, ind) => getArchiveItem(getBard(ind), newsItems));
+		.map((newsItems, ind) => getArchiveItem(getBard(ind), newsItems, dayID));
 
 	return Promise.all(promises);
 };
 
 export const dateToDayID = (date: Date) => {
-	const day = date.getDate();
-	const month = date.getMonth() + 1;
+	const day = date.getDate().toString().padStart(2, '0');
+	const month = (date.getMonth() + 1).toString().padStart(2, '0');
 	const year = date.getFullYear();
 
-	return `${day}-${month}-${year}`;
+	return `${year}-${month}-${day}`;
 };
 
 export const getAllArchiveItemIDs = () => {
@@ -171,7 +177,7 @@ const persistArchive = async (content: string) => {
 export const updateLocalNews = () => {
 	console.log('Fetching news...');
 
-	return getArchiveItems()
+	return getArchiveItems(new Date())
 		.then((song) => JSON.stringify(song, null, 2))
 		.then(persistArchive);
 };

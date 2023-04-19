@@ -9,12 +9,13 @@
 
 <ArticleContainter>
 	<h2>Archive</h2>
-	{#each data.allPosts as post}
-		<h2>{post.dayID}</h2>
+	{#each data.allPostsByAuthorID as post}
+		<h2>{post.author.name}</h2>
+		<p>{post.author.description}</p>
 		<ul>
 			{#each post.songs as song, i}
 				<li>
-					<a href="/{post.dayID}/{i}">{song.newsMedieval.split('\n')[0]}</a>
+					<a href="/{song.date}/{i}">{song.newsMedieval.split('\n')[0]}</a>
 					<span class="author">by {song.author.name}</span>
 				</li>
 			{/each}
