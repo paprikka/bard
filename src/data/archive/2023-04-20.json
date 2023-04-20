@@ -1,0 +1,89 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+    },
+    "newsMedieval": "In market's realm, with sundry goods so fair,\nA noble merchant, Whole Foods by name,\nDoth choose to carve away its corporate frame,\nAnd simplify, their burden thus laid bare.\n\nIn halls of justice, whence the gavel rings,\nLord Justice Roberts summoned to attest,\nTo scrutinize the standards of the best,\nAnd weigh the fate, in tales of ethics' wings.\n\nOn Friday next, a dance of words shall play,\nA crossword's jest, 'neath Sol's departing gleam,\nNo story told, yet riddles intertwined,\nWe gather close, as darkness seizèd day.",
+    "feedItems": [
+      {
+        "title": "Whole Foods Plans Corporate Job Cuts, Shuffles Structure",
+        "description": "Whole Foods Market is planning to cut several hundred corporate jobs, the company said, as the grocer reorganizes its structure to simplify operations.",
+        "link": "https://www.wsj.com/articles/whole-foods-plans-corporate-job-cuts-shuffles-structure-69171cc0",
+        "id": "WP-WSJ-0000805047"
+      },
+      {
+        "title": "Chief Justice John Roberts Asked to Address 'Ethical Standards' at Supreme Court",
+        "description": "Senate Judiciary Committee chairman Dick Durbin says court should adopt code of conduct; Republicans are skeptical about a public hearing.",
+        "link": "https://www.wsj.com/articles/chief-justice-john-roberts-asked-to-address-ethical-standards-at-supreme-court-4f274fc9",
+        "id": "WP-WSJ-0000805022"
+      },
+      {
+        "title": "We Were Just Leaving (Friday Crossword, April 21)",
+        "description": "",
+        "link": "https://www.wsj.com/articles/we-were-just-leaving-friday-crossword-april-21-561737b7",
+        "id": "WP-WSJ-0000801374"
+      }
+    ],
+    "date": "2023-04-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+    },
+    "newsMedieval": "Of Starship grand and hopes that soar,\nTo heav'ns high vaults ambition flies,\nYet, in a flash, now lies forlore,\nAs rocket's fire doth meet demise.\n\nWith tears they weep, DVD devotees,\nAs Netflix sends its final fare,\nThe streaming age doth sweep with ease,\nOld disc's believers deep in despair.\n\nAmidst foul fortune strikes worldly strife,\nWrong door, car, path, a grim mistake,\nAs bullets pierce the tapestry of life,\nA dire reminder of our frail state.",
+    "feedItems": [
+      {
+        "title": "SpaceX's Starship Explosion: How We Got Here",
+        "description": "SpaceX’s Starship, which exploded a few minutes after launch, is as ambitious as it is massive. Here’s what to know about the rocket that has been developing over the past several years for deep-space missions.",
+        "link": "https://www.wsj.com/articles/spacexs-starship-explosion-how-we-got-here-dbdb6dff",
+        "id": "SB10039764738899044154404589572691480885518"
+      },
+      {
+        "title": "Netflix Is Mailing Its Last DVD. The Die-Hards Are in Mourning.",
+        "description": "For movie buffs who continued to rent DVDs from streaming-service Netflix, the announcement of its plans to close the DVD business was not welcome.",
+        "link": "https://www.wsj.com/articles/netflix-is-mailing-its-last-dvd-the-die-hards-are-in-mourning-e7fe8c4c",
+        "id": "WP-WSJ-0000804836"
+      },
+      {
+        "title": "Three Shootings in a Week Over a Simple Mistake. Why Is This Happening?",
+        "description": "Wrong door, wrong driveway and wrong car. Recent shootings are ‘part of a much bigger issue in our country.’",
+        "link": "https://www.wsj.com/articles/three-shootings-in-a-week-over-a-simple-mistake-why-is-this-happening-65a3031a",
+        "id": "WP-WSJ-0000804593"
+      }
+    ],
+    "date": "2023-04-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "Of Treasury yields and Feds they speak,\nIn measures fair with timbers bleak.\nAs May FOMC meets the throng,\nBank strategists dost play along.\n\nWith Barclays' names, an HSBC knight,\nIn chief compliance stands the fight.\nKirsty reigns o'er Fitzwater's stead,\nA British bank in tales widespread.\n\nHark! Sancerres of splendor five,\nAffordable e'en for serfs who strive.\nLoire Valley glows with rising star,\nGuides tasteful souls to wines from far.",
+    "feedItems": [
+      {
+        "title": "Ten-Year Treasury Yields Fall to 3.546%",
+        "description": "Ten-year Treasury yields declined amid expectations the Fed will shift into an on-hold stance after the May FOMC meeting, Bank of America strategists said.",
+        "link": "https://www.wsj.com/articles/investors-move-on-from-banking-crisis-focus-again-on-inflation-deacc965",
+        "id": "WP-WSJ-0000802594"
+      },
+      {
+        "title": "Barclays Names HSBC Executive as Compliance Chief",
+        "description": "Kirsty Everett is succeeding Matt Fitzwater, the British bank’s interim chief compliance officer.",
+        "link": "https://www.wsj.com/articles/barclays-names-hsbc-executive-as-compliance-chief-36db8f28",
+        "id": "WP-WSJ-0000804841"
+      },
+      {
+        "title": "5 Fantastic Sancerres You Can Actually Afford",
+        "description": "Since the last time our wine columnist looked at this Loire Valley white, its star has only continued to rise—along with its price. Here, a guide to the best values available now.",
+        "link": "https://www.wsj.com/articles/best-sancerre-wines-you-can-actually-afford-19199f3",
+        "id": "WP-WSJ-0000776788"
+      }
+    ],
+    "date": "2023-04-20"
+  }
+]

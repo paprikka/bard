@@ -84,9 +84,18 @@ const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[]) =>
 			model: 'gpt-4',
 			messages: [{ role: 'user', content: prompt }]
 		})
-	}).then((response) => response.json());
+	}).then((response) => {
+		if (!response.ok) {
+			throw new Error(`Failed to fetch news feed: ${response.status} ${response.statusText}`);
+		}
+		return response.json();
+	});
 
-	return result.choices[0].message.content;
+	const { content } = result.choices[0]?.message;
+
+	if (!content) throw new Error('No content in OpenAPI response');
+
+	return result.choices[0].message.content as string;
 };
 
 export type ArchiveItem = {
