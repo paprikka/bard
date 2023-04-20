@@ -8,22 +8,35 @@
 </script>
 
 <ArticleContainter>
-	<h2>Archive</h2>
-	{#each data.allPostsByAuthorID as post}
-		<h2>{post.author.name}</h2>
-		<p>{post.author.description}</p>
-		<ul>
-			{#each post.songs as song, i}
-				<li>
-					<a href="/{song.date}/{i}">{song.newsMedieval.split('\n')[0]}</a>
-					<span class="author">by {song.author.name}</span>
-				</li>
-			{/each}
-		</ul>
-	{/each}
+	<h1>Team</h1>
+	<div class="grid">
+		{#each data.allPostsByAuthorID as post}
+			<section class="team-member">
+				<img src="/centaur.png" alt={post.author.name} />
+				<h2>{post.author.name}</h2>
+				<p>{post.author.description}</p>
+				<h3>Works</h3>
+				<ul>
+					{#each post.songs as song, i}
+						<li>
+							<a href="/{song.date}/{i}">{song.newsMedieval.split('\n')[0]}</a>
+							<!-- <span class="author">by {song.author.name}</span> -->
+						</li>
+					{/each}
+				</ul>
+			</section>
+		{/each}
+	</div>
 </ArticleContainter>
 
 <style>
+	.team-member img {
+		width: 80%;
+		height: auto;
+	}
+	h3 {
+		margin-bottom: 0;
+	}
 	a {
 		color: #ac0303;
 		text-decoration: none;
@@ -39,15 +52,28 @@
 		line-height: 1.5;
 	}
 
-	.author {
+	.grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 2rem;
+	}
+
+	@media all and (max-width: 400px) {
+		.grid {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	li {
+		margin-bottom: 0;
+		line-height: 1;
+	}
+	p,
+	a {
 		font-size: var(--font-size-s);
 	}
 
 	@media all and (max-width: 400px) {
-		.author {
-			display: block;
-		}
-
 		li {
 			margin-bottom: 1em;
 		}
