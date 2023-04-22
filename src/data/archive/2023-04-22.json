@@ -1,0 +1,89 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "In mountains high, ascends the fleet,\nA sport, skyrunning, doth they greet,\nEndurance great, as gods of old,\nUpward they climb, ambitious bold.\n\nA test of wit, ordeals 'bout,\nEvents report, put in a joust,\nWisdom be gained from hollow'd page,\nMark The Wall Street Journal's sage.\n\nNow hearst, of fjords I speak no more,\nBut countless shores of foreign lore,\nIn paradisal climes they flee,\nWhere gold is spent as brisk as sea.",
+    "feedItems": [
+      {
+        "title": "The Fast-Growing Sport Where You Run Up a Mountain for 50 Miles",
+        "description": "A cadre of hard-core endurance athletes are embracing skyrunning, which focuses on how high you can run instead of how far.",
+        "link": "https://www.wsj.com/articles/skyrunning-endurance-race-sports-343cfd52",
+        "id": "WP-WSJ-0000800252"
+      },
+      {
+        "title": "News Quiz for April 22, 2023",
+        "description": "Test your knowledge of the week’s events as reported in The Wall Street Journal.",
+        "link": "https://www.wsj.com/articles/news-quiz-for-april-22-2023-1af93c21",
+        "id": "WP-WSJ-0000805242"
+      },
+      {
+        "title": "Americans Escaping Pricey Cities Bring Higher Inflation With Them",
+        "description": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
+        "link": "https://www.wsj.com/articles/americans-escaping-pricey-cities-bring-higher-inflation-with-them-bda43fee",
+        "id": "SB11217464675432254657604589575830678197414"
+      }
+    ],
+    "date": "2023-04-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Nessa",
+      "id": "conchobar",
+      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+    },
+    "newsMedieval": "In Treasury's halls of gilded trade,\nA great divergence was displayed.\nBetwixt one-month and three, behold!\nThe largest gap in records old.\n\nAs men escape th' expensive town,\nTo warmer climes they bear the crown\nOf highest costs, inflation near,\nTwo points above th' national sphere.\n\nNow hasten, Swift charg'd wains contend\nIn mining deals ne'er seen, my friend!\nThe race for metals in ascendance\nFor cars electric and green transcendence.",
+    "feedItems": [
+      {
+        "title": "Debt-Ceiling Standoff Warps Treasury Trading",
+        "description": "The divergence between one-month and three-month bills is the largest on record.",
+        "link": "https://www.wsj.com/articles/debt-ceiling-standoff-warps-treasury-trading-a3d3c383",
+        "id": "WP-WSJ-0000809054"
+      },
+      {
+        "title": "Americans Escaping Pricey Cities Bring Higher Housing Costs, Inflation With Them",
+        "description": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
+        "link": "https://www.wsj.com/articles/americans-escaping-pricey-cities-bring-higher-housing-costs-inflation-with-them-a3118424",
+        "id": "WP-WSJ-0000807856"
+      },
+      {
+        "title": "Rise of EVs Drives Mining Deals to Decade High",
+        "description": "Mining companies are back at the deals table as they battle for control of commodities essential for making electric cars and renewable-energy infrastructure.",
+        "link": "https://www.wsj.com/articles/rise-of-evs-drives-mining-deals-to-decade-high-6fab9b47",
+        "id": "WP-WSJ-0000807087"
+      }
+    ],
+    "date": "2023-04-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+    },
+    "newsMedieval": "Upon the border of two realms so fierce,\nIn Arctic domain of ice, a frost doth pierce,\nNorway and Moscow, tensions mount and swell,\nAs Europe's doors close to Russians’ knell.\n\nIn swift succession, noble Musk did play,\nRisk's anxious hand upon life’s stage, in one short day,\nTwitter, Tesla, SpaceX felt his might,\nHis reputation's reigniting set alight.\n\nAnd foul winds blow through regions' banks afar,\nEleven's grace hath fallen, like lone star,\nAs Moody's downgrades darken Western skies,\nSilicon's demise now catches all eyes.",
+    "feedItems": [
+      {
+        "title": "Chill Settles In at a Europe-Russia Border Crossing",
+        "description": "High above the Arctic Circle, Norway maintains frosty relations with Moscow, even as most other countries in Europe have closed their doors to most Russians since the invasion of Ukraine.",
+        "link": "https://www.wsj.com/articles/chill-settles-in-at-a-europe-russia-border-crossing-f5896405",
+        "id": "WP-WSJ-0000809034"
+      },
+      {
+        "title": "In 24 Hours, Musk Reignited His Reputation for Risk",
+        "description": "The billionaire entrepreneur had a dramatic week with moves at Twitter, Tesla and SpaceX.",
+        "link": "https://www.wsj.com/articles/in-24-hours-elon-musk-reignited-his-reputation-for-risk-711f29b8",
+        "id": "WP-WSJ-0000809891"
+      },
+      {
+        "title": "Moody's Downgrades 11 Regional Banks, Including Zions, U.S. Bank, Western Alliance",
+        "description": "The recent failures of Silicon Valley Bank and Signature have focused attention on regional lenders’ weaknesses.",
+        "link": "https://www.wsj.com/articles/moodys-downgrades-11-regional-banks-including-zions-u-s-bank-western-alliance-174e4d7f",
+        "id": "WP-WSJ-0000810642"
+      }
+    ],
+    "date": "2023-04-22"
+  }
+]

@@ -5,25 +5,25 @@
       "id": "guillemette",
       "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
     },
-    "newsMedieval": "In market's realm, with sundry goods so fair,\nA noble merchant, Whole Foods by name,\nDoth choose to carve away its corporate frame,\nAnd simplify, their burden thus laid bare.\n\nIn halls of justice, whence the gavel rings,\nLord Justice Roberts summoned to attest,\nTo scrutinize the standards of the best,\nAnd weigh the fate, in tales of ethics' wings.\n\nOn Friday next, a dance of words shall play,\nA crossword's jest, 'neath Sol's departing gleam,\nNo story told, yet riddles intertwined,\nWe gather close, as darkness seizèd day.",
+    "newsMedieval": "Upon the slumber of our feather'd kin,\nDavid Obuchowski's quill doth my heart win,\nIn 'How Birds Sleep,' adorned with Pedry's art,\nA wonder to behold, enchanting each part.\n\nBlank space\n\nNow, 'Big Tree' dost rise, Selznick's tale so grand,\nThrough verdant leaves our knowledge doth expand,\nA tale of growth, and life, stretched to the skies,\nIn its branches, wisdom's beauty lies.\n\nBlank space\n\nFrom Voisard's skilled hand, 'Arborama' sprung,\nA tribute to the trees in verses sung,\nTheir majesty and grace, their history,\nIn each fine line, their essence we shall see.",
     "feedItems": [
       {
-        "title": "Whole Foods Plans Corporate Job Cuts, Shuffles Structure",
-        "description": "Whole Foods Market is planning to cut several hundred corporate jobs, the company said, as the grocer reorganizes its structure to simplify operations.",
-        "link": "https://www.wsj.com/articles/whole-foods-plans-corporate-job-cuts-shuffles-structure-69171cc0",
-        "id": "WP-WSJ-0000805047"
+        "title": "A Closer Look",
+        "description": "Selections from ‘How Birds Sleep’ by David Obuchowski, illustrated by Sarah Pedry",
+        "link": "https://www.wsj.com/articles/a-closer-look-4f8fbe07",
+        "id": "SB10039764738899044154404589568400952943542"
       },
       {
-        "title": "Chief Justice John Roberts Asked to Address 'Ethical Standards' at Supreme Court",
-        "description": "Senate Judiciary Committee chairman Dick Durbin says court should adopt code of conduct; Republicans are skeptical about a public hearing.",
-        "link": "https://www.wsj.com/articles/chief-justice-john-roberts-asked-to-address-ethical-standards-at-supreme-court-4f274fc9",
-        "id": "WP-WSJ-0000805022"
+        "title": "A Closer Look",
+        "description": "Selections from ‘Big Tree’ by Brian Selznick",
+        "link": "https://www.wsj.com/articles/a-closer-look-7848f809",
+        "id": "SB10039764738899044154404589568403923377552"
       },
       {
-        "title": "We Were Just Leaving (Friday Crossword, April 21)",
-        "description": "",
-        "link": "https://www.wsj.com/articles/we-were-just-leaving-friday-crossword-april-21-561737b7",
-        "id": "WP-WSJ-0000801374"
+        "title": "A Closer Look",
+        "description": "Selections from ‘Arborama’ by Lisa Voisard",
+        "link": "https://www.wsj.com/articles/a-closer-look-ac8ae53f",
+        "id": "SB10039764738899044154404589568390993060198"
       }
     ],
     "date": "2023-04-20"
@@ -34,25 +34,25 @@
       "id": "arnulfus",
       "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
     },
-    "newsMedieval": "Of Starship grand and hopes that soar,\nTo heav'ns high vaults ambition flies,\nYet, in a flash, now lies forlore,\nAs rocket's fire doth meet demise.\n\nWith tears they weep, DVD devotees,\nAs Netflix sends its final fare,\nThe streaming age doth sweep with ease,\nOld disc's believers deep in despair.\n\nAmidst foul fortune strikes worldly strife,\nWrong door, car, path, a grim mistake,\nAs bullets pierce the tapestry of life,\nA dire reminder of our frail state.",
+    "newsMedieval": "In this Yorkish trial, I dost see,\nGuo Wengui, jailed, denied to flee,\nOn lies and dirtied coins, he stands,\nCast out from distant Chinese lands.\n\nHow Old, thou asketh, is the Whale?\nDear Lily Murray pens the tale,\nWith Jesse Hodgson's drawings fine,\nA closer look at nature's sign.\n\nThe Earth Transformed, a tale of blight,\n'Tis said that doom may see respite,\nIn cycles passed, both man and bower,\nHave shaped each other, hour by hour.",
     "feedItems": [
       {
-        "title": "SpaceX's Starship Explosion: How We Got Here",
-        "description": "SpaceX’s Starship, which exploded a few minutes after launch, is as ambitious as it is massive. Here’s what to know about the rocket that has been developing over the past several years for deep-space missions.",
-        "link": "https://www.wsj.com/articles/spacexs-starship-explosion-how-we-got-here-dbdb6dff",
-        "id": "SB10039764738899044154404589572691480885518"
+        "title": "Guo Wengui Denied Bail While Awaiting Trial in New York",
+        "description": "The exiled Chinese businessman has been in jail on fraud and money-laundering charges since March.",
+        "link": "https://www.wsj.com/articles/guo-wengui-denied-bail-while-awaiting-trial-in-new-york-47755986",
+        "id": "WP-WSJ-0000805777"
       },
       {
-        "title": "Netflix Is Mailing Its Last DVD. The Die-Hards Are in Mourning.",
-        "description": "For movie buffs who continued to rent DVDs from streaming-service Netflix, the announcement of its plans to close the DVD business was not welcome.",
-        "link": "https://www.wsj.com/articles/netflix-is-mailing-its-last-dvd-the-die-hards-are-in-mourning-e7fe8c4c",
-        "id": "WP-WSJ-0000804836"
+        "title": "A Closer Look",
+        "description": "Selections from ‘How Old is a Whale?’ by Lily Murray, illustrated by Jesse Hodgson",
+        "link": "https://www.wsj.com/articles/a-closer-look-133b28ae",
+        "id": "SB10039764738899044154404589568412657144006"
       },
       {
-        "title": "Three Shootings in a Week Over a Simple Mistake. Why Is This Happening?",
-        "description": "Wrong door, wrong driveway and wrong car. Recent shootings are ‘part of a much bigger issue in our country.’",
-        "link": "https://www.wsj.com/articles/three-shootings-in-a-week-over-a-simple-mistake-why-is-this-happening-65a3031a",
-        "id": "WP-WSJ-0000804593"
+        "title": "'The Earth Transformed' Review: Doom May Be Delayed",
+        "description": "For eons, human civilizations have shaped—and been shaped by—the natural world.",
+        "link": "https://www.wsj.com/articles/the-earth-transformed-review-doom-may-be-delayed-fc140873",
+        "id": "SB11217464675432254657604589567003886447492"
       }
     ],
     "date": "2023-04-20"
@@ -63,25 +63,25 @@
       "id": "aethelred",
       "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
     },
-    "newsMedieval": "Of Treasury yields and Feds they speak,\nIn measures fair with timbers bleak.\nAs May FOMC meets the throng,\nBank strategists dost play along.\n\nWith Barclays' names, an HSBC knight,\nIn chief compliance stands the fight.\nKirsty reigns o'er Fitzwater's stead,\nA British bank in tales widespread.\n\nHark! Sancerres of splendor five,\nAffordable e'en for serfs who strive.\nLoire Valley glows with rising star,\nGuides tasteful souls to wines from far.",
+    "newsMedieval": "In Ritchie's fabled tale, the Covenant doth unfold,\nAs stalwart Gyllenhaal storms Afghan lands, so bold,\nFacing Taliban and strife, with interpreter, be told,\nA saga of grim conflict, in Ritchie's vision, hath been scrolled.\n\nWith seedlings of the mind, our children's wights shall learn,\nIn tale of 'Big Tree,' 'Arborama,' knowledge doth they yearn,\nThrough 'Wings, Waves & Webs,' young minds shall duly turn,\n'How Old Is a Whale?' and bards of sleeping birds discern.\n\nFor Gerald Ford, called 'Ordinary Man,' we sing,\nThe bard dost praise the 38th president of thee, so underrating,\nThrough storm and strife, he led, a listener daring,\nFor him, we raise our voice, in verses thus abating.",
     "feedItems": [
       {
-        "title": "Ten-Year Treasury Yields Fall to 3.546%",
-        "description": "Ten-year Treasury yields declined amid expectations the Fed will shift into an on-hold stance after the May FOMC meeting, Bank of America strategists said.",
-        "link": "https://www.wsj.com/articles/investors-move-on-from-banking-crisis-focus-again-on-inflation-deacc965",
-        "id": "WP-WSJ-0000802594"
+        "title": "'Guy Ritchie's The Covenant' Review: Action in Afghanistan",
+        "description": "The British director’s unusually straightforward new film stars Jake Gyllenhaal as an American sergeant navigating Taliban-riddled territory with a local interpreter.",
+        "link": "https://www.wsj.com/articles/guy-ritchies-the-covenant-review-action-in-afghanistan-3cd42d46",
+        "id": "SB10039764738899044154404589570142059653758"
       },
       {
-        "title": "Barclays Names HSBC Executive as Compliance Chief",
-        "description": "Kirsty Everett is succeeding Matt Fitzwater, the British bank’s interim chief compliance officer.",
-        "link": "https://www.wsj.com/articles/barclays-names-hsbc-executive-as-compliance-chief-36db8f28",
-        "id": "WP-WSJ-0000804841"
+        "title": "Children's Books: Seedlings of the Imagination",
+        "description": "Reviews of ‘Big Tree,’ ‘Arborama,’ ‘Wings, Waves & Webs,’ ‘ How Old Is a Whale?’ and ‘How Birds Sleep.’",
+        "link": "https://www.wsj.com/articles/childrens-books-seedlings-of-the-imagination-21e747eb",
+        "id": "SB10580974286322444681604589554360053668296"
       },
       {
-        "title": "5 Fantastic Sancerres You Can Actually Afford",
-        "description": "Since the last time our wine columnist looked at this Loire Valley white, its star has only continued to rise—along with its price. Here, a guide to the best values available now.",
-        "link": "https://www.wsj.com/articles/best-sancerre-wines-you-can-actually-afford-19199f3",
-        "id": "WP-WSJ-0000776788"
+        "title": "'An Ordinary Man' Review: Underestimating Gerald Ford",
+        "description": "Listening more than talking, the 38th president guided America through a tumultuous era. He receives too little credit for it.",
+        "link": "https://www.wsj.com/articles/an-ordinary-man-book-review-underestimating-gerald-ford-biography-29cd08b7",
+        "id": "SB11060834557182014156604589556780849718004"
       }
     ],
     "date": "2023-04-20"
