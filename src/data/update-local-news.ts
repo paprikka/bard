@@ -39,7 +39,7 @@ ${JSON.stringify(feedItems, null, 2)}
 
 // import newsToday from '../data/today.json';
 const parser = new RSSParser();
-type FeedItem = {
+export type FeedItem = {
 	title?: string;
 	description?: string;
 	link?: string;

@@ -1,13 +1,16 @@
 <script lang="ts">
-	import Char from './char.svelte';
-	import Superpope from './superpope.svelte';
-	import { songToSegments, type LinkItem } from './song-to-segments';
+	import type { NavListItem } from '../data/get-nav-list';
 	import type { ArchiveItem } from '../data/update-local-news';
 	import ArticleContainter from './article-containter.svelte';
 	import Centaur from './centaur.svelte';
+	import Char from './char.svelte';
+	import { songToSegments, type LinkItem } from './song-to-segments';
+	import Superpope from './superpope.svelte';
 	const { floor } = Math;
 
 	export let song: ArchiveItem;
+	export let prevLink: NavListItem | null = null;
+	export let nextLink: NavListItem | null = null;
 
 	const randomWithSeed = (seed: number) => {
 		let x = Math.sin(seed) * 10000;
@@ -58,6 +61,16 @@
 		</p>
 	{/each}
 	<p class="author">by <a href="/team#{song.author.id}">{song.author.name}</a></p>
+	{#if prevLink || nextLink}
+		<nav class="prev-next-post">
+			{#if prevLink}<a on:touchend={() => false} href={prevLink.url}>Older</a>
+			{:else}<span>Older</span>
+			{/if}
+			{#if nextLink}<a on:touchend={() => false} href={nextLink.url}>Newer</a>
+			{:else}<span>Newer</span>
+			{/if}
+		</nav>
+	{/if}
 </ArticleContainter>
 
 <Centaur />
@@ -80,6 +93,10 @@
 		font-size: calc(var(--font-size) * 1.4);
 	}
 
+	.stanza:first-child {
+		margin-block-start: 0;
+	}
+
 	.stanza:last-of-type {
 		margin-bottom: 2rem;
 	}
@@ -95,5 +112,43 @@
 
 	.author a {
 		color: #ac0303;
+	}
+
+	.prev-next-post {
+		display: flex;
+		margin-top: 1rem;
+		gap: 1rem;
+	}
+
+	.prev-next-post a,
+	.prev-next-post span {
+		background-color: hsla(0, 0%, 100%, 0.5);
+		line-height: 1;
+		padding: 0.375rem 0.5rem;
+		text-decoration: none;
+		color: var(--color-text);
+		border-radius: 0.25rem;
+		font-size: var(--font-size-s);
+	}
+
+	.prev-next-post a {
+		opacity: 0.75;
+		transition: 0.2s opacity, 0.2s scale;
+	}
+
+	@media (hover: hover) {
+		.prev-next-post a:hover {
+			opacity: 1;
+			scale: 1.1;
+		}
+	}
+
+	.prev-next-post span {
+		opacity: 0.25;
+	}
+
+	.prev-next-post a:active {
+		scale: 1;
+		opacity: 1;
 	}
 </style>

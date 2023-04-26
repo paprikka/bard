@@ -1,12 +1,19 @@
-import { dateToDayID } from '../data/update-local-news';
-import { getPersistedArchiveItems } from './get-persisted-archive-items';
+import { error } from '@sveltejs/kit';
+import { getAllPostsDescending } from '../data/get-all-posts';
+import { getNavList } from '../data/get-nav-list';
 
-const getTodaysSong = () => {
-	const todayID = dateToDayID(new Date());
-	return getPersistedArchiveItems(todayID).then((items) => items[0]);
+export const load = async () => {
+	const allPostsDescending = await getAllPostsDescending();
+	const song = allPostsDescending.at(-1)?.songs.at(-1);
+
+	if (!song) throw error(500, 'No song found for today');
+
+	const navList = getNavList(allPostsDescending, song);
+
+	return {
+		song,
+		navList
+	};
 };
-export const load = async () => ({
-	song: await getTodaysSong()
-});
 
 export const prerender = true;

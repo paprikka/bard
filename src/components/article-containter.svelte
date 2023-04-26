@@ -44,11 +44,16 @@
 		background: url('/background.jpg') repeat center center fixed;
 		-webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 50%, black);
 		mask-image: linear-gradient(to bottom, transparent 0%, black 50%, black);
+		pointer-events: none;
 	}
 
 	@media all and (max-width: 400px) {
 		article {
 			padding: 2rem 2rem 10rem;
+		}
+
+		article::after {
+			height: 6rem;
 		}
 	}
 </style>

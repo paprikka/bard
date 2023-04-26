@@ -1,6 +1,7 @@
 <script lang="ts">
 	import ArticleContainter from '../../components/article-containter.svelte';
 	import Centaur from '../../components/centaur.svelte';
+	import { getSongURL } from '../../data/get-post-url';
 
 	export let data;
 </script>
@@ -10,9 +11,9 @@
 	{#each data.allPostsDescending as post}
 		<h2>{post.dayID}</h2>
 		<ul>
-			{#each post.songs as song, i}
+			{#each post.songs as song}
 				<li>
-					<a href="/{post.dayID}/{song.author.id}">{song.newsMedieval.split('\n')[0]}</a>
+					<a href={getSongURL(post.dayID, song.author)}>{song.newsMedieval.split('\n')[0]}</a>
 					<span class="author">by <a href="/team">{song.author.name}</a></span>
 				</li>
 			{/each}

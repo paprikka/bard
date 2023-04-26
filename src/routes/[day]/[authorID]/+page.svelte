@@ -1,8 +1,7 @@
 <script lang="ts">
 	import Page from '../../../components/page.svelte';
-	import type { ArchiveItem } from '../../../data/update-local-news';
 
-	export let data: { song: ArchiveItem };
+	export let data;
 </script>
 
-<Page song={data.song} />
+<Page song={data.song} prevLink={data.navList.prev} nextLink={data.navList.next} />
