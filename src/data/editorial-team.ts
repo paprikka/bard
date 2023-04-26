@@ -2,33 +2,39 @@ export type EditorialTeamMember = {
 	id: string;
 	name: string;
 	description: string;
+	avatar: string;
 };
 
 export const editorialTeam: EditorialTeamMember[] = [
 	{
+		name: 'Brother Arnulfus',
+		id: 'arnulfus',
+		avatar: 'dog-1.png',
+		description:
+			'A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale.'
+	},
+	{
 		name: 'Æthelred the Skald',
 		id: 'aethelred',
+		avatar: 'cat-1.png',
 		description:
 			'A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess.'
 	},
 	{
 		name: 'Conchobar mac Nessa',
 		id: 'conchobar',
+		avatar: 'cat-3.png',
 		description:
 			'An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history.'
 	},
 	{
 		name: 'Guillemette de Ventadour',
 		id: 'guillemette',
+		avatar: 'cat-2.png',
 		description:
 			'A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice.'
-	},
-	{
-		name: 'Brother Arnulfus',
-		id: 'arnulfus',
-		description:
-			'A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale.'
 	}
+
 	// {
 	// 	name: 'Fatima al-Zahra',
 	// 	description:

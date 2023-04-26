@@ -7,7 +7,7 @@
 	export let data;
 </script>
 
-<ArticleContainter>
+<ArticleContainter size="fixed">
 	<h2>Archive</h2>
 	{#each data.allPosts as post}
 		<h2>{post.dayID}</h2>

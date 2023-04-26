@@ -1,15 +1,20 @@
 <script lang="ts">
 	export let faded = true;
 	export let size: 'fluid' | 'fixed' = 'fluid';
+	export let align: 'start' | 'center' = 'start';
 </script>
 
-<article class:is-faded={faded} class:is-fixed={size === 'fixed'}>
+<article
+	class:is-faded={faded}
+	class:is-fixed={size === 'fixed'}
+	class:is-align-center={align === 'center'}
+>
 	<slot />
 </article>
 
 <style>
 	article {
-		padding: 5rem 5rem 8rem;
+		padding: 5rem 5rem 10rem;
 		line-height: 1;
 		position: relative;
 
@@ -23,6 +28,10 @@
 
 	.is-fixed {
 		max-width: 60rem;
+	}
+
+	.is-align-center {
+		margin-inline: auto;
 	}
 
 	article::after {
@@ -39,7 +48,7 @@
 
 	@media all and (max-width: 400px) {
 		article {
-			padding: 2rem;
+			padding: 2rem 2rem 10rem;
 		}
 	}
 </style>
