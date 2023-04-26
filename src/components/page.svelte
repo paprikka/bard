@@ -57,7 +57,7 @@
 			{/each}
 		</p>
 	{/each}
-	<p class="author">{song.author.name}, {song.author.description}</p>
+	<p class="author">by <a href="/team#{song.author.id}">{song.author.name}</a></p>
 </ArticleContainter>
 
 <Centaur />
@@ -85,19 +85,15 @@
 	}
 
 	.author {
-		margin: 3rem 0 0 0;
+		margin: 1rem 0 0 0;
 		position: relative;
-		padding-left: 1.25em;
 		font-size: var(--font-size-s);
 		max-width: 20em;
 		opacity: 0.5;
 		position: relative;
 	}
 
-	.author::before {
-		content: '—';
-		position: absolute;
-		left: 0;
-		top: -0.1em;
+	.author a {
+		color: #ac0303;
 	}
 </style>

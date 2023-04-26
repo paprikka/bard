@@ -5,8 +5,8 @@
 <style>
 	.centaur {
 		position: fixed;
-		bottom: 2rem;
-		right: 2rem;
+		bottom: 3rem;
+		right: 3rem;
 		width: 10vw;
 		vertical-align: bottom;
 		transition: scale 0.2s;
@@ -22,8 +22,9 @@
 
 	@media all and (max-width: 400px) {
 		.centaur {
-			width: 30vw;
-			z-index: -1;
+			width: 20vw;
+			bottom: 1.5rem;
+			right: 1.5rem;
 		}
 	}
 
