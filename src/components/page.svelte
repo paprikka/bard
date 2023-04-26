@@ -4,6 +4,7 @@
 	import { songToSegments, type LinkItem } from './song-to-segments';
 	import type { ArchiveItem } from '../data/update-local-news';
 	import ArticleContainter from './article-containter.svelte';
+	import Centaur from './centaur.svelte';
 	const { floor } = Math;
 
 	export let song: ArchiveItem;
@@ -59,9 +60,7 @@
 	<p class="author">{song.author.name}, {song.author.description}</p>
 </ArticleContainter>
 
-<a class="centaur" href="https://sonnet.io/">
-	<img src="/centaur.png" alt="a centaur" />
-</a>
+<Centaur />
 <div class="overlay">
 	<Superpope />
 </div>
@@ -74,12 +73,6 @@
 
 		inset: 0;
 		z-index: 1;
-	}
-
-	@media all and (max-width: 400px) {
-		article {
-			padding: 2rem; /* TODO: use variables instead */
-		}
 	}
 
 	.stanza {
@@ -106,34 +99,5 @@
 		position: absolute;
 		left: 0;
 		top: -0.1em;
-	}
-
-	.centaur {
-		position: absolute;
-		bottom: 2rem;
-		right: 2rem;
-		width: 10vw;
-		vertical-align: bottom;
-		transition: scale 0.2s;
-	}
-
-	.centaur:hover {
-		scale: 1.05;
-	}
-
-	.centaur:active {
-		scale: 1;
-	}
-
-	@media all and (max-width: 400px) {
-		.centaur {
-			width: 30vw;
-			z-index: -1;
-		}
-	}
-
-	.centaur img {
-		width: 100%;
-		height: auto;
 	}
 </style>

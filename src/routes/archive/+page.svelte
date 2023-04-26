@@ -1,5 +1,6 @@
 <script lang="ts">
 	import ArticleContainter from '../../components/article-containter.svelte';
+	import Centaur from '../../components/centaur.svelte';
 
 	// Currently a placeholder so we can prerender static content without
 	// writing throaway code
@@ -21,6 +22,7 @@
 		</ul>
 	{/each}
 </ArticleContainter>
+<Centaur />
 
 <style>
 	a {
