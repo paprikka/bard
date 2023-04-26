@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Wed, 26 Apr 2023 05:33:27 -0400</pubDate>
+<lastBuildDate>Wed, 26 Apr 2023 05:33:27 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>PricewaterhouseCoopers to Pour $1 Billion Into Generative AI</title>
+<link>https://www.wsj.com/articles/pricewaterhousecoopers-to-pour-1-billion-into-generative-ai-cac2cedd</link>
+<description><![CDATA[Multiyear investment in U.S. business includes accessing ChatGPT maker OpenAI’s language model, training staff in AI capabilities.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:32:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000819986</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>CIO Journal</wsj:articletype>
+</item>
+<item>
+<title>Cyber Chiefs Forge Partnerships With Physical Security Units As Combined Threats Grow</title>
+<link>https://www.wsj.com/articles/cyber-chiefs-forge-partnerships-with-physical-security-units-as-combined-threats-grow-56eedf5f</link>
+<description><![CDATA[AI can help identify potential cyber-physical attacks, says Schneider Electric CIO Elizabeth Hackenson.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000807748</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Pro Cyber News</wsj:articletype>
+</item>
+<item>
+<title>U.S., South Korea Pledge Cooperation on Nuclear Arms</title>
+<link>https://www.wsj.com/articles/u-s-south-korea-pledge-cooperation-on-potential-use-of-nuclear-arms-ceeecec9</link>
+<description><![CDATA[Seoul has agreed not to develop its own arsenal in exchange for more of a say in planning a potential American nuclear response to a North Korean attack.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000820241</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>National Security</wsj:articletype>
+</item>
+<item>
+<title>Schools Are Ditching Homework, Deadlines in Favor of 'Equitable Grading'</title>
+<link>https://www.wsj.com/articles/schools-are-ditching-homework-deadlines-in-favor-of-equitable-grading-dcef7c3e</link>
+<description><![CDATA[The changes aim to measure mastery and account for hardships at home, though teachers say some students are gaming the system.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000819071</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Education</wsj:articletype>
+</item>
+<item>
+<title>So Many Ways to Communicate at Work, So Many Ways to Misfire</title>
+<link>https://www.wsj.com/articles/so-many-ways-to-communicate-at-work-so-many-ways-to-misfire-ec7d9f07</link>
+<description><![CDATA[Workplaces have become saturated with ways to talk, often breeding mistakes and misunderstandings.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000816339</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Managing Your Career</wsj:articletype>
+</item>
+<item>
+<title>SPACs Delivered Easy Money, Now Companies Are Running Out</title>
+<link>https://www.wsj.com/articles/spacs-delivered-easy-money-but-now-companies-are-running-out-f086c255</link>
+<description><![CDATA[The SPAC boom took hundreds of risky companies to the stock market. The next stop for many is bankruptcy court.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000818699</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Finance</wsj:articletype>
+</item>
+<item>
+<title>Midwest Cities Topped WSJ Housing Index in First Quarter</title>
+<link>https://www.wsj.com/articles/midwest-cities-led-wsj-realtor-com-housing-index-in-first-quarter-8eb5c557</link>
+<description><![CDATA[Lafayette, Ind., led the index for the second consecutive quarter.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000813951</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Real Estate</wsj:articletype>
+</item>
+<item>
+<title>See Full Rankings for WSJ/Realtor.com's Spring Emerging Housing Markets Index</title>
+<link>https://www.wsj.com/articles/see-the-full-rankings-for-wsj-realtor-coms-spring-emerging-housing-markets-index-3c485783</link>
+<description><![CDATA[Here is how metro areas across the U.S. stack up in the newly updated spring 2023 rankings.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000814534</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Real Estate</wsj:articletype>
+</item>
+<item>
+<title>Korea's Stock Market Shines Even as Economy Dims</title>
+<link>https://www.wsj.com/articles/koreas-stock-market-shines-even-as-economy-dims-4085957f</link>
+<description><![CDATA[Should a slowing economy lead to a weak stock market? Not judging by the performance of Korea’s benchmark index this year.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000817121</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Markets Main</wsj:articletype>
+</item>
+<item>
+<title>Sometimes It's Not the Airline's Fault. It's Yours.</title>
+<link>https://www.wsj.com/articles/travel-mistakes-avoid-flights-passports-f939df8a</link>
+<description><![CDATA[Botched reservations or failed passport renewals can happen to even the savviest travelers.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000818823</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Carry On</wsj:articletype>
+</item>
+<item>
+<title>Meta Expected to Report Fourth Straight Quarterly Sales Drop</title>
+<link>https://www.wsj.com/articles/meta-platforms-q1-earnings-report-2023-aa820bcd</link>
+<description><![CDATA[The Facebook parent is facing weak advertiser demand and privacy headwinds.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000820201</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>GOP's Debt-Ceiling Proposal: Where Do Republicans Want to Cut Spending?</title>
+<link>https://www.wsj.com/articles/gops-debt-ceiling-proposal-where-do-republicans-want-to-cut-spending-366a29b6</link>
+<description><![CDATA[House Speaker Kevin McCarthy plans vote on the Limit, Save, Grow Act soon, hoping to spark talks with President Biden.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000818840</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Politics and Policy</wsj:articletype>
+</item>
+<item>
+<title>Riksbank Lifts Rate; Slower Hike Pace Likely</title>
+<link>https://www.wsj.com/articles/riksbank-lifts-policy-rate-to-3-50-from-3-00-sees-further-hike-later-in-year-b8a75962</link>
+<description><![CDATA[Sweden’s central bank raised its key policy rate to 3.5% as expected, and signalled a further smaller hike later in the year as it continues to fight stubbornly high inflation.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 04:41:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000821726</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>FTSE 100 Falls as Traders Digest Earnings</title>
+<link>https://www.wsj.com/articles/nikkei-may-fall-on-uncertainty-over-economy-earnings-68a891fe</link>
+<description><![CDATA[The FTSE 100 was down 0.5% as investors waded through numerous corporate earnings, with CRH a big faller after the building materials group said the European backdrop remained challenging amid inflation pressures and some slowdown in the new-build residential sector.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 04:37:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000820633</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Euro Bond Yields Expected to Remain in Recent Ranges</title>
+<link>https://www.wsj.com/articles/eurozone-bond-yields-ease-but-market-banks-on-further-ecb-rate-rises-f4621bcb</link>
+<description><![CDATA[The portfolios of Generali’s euro bond strategies are tactically positioned between defensive and neutral after the recent rates movements and it said euro yields should move in range in the weeks ahead.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 04:29:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000821556</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Copper Prices Look Well Supported in Longer Run</title>
+<link>https://www.wsj.com/articles/gold-edges-higher-amid-risk-aversion-mood-46227577</link>
+<description><![CDATA[Copper prices are likely well supported in the longer run, even though growing concerns over global recession risks weigh on sentiment, Saxo Bank said.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 04:15:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000821161</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Oil Edges Higher But Economic Concerns Linger</title>
+<link>https://www.wsj.com/articles/oil-gains-recession-worries-linger-924e2880</link>
+<description><![CDATA[Oil futures gained around 0.5% in Europe as a stronger-than-expected drop in U.S. inventories helped halt the recent slide in prices, but ANZ said a slump in refining margins was weighing on sentiment.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 04:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000820825</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Swedish Krona Turns Weaker After Rate Decision</title>
+<link>https://www.wsj.com/articles/yen-strengthens-amid-risk-off-sentiment-434b53a1</link>
+<description><![CDATA[The Swedish krona turned lower after the Riksbank raised its key interest rate by 50 basis points to 3.5%, as widely expected, but signalled it would slow the pace of rises at upcoming meetings.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 03:58:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000821038</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>GSK Profit, Sales Beat Views; Backs Outlook</title>
+<link>https://www.wsj.com/articles/gsk-1q-profit-sales-beat-expectations-but-fell-on-year-backs-2023-guidance-64dd065a</link>
+<description><![CDATA[GSK confirmed its 2023 guidance after it reported first-quarter net profit and sales above expectations but that declined on year due to lower sales of Covid-19 treatments.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 02:53:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000821559</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Puma Sees Profit Headwinds Continuing</title>
+<link>https://www.wsj.com/articles/puma-backs-2023-views-despite-margin-squeeze-in-1q-and-ahead-4580914a</link>
+<description><![CDATA[Puma confirmed its outlook for the year, but warned of continued drags on profitability after its first quarter underlying earnings fell to €176 million, and said sales growth should slow in the second quarter before picking up in the second half of the year.]]></description>
+<content:encoded/>
+<pubDate>Wed, 26 Apr 2023 02:40:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000821538</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+</channel>
+</rss>

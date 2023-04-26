@@ -1,0 +1,92 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.png",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+    },
+    "newsMedieval": "In realms of number, wits, and trade,\nPricewaterhouse doth forge the blade –\nA billion crowns, they scribe and pay\nTo Generative AI's sway.\nIn ChatGPT's grasp, the monks shall learn\nWhilst chalices of knowledge turn.\n\nWith cyber chiefs now on the prowl,\nTo ward off ill, we hear them growl.\nAnd as they quest, their sacred trust,\nTo harness artful power just;\nThe Schneider CIO doth sing,\nIn screen and stone, protection bring.\n\nNow turn our quills, from East to West,\nTo lands where dawning sun doth rest.\nUpon the land, where turtles talk,\nTwo empires pledge to shield and balk –\nWith Seoul in tow, the dragons sleep,\nWhilst secrets of the flame they keep.",
+    "feedItems": [
+      {
+        "title": "PricewaterhouseCoopers to Pour $1 Billion Into Generative AI",
+        "description": "Multiyear investment in U.S. business includes accessing ChatGPT maker OpenAI’s language model, training staff in AI capabilities.",
+        "link": "https://www.wsj.com/articles/pricewaterhousecoopers-to-pour-1-billion-into-generative-ai-cac2cedd",
+        "id": "WP-WSJ-0000819986"
+      },
+      {
+        "title": "Cyber Chiefs Forge Partnerships With Physical Security Units As Combined Threats Grow",
+        "description": "AI can help identify potential cyber-physical attacks, says Schneider Electric CIO Elizabeth Hackenson.",
+        "link": "https://www.wsj.com/articles/cyber-chiefs-forge-partnerships-with-physical-security-units-as-combined-threats-grow-56eedf5f",
+        "id": "WP-WSJ-0000807748"
+      },
+      {
+        "title": "U.S., South Korea Pledge Cooperation on Nuclear Arms",
+        "description": "Seoul has agreed not to develop its own arsenal in exchange for more of a say in planning a potential American nuclear response to a North Korean attack.",
+        "link": "https://www.wsj.com/articles/u-s-south-korea-pledge-cooperation-on-potential-use-of-nuclear-arms-ceeecec9",
+        "id": "WP-WSJ-0000820241"
+      }
+    ],
+    "date": "2023-04-26"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "In distant halls, where wisdom blends,\nThe noble schools their knowledge send,\nNo more doth homework's weight compel,\nNor deadlines ring fair equity's knell.\nFor mastery and hardships' balm, they clasp,\nYet games be played; a fickle grasp.\n\nIn mighty halls, with voices deep,\nThe worldly men, they spin and reap;\nA clattering pool of messages,\nBorn of misunderstandings and distresses.\nThrough ways uncounted, they speak and tire,\nTheir words misfire, t'wards ire aspire.\n\nFrom glistening lands of wealth and power,\nCame SPACs upon this earthly bower,\nWith riches laid before their keep,\nYet now they dwindle, to the deep.\nOnce filled with promise, now at court,\nIn bankruptcy's cold hands, they're caught.",
+    "feedItems": [
+      {
+        "title": "Schools Are Ditching Homework, Deadlines in Favor of 'Equitable Grading'",
+        "description": "The changes aim to measure mastery and account for hardships at home, though teachers say some students are gaming the system.",
+        "link": "https://www.wsj.com/articles/schools-are-ditching-homework-deadlines-in-favor-of-equitable-grading-dcef7c3e",
+        "id": "WP-WSJ-0000819071"
+      },
+      {
+        "title": "So Many Ways to Communicate at Work, So Many Ways to Misfire",
+        "description": "Workplaces have become saturated with ways to talk, often breeding mistakes and misunderstandings.",
+        "link": "https://www.wsj.com/articles/so-many-ways-to-communicate-at-work-so-many-ways-to-misfire-ec7d9f07",
+        "id": "WP-WSJ-0000816339"
+      },
+      {
+        "title": "SPACs Delivered Easy Money, Now Companies Are Running Out",
+        "description": "The SPAC boom took hundreds of risky companies to the stock market. The next stop for many is bankruptcy court.",
+        "link": "https://www.wsj.com/articles/spacs-delivered-easy-money-but-now-companies-are-running-out-f086c255",
+        "id": "WP-WSJ-0000818699"
+      }
+    ],
+    "date": "2023-04-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Nessa",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+    },
+    "newsMedieval": "In Lafayette, midst of verdant plain,\nTwo quarters hence, their title did maintain,\n'Midst Midwest Cities, proud atop the stand,\nTheir rank they won, by Nessa's guiding hand.\n\nGainst equinox of spring, fair Eire's eyes\nBehold her markets rise, with gold they prize,\nAs metro realms did range and jockey for their stake,\nIn list unscroll'd, by WSJ they made.\n\nThen turn we eye to Korea's fate,\nAs darkling clouds o'erhang their states,\nEconomy doth dim, tho' stocks do gleam,\nAn auld enigma calls, by heavens dreamt.",
+    "feedItems": [
+      {
+        "title": "Midwest Cities Topped WSJ Housing Index in First Quarter",
+        "description": "Lafayette, Ind., led the index for the second consecutive quarter.",
+        "link": "https://www.wsj.com/articles/midwest-cities-led-wsj-realtor-com-housing-index-in-first-quarter-8eb5c557",
+        "id": "WP-WSJ-0000813951"
+      },
+      {
+        "title": "See Full Rankings for WSJ/Realtor.com's Spring Emerging Housing Markets Index",
+        "description": "Here is how metro areas across the U.S. stack up in the newly updated spring 2023 rankings.",
+        "link": "https://www.wsj.com/articles/see-the-full-rankings-for-wsj-realtor-coms-spring-emerging-housing-markets-index-3c485783",
+        "id": "WP-WSJ-0000814534"
+      },
+      {
+        "title": "Korea's Stock Market Shines Even as Economy Dims",
+        "description": "Should a slowing economy lead to a weak stock market? Not judging by the performance of Korea’s benchmark index this year.",
+        "link": "https://www.wsj.com/articles/koreas-stock-market-shines-even-as-economy-dims-4085957f",
+        "id": "WP-WSJ-0000817121"
+      }
+    ],
+    "date": "2023-04-26"
+  }
+]
