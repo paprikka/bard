@@ -13,5 +13,7 @@ export const load = async () => {
 		})
 	);
 
-	return { allPosts };
+	const allPostsDescending = [...allPosts].reverse();
+
+	return { allPostsDescending };
 };

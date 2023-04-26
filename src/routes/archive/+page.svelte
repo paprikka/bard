@@ -10,7 +10,7 @@
 
 <ArticleContainter size="fixed">
 	<h2>Archive</h2>
-	{#each data.allPosts as post}
+	{#each data.allPostsDescending as post}
 		<h2>{post.dayID}</h2>
 		<ul>
 			{#each post.songs as song, i}
