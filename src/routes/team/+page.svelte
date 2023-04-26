@@ -20,7 +20,7 @@
 					/>
 				</div>
 				<div class="description">
-					<h2>{post.author.name}</h2>
+					<h2 id={post.author.id}>{post.author.name}</h2>
 					<p>{post.author.description}</p>
 					<h3>Works</h3>
 					<ul class="songs">
@@ -83,6 +83,10 @@
 		line-height: 1;
 	}
 
+	.songs a {
+		display: inline-block;
+	}
+
 	.date {
 		font-size: var(--font-size-xs);
 		opacity: 0.5;
@@ -101,7 +105,7 @@
 	}
 
 	h3 {
-		margin-bottom: 0;
+		margin-bottom: 0.25rem;
 	}
 
 	a {
