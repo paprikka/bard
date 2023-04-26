@@ -1,29 +1,132 @@
 [
   {
     "author": {
-      "name": "Æthelred the Skald",
-      "id": "aethelred",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.png",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
     },
-    "newsMedieval": "In mountains high, ascends the fleet,\nA sport, skyrunning, doth they greet,\nEndurance great, as gods of old,\nUpward they climb, ambitious bold.\n\nA test of wit, ordeals 'bout,\nEvents report, put in a joust,\nWisdom be gained from hollow'd page,\nMark The Wall Street Journal's sage.\n\nNow hearst, of fjords I speak no more,\nBut countless shores of foreign lore,\nIn paradisal climes they flee,\nWhere gold is spent as brisk as sea.",
+    "newsMedieval": "In sooth, a sport yclept thee sprintest high,\nTo mountains steep, and far o'er fifty miles,\nA wondrous feat whereat our spirits smile.\n\nA query fair, with news of late didst fly,\nUpon the winds of April twenty-second,\nA test to stretch the minds of brethren glad.\n\nAlas, good folk of quarters dear hath fled,\nAnd in their wake, a rising cost doth swell,\nFor refuge seek, but change they bring as well.",
     "feedItems": [
       {
         "title": "The Fast-Growing Sport Where You Run Up a Mountain for 50 Miles",
-        "description": "A cadre of hard-core endurance athletes are embracing skyrunning, which focuses on how high you can run instead of how far.",
         "link": "https://www.wsj.com/articles/skyrunning-endurance-race-sports-343cfd52",
-        "id": "WP-WSJ-0000800252"
+        "pubDate": "Sat, 22 Apr 2023 06:00:00 -0400",
+        "content:encoded": "",
+        "content": "A cadre of hard-core endurance athletes are embracing skyrunning, which focuses on how high you can run instead of how far.",
+        "contentSnippet": "A cadre of hard-core endurance athletes are embracing skyrunning, which focuses on how high you can run instead of how far.",
+        "guid": "WP-WSJ-0000800252",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T10:00:00.000Z"
       },
       {
         "title": "News Quiz for April 22, 2023",
-        "description": "Test your knowledge of the week’s events as reported in The Wall Street Journal.",
         "link": "https://www.wsj.com/articles/news-quiz-for-april-22-2023-1af93c21",
-        "id": "WP-WSJ-0000805242"
+        "pubDate": "Sat, 22 Apr 2023 06:00:00 -0400",
+        "content:encoded": "",
+        "content": "Test your knowledge of the week’s events as reported in The Wall Street Journal.",
+        "contentSnippet": "Test your knowledge of the week’s events as reported in The Wall Street Journal.",
+        "guid": "WP-WSJ-0000805242",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T10:00:00.000Z"
       },
       {
         "title": "Americans Escaping Pricey Cities Bring Higher Inflation With Them",
-        "description": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
         "link": "https://www.wsj.com/articles/americans-escaping-pricey-cities-bring-higher-inflation-with-them-bda43fee",
-        "id": "SB11217464675432254657604589575830678197414"
+        "pubDate": "Sat, 22 Apr 2023 05:52:00 -0400",
+        "content:encoded": "",
+        "content": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
+        "contentSnippet": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
+        "guid": "SB11217464675432254657604589575830678197414",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T09:52:00.000Z"
+      }
+    ],
+    "date": "2023-04-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "Of Debt-Ceiling's Standoff fierce I sing,\nIts warping force doth gnash on Treasury's wing;\nThe mead-halls echo with th' accursed name,\nAs rancor grows, in markets beamed with flame.\n\nTh' Americans of cities fleeing high,\nTo hamlets flee, a bloated coin supply;\nWith greener pastures come inflations dread,\nAs distant lands bear heavy burden's head.\n\nA foaming tide, the chariots of storm,\nIn EVs' rise, the mining field transform;\nGreat Thor applauds deals etched in iron ore,\nAs torrents flow, their current t'ward the shore.",
+    "feedItems": [
+      {
+        "title": "Debt-Ceiling Standoff Warps Treasury Trading",
+        "link": "https://www.wsj.com/articles/debt-ceiling-standoff-warps-treasury-trading-a3d3c383",
+        "pubDate": "Sat, 22 Apr 2023 05:30:00 -0400",
+        "content:encoded": "",
+        "content": "The divergence between one-month and three-month bills is the largest on record.",
+        "contentSnippet": "The divergence between one-month and three-month bills is the largest on record.",
+        "guid": "WP-WSJ-0000809054",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T09:30:00.000Z"
+      },
+      {
+        "title": "Americans Escaping Pricey Cities Bring Higher Housing Costs, Inflation With Them",
+        "link": "https://www.wsj.com/articles/americans-escaping-pricey-cities-bring-higher-housing-costs-inflation-with-them-a3118424",
+        "pubDate": "Sat, 22 Apr 2023 05:30:00 -0400",
+        "content:encoded": "",
+        "content": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
+        "contentSnippet": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
+        "guid": "WP-WSJ-0000807856",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T09:30:00.000Z"
+      },
+      {
+        "title": "Rise of EVs Drives Mining Deals to Decade High",
+        "link": "https://www.wsj.com/articles/rise-of-evs-drives-mining-deals-to-decade-high-6fab9b47",
+        "pubDate": "Sat, 22 Apr 2023 05:30:00 -0400",
+        "content:encoded": "",
+        "content": "Mining companies are back at the deals table as they battle for control of commodities essential for making electric cars and renewable-energy infrastructure.",
+        "contentSnippet": "Mining companies are back at the deals table as they battle for control of commodities essential for making electric cars and renewable-energy infrastructure.",
+        "guid": "WP-WSJ-0000807087",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T09:30:00.000Z"
       }
     ],
     "date": "2023-04-22"
@@ -32,27 +135,64 @@
     "author": {
       "name": "Conchobar mac Nessa",
       "id": "conchobar",
+      "avatar": "cat-3.png",
       "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
     },
-    "newsMedieval": "In Treasury's halls of gilded trade,\nA great divergence was displayed.\nBetwixt one-month and three, behold!\nThe largest gap in records old.\n\nAs men escape th' expensive town,\nTo warmer climes they bear the crown\nOf highest costs, inflation near,\nTwo points above th' national sphere.\n\nNow hasten, Swift charg'd wains contend\nIn mining deals ne'er seen, my friend!\nThe race for metals in ascendance\nFor cars electric and green transcendence.",
+    "newsMedieval": "Upon the border 'twixt the frost and flame,\nA chill doth spread, where Europe's sons do fight;\nIn shadows long our warriors stake their claim,\nA somber dance 'neath watchful eyes of night.\n\nAt dawn's first light, comes word of boons and risks,\nOf Musk, a man who leapt from earth to sky;\nWithin a day, his name, like lightning, flicks,\nTo stir the hearts of those who see him fly.\n\nAlas, the heralds sing a mournful cry,\nFor Moody's hath her gaze on banks once strong;\nFrom Zion's walls to leagues of U.S. ties,\nThe Western Alliance shares her song.",
     "feedItems": [
       {
-        "title": "Debt-Ceiling Standoff Warps Treasury Trading",
-        "description": "The divergence between one-month and three-month bills is the largest on record.",
-        "link": "https://www.wsj.com/articles/debt-ceiling-standoff-warps-treasury-trading-a3d3c383",
-        "id": "WP-WSJ-0000809054"
+        "title": "Chill Settles In at a Europe-Russia Border Crossing",
+        "link": "https://www.wsj.com/articles/chill-settles-in-at-a-europe-russia-border-crossing-f5896405",
+        "pubDate": "Sat, 22 Apr 2023 05:30:00 -0400",
+        "content:encoded": "",
+        "content": "High above the Arctic Circle, Norway maintains frosty relations with Moscow, even as most other countries in Europe have closed their doors to most Russians since the invasion of Ukraine.",
+        "contentSnippet": "High above the Arctic Circle, Norway maintains frosty relations with Moscow, even as most other countries in Europe have closed their doors to most Russians since the invasion of Ukraine.",
+        "guid": "WP-WSJ-0000809034",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T09:30:00.000Z"
       },
       {
-        "title": "Americans Escaping Pricey Cities Bring Higher Housing Costs, Inflation With Them",
-        "description": "Inflation in some warm-weather metro areas is more than 2 percentage points higher than the national rate.",
-        "link": "https://www.wsj.com/articles/americans-escaping-pricey-cities-bring-higher-housing-costs-inflation-with-them-a3118424",
-        "id": "WP-WSJ-0000807856"
+        "title": "In 24 Hours, Musk Reignited His Reputation for Risk",
+        "link": "https://www.wsj.com/articles/in-24-hours-elon-musk-reignited-his-reputation-for-risk-711f29b8",
+        "pubDate": "Sat, 22 Apr 2023 05:30:00 -0400",
+        "content:encoded": "",
+        "content": "The billionaire entrepreneur had a dramatic week with moves at Twitter, Tesla and SpaceX.",
+        "contentSnippet": "The billionaire entrepreneur had a dramatic week with moves at Twitter, Tesla and SpaceX.",
+        "guid": "WP-WSJ-0000809891",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T09:30:00.000Z"
       },
       {
-        "title": "Rise of EVs Drives Mining Deals to Decade High",
-        "description": "Mining companies are back at the deals table as they battle for control of commodities essential for making electric cars and renewable-energy infrastructure.",
-        "link": "https://www.wsj.com/articles/rise-of-evs-drives-mining-deals-to-decade-high-6fab9b47",
-        "id": "WP-WSJ-0000807087"
+        "title": "Moody's Downgrades 11 Regional Banks, Including Zions, U.S. Bank, Western Alliance",
+        "link": "https://www.wsj.com/articles/moodys-downgrades-11-regional-banks-including-zions-u-s-bank-western-alliance-174e4d7f",
+        "pubDate": "Sat, 22 Apr 2023 00:38:00 -0400",
+        "content:encoded": "",
+        "content": "The recent failures of Silicon Valley Bank and Signature have focused attention on regional lenders’ weaknesses.",
+        "contentSnippet": "The recent failures of Silicon Valley Bank and Signature have focused attention on regional lenders’ weaknesses.",
+        "guid": "WP-WSJ-0000810642",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T04:38:00.000Z"
       }
     ],
     "date": "2023-04-22"
@@ -61,27 +201,64 @@
     "author": {
       "name": "Guillemette de Ventadour",
       "id": "guillemette",
+      "avatar": "cat-2.png",
       "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
     },
-    "newsMedieval": "Upon the border of two realms so fierce,\nIn Arctic domain of ice, a frost doth pierce,\nNorway and Moscow, tensions mount and swell,\nAs Europe's doors close to Russians’ knell.\n\nIn swift succession, noble Musk did play,\nRisk's anxious hand upon life’s stage, in one short day,\nTwitter, Tesla, SpaceX felt his might,\nHis reputation's reigniting set alight.\n\nAnd foul winds blow through regions' banks afar,\nEleven's grace hath fallen, like lone star,\nAs Moody's downgrades darken Western skies,\nSilicon's demise now catches all eyes.",
+    "newsMedieval": "Upon fair Pepsi's crest, a novel feast,\nA potion and a pastry doth they boast,\nWhilst drinkers savour 'pon this fleeting yeast,\nAnd hums the prosperous kingdoms, coast to coast.\n\nYet, hark! The potion doth a change unfold,\nFor 'neath the goblet now hold vittles bold,\nWith Pepsi's newfound health its subjects toast,\nAnd spuds and sips entwine like heart's appose.\n\nDeft sounds and whispers fill the ears around,\nNot emptiness, nor hollow breezes want,\nFor in vermilion vestiges resound,\nThe echoes of a thoughtful troubadour.",
     "feedItems": [
       {
-        "title": "Chill Settles In at a Europe-Russia Border Crossing",
-        "description": "High above the Arctic Circle, Norway maintains frosty relations with Moscow, even as most other countries in Europe have closed their doors to most Russians since the invasion of Ukraine.",
-        "link": "https://www.wsj.com/articles/chill-settles-in-at-a-europe-russia-border-crossing-f5896405",
-        "id": "WP-WSJ-0000809034"
+        "title": "Pepsi's New Diet: More Chips and Soda",
+        "link": "https://www.wsj.com/articles/pepsis-new-healthy-diet-more-potato-chips-and-soda-426634fd",
+        "pubDate": "Sat, 22 Apr 2023 00:30:00 -0400",
+        "content:encoded": "",
+        "content": "If people are going to eat junk food anyway, the company figures it should include less salt, fat and sugar.",
+        "contentSnippet": "If people are going to eat junk food anyway, the company figures it should include less salt, fat and sugar.",
+        "guid": "SB11217464675432254657604589575413493447236",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T04:30:00.000Z"
       },
       {
-        "title": "In 24 Hours, Musk Reignited His Reputation for Risk",
-        "description": "The billionaire entrepreneur had a dramatic week with moves at Twitter, Tesla and SpaceX.",
-        "link": "https://www.wsj.com/articles/in-24-hours-elon-musk-reignited-his-reputation-for-risk-711f29b8",
-        "id": "WP-WSJ-0000809891"
+        "title": "Pepsi's New Healthy Diet: More Potato Chips and Soda",
+        "link": "https://www.wsj.com/articles/pepsis-new-healthy-diet-more-potato-chips-and-soda-d79cb46a",
+        "pubDate": "Sat, 22 Apr 2023 00:08:00 -0400",
+        "content:encoded": "",
+        "content": "If people are going to eat junk food anyway, the company figures it should include less salt, fat and sugar.",
+        "contentSnippet": "If people are going to eat junk food anyway, the company figures it should include less salt, fat and sugar.",
+        "guid": "SB10039764738899044154404589575382446186794",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T04:08:00.000Z"
       },
       {
-        "title": "Moody's Downgrades 11 Regional Banks, Including Zions, U.S. Bank, Western Alliance",
-        "description": "The recent failures of Silicon Valley Bank and Signature have focused attention on regional lenders’ weaknesses.",
-        "link": "https://www.wsj.com/articles/moodys-downgrades-11-regional-banks-including-zions-u-s-bank-western-alliance-174e4d7f",
-        "id": "WP-WSJ-0000810642"
+        "title": "Our Sounds of Hesitation Are More Than Filler",
+        "link": "https://www.wsj.com/articles/our-sounds-of-hesitation-are-more-than-filler-1f2f5807",
+        "pubDate": "Sat, 22 Apr 2023 00:01:00 -0400",
+        "content:encoded": "",
+        "content": "Equivalents of ‘um’ and ‘uh’ appear in most languages, suggesting that such ‘filled pauses’ help us to communicate.",
+        "contentSnippet": "Equivalents of ‘um’ and ‘uh’ appear in most languages, suggesting that such ‘filled pauses’ help us to communicate.",
+        "guid": "WP-WSJ-0000796144",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-22T04:01:00.000Z"
       }
     ],
     "date": "2023-04-22"

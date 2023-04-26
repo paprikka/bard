@@ -1,89 +1,266 @@
 [
-	{
-		"author": {
-			"id": "aethelred",
-			"name": "Æthelred the Skald",
-			"description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
-		},
-		"date": "2023-04-19",
-		"newsMedieval": "Hearken, ye folk, to the tale of this time,\nOf the Biden kin, who their fair taxes climb!\nWith gold and coin, some one hundred-seventh score,\nIn the year of our Lord, two thousand twenty and four.\n\nOnward I sing, of the Russian might,\nSergei Lavrov, the sage, in Latin lands takes flight;\nTo Brazil he traveled, a tale of war he sought to quell,\nThen to lands of Venezuela, Nicaragua, and Cuba he dwells.\n\nLo and behold, the young vikings strive,\nThe labor market's rough seas, they must contrive;\nFutures uncertain, the land abounds with dread,\nA new generation's saga, for employment to be wed.",
-		"feedItems": [
-			{
-				"title": "Bidens Paid About $170,000 in Taxes for 2022",
-				"description": "The first couple reported $579,514 in adjusted gross income, slightly less than 2021.",
-				"link": "https://www.wsj.com/articles/bidens-paid-about-170-000-in-taxes-for-2022-a5d5813b",
-				"id": "WP-WSJ-0000797244"
-			},
-			{
-				"title": "Russian Foreign Minister Seeks Deeper Ties in Latin America",
-				"description": "In a visit to the region, Sergei Lavrov thanked Brazil for its proposal to end the Ukraine war before flying to Venezuela, Nicaragua and Cuba.",
-				"link": "https://www.wsj.com/articles/russian-foreign-minister-seeks-deeper-ties-in-latin-america-24801709",
-				"id": "WP-WSJ-0000796987"
-			},
-			{
-				"title": "Gen Z Faces a Tough Labor Market",
-				"description": "College students discuss their employment opportunities and job hunting.",
-				"link": "https://www.wsj.com/articles/gen-z-faces-a-tough-labor-market-students-graduates-university-job-unemployment-law-internship-work-experience-8f3135f5",
-				"id": "SB11695864883913753948804589567360461251186"
-			}
-		]
-	},
-	{
-		"author": {
-			"id": "conchobar",
-			"name": "Conchobar mac Nessa",
-			"description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
-		},
-		"date": "2023-04-19",
-		"newsMedieval": "Of laws and lawmakers I shall sing,\nIn Erin's land their voices ring,\nFrom China's Xinjiang, import stout,\nAgainst forced labor laws cry out.\n\nA tale of Julie Su I glean,\nAs Biden's Labor nominee keen,\nWith fierce union's interest in heart,\nShe fights for workers, plays her part.\n\nAnd now my song to Trump doth soar,\nWith Disney by his side, he swore,\nAgainst great DeSantis, in the fray,\n'Woke' tempest rises, holds its sway.",
-		"feedItems": [
-			{
-				"title": "Lawmakers Look for Tough Implementation of Forced Labor Law Targeting China",
-				"description": "U.S. lawmakers scrutinized possible loopholes in an anti-forced labor law blocking many imports from China’s Xinjiang region, expressing bipartisan support for cracking down on companies with supply chains stemming from the region.",
-				"link": "https://www.wsj.com/articles/lawmakers-look-for-tough-implementation-of-forced-labor-law-targeting-china-9e9b3e0e",
-				"id": "WP-WSJ-0000796453"
-			},
-			{
-				"title": "A Big Labor Partisan Named Julie Su",
-				"description": "Biden’s Labor nominee puts union interests above workers.",
-				"link": "https://www.wsj.com/articles/julie-su-department-of-labor-nominee-biden-california-ab5-unions-workers-8d3ed6da",
-				"id": "SB11060834557182014156604589554643290157168"
-			},
-			{
-				"title": "Donald Trump Sides With Disney",
-				"description": "The former President goes for woke to trash Ron DeSantis.",
-				"link": "https://www.wsj.com/articles/donald-trump-disney-ron-desantis-florida-bob-iger-20fb5776",
-				"id": "SB10039764738899044154404589568543883800038"
-			}
-		]
-	},
-	{
-		"author": {
-			"id": "guillemette",
-			"name": "Guillemette de Ventadour",
-			"description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
-		},
-		"date": "2023-04-19",
-		"newsMedieval": "In Aprile's month of nineteen and twenty-three,\nUnraveling errors, corrections to be,\nA manuscript's tale of veracity free,\nIn the garb of Amplification dons, we see.\n\nNeath Diamond's resplendent field of play,\nFour noble clubs their grievance shalt say,\nThee an unpaid feast dost partake each day,\nAs they cheers and chants, do mask the fray.\n\nSeek I then to tell of auction most flawed,\nFDIC with craft, the fate of the SVB gnawed,\nNonbank bidders' plight a burden unthawed,\nAnd cost to ye commoners' hearts thus clawed.",
-		"feedItems": [
-			{
-				"title": "Corrections & Amplifications",
-				"description": "Corrections & Amplifications for the edition of April 19, 2023.",
-				"link": "https://www.wsj.com/articles/corrections-amplifications-70b8a602",
-				"id": "SB10039764738899044154404589568393455973138"
-			},
-			{
-				"title": "Pro Take: Diamond Sports Should Be Stripped of 'Free Lunch', MLB Clubs Say",
-				"description": "Diamond Sports Group will face off Wednesday with Major League Baseball and four of its teams, which say it has been eating a “free lunch” in chapter 11 by broadcasting games without paying for the exclusive rights.",
-				"link": "https://www.wsj.com/articles/pro-take-diamond-sports-should-be-stripped-of-free-lunch-mlb-clubs-say-b3950ee9",
-				"id": "WP-WSJ-0000797101"
-			},
-			{
-				"title": "How the FDIC Rigged the SVB Auction",
-				"description": "The agency snubbed nonbank bidders, which cost taxpayers more.",
-				"link": "https://www.wsj.com/articles/fdic-nonbanks-silicon-valley-bank-sale-martin-gruenberg-609af47",
-				"id": "SB11217464675432254657604589566313568466626"
-			}
-		]
-	}
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.png",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+    },
+    "newsMedieval": "Of noble Biden's coin and tax,\nA tale I've heard, a merry jest!\nIn year of two-and-twenty score,\nPaid silver he, one-seventy more.\n\nAlone in lands of warmth and sun,\nThe Russian ties with Latins spun,\nHis craft in seeking friendship vast,\nTo weave a web that ever lasts.\n\nBehold! I see the youthful strife,\nGen Z, that face a toil-some life,\nIn market churning, labor's rough,\nThey sail the seas of fortune tough.",
+    "feedItems": [
+      {
+        "title": "Bidens Paid About $170,000 in Taxes for 2022",
+        "link": "https://www.wsj.com/articles/bidens-paid-about-170-000-in-taxes-for-2022-a5d5813b",
+        "pubDate": "Tue, 18 Apr 2023 19:13:00 -0400",
+        "content:encoded": "",
+        "content": "The first couple reported $579,514 in adjusted gross income, slightly less than 2021.",
+        "contentSnippet": "The first couple reported $579,514 in adjusted gross income, slightly less than 2021.",
+        "guid": "WP-WSJ-0000797244",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T23:13:00.000Z"
+      },
+      {
+        "title": "Russian Foreign Minister Seeks Deeper Ties in Latin America",
+        "link": "https://www.wsj.com/articles/russian-foreign-minister-seeks-deeper-ties-in-latin-america-24801709",
+        "pubDate": "Tue, 18 Apr 2023 19:13:00 -0400",
+        "content:encoded": "",
+        "content": "In a visit to the region, Sergei Lavrov thanked Brazil for its proposal to end the Ukraine war before flying to Venezuela, Nicaragua and Cuba.",
+        "contentSnippet": "In a visit to the region, Sergei Lavrov thanked Brazil for its proposal to end the Ukraine war before flying to Venezuela, Nicaragua and Cuba.",
+        "guid": "WP-WSJ-0000796987",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T23:13:00.000Z"
+      },
+      {
+        "title": "Gen Z Faces a Tough Labor Market",
+        "link": "https://www.wsj.com/articles/gen-z-faces-a-tough-labor-market-students-graduates-university-job-unemployment-law-internship-work-experience-8f3135f5",
+        "pubDate": "Tue, 18 Apr 2023 19:05:00 -0400",
+        "content:encoded": "",
+        "content": "College students discuss their employment opportunities and job hunting.",
+        "contentSnippet": "College students discuss their employment opportunities and job hunting.",
+        "guid": "SB11695864883913753948804589567360461251186",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T23:05:00.000Z"
+      }
+    ],
+    "date": "2023-04-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+    },
+    "newsMedieval": "Of Lawmakers bold, in strife and toil,\nThey seek to quell the serpent's coil,\nTheir gaze on lands from distant shore,\nWhere forced labor's cries doth soar.\n\nIn heart where labor's banner's raised,\nA valiant soul whose name's so praised,\nJulie Su, the partisan\nDefends the rights of working man.\n\nBut Hark! There strides a chieftain fair,\nTrump, old ruler's name he wear,\nTo Disney's aid, the mighty Don,\nIn their battle fierce, for both are strong.",
+    "feedItems": [
+      {
+        "title": "Lawmakers Look for Tough Implementation of Forced Labor Law Targeting China",
+        "link": "https://www.wsj.com/articles/lawmakers-look-for-tough-implementation-of-forced-labor-law-targeting-china-9e9b3e0e",
+        "pubDate": "Tue, 18 Apr 2023 19:05:00 -0400",
+        "content:encoded": "",
+        "content": "U.S. lawmakers scrutinized possible loopholes in an anti-forced labor law blocking many imports from China’s Xinjiang region, expressing bipartisan support for cracking down on companies with supply chains stemming from the region. ",
+        "contentSnippet": "U.S. lawmakers scrutinized possible loopholes in an anti-forced labor law blocking many imports from China’s Xinjiang region, expressing bipartisan support for cracking down on companies with supply chains stemming from the region.",
+        "guid": "WP-WSJ-0000796453",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T23:05:00.000Z"
+      },
+      {
+        "title": "A Big Labor Partisan Named Julie Su",
+        "link": "https://www.wsj.com/articles/julie-su-department-of-labor-nominee-biden-california-ab5-unions-workers-8d3ed6da",
+        "pubDate": "Tue, 18 Apr 2023 19:02:00 -0400",
+        "content:encoded": "",
+        "content": "Biden’s Labor nominee puts union interests above workers.",
+        "contentSnippet": "Biden’s Labor nominee puts union interests above workers.",
+        "guid": "SB11060834557182014156604589554643290157168",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T23:02:00.000Z"
+      },
+      {
+        "title": "Donald Trump Sides With Disney",
+        "link": "https://www.wsj.com/articles/donald-trump-disney-ron-desantis-florida-bob-iger-20fb5776",
+        "pubDate": "Tue, 18 Apr 2023 19:00:00 -0400",
+        "content:encoded": "",
+        "content": "The former President goes for woke to trash Ron DeSantis.",
+        "contentSnippet": "The former President goes for woke to trash Ron DeSantis.",
+        "guid": "SB10039764738899044154404589568543883800038",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T23:00:00.000Z"
+      }
+    ],
+    "date": "2023-04-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Nessa",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+    },
+    "newsMedieval": "In the halls of truth, corrections come,\nThe minstrels sing of deeds to be undone,\nAmplifications echo through the night,\nTo set the hearts of men on the path right.\n\nUpon the Emerald Isle, the diamond gleams,\nBeset by cunning foes and foul schemes,\nA league of men doth challenge 'free lunch' ways,\nEntwined in tales of lore and yesteryears' plays.\n\nTo the western shores, the bank doth yield,\nFDIC in secret plots concealed,\nAn auction rigged by hands ungloved and sly,\nThe bard, Conchobar, as witness now must cry.",
+    "feedItems": [
+      {
+        "title": "Corrections & Amplifications",
+        "link": "https://www.wsj.com/articles/corrections-amplifications-70b8a602",
+        "pubDate": "Tue, 18 Apr 2023 18:59:00 -0400",
+        "content:encoded": "",
+        "content": "Corrections &amp; Amplifications for the edition of April 19, 2023.",
+        "contentSnippet": "Corrections & Amplifications for the edition of April 19, 2023.",
+        "guid": "SB10039764738899044154404589568393455973138",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T22:59:00.000Z"
+      },
+      {
+        "title": "Pro Take: Diamond Sports Should Be Stripped of 'Free Lunch', MLB Clubs Say",
+        "link": "https://www.wsj.com/articles/pro-take-diamond-sports-should-be-stripped-of-free-lunch-mlb-clubs-say-b3950ee9",
+        "pubDate": "Tue, 18 Apr 2023 18:59:00 -0400",
+        "content:encoded": "",
+        "content": "Diamond Sports Group will face off Wednesday with Major League Baseball and four of its teams, which say it has been eating a “free lunch” in chapter 11 by broadcasting games without paying for the exclusive rights.",
+        "contentSnippet": "Diamond Sports Group will face off Wednesday with Major League Baseball and four of its teams, which say it has been eating a “free lunch” in chapter 11 by broadcasting games without paying for the exclusive rights.",
+        "guid": "WP-WSJ-0000797101",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T22:59:00.000Z"
+      },
+      {
+        "title": "How the FDIC Rigged the SVB Auction",
+        "link": "https://www.wsj.com/articles/fdic-nonbanks-silicon-valley-bank-sale-martin-gruenberg-609af47",
+        "pubDate": "Tue, 18 Apr 2023 18:59:00 -0400",
+        "content:encoded": "",
+        "content": "The agency snubbed nonbank bidders, which cost taxpayers more.",
+        "contentSnippet": "The agency snubbed nonbank bidders, which cost taxpayers more.",
+        "guid": "SB11217464675432254657604589566313568466626",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T22:59:00.000Z"
+      }
+    ],
+    "date": "2023-04-19"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.png",
+      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+    },
+    "newsMedieval": "In fair New York, where Hochul's reign doth start,\nA moment of truth for education's heart,\nWith wit and love, new policies she form,\nTo guide the minds that soon will face life's storm.\n\nUpon yon field of healing arts we see,\nDiaverum, the kidney's trusted plea,\nIn noble deal of two billion sold,\nTheir care preserved, as ancient tales unfold.\n\nAnd in the realm of Fox, a sum was paid,\nDominion's honor sought, their claims to slay,\nSeven hundred millions, and the rest observe,\nA defamation lawsuit's end deserved.",
+    "feedItems": [
+      {
+        "title": "Kathy Hochul's Moment of Education Truth",
+        "link": "https://www.wsj.com/articles/kathy-hochul-charter-school-cap-budget-negotiations-albany-legislature-carl-heastie-andrea-stewart-cousins-7317e72e",
+        "pubDate": "Tue, 18 Apr 2023 18:59:00 -0400",
+        "content:encoded": "",
+        "content": "Will she let Albany crush her bid to allow more charter schools in New York City?",
+        "contentSnippet": "Will she let Albany crush her bid to allow more charter schools in New York City?",
+        "guid": "SB11217464675432254657604589568652938787062",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T22:59:00.000Z"
+      },
+      {
+        "title": "Kidney-Care Specialist Diaverum Expected to Be Sold in $2 Billion Deal",
+        "link": "https://www.wsj.com/articles/kidney-care-specialist-diaverum-to-be-sold-in-2-billion-deal-bfc6a91e",
+        "pubDate": "Tue, 18 Apr 2023 18:57:00 -0400",
+        "content:encoded": "",
+        "content": "Mubadala-backed M42 would buy the operator of 440 dialysis clinics from buyout firm Bridgepoint.",
+        "contentSnippet": "Mubadala-backed M42 would buy the operator of 440 dialysis clinics from buyout firm Bridgepoint.",
+        "guid": "WP-WSJ-0000796432",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T22:57:00.000Z"
+      },
+      {
+        "title": "Fox to Pay $787.5 Million to Settle Dominion's Defamation Lawsuit",
+        "link": "https://www.wsj.com/articles/fox-news-dominion-defamation-trial-set-to-begin-d5c7293a",
+        "pubDate": "Tue, 18 Apr 2023 18:55:00 -0400",
+        "content:encoded": "",
+        "content": "The settlement averts a trial on the voting-machine company’s allegations that it was defamed by network broadcasts after the 2020 presidential election.",
+        "contentSnippet": "The settlement averts a trial on the voting-machine company’s allegations that it was defamed by network broadcasts after the 2020 presidential election.",
+        "guid": "WP-WSJ-0000794704",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-18T22:55:00.000Z"
+      }
+    ],
+    "date": "2023-04-19"
+  }
 ]

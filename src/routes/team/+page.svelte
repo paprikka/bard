@@ -26,8 +26,8 @@
 					<ul class="songs">
 						{#each post.songs as song, i}
 							<li>
-								<a href="/{song.date}/{i}">{song.newsMedieval.split('\n')[0]}</a>
-								<!-- <span class="author">by {song.author.name}</span> -->
+								<a href="/{song.date}/{song.author.id}">{song.newsMedieval.split('\n')[0]}</a>
+								<span class="date">{song.date}</span>
 							</li>
 						{/each}
 					</ul>
@@ -81,6 +81,12 @@
 	.songs li {
 		margin-bottom: 0;
 		line-height: 1;
+	}
+
+	.date {
+		font-size: var(--font-size-xs);
+		opacity: 0.5;
+		display: block;
 	}
 
 	.is-offset-kitten {

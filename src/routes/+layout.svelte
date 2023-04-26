@@ -30,6 +30,7 @@
 		--font-family: 'font-default', serif;
 		--font-family-drop-caps: 'font-drop-caps', serif;
 
+		--font-size-xs: clamp(1rem, 0.2rem + 0.75vw, 1.5rem);
 		--font-size-s: clamp(1rem, 0.3rem + 1vw, 2rem);
 		--font-size-m: clamp(1.25rem, 0.5rem + 2vw, 2rem);
 		--font-size-l: clamp(2.5rem, 2.2993rem + 0.8451vw, 3.25rem);

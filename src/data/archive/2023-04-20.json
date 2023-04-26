@@ -1,58 +1,66 @@
 [
   {
     "author": {
-      "name": "Guillemette de Ventadour",
-      "id": "guillemette",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
-    },
-    "newsMedieval": "Upon the slumber of our feather'd kin,\nDavid Obuchowski's quill doth my heart win,\nIn 'How Birds Sleep,' adorned with Pedry's art,\nA wonder to behold, enchanting each part.\n\nBlank space\n\nNow, 'Big Tree' dost rise, Selznick's tale so grand,\nThrough verdant leaves our knowledge doth expand,\nA tale of growth, and life, stretched to the skies,\nIn its branches, wisdom's beauty lies.\n\nBlank space\n\nFrom Voisard's skilled hand, 'Arborama' sprung,\nA tribute to the trees in verses sung,\nTheir majesty and grace, their history,\nIn each fine line, their essence we shall see.",
-    "feedItems": [
-      {
-        "title": "A Closer Look",
-        "description": "Selections from ‘How Birds Sleep’ by David Obuchowski, illustrated by Sarah Pedry",
-        "link": "https://www.wsj.com/articles/a-closer-look-4f8fbe07",
-        "id": "SB10039764738899044154404589568400952943542"
-      },
-      {
-        "title": "A Closer Look",
-        "description": "Selections from ‘Big Tree’ by Brian Selznick",
-        "link": "https://www.wsj.com/articles/a-closer-look-7848f809",
-        "id": "SB10039764738899044154404589568403923377552"
-      },
-      {
-        "title": "A Closer Look",
-        "description": "Selections from ‘Arborama’ by Lisa Voisard",
-        "link": "https://www.wsj.com/articles/a-closer-look-ac8ae53f",
-        "id": "SB10039764738899044154404589568390993060198"
-      }
-    ],
-    "date": "2023-04-20"
-  },
-  {
-    "author": {
       "name": "Brother Arnulfus",
       "id": "arnulfus",
+      "avatar": "dog-1.png",
       "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
     },
-    "newsMedieval": "In this Yorkish trial, I dost see,\nGuo Wengui, jailed, denied to flee,\nOn lies and dirtied coins, he stands,\nCast out from distant Chinese lands.\n\nHow Old, thou asketh, is the Whale?\nDear Lily Murray pens the tale,\nWith Jesse Hodgson's drawings fine,\nA closer look at nature's sign.\n\nThe Earth Transformed, a tale of blight,\n'Tis said that doom may see respite,\nIn cycles passed, both man and bower,\nHave shaped each other, hour by hour.",
+    "newsMedieval": "In troth I see'th, 'pon yonder sphere\nA closer look doth now appear,\nWith keenest eye, let all give cheer\nTo grace God's handiwork so near.\n\nNow once again, anon we gaze,\nAnother closer look displayed,\nWith holy awe, our voices raise\nAnd humbly thank the Lord, amazed.\n\nThus thrice in all, we now hath spied\nA third time closer look untried,\nO blessed sight we can't deny,\nTo sing with joy, and sanctify.",
     "feedItems": [
       {
-        "title": "Guo Wengui Denied Bail While Awaiting Trial in New York",
-        "description": "The exiled Chinese businessman has been in jail on fraud and money-laundering charges since March.",
-        "link": "https://www.wsj.com/articles/guo-wengui-denied-bail-while-awaiting-trial-in-new-york-47755986",
-        "id": "WP-WSJ-0000805777"
+        "title": "A Closer Look",
+        "link": "https://www.wsj.com/articles/a-closer-look-4f8fbe07",
+        "pubDate": "Thu, 20 Apr 2023 18:04:00 -0400",
+        "content:encoded": "",
+        "content": "Selections from ‘How Birds Sleep’ by David Obuchowski, illustrated by Sarah Pedry",
+        "contentSnippet": "Selections from ‘How Birds Sleep’ by David Obuchowski, illustrated by Sarah Pedry",
+        "guid": "SB10039764738899044154404589568400952943542",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T22:04:00.000Z"
       },
       {
         "title": "A Closer Look",
-        "description": "Selections from ‘How Old is a Whale?’ by Lily Murray, illustrated by Jesse Hodgson",
-        "link": "https://www.wsj.com/articles/a-closer-look-133b28ae",
-        "id": "SB10039764738899044154404589568412657144006"
+        "link": "https://www.wsj.com/articles/a-closer-look-7848f809",
+        "pubDate": "Thu, 20 Apr 2023 18:04:00 -0400",
+        "content:encoded": "",
+        "content": "Selections from ‘Big Tree’ by Brian Selznick",
+        "contentSnippet": "Selections from ‘Big Tree’ by Brian Selznick",
+        "guid": "SB10039764738899044154404589568403923377552",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T22:04:00.000Z"
       },
       {
-        "title": "'The Earth Transformed' Review: Doom May Be Delayed",
-        "description": "For eons, human civilizations have shaped—and been shaped by—the natural world.",
-        "link": "https://www.wsj.com/articles/the-earth-transformed-review-doom-may-be-delayed-fc140873",
-        "id": "SB11217464675432254657604589567003886447492"
+        "title": "A Closer Look",
+        "link": "https://www.wsj.com/articles/a-closer-look-ac8ae53f",
+        "pubDate": "Thu, 20 Apr 2023 18:02:00 -0400",
+        "content:encoded": "",
+        "content": "Selections from ‘Arborama’ by Lisa Voisard",
+        "contentSnippet": "Selections from ‘Arborama’ by Lisa Voisard",
+        "guid": "SB10039764738899044154404589568390993060198",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T22:02:00.000Z"
       }
     ],
     "date": "2023-04-20"
@@ -61,27 +69,196 @@
     "author": {
       "name": "Æthelred the Skald",
       "id": "aethelred",
+      "avatar": "cat-1.png",
       "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
     },
-    "newsMedieval": "In Ritchie's fabled tale, the Covenant doth unfold,\nAs stalwart Gyllenhaal storms Afghan lands, so bold,\nFacing Taliban and strife, with interpreter, be told,\nA saga of grim conflict, in Ritchie's vision, hath been scrolled.\n\nWith seedlings of the mind, our children's wights shall learn,\nIn tale of 'Big Tree,' 'Arborama,' knowledge doth they yearn,\nThrough 'Wings, Waves & Webs,' young minds shall duly turn,\n'How Old Is a Whale?' and bards of sleeping birds discern.\n\nFor Gerald Ford, called 'Ordinary Man,' we sing,\nThe bard dost praise the 38th president of thee, so underrating,\nThrough storm and strife, he led, a listener daring,\nFor him, we raise our voice, in verses thus abating.",
+    "newsMedieval": "In the hall of justice cold and stark,\nGuo Wengui, a warrior bound, did mark.\nNo bail to pay, in chains he'd stay,\nAwaiting the trial of his fate's display.\n\nUpon the news in script and lore,\nA closer look we keenly tore.\nReveal the truths, O skald divine,\nTo feed the minds that doth entwine.\n\nThe Earth transformed, a tale most dire,\nAn omen of doom's dreaded mire.\nYet hope remains, delay our fate,\nA fleeting breath 'fore heaven's gate.",
+    "feedItems": [
+      {
+        "title": "Guo Wengui Denied Bail While Awaiting Trial in New York",
+        "link": "https://www.wsj.com/articles/guo-wengui-denied-bail-while-awaiting-trial-in-new-york-47755986",
+        "pubDate": "Thu, 20 Apr 2023 18:01:00 -0400",
+        "content:encoded": "",
+        "content": "The exiled Chinese businessman has been in jail on fraud and money-laundering charges since March.",
+        "contentSnippet": "The exiled Chinese businessman has been in jail on fraud and money-laundering charges since March.",
+        "guid": "WP-WSJ-0000805777",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T22:01:00.000Z"
+      },
+      {
+        "title": "A Closer Look",
+        "link": "https://www.wsj.com/articles/a-closer-look-133b28ae",
+        "pubDate": "Thu, 20 Apr 2023 18:00:00 -0400",
+        "content:encoded": "",
+        "content": "Selections from ‘How Old is a Whale?’ by Lily Murray, illustrated by Jesse Hodgson",
+        "contentSnippet": "Selections from ‘How Old is a Whale?’ by Lily Murray, illustrated by Jesse Hodgson",
+        "guid": "SB10039764738899044154404589568412657144006",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T22:00:00.000Z"
+      },
+      {
+        "title": "'The Earth Transformed' Review: Doom May Be Delayed",
+        "link": "https://www.wsj.com/articles/the-earth-transformed-review-doom-may-be-delayed-fc140873",
+        "pubDate": "Thu, 20 Apr 2023 17:39:00 -0400",
+        "content:encoded": "",
+        "content": "For eons, human civilizations have shaped—and been shaped by—the natural world.",
+        "contentSnippet": "For eons, human civilizations have shaped—and been shaped by—the natural world.",
+        "guid": "SB11217464675432254657604589567003886447492",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:39:00.000Z"
+      }
+    ],
+    "date": "2023-04-20"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Nessa",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+    },
+    "newsMedieval": "In distant lands, where battles fierce dost weigh,\nGuy Ritchie's tale of noble men doth sway;\n\"The Covenant\" they name it, as we spy\nBrave hearts engage in fray 'neath Afghan sky.\n\nIn kinder realms, where young minds seek to roam,\nThe bard doth sing in praise of children's tome;\nWith seedling words, their fancies we doth wake\nAnd gentle scribe, a vibrant world doth make.\n\nA third tale shared, of Ford, drawn from the past,\n\"An Ordinary Man\" belies his vast\nAnd stalwart deeds; 'twas he who stood so tall,\nHis story one of strength, despite small call.",
     "feedItems": [
       {
         "title": "'Guy Ritchie's The Covenant' Review: Action in Afghanistan",
-        "description": "The British director’s unusually straightforward new film stars Jake Gyllenhaal as an American sergeant navigating Taliban-riddled territory with a local interpreter.",
         "link": "https://www.wsj.com/articles/guy-ritchies-the-covenant-review-action-in-afghanistan-3cd42d46",
-        "id": "SB10039764738899044154404589570142059653758"
+        "pubDate": "Thu, 20 Apr 2023 17:34:00 -0400",
+        "content:encoded": "",
+        "content": "The British director’s unusually straightforward new film stars Jake Gyllenhaal as an American sergeant navigating Taliban-riddled territory with a local interpreter.",
+        "contentSnippet": "The British director’s unusually straightforward new film stars Jake Gyllenhaal as an American sergeant navigating Taliban-riddled territory with a local interpreter.",
+        "guid": "SB10039764738899044154404589570142059653758",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:34:00.000Z"
       },
       {
         "title": "Children's Books: Seedlings of the Imagination",
-        "description": "Reviews of ‘Big Tree,’ ‘Arborama,’ ‘Wings, Waves & Webs,’ ‘ How Old Is a Whale?’ and ‘How Birds Sleep.’",
         "link": "https://www.wsj.com/articles/childrens-books-seedlings-of-the-imagination-21e747eb",
-        "id": "SB10580974286322444681604589554360053668296"
+        "pubDate": "Thu, 20 Apr 2023 17:34:00 -0400",
+        "content:encoded": "",
+        "content": "Reviews of ‘Big Tree,’ ‘Arborama,’ ‘Wings, Waves &amp; Webs,’ ‘ How Old Is a Whale?’ and ‘How Birds Sleep.’",
+        "contentSnippet": "Reviews of ‘Big Tree,’ ‘Arborama,’ ‘Wings, Waves & Webs,’ ‘ How Old Is a Whale?’ and ‘How Birds Sleep.’",
+        "guid": "SB10580974286322444681604589554360053668296",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:34:00.000Z"
       },
       {
         "title": "'An Ordinary Man' Review: Underestimating Gerald Ford",
-        "description": "Listening more than talking, the 38th president guided America through a tumultuous era. He receives too little credit for it.",
         "link": "https://www.wsj.com/articles/an-ordinary-man-book-review-underestimating-gerald-ford-biography-29cd08b7",
-        "id": "SB11060834557182014156604589556780849718004"
+        "pubDate": "Thu, 20 Apr 2023 17:33:00 -0400",
+        "content:encoded": "",
+        "content": "Listening more than talking, the 38th president guided America through a tumultuous era. He receives too little credit for it.",
+        "contentSnippet": "Listening more than talking, the 38th president guided America through a tumultuous era. He receives too little credit for it.",
+        "guid": "SB11060834557182014156604589556780849718004",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:33:00.000Z"
+      }
+    ],
+    "date": "2023-04-20"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.png",
+      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+    },
+    "newsMedieval": "Upon the wing'd beast Starship so fair,\nExplodes in skies, a sight to impair,\nLoosed by SpaceX, a trial run so free,\nAghast, they lament their fortune untimely.\n\nIn sooth, mine heart doth question, I say,\n\"When shall I retire? On which hallow'd day?\"\nAlas, yet never, for travail abounds,\nIn lands afar and familiar grounds.\n\nAs Europe's air-traffic watchmen bequeath,\nFaced with onslaught of pro-Russian greed,\nBeset by hackers in midst of their play,\nDefend they must, their charge not to betray.",
+    "feedItems": [
+      {
+        "title": "SpaceX's Starship Explodes Shortly After Launching Uncrewed Test Flight",
+        "link": "https://www.wsj.com/articles/spacex-starship-elon-musk-second-launch-attempt-bf932aaf",
+        "pubDate": "Thu, 20 Apr 2023 17:32:00 -0400",
+        "content:encoded": "",
+        "content": "Starship launched successfully but exploded a few minutes later, ending the inaugural flight of a vehicle Elon Musk wants to use for deep-space missions.",
+        "contentSnippet": "Starship launched successfully but exploded a few minutes later, ending the inaugural flight of a vehicle Elon Musk wants to use for deep-space missions.",
+        "guid": "WP-WSJ-0000801395",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:32:00.000Z"
+      },
+      {
+        "title": "When Will I Retire? How About Never",
+        "link": "https://www.wsj.com/articles/when-will-i-retire-how-about-never-97977abb",
+        "pubDate": "Thu, 20 Apr 2023 17:32:00 -0400",
+        "content:encoded": "",
+        "content": "For many people, the idea of stopping work is a nonstarter—an inevitable path to boredom, ill health and a life devoid of meaning.",
+        "contentSnippet": "For many people, the idea of stopping work is a nonstarter—an inevitable path to boredom, ill health and a life devoid of meaning.",
+        "guid": "SB11217464675432254657604589572811315136906",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:32:00.000Z"
+      },
+      {
+        "title": "Europe's Air-Traffic Agency Under Attack From Pro-Russian Hackers",
+        "link": "https://www.wsj.com/articles/europes-air-traffic-agency-under-attack-from-pro-russian-hackers-54b4514d",
+        "pubDate": "Thu, 20 Apr 2023 17:30:00 -0400",
+        "content:encoded": "",
+        "content": "Air traffic isn’t at risk but the attack is ongoing, Eurocontrol said, amid fears about the safety of Europe’s critical infrastructure.",
+        "contentSnippet": "Air traffic isn’t at risk but the attack is ongoing, Eurocontrol said, amid fears about the safety of Europe’s critical infrastructure.",
+        "guid": "WP-WSJ-0000804509",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-20T21:30:00.000Z"
       }
     ],
     "date": "2023-04-20"

@@ -8,11 +8,15 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PUSH_TOKEN }}
       - name: Get new content
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           npm i
           npm run archive:update
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name 'Rafal Pastuszak'
           git config --global user.email 'paprikka@users.noreply.github.com'

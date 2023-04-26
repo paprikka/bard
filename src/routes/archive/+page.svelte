@@ -2,9 +2,6 @@
 	import ArticleContainter from '../../components/article-containter.svelte';
 	import Centaur from '../../components/centaur.svelte';
 
-	// Currently a placeholder so we can prerender static content without
-	// writing throaway code
-
 	export let data;
 </script>
 
@@ -15,8 +12,8 @@
 		<ul>
 			{#each post.songs as song, i}
 				<li>
-					<a href="/{post.dayID}/{i}">{song.newsMedieval.split('\n')[0]}</a>
-					<span class="author">by {song.author.name}</span>
+					<a href="/{post.dayID}/{song.author.id}">{song.newsMedieval.split('\n')[0]}</a>
+					<span class="author">by <a href="/team">{song.author.name}</a></span>
 				</li>
 			{/each}
 		</ul>
@@ -40,17 +37,13 @@
 		line-height: 1.5;
 	}
 
-	.author {
-		font-size: var(--font-size-s);
+	li {
+		line-height: 1;
+		margin-bottom: 1em;
 	}
-
-	@media all and (max-width: 400px) {
-		.author {
-			display: block;
-		}
-
-		li {
-			margin-bottom: 1em;
-		}
+	.author {
+		display: block;
+		font-size: var(--font-size-s);
+		opacity: 0.7;
 	}
 </style>

@@ -1,7 +1,8 @@
 import RSSParser from 'rss-parser';
-import { writeFile, readdir } from 'fs/promises';
+import { writeFile, readFile, readdir } from 'fs/promises';
 import { editorialTeam, type EditorialTeamMember } from './editorial-team';
 import Path from 'path';
+import { retryPromiseWithDelay } from '../utils/retry-with-delay';
 
 const getDayOfYear = (date: Date) => {
 	const startOfYear = new Date(date.getFullYear(), 0, 0);
@@ -124,12 +125,8 @@ const getArchiveItem = async (
 	return { author, newsMedieval, feedItems, date: dayID };
 };
 
-const getArchiveItems = async (date: Date) => {
-	const dayID = dateToDayID(date);
-	const newsToday = await getNewsToday();
-	await persistFeed(newsToday.feedString);
-
-	const newsItemsGrouped = newsToday.feedItems.reduce(
+const getNewsForFeedItems = async (feedItems: FeedItem[], dayID: string) => {
+	const newsItemsGrouped = feedItems.reduce(
 		(acc, item) => {
 			const last = acc.at(-1);
 			if (last?.length === 3) return [...acc, [item]];
@@ -143,10 +140,30 @@ const getArchiveItems = async (date: Date) => {
 	);
 
 	const promises = newsItemsGrouped
-		.slice(0, 3) // keep low before the release
-		.map((newsItems, ind) => getArchiveItem(getBard(ind), newsItems, dayID));
+		.slice(0, 4) // keep low before the release
+		.map((newsItems, ind) =>
+			retryPromiseWithDelay(() => getArchiveItem(getBard(ind), newsItems, dayID), 1000, 3)
+		);
 
 	return Promise.all(promises);
+};
+
+const getArchiveItemsForExistingFeed = async (dayID: string) => {
+	const path = Path.resolve(process.cwd(), './src/data/archive');
+	const filename = Path.join(path, `${dayID}.xml`);
+
+	console.log(`Reading RSS feed from ${filename}...`);
+
+	const feedString = await readFile(filename, 'utf-8');
+	const localFeedXML = await parser.parseString(feedString);
+	return getNewsForFeedItems(localFeedXML.items, dayID);
+};
+
+const getArchiveItems = async (dayID: string) => {
+	const newsToday = await getNewsToday();
+	await persistFeed(newsToday.feedString);
+
+	return getNewsForFeedItems(newsToday.feedItems, dayID);
 };
 
 export const dateToDayID = (date: Date) => {
@@ -177,19 +194,30 @@ const persistFeed = async (content: string) => {
 	await writeFile(filename, content);
 };
 
-const persistArchive = async (content: string) => {
+const persistArchive = (dateID: string) => async (content: string) => {
 	const path = Path.resolve(process.cwd(), './src/data/archive');
-	const filename = Path.join(path, `${dateToDayID(new Date())}.json`);
+	const filename = Path.join(path, `${dateID}.json`);
 
 	console.log(`Saving news to ${filename}...`);
 
 	await writeFile(filename, content);
 };
 
+export const getArchiveItemForExistingDate = (existingDateID: string) => {
+	return getArchiveItemsForExistingFeed(existingDateID)
+		.then((song) => JSON.stringify(song, null, 2))
+		.then(persistArchive(existingDateID));
+};
+
+export const updateLocalNewsForDateID = (dateID: string) => {
+	console.log(`Updating news for ${dateID}...`);
+	return getArchiveItems(dateID)
+		.then((song) => JSON.stringify(song, null, 2))
+		.then(persistArchive(dateID));
+};
+
 export const updateLocalNews = () => {
 	console.log('Fetching news...');
-
-	return getArchiveItems(new Date())
-		.then((song) => JSON.stringify(song, null, 2))
-		.then(persistArchive);
+	const todayID = dateToDayID(new Date());
+	return updateLocalNewsForDateID(todayID);
 };
