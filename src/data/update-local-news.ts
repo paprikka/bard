@@ -67,6 +67,9 @@ const getNewsToday = async () => {
 
 const getNewsMedieval = async (author: EditorialTeamMember, news: FeedItem[]) => {
 	const apiKey = process.env.OPENAI_API_KEY;
+
+	if (!apiKey) throw new Error('OPENAI_API_KEY is not set');
+
 	const prompt = makePrompt(
 		author,
 		news.map(({ title, description }) => ({ title, description }))
