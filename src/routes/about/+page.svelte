@@ -1,4 +1,8 @@
-<article>
+<script lang="ts">
+	import ArticleContainter from '../../components/article-containter.svelte';
+</script>
+
+<ArticleContainter>
 	<h1>Hi</h1>
 
 	<p>
@@ -56,30 +60,9 @@
 		frying their neurons. Uncle Murdock paid for that, which is probably the only thing from those
 		times I'm proud of.
 	</p> -->
-</article>
+</ArticleContainter>
 
 <style>
-	article {
-		padding: 5rem;
-		line-height: 1.4;
-		position: relative;
-
-		color: #380e0e;
-		opacity: 0.8;
-		font-family: sans-serif;
-		max-width: 40rem;
-		font-size: var(--font-size-s);
-	}
-
-	@media all and (max-width: 400px) {
-		article {
-			padding: 2rem;
-		}
-	}
-
-	p {
-	}
-
 	a:not([href]) {
 		color: #ac0303;
 		text-decoration: none;

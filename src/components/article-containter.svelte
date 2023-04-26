@@ -1,8 +1,9 @@
 <script lang="ts">
 	export let faded = true;
+	export let size: 'fluid' | 'fixed' = 'fluid';
 </script>
 
-<article class:is-faded={faded}>
+<article class:is-faded={faded} class:is-fixed={size === 'fixed'}>
 	<slot />
 </article>
 
@@ -18,6 +19,10 @@
 
 	.is-faded {
 		opacity: 0.8;
+	}
+
+	.is-fixed {
+		max-width: 60rem;
 	}
 
 	article::after {
