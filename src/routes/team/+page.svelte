@@ -1,8 +1,14 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import ArticleContainter from '../../components/article-containter.svelte';
 
-	// Currently a placeholder so we can prerender static content without
-	// writing throaway code
+	// Force hash update when updating the content in SPA mode
+	// Related SO issue: https://stackoverflow.com/questions/74004660/sveltekit-and-css-target-selector
+	onMount(() => {
+		const oldHash = window.location.hash;
+		window.location.hash = '';
+		requestAnimationFrame(() => (window.location.hash = oldHash));
+	});
 
 	export let data;
 </script>
@@ -11,7 +17,7 @@
 	<h1>Team</h1>
 	<ul class="team-members">
 		{#each data.allPostsByAuthorID as post}
-			<li class="team-member">
+			<li class="team-member" id={post.author.id}>
 				<div class="thumbnail">
 					<img
 						src={post.author.avatar}
@@ -20,7 +26,7 @@
 					/>
 				</div>
 				<div class="description">
-					<h2 id={post.author.id}>{post.author.name}</h2>
+					<h2>{post.author.name}</h2>
 					<p>{post.author.description}</p>
 					<h3>Works</h3>
 					<ul class="songs">
@@ -96,6 +102,42 @@
 	.is-offset-kitten {
 		position: relative;
 		top: 3rem;
+	}
+
+	.team-member:target h2 {
+		color: var(--color-link);
+	}
+
+	.team-member:target .thumbnail img {
+		animation: targetEnter 1s 0.3s both;
+	}
+
+	@keyframes targetEnter {
+		from {
+			transform: scale3d(1, 1, 1);
+		}
+
+		10%,
+		20% {
+			transform: scale3d(0.9, 0.9, 0.9) rotate3d(0, 0, 1, -3deg);
+		}
+
+		30%,
+		50%,
+		70%,
+		90% {
+			transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+		}
+
+		40%,
+		60%,
+		80% {
+			transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+		}
+
+		to {
+			transform: scale3d(1, 1, 1);
+		}
 	}
 
 	@media all and (max-width: 400px) {

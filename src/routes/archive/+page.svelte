@@ -14,7 +14,7 @@
 			{#each post.songs as song}
 				<li>
 					<a href={getSongURL(post.dayID, song.author)}>{song.newsMedieval.split('\n')[0]}</a>
-					<span class="author">by <a href="/team">{song.author.name}</a></span>
+					<span class="author">by <a href="/team/#{song.author.id}">{song.author.name}</a></span>
 				</li>
 			{/each}
 		</ul>
