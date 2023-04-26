@@ -37,6 +37,7 @@
 
 		--color-text: #380e0e;
 		--color-link: #ac0303;
+		--color-link-fade: #ac030366;
 		--color-bg: #f9d395;
 	}
 
@@ -56,6 +57,10 @@
 		background: url('/background.jpg') repeat center center fixed;
 		background-color: var(--color-bg);
 		background-size: 60%;
+	}
+
+	:global(::selection) {
+		background-color: var(--color-link-fade);
 	}
 
 	nav {

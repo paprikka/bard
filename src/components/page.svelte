@@ -60,7 +60,7 @@
 			{/each}
 		</p>
 	{/each}
-	<p class="author">by <a href="/team#{song.author.id}">{song.author.name}</a></p>
+	<p class="author"><span>by</span> <a href="/team#{song.author.id}">{song.author.name}</a></p>
 	{#if prevLink || nextLink}
 		<nav class="prev-next-post">
 			{#if prevLink}<a on:touchend={() => false} href={prevLink.url}>Older</a>
@@ -106,12 +106,20 @@
 		position: relative;
 		font-size: var(--font-size-s);
 		max-width: 20em;
-		opacity: 0.5;
 		position: relative;
 	}
 
+	.author a,
+	.author span {
+		opacity: 0.5;
+	}
 	.author a {
 		color: #ac0303;
+		transition: 0.2s opacity;
+	}
+
+	.author a:hover {
+		opacity: 1;
 	}
 
 	.prev-next-post {
