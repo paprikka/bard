@@ -145,6 +145,7 @@
 
 	.prev-next-post span {
 		opacity: 0.25;
+		user-select: none;
 	}
 
 	.prev-next-post a:active {
