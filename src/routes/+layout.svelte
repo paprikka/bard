@@ -4,7 +4,7 @@
 		<li><a href="/">Today</a></li>
 		<li><a href="/archive">Archive</a></li>
 		<li><a href="/team">Team</a></li>
-		<li><a href="https://sonnet.io/posts/reactive-hole/">Why?</a></li>
+		<li><a href="/about">Why?</a></li>
 	</ul>
 </nav>
 <svelte:head>
@@ -33,9 +33,17 @@
 		font-style: normal;
 	}
 
+	@font-face {
+		font-family: 'font-secondary';
+		src: url('/fonts/secondary.woff2') format('woff2'), url('/fonts/secondary.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+	}
+
 	:global(:root) {
 		--font-family: 'font-default', serif;
 		--font-family-drop-caps: 'font-drop-caps', serif;
+		--font-family-secondary: 'font-secondary', serif;
 
 		--font-size-xs: clamp(1rem, 0.2rem + 0.75vw, 1.5rem);
 		--font-size-s: clamp(1rem, 0.3rem + 1vw, 2rem);
@@ -46,6 +54,17 @@
 		--color-link: #ac0303;
 		--color-link-fade: #ac030366;
 		--color-bg: #f9d395;
+
+		--page-margin-desktop: 5rem;
+		--page-margin-mobile: 2rem;
+
+		--page-margin: var(--page-margin-desktop);
+	}
+
+	@media all and (max-width: 400px) {
+		:global(:root) {
+			--page-margin: var(--page-margin-mobile);
+		}
 	}
 
 	:global(*) {
@@ -72,20 +91,13 @@
 
 	nav {
 		position: fixed;
-		left: 5rem;
-		bottom: 5rem;
+		left: var(--page-margin);
+		bottom: var(--page-margin);
 
 		font-family: var(--font-family);
 		font-size: var(--font-size-m);
 	}
 
-	/*TODO: use variables */
-	@media all and (max-width: 400px) {
-		nav {
-			left: 2rem;
-			bottom: 2rem;
-		}
-	}
 	nav ul {
 		list-style: none;
 		margin: 0;
