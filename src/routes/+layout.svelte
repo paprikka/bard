@@ -1,12 +1,14 @@
 <slot />
 <nav>
 	<ul>
-		<li><a href="/">Today</a></li>
-		<li><a href="/archive">Archive</a></li>
+		<li><a href="/">Now</a></li>
+		<li><a href="/archive">All</a></li>
 		<li><a href="/team">Team</a></li>
-		<li><a href="/about">Why?</a></li>
+		<li class="special"><a href="/about">Why?</a></li>
+		<li><a href="https://sonnet.io/posts/hi">Hi!</a></li>
 	</ul>
 </nav>
+<footer><span>Made with 🐐 and </span><a href="https://sonnet.io">Rafal Pastuszak</a></footer>
 <svelte:head>
 	<title>Medieval News</title>
 	<script
@@ -98,6 +100,12 @@
 		font-size: var(--font-size-m);
 	}
 
+	@media all and (max-width: 400px) {
+		nav {
+			bottom: calc(var(--page-margin) * 1.75);
+		}
+	}
+
 	nav ul {
 		list-style: none;
 		margin: 0;
@@ -118,6 +126,64 @@
 	nav a:hover {
 		text-decoration: underline;
 		opacity: 1;
+	}
+
+	nav .special {
+		animation: targetEnter 1.2s 3s both;
+	}
+
+	footer {
+		position: fixed;
+		right: 0;
+		left: var(--page-margin);
+		bottom: calc(var(--page-margin) * 0.25);
+
+		font-family: var(--font-family-secondary);
+		font-size: var(--font-size-xs);
+	}
+
+	footer span {
+		opacity: 0.6;
+	}
+
+	footer a {
+		color: #ac0303;
+		text-decoration: none;
+		opacity: 0.6;
+		transition: opacity 0.2s;
+	}
+
+	footer a:hover {
+		text-decoration: underline;
+		opacity: 1;
+	}
+
+	@keyframes targetEnter {
+		from {
+			transform: scale3d(1, 1, 1);
+		}
+
+		10%,
+		20% {
+			transform: scale3d(0.9, 0.9, 0.9) rotate3d(0, 0, 1, -3deg);
+		}
+
+		30%,
+		50%,
+		70%,
+		90% {
+			transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+		}
+
+		40%,
+		60%,
+		80% {
+			transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+		}
+
+		to {
+			transform: scale3d(1, 1, 1);
+		}
 	}
 
 	/* Reset font widths as the blackletter one will glitch with faux bold */

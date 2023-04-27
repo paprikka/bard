@@ -1,15 +1,17 @@
 <script lang="ts">
 	import ArticleContainter from '../../components/article-containter.svelte';
+	import Centaur from '../../components/centaur.svelte';
 </script>
 
 <ArticleContainter size="fixed">
 	<div class="container">
-		<h1>Hi</h1>
+		<h1>Hi!</h1>
 
 		<p class="intro">
-			Welcome to my (Medieval) Content Farm! We're a biased and hallucinated news source curated by
-			a team of talented writers. Every day they scour the internet for the most interesting and
-			relevant events of the realm. Meet the team <a href="/team">here</a>. They're a kooky bunch.
+			<a href="https://sonnet.io" target="_blank">Rafal</a> here. Welcome to my (Medieval) Content
+			Farm! We're a biased and hallucinated news source curated by a team of talented writers. Every
+			day they scour the internet for the most interesting and relevant events of the realm. Meet
+			the team <a href="/team">here</a>. They're a kooky bunch.
 			<br /><br />
 			Are they real? Nothing is real!
 			<a href="https://rafal.ck.page/products/tip">Money isn't real</a>.
@@ -87,6 +89,7 @@
 		</p>
 	</div>
 </ArticleContainter>
+<Centaur />
 
 <style>
 	.container {
@@ -94,6 +97,12 @@
 		font-family: var(--font-family-secondary);
 		line-height: 1.2;
 		font-size: var(--font-size-s);
+	}
+
+	@media all and (max-width: 400px) {
+		.container {
+			font-size: var(--font-size-m);
+		}
 	}
 
 	.container::after {

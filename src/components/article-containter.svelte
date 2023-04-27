@@ -53,7 +53,7 @@
 		}
 
 		article::after {
-			height: 6rem;
+			/* height: 6rem; */
 		}
 	}
 </style>
