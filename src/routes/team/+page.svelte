@@ -104,12 +104,8 @@
 		top: 3rem;
 	}
 
-	.team-member:target h2 {
-		color: var(--color-link);
-	}
-
 	.team-member:target .thumbnail img {
-		animation: targetEnter 1s 0.3s both;
+		animation: targetEnter 1.2s 0.3s both;
 	}
 
 	@keyframes targetEnter {
