@@ -14,7 +14,7 @@
 
 <style>
 	article {
-		padding: 5rem 5rem 10rem;
+		padding: var(--page-margin) var(--page-margin) 10rem;
 		line-height: 1;
 		position: relative;
 
@@ -49,7 +49,7 @@
 
 	@media all and (max-width: 400px) {
 		article {
-			padding: 2rem 2rem 10rem;
+			padding: var(--page-margin) var(--page-margin) 10rem;
 		}
 
 		article::after {
