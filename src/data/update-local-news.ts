@@ -13,7 +13,7 @@ const getDayOfYear = (date: Date) => {
 	return dayOfYear;
 };
 
-const getBard = (offset: number) => {
+const getBard = (offset: number, editorialTeam: EditorialTeamMember[]) => {
 	return editorialTeam[(getDayOfYear(new Date()) + offset) % editorialTeam.length];
 };
 
@@ -133,16 +133,22 @@ const getNewsForFeedItems = async (feedItems: FeedItem[], dayID: string) => {
 
 			const head = acc.slice(0, -1);
 			const tail = [...(last || []), item];
-			// console.log({head, tail})
+
 			return [...head, tail];
 		},
 		[[]] as FeedItem[][]
 	);
 
+	const editorialTeamShuffled = [...editorialTeam].sort(() => Math.random() - 0.5);
+
 	const promises = newsItemsGrouped
 		.slice(0, 4) // keep low before the release
 		.map((newsItems, ind) =>
-			retryPromiseWithDelay(() => getArchiveItem(getBard(ind), newsItems, dayID), 1000, 3)
+			retryPromiseWithDelay(
+				() => getArchiveItem(getBard(ind, editorialTeamShuffled), newsItems, dayID),
+				1000,
+				3
+			)
 		);
 
 	return Promise.all(promises);
