@@ -1,3 +1,7 @@
+<script>
+	import SocialMeta from '../components/socialMeta.svelte';
+</script>
+
 <slot />
 <nav>
 	<ul>
@@ -5,12 +9,11 @@
 		<li><a href="/archive">All</a></li>
 		<li><a href="/team">Team</a></li>
 		<li class="special"><a href="/about">Why?</a></li>
-		<li><a href="https://sonnet.io/posts/hi">Hi!</a></li>
+		<li><a href="https://sonnet.io/posts/hi" target="_blank">Hi!</a></li>
 	</ul>
 </nav>
 <footer><span>Made with 🐐 and </span><a href="https://sonnet.io">Rafal Pastuszak</a></footer>
 <svelte:head>
-	<title>Medieval News</title>
 	<script
 		async
 		defer
@@ -18,6 +21,21 @@
 		data-domains="readdeadpeople.com,www.readdeadpeople.com"
 		src="https://sonnet-events.vercel.app/umami.js"
 	></script>
+	<SocialMeta
+		title="The (Medieval) Times"
+		url="https://readdeadpeople.com"
+		socialImage={{
+			absoluteUrl: 'https://readdeadpeople.com/social.png',
+			height: 506,
+			width: 1012
+		}}
+		description="Your biased and hallucinated news source curated by a team of talented, dead writers"
+		siteConfig={{
+			name: 'The (Medieval) Times',
+			twitterCreator: '@rafalpast',
+			twitterSite: '@rafalpast'
+		}}
+	/>
 </svelte:head>
 
 <style>
