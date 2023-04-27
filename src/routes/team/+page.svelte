@@ -18,6 +18,11 @@
 		return title;
 	};
 
+	const formatTextWrap = (text: string) => {
+		// replace 'the ' and 'de ' with 'the&nbsp;' and 'de&nbsp;'
+		return text.replace(/(the|de|mac)\s/gi, '$1&nbsp;');
+	};
+
 	export let data;
 </script>
 
@@ -34,7 +39,7 @@
 					/>
 				</div>
 				<div class="description">
-					<h2>{post.author.name}</h2>
+					<h2>{@html formatTextWrap(post.author.name)}</h2>
 					<p>{post.author.description}</p>
 					<h3>Works</h3>
 					<ul class="songs">
@@ -151,6 +156,10 @@
 		.team-member {
 			margin-bottom: 1em;
 		}
+	}
+
+	.team-member h2 {
+		margin-block-start: 1rem;
 	}
 
 	.team-member h3 {
