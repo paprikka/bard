@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Segment } from "./song-to-segments";
+	import type { Segment } from './song-to-segments';
 	const { random } = Math;
 
 	export let charIndex: number;
@@ -14,21 +14,15 @@
 	<a href={char.link} target="_blank">
 		{#each char.value as linkChar}
 			<span
-				style="
-    transform: translateY({1 - 0.05 * Math.random() * 0.5}em);
-    color: hsl({random() * 40 - 20}deg 96.57% 34.31%);
-    opacity: {0.9 - random() * 0.2};
-    ">{linkChar.value}</span
+				style:--opacity={0.87 - random() * 0.2}
+				style:color="hsl({(random() - 0.5) * 40}deg 96.57% 34.31%)">{linkChar.value}</span
 			>
 		{/each}
 	</a>
 {:else}
 	<span
-		style="
-transform: translateY({1 - 0.05 * random() * 0.5}em);
-color: hsl({random() * 40 - 20}deg 60% 13.73%);
-opacity: {0.9 - random() * 0.2};
-">{char.value}</span
+		style:--opacity={0.87 - random() * 0.2}
+		style:color="hsl({(random() - 0.5) * 40}deg 60% 13.73%)">{char.value}</span
 	>
 {/if}
 
@@ -45,13 +39,21 @@ opacity: {0.9 - random() * 0.2};
 		width: 1.05em;
 	}
 
+	span {
+		opacity: var(--opacity);
+	}
+
 	a {
 		text-decoration: underline;
 		color: #ac0303;
 		transition: 0.2s scale;
 	}
 
-	a:hover {
-		scale: 1.02;
+	a span {
+		transition: 0.2s opacity;
+	}
+
+	a:hover span {
+		opacity: 1;
 	}
 </style>

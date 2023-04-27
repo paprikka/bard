@@ -8,7 +8,7 @@
 	</ul>
 </nav>
 <svelte:head>
-	<title>Bard: Spicy Medieval News</title>
+	<title>Medieval News</title>
 	<script
 		async
 		defer
