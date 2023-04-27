@@ -10,29 +10,27 @@ export const editorialTeam: EditorialTeamMember[] = [
 		name: 'Brother Arnulfus',
 		id: 'arnulfus',
 		avatar: 'dog-1.png',
-		description:
-			'A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale.'
+		description: `A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale.`
 	},
 	{
 		name: 'Æthelred the Skald',
 		id: 'aethelred',
 		avatar: 'cat-1.png',
 		description:
-			'A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess.'
+			'A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry.'
 	},
 	{
-		name: 'Conchobar mac Nessa',
+		name: 'Conchobar mac Dubhthach',
 		id: 'conchobar',
 		avatar: 'cat-3.png',
 		description:
-			'An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history.'
+			'An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse.'
 	},
 	{
 		name: 'Guillemette de Ventadour',
 		id: 'guillemette',
 		avatar: 'cat-2.png',
-		description:
-			'A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice.'
+		description: `A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse.`
 	}
 
 	// {
