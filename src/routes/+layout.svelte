@@ -9,6 +9,13 @@
 </nav>
 <svelte:head>
 	<title>Bard: Spicy Medieval News</title>
+	<script
+		async
+		defer
+		data-website-id="dcfdf23e-805d-4bec-a639-6c7335abfc7d"
+		data-domains="readdeadpeople.com"
+		src="https://sonnet-events.vercel.app/umami.js"
+	></script>
 </svelte:head>
 
 <style>
