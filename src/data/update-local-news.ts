@@ -142,7 +142,7 @@ const getNewsForFeedItems = async (feedItems: FeedItem[], dayID: string) => {
 	const editorialTeamShuffled = [...editorialTeam].sort(() => Math.random() - 0.5);
 
 	const promises = newsItemsGrouped
-		.slice(0, 4) // keep low before the release
+		.slice(0, editorialTeamShuffled.length) // keep low before the release
 		.map((newsItems, ind) =>
 			retryPromiseWithDelay(
 				() => getArchiveItem(getBard(ind, editorialTeamShuffled), newsItems, dayID),

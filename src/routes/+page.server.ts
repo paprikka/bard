@@ -4,7 +4,7 @@ import { getNavList } from '../data/get-nav-list';
 
 export const load = async () => {
 	const allPostsDescending = await getAllPostsDescending();
-	const song = allPostsDescending.at(-1)?.songs.at(-1);
+	const song = allPostsDescending.at(0)?.songs.at(-1);
 
 	if (!song) throw error(500, 'No song found for today');
 
