@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import ArticleContainter from '../../components/article-containter.svelte';
+	import type { ArchiveItem } from '../../data/update-local-news';
 
 	// Force hash update when updating the content in SPA mode
 	// Related SO issue: https://stackoverflow.com/questions/74004660/sveltekit-and-css-target-selector
@@ -9,6 +10,13 @@
 		window.location.hash = '';
 		requestAnimationFrame(() => (window.location.hash = oldHash));
 	});
+
+	const formatSongTitle = (song: ArchiveItem): string => {
+		const title = song.newsMedieval.split('\n')[0];
+		// if title ends with punctuation, drop it
+		if (title.match(/[.,;:!?]$/)) return title.slice(0, -1);
+		return title;
+	};
 
 	export let data;
 </script>
@@ -31,8 +39,8 @@
 					<h3>Works</h3>
 					<ul class="songs">
 						{#each post.songs as song, i}
-							<li>
-								<a href="/{song.date}/{song.author.id}">{song.newsMedieval.split('\n')[0]}</a>
+							<li class="song">
+								<a href="/{song.date}/{song.author.id}">{formatSongTitle(song)}</a>
 								<span class="date">{song.date}</span>
 							</li>
 						{/each}
@@ -50,6 +58,7 @@
 		margin: 0;
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
+
 		gap: 3rem;
 	}
 
@@ -84,12 +93,14 @@
 		line-height: 1.5;
 	}
 
-	.songs li {
-		margin-bottom: 0;
+	.song {
+		display: flex;
+		flex-direction: column;
+		margin: 0 0 1rem;
 		line-height: 1;
 	}
 
-	.songs a {
+	.song a {
 		display: inline-block;
 	}
 
@@ -142,8 +153,8 @@
 		}
 	}
 
-	h3 {
-		margin-bottom: 0.25rem;
+	.team-member h3 {
+		margin-bottom: 0.5rem;
 	}
 
 	a {
