@@ -13,7 +13,7 @@
 		async
 		defer
 		data-website-id="dcfdf23e-805d-4bec-a639-6c7335abfc7d"
-		data-domains="readdeadpeople.com"
+		data-domains="readdeadpeople.com,www.readdeadpeople.com"
 		src="https://sonnet-events.vercel.app/umami.js"
 	></script>
 </svelte:head>
