@@ -20,5 +20,6 @@ jobs:
         run: |
           git config --global user.name 'Rafal Pastuszak'
           git config --global user.email 'paprikka@users.noreply.github.com'
-          git commit -am "chore(content): $(date +'%d-%m-%Y')"
+          git add .
+          git commit -m "chore(content): $(date +'%d-%m-%Y')"
           git push
