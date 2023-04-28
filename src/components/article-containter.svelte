@@ -47,7 +47,7 @@
 		pointer-events: none;
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		article {
 			padding: var(--page-margin) var(--page-margin) 10rem;
 		}

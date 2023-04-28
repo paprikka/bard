@@ -99,7 +99,7 @@
 		font-size: var(--font-size-s);
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		.container {
 			font-size: var(--font-size-m);
 		}

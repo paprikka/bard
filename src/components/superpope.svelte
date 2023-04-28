@@ -9,7 +9,7 @@
 		animation: superpope 40s linear 25s infinite both;
 	}
 
-	@media all and (min-width: 400px) {
+	@media all and (min-width: 420px) {
 		div {
 			--w: 10vw;
 		}
@@ -32,7 +32,8 @@
 			transform: translate(calc(100vw + 100%), 2rem);
 		}
 
-		10%, 100% {
+		10%,
+		100% {
 			transform: translate(-100%, 2rem);
 		}
 	}

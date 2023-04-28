@@ -73,7 +73,7 @@
 		}
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		.team-members {
 			grid-template-columns: 1fr;
 		}
@@ -152,7 +152,7 @@
 		}
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		.team-member {
 			margin-bottom: 1em;
 		}

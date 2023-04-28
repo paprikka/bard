@@ -81,7 +81,7 @@
 		--page-margin: var(--page-margin-desktop);
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		:global(:root) {
 			--page-margin: var(--page-margin-mobile);
 		}
@@ -117,7 +117,7 @@
 		font-size: var(--font-size-m);
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		nav {
 			bottom: calc(var(--page-margin) * 1.75);
 		}

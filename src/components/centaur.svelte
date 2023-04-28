@@ -20,7 +20,7 @@
 		scale: 1;
 	}
 
-	@media all and (max-width: 400px) {
+	@media all and (max-width: 420px) {
 		.centaur {
 			width: 20vw;
 			bottom: 1.5rem;
