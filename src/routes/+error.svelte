@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<img src="/centaur.png" alt="a centaur" />
+	<img src="/centaur.webp" alt="a centaur" />
 	<h1>Something naughty happened</h1>
 	<h2>The centaur let Rafal know.</h2>
 	<p><a href="/">Back</a></p>

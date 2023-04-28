@@ -100,9 +100,8 @@
 
 	:global(body) {
 		font-size: var(--font-size-m);
-		background: url('/background.jpg') repeat center center fixed;
+		background: url('/background.webp') repeat center center fixed;
 		background-color: var(--color-bg);
-		background-size: 60%;
 	}
 
 	:global(::selection) {

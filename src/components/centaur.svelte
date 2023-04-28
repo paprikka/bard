@@ -1,5 +1,5 @@
 <a class="centaur" href="https://sonnet.io/">
-	<img src="/centaur.png" alt="a centaur" />
+	<img src="/centaur.webp" alt="a centaur" />
 </a>
 
 <style>

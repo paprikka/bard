@@ -1,12 +1,12 @@
 [
   {
     "author": {
-      "name": "Brother Arnulfus",
-      "id": "arnulfus",
-      "avatar": "dog-1.png",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "Of noble Biden's coin and tax,\nA tale I've heard, a merry jest!\nIn year of two-and-twenty score,\nPaid silver he, one-seventy more.\n\nAlone in lands of warmth and sun,\nThe Russian ties with Latins spun,\nHis craft in seeking friendship vast,\nTo weave a web that ever lasts.\n\nBehold! I see the youthful strife,\nGen Z, that face a toil-some life,\nIn market churning, labor's rough,\nThey sail the seas of fortune tough.",
+    "newsMedieval": "In the year two-score and two,\nThe Bidens' taxes, just and true,\nA sum of one-seventy grand,\nFulfilled their duties to the land.\n\nTo lands of Latin warmth he goes,\nThe Russian minister proposes,\nClose bonds of friendship to embrace,\nAnd carve a deeper bond in place.\n\nAlas, Gen Z finds troubled times,\nAs in the labor market climbs,\nHarsh obstacles that bar their way,\nAnd cloud their future, doubt convey.\n",
     "feedItems": [
       {
         "title": "Bidens Paid About $170,000 in Taxes for 2022",
@@ -70,9 +70,9 @@
       "name": "Æthelred the Skald",
       "id": "aethelred",
       "avatar": "cat-1.png",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
     },
-    "newsMedieval": "Of Lawmakers bold, in strife and toil,\nThey seek to quell the serpent's coil,\nTheir gaze on lands from distant shore,\nWhere forced labor's cries doth soar.\n\nIn heart where labor's banner's raised,\nA valiant soul whose name's so praised,\nJulie Su, the partisan\nDefends the rights of working man.\n\nBut Hark! There strides a chieftain fair,\nTrump, old ruler's name he wear,\nTo Disney's aid, the mighty Don,\nIn their battle fierce, for both are strong.",
+    "newsMedieval": "In halls of law, the heroes brave\nAgainst the eastern tyrants stave\nA sea-born wind doth legislate\nTo curb the dragon's forced fate\n\nUpon the field of labor's might\nA partisan named Julie wields her light\nIn battles fierce, for workers joined\nShe earned a place among the enshrined\n\nOf Donald Trump, one tale anew\nHis favor falls on Disney's crew\nIn storms and with the sword's alliance\nTogether stand 'gainst dark defiance",
     "feedItems": [
       {
         "title": "Lawmakers Look for Tough Implementation of Forced Labor Law Targeting China",
@@ -133,12 +133,12 @@
   },
   {
     "author": {
-      "name": "Conchobar mac Nessa",
-      "id": "conchobar",
-      "avatar": "cat-3.png",
-      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.png",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "In the halls of truth, corrections come,\nThe minstrels sing of deeds to be undone,\nAmplifications echo through the night,\nTo set the hearts of men on the path right.\n\nUpon the Emerald Isle, the diamond gleams,\nBeset by cunning foes and foul schemes,\nA league of men doth challenge 'free lunch' ways,\nEntwined in tales of lore and yesteryears' plays.\n\nTo the western shores, the bank doth yield,\nFDIC in secret plots concealed,\nAn auction rigged by hands ungloved and sly,\nThe bard, Conchobar, as witness now must cry.",
+    "newsMedieval": "Corrections and Amplifications here,\nA sacred cup from which all drinketh clear,\nGod's quill, a purg’ry quality we praise,\nFor truth and know’ledge call in sharpest rays.\n\nUpon this page, a tale of Diamond's strife,\nWhere clubs of MLB lament lost gain and life,\nThey seek the wine that floweth from free trench,\nA cup denied, partaking in mere drench.\n\nIn secret vaults, the FDIC beams,\nWith shadows play and auction's cunning schemes,\nWith Bishop's Crook their inner workings rig,\nThus, plow with mirth through land and vine of fig.",
     "feedItems": [
       {
         "title": "Corrections & Amplifications",
@@ -202,9 +202,9 @@
       "name": "Guillemette de Ventadour",
       "id": "guillemette",
       "avatar": "cat-2.png",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
     },
-    "newsMedieval": "In fair New York, where Hochul's reign doth start,\nA moment of truth for education's heart,\nWith wit and love, new policies she form,\nTo guide the minds that soon will face life's storm.\n\nUpon yon field of healing arts we see,\nDiaverum, the kidney's trusted plea,\nIn noble deal of two billion sold,\nTheir care preserved, as ancient tales unfold.\n\nAnd in the realm of Fox, a sum was paid,\nDominion's honor sought, their claims to slay,\nSeven hundred millions, and the rest observe,\nA defamation lawsuit's end deserved.",
+    "newsMedieval": "In Hochul's moment, truth doth show,\nOf education's flow, we know.\nFrom higher hills, the knowledge rolls,\nAs rabbits run, enlivening souls.\n\nIn kidney-care, a deal doth rise,\nA sum of coin, to our surprise.\nAs does the goat, through mount so steep,\nDiaverum's worth two billion's leap.\n\nFox pays to hush Dominion's cry,\nWith fortune grand, ‘neath moonlit sky.\nLike snail's retreat within its shell,\nDrama closed, the defam'ry quell.",
     "feedItems": [
       {
         "title": "Kathy Hochul's Moment of Education Truth",

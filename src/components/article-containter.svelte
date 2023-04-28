@@ -41,7 +41,7 @@
 		left: 0;
 		right: 0;
 		height: 12rem;
-		background: url('/background.jpg') repeat center center fixed;
+		background: url('/background.webp') repeat center center fixed;
 		-webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 50%, black);
 		mask-image: linear-gradient(to bottom, transparent 0%, black 50%, black);
 		pointer-events: none;

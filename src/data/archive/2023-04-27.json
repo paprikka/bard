@@ -1,90 +1,66 @@
 [
   {
     "author": {
-      "name": "Æthelred the Skald",
-      "id": "aethelred",
-      "avatar": "cat-1.png",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "In a world where chaos doth reign and cyberspace forestall,\nEvolution Equity Partners, fierce warriors of the digital sprawl.\nThey forge a path through morass deep, to find cybersecurity keep,\nTo guard against the hackers' creep, and safe our secrets keep.\n\nUpon a land of Southern clime, where sand and sun aplenty,\nRetirees, hopeful to escape the price of fair Florid' sea,\nMigrate they must to Baldwin's shores, in Alabama's embrace,\nFor there they find what they adore, and ease their twilight's race.\n\nLo, far across the sea doth rise the Chinese venture story,\nHong Kong did turn its hopeful gaze upon a liquor glory,\nBut woe unto their pallid fate, for in their debut trading,\nThe promises did fizzle out, and hope proved unforgiving.",
+    "newsMedieval": "In yon fair land where dwells the artful ones,\nEvolution Equity seeks to guard the realm,\nTheir noble trade of cyber-battles won,\nThus forming bulwark 'gainst the shadows' helm.\n\nFrom verdant shores of Florida they flee,\nWise elders find new sun in southern clime,\nIn quest of blissful ease and living free,\nA haven found, where golden years may chime.\n\nIn far Cathay, a potent liquor flows,\nIts maker, bold, doth bring the news of gory,\nFrom Hong Kong's shores, the wealth doth surely show,\nThe grandest tale of commerce and its glory.",
     "feedItems": [
       {
         "title": "Evolution Equity Partners Builds on Cybersecurity Opportunities",
-        "description": "The specialist startup investor expects unsettled markets to spur more digital attacks, driving demand for protection against hacks and hackers.",
         "link": "https://www.wsj.com/articles/evolution-equity-partners-builds-on-cybersecurity-opportunities-f28b716e",
-        "id": "WP-WSJ-0000818972"
+        "pubDate": "Thu, 27 Apr 2023 07:00:00 -0400",
+        "content:encoded": "",
+        "content": "The specialist startup investor expects unsettled markets to spur more digital attacks, driving demand for protection against hacks and hackers.",
+        "contentSnippet": "The specialist startup investor expects unsettled markets to spur more digital attacks, driving demand for protection against hacks and hackers.",
+        "guid": "WP-WSJ-0000818972",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T11:00:00.000Z"
       },
       {
         "title": "Priced Out of Florida, More Retirees Are Trying This Sunbelt State on For Size",
-        "description": "Seniors are finding that Alabama’s Baldwin County is not only more affordable, but has the same weather and same beaches that make its neighbor a popular retirement destination.",
         "link": "https://www.wsj.com/articles/retiring-in-alabama-b59c55b3",
-        "id": "WP-WSJ-0000808394"
+        "pubDate": "Thu, 27 Apr 2023 07:00:00 -0400",
+        "content:encoded": "",
+        "content": "Seniors are finding that Alabama’s Baldwin County is not only more affordable, but has the same weather and same beaches that make its neighbor a popular retirement destination.",
+        "contentSnippet": "Seniors are finding that Alabama’s Baldwin County is not only more affordable, but has the same weather and same beaches that make its neighbor a popular retirement destination.",
+        "guid": "WP-WSJ-0000808394",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T11:00:00.000Z"
       },
       {
         "title": "Chinese Liquor Maker Sinks After Serving Up Hong Kong's Biggest IPO in Months",
-        "description": "Hong Kong’s biggest listing so far this year flopped in its trading debut, a troubling sign for a market that has been trying to recover from a long IPO slump.",
         "link": "https://www.wsj.com/articles/chinese-liquor-maker-sinks-after-serving-up-hong-kongs-biggest-ipo-in-months-3a4833be",
-        "id": "WP-WSJ-0000827254"
-      }
-    ],
-    "date": "2023-04-27"
-  },
-  {
-    "author": {
-      "name": "Conchobar mac Nessa",
-      "id": "conchobar",
-      "avatar": "cat-3.png",
-      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
-    },
-    "newsMedieval": "In Barclays and Deutsche Bank, we see,\nStrength in results, rehabilitating,\nEuropean lenders, cautious be,\nInvestors wary, anticipating.\n\nWhere GoTo Gojek Tokopedia fair,\nDidst narrow losses in the first quarter,\nWith cost-saving measures in their care,\nReducing burdens, till gains did dare.\n\nThen, lo, the Eurozone sentiment,\nOf economic hope it didst rise,\nFrom ninety-nine, to pain relent,\nYet still below forecast, and wise.",
-    "feedItems": [
-      {
-        "title": "The Next Companies to Splash the Cash? European Banks---Really",
-        "description": "Strong first-quarter results from Barclays and Deutsche Bank show the financial rehabilitation of Europe’s top lenders, but investors remain wary.",
-        "link": "https://www.wsj.com/articles/the-next-companies-to-splash-the-cash-european-banksreally-8d232742",
-        "id": "WP-WSJ-0000827567"
-      },
-      {
-        "title": "GoTo Gojek Tokopedia Narrowed Net Loss Amid Cost-Saving Measures",
-        "description": "GoTo Gojek Tokopedia narrowed its net loss in the first quarter as cost-saving measures helped reduce operating costs.",
-        "link": "https://www.wsj.com/articles/goto-gojek-tokopedia-narrowed-net-loss-in-first-quarter-amid-cost-saving-measures-279c22db",
-        "id": "WP-WSJ-0000827619"
-      },
-      {
-        "title": "Eurozone Economic Sentiment Ticks Up Only Slightly",
-        "description": "The eurozone’s economic sentiment indicator rose to 99.3 April, from a downwardly revised 99.2 in March, and below forecast, suggesting slowing momentum of an economic revival in the bloc as cost-of-living pressures weigh.",
-        "link": "https://www.wsj.com/articles/eurozone-economic-sentiment-ticks-up-only-slightly-in-april-ae380e0b",
-        "id": "WP-WSJ-0000827606"
-      }
-    ],
-    "date": "2023-04-27"
-  },
-  {
-    "author": {
-      "name": "Guillemette de Ventadour",
-      "id": "guillemette",
-      "avatar": "cat-2.png",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
-    },
-    "newsMedieval": "In realms of coin and fiscal tide,\nA fall in dollar doth reside,\nIf pause in rate-rise doth declare,\nAt meeting May, with banks in snare.\n\nWith earnings rose and quarters fair,\nHold STMicro in thy care,\nIn revenue, their guidance shows,\nThe year ahead, what fate bestows.\n\nOf debt and ceiling, questions rise,\nAnd in the Congress, compromise,\nShall pass new laws with purpose vast,\nThe U.S. debts be not surpassed.",
-    "feedItems": [
-      {
-        "title": "Dollar Could Fall Further if Fed Signals Pause in Rate-Rise Cycle",
-        "description": "The dollar could extend its losses as the Fed could signal a pause in its interest-rate rise cycle at its May 3 meeting amid fresh concerns over U.S. regional banks, MUFG Bank said.",
-        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-mixed-signals-c3487a7d",
-        "id": "WP-WSJ-0000826475"
-      },
-      {
-        "title": "STMicroelectronics First-Quarter Earnings Rose",
-        "description": "STMicroelectronics reported higher earnings for the first quarter and released revenue guidance for the second quarter and full year.",
-        "link": "https://www.wsj.com/articles/stmicroelectronics-first-quarter-earnings-rose-b048b345",
-        "id": "WP-WSJ-0000826821"
-      },
-      {
-        "title": "What Is the Debt Ceiling and How Does It Work?",
-        "description": "The U.S. risks failure to pay its debts if Congress doesn’t pass new legislation.",
-        "link": "https://www.wsj.com/articles/what-is-the-debt-ceiling-and-how-does-it-work-fe8a6ee4",
-        "id": "SB11395873277094093581204589585960871397096"
+        "pubDate": "Thu, 27 Apr 2023 06:57:00 -0400",
+        "content:encoded": "",
+        "content": "Hong Kong’s biggest listing so far this year flopped in its trading debut, a troubling sign for a market that has been trying to recover from a long IPO slump. ",
+        "contentSnippet": "Hong Kong’s biggest listing so far this year flopped in its trading debut, a troubling sign for a market that has been trying to recover from a long IPO slump.",
+        "guid": "WP-WSJ-0000827254",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:57:00.000Z"
       }
     ],
     "date": "2023-04-27"
@@ -94,27 +70,195 @@
       "name": "Brother Arnulfus",
       "id": "arnulfus",
       "avatar": "dog-1.png",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "Of Russian rockets, harm's own rain,\nIn Southern Ukraine, they dost pain.\nMykolaiv, where peace once played,\nNow wounded by the Eastern raid.\n\nMounjaro's touch dost heal the ill,\nFor diabetes patients' will.\nTheir weight dost part with grim defeat,\nUp to fifteen percent retreat.\n\nOf memory's chips, a wee bit small,\nYet makers sing, recovery's call.\nSamsung predicts a brighter day,\nInventions near, take gloom away.",
+    "newsMedieval": "Of yon Europæan banks, rejoice!\nFor they doth splash the cash with mirthful voice,\nIn eke surprise, methinks 'tis not the usual choice,\nTheir coffers flow with wine, 'tis time to froth.\n\nIn lands afar, whereto Gojek hails,\nGoTo and Tokopedia trim their sails,\n'Midst cost-saving measures, their net loss quails,\nLike precious ale well-sav'd, to thereby wax in wealth.\n\nMark well, dear brethren, yon Eurozone,\nWherewith the sentiment of coin hath grown,\nYet only slightly 'tis, our goblets shan't o'erflow,\nWe toast t'moderation, a guiding dimly light.",
+    "feedItems": [
+      {
+        "title": "The Next Companies to Splash the Cash? European Banks---Really",
+        "link": "https://www.wsj.com/articles/the-next-companies-to-splash-the-cash-european-banksreally-8d232742",
+        "pubDate": "Thu, 27 Apr 2023 06:57:00 -0400",
+        "content:encoded": "",
+        "content": "Strong first-quarter results from Barclays and Deutsche Bank show the financial rehabilitation of Europe’s top lenders, but investors remain wary.",
+        "contentSnippet": "Strong first-quarter results from Barclays and Deutsche Bank show the financial rehabilitation of Europe’s top lenders, but investors remain wary.",
+        "guid": "WP-WSJ-0000827567",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:57:00.000Z"
+      },
+      {
+        "title": "GoTo Gojek Tokopedia Narrowed Net Loss Amid Cost-Saving Measures",
+        "link": "https://www.wsj.com/articles/goto-gojek-tokopedia-narrowed-net-loss-in-first-quarter-amid-cost-saving-measures-279c22db",
+        "pubDate": "Thu, 27 Apr 2023 06:40:00 -0400",
+        "content:encoded": "",
+        "content": "GoTo Gojek Tokopedia narrowed its net loss in the first quarter as cost-saving measures helped reduce operating costs.",
+        "contentSnippet": "GoTo Gojek Tokopedia narrowed its net loss in the first quarter as cost-saving measures helped reduce operating costs.",
+        "guid": "WP-WSJ-0000827619",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:40:00.000Z"
+      },
+      {
+        "title": "Eurozone Economic Sentiment Ticks Up Only Slightly",
+        "link": "https://www.wsj.com/articles/eurozone-economic-sentiment-ticks-up-only-slightly-in-april-ae380e0b",
+        "pubDate": "Thu, 27 Apr 2023 06:38:00 -0400",
+        "content:encoded": "",
+        "content": "The eurozone’s economic sentiment indicator rose to 99.3 April, from a downwardly revised 99.2 in March, and below forecast, suggesting slowing momentum of an economic revival in the bloc as cost-of-living pressures weigh.",
+        "contentSnippet": "The eurozone’s economic sentiment indicator rose to 99.3 April, from a downwardly revised 99.2 in March, and below forecast, suggesting slowing momentum of an economic revival in the bloc as cost-of-living pressures weigh.",
+        "guid": "WP-WSJ-0000827606",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:38:00.000Z"
+      }
+    ],
+    "date": "2023-04-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.png",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In garden vast, where dollar's fate does sway,\nA whisper tells of change that blooms anew,\nAs fleeting Fed signals a pause to stray,\nThe leaves of green may fall and oft renew.\n\nFrom wind-swept vines of vent'rous alchemy,\nSTMicroelectronics bears fruit most fair,\nWith golden glow, yon earnings seem to flee,\nAscend on wings of pray'rs in crisp spring air.\n\nWhen sky doth part, the debt ceiling loom,\nA murky veil enfolding 'pon our lands,\nYet can we grasp the workings of its gloom,\nAs rabbits, snails, entwine in life's vast strands.",
+    "feedItems": [
+      {
+        "title": "Dollar Could Fall Further if Fed Signals Pause in Rate-Rise Cycle",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-mixed-signals-c3487a7d",
+        "pubDate": "Thu, 27 Apr 2023 06:30:00 -0400",
+        "content:encoded": "",
+        "content": "The dollar could extend its losses as the Fed could signal a pause in its interest-rate rise cycle at its May 3 meeting amid fresh concerns over U.S. regional banks, MUFG Bank said.",
+        "contentSnippet": "The dollar could extend its losses as the Fed could signal a pause in its interest-rate rise cycle at its May 3 meeting amid fresh concerns over U.S. regional banks, MUFG Bank said.",
+        "guid": "WP-WSJ-0000826475",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:30:00.000Z"
+      },
+      {
+        "title": "STMicroelectronics First-Quarter Earnings Rose",
+        "link": "https://www.wsj.com/articles/stmicroelectronics-first-quarter-earnings-rose-b048b345",
+        "pubDate": "Thu, 27 Apr 2023 06:27:00 -0400",
+        "content:encoded": "",
+        "content": "STMicroelectronics reported higher earnings for the first quarter and released revenue guidance for the second quarter and full year.",
+        "contentSnippet": "STMicroelectronics reported higher earnings for the first quarter and released revenue guidance for the second quarter and full year.",
+        "guid": "WP-WSJ-0000826821",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:27:00.000Z"
+      },
+      {
+        "title": "What Is the Debt Ceiling and How Does It Work?",
+        "link": "https://www.wsj.com/articles/what-is-the-debt-ceiling-and-how-does-it-work-fe8a6ee4",
+        "pubDate": "Thu, 27 Apr 2023 06:26:00 -0400",
+        "content:encoded": "",
+        "content": "The U.S. risks failure to pay its debts if Congress doesn’t pass new legislation.",
+        "contentSnippet": "The U.S. risks failure to pay its debts if Congress doesn’t pass new legislation.",
+        "guid": "SB11395873277094093581204589585960871397096",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:26:00.000Z"
+      }
+    ],
+    "date": "2023-04-27"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In battle fierce and bold, the Russian thunder spoke,\nWith fiery spear of lightning aimed, on Southern Ukraine's yoke.\nAs storming sea's relentless waves besiege a threatened shore,\nTheir pound'r of rock, lay homes to waste, and blood did fill the moor.\n\nFrom trials and throes, of sickness born, a beacon bright there rose,\nMounjaro gathered strength anew, to strike the vile illness' throes.\nDiabetes conquered, thus the weight, like suns' retreat at night,\nA saga's triumph gained, for aft' the dark shall come the light.\n\nIn world of thought and wisdom's gift, we find the tools we craft,\nMemory-chip they forged, and now the skies shall clear, dense fog in past.\nMakers strived, their wisdom bright, till slump retreated from sight,\nAnd on the brink of day, behold, the valiant triumph of their might.",
     "feedItems": [
       {
         "title": "Russian Rockets Batter Residential Area in Southern Ukraine",
-        "description": "A Russian rocket barrage left at least one person dead and almost two dozen injured in the southern Ukrainian city of Mykolaiv after months of relative calm there, as Russian forces continued to push to capture the city of Bakhmut in the east.",
         "link": "https://www.wsj.com/articles/russian-rockets-batter-residential-area-in-southern-ukraine-db7980c4",
-        "id": "WP-WSJ-0000827507"
+        "pubDate": "Thu, 27 Apr 2023 06:22:00 -0400",
+        "content:encoded": "",
+        "content": "A Russian rocket barrage left at least one person dead and almost two dozen injured in the southern Ukrainian city of Mykolaiv after months of relative calm there, as Russian forces continued to push to capture the city of Bakhmut in the east.",
+        "contentSnippet": "A Russian rocket barrage left at least one person dead and almost two dozen injured in the southern Ukrainian city of Mykolaiv after months of relative calm there, as Russian forces continued to push to capture the city of Bakhmut in the east.",
+        "guid": "WP-WSJ-0000827507",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:22:00.000Z"
       },
       {
         "title": "Mounjaro Helps Diabetes Patients Lose 'Meaningful' Weight, Study Shows",
-        "description": "Participants with Type 2 diabetes who were also overweight or obese lost up to 15.7% of body weight",
         "link": "https://www.wsj.com/articles/mounjaro-eli-lilly-weight-loss-new-study-5f7661cc",
-        "id": "WP-WSJ-0000825633"
+        "pubDate": "Thu, 27 Apr 2023 06:15:00 -0400",
+        "content:encoded": "",
+        "content": "Participants with Type 2 diabetes who were also overweight or obese lost up to 15.7% of body weight",
+        "contentSnippet": "Participants with Type 2 diabetes who were also overweight or obese lost up to 15.7% of body weight",
+        "guid": "WP-WSJ-0000825633",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:15:00.000Z"
       },
       {
         "title": "Memory-Chip Makers Say Recovery Is in Sight After Long Slump",
-        "description": "Samsung expressed optimism that customers will start buying again as their inventories are now depleted and manufacturers are preparing for launches of new smartphones and PCs later this year.",
         "link": "https://www.wsj.com/articles/memory-chip-makers-say-recovery-is-in-sight-after-long-slump-f35a576",
-        "id": "WP-WSJ-0000827429"
+        "pubDate": "Thu, 27 Apr 2023 06:09:00 -0400",
+        "content:encoded": "",
+        "content": "Samsung expressed optimism that customers will start buying again as their inventories are now depleted and manufacturers are preparing for launches of new smartphones and PCs later this year.",
+        "contentSnippet": "Samsung expressed optimism that customers will start buying again as their inventories are now depleted and manufacturers are preparing for launches of new smartphones and PCs later this year.",
+        "guid": "WP-WSJ-0000827429",
+        "categories": [
+          {
+            "_": "PAID",
+            "$": {
+              "domain": "AccessClassName"
+            }
+          }
+        ],
+        "isoDate": "2023-04-27T10:09:00.000Z"
       }
     ],
     "date": "2023-04-27"

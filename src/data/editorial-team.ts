@@ -9,27 +9,27 @@ export const editorialTeam: EditorialTeamMember[] = [
 	{
 		name: 'Brother Arnulfus',
 		id: 'arnulfus',
-		avatar: 'dog-1.png',
+		avatar: 'dog-1.webp',
 		description: `A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale.`
 	},
 	{
 		name: 'Æthelred the Skald',
 		id: 'aethelred',
-		avatar: 'cat-1.png',
+		avatar: 'cat-1.webp',
 		description:
 			'A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry.'
 	},
 	{
 		name: 'Conchobar mac Dubhthach',
 		id: 'conchobar',
-		avatar: 'cat-3.png',
+		avatar: 'cat-3.webp',
 		description:
 			'An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse.'
 	},
 	{
 		name: 'Guillemette de Ventadour',
 		id: 'guillemette',
-		avatar: 'cat-2.png',
+		avatar: 'cat-2.webp',
 		description: `A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse.`
 	}
 

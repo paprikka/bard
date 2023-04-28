@@ -1,12 +1,12 @@
 [
   {
     "author": {
-      "name": "Brother Arnulfus",
-      "id": "arnulfus",
-      "avatar": "dog-1.png",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "Of Southwest Airlines, hear my tale,\nTheir flights halted, a mournful wail.\nFast in the heavens above they glide,\nYet, now for a time, they must bide.\n\nIn Turkey of old, a trembling land,\nEarthquakes storm, yet help is at hand.\nNegligence of yore, a heavy cost,\nMany a life in quakes hath been lost.\n\nAnd lo! On the wingèd beast, AI,\nRisks the finance function, doth pry.\nCFOs, be not timid, nor flee,\nEmbrace change, let thy coffers be free.",
+    "newsMedieval": "In skies now still'd, Southwest doth cease its flight,\nFor wings terrestrial, FAA proclaims.\nYet as the night, embraces fading light,\nWe sing of change, and progress still maintains.\n\nDire quakes of earth, in Turkey’s lands laid waste,\nDecades of negligence, their toll extract.\nYet still we hope, for better days encased,\nIn mem'ries dear, we find our strength in fact.\n\nAwash in coin, th' AI tides, they do converge,\nUpon realm fiscal, cautious lords, take heed.\nAdapt, grow wise, let muse's guidance surge,\nAs new frontiers enthrall-- e'er we proceed.",
     "feedItems": [
       {
         "title": "Southwest Airlines Halts Flights, FAA Says",
@@ -70,9 +70,9 @@
       "name": "Æthelred the Skald",
       "id": "aethelred",
       "avatar": "cat-1.png",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
     },
-    "newsMedieval": "In the midst of St. Barts' balmy seas,\nA mighty fortress hath sold, none cant withstand.\nFor vast sums of treasure, one hundred and thirty-six million,\nA record for the island's fair and sundrenched land.\n\nAs mighty Amazon in commerce doth wane,\nIts landlord still dost weather well the storm.\nA titan able to resist challenge to reign,\nUntroubled by the tribulations, feared by swarm.\n\nThe earnings of banks upon the shores of the New World,\nNow chronicled as first-quarter's tale is spun.\nA saga to follow and fortunes unfurled,\nWatch how U.S. banks in battle's steps have run.",
+    "newsMedieval": "In St. Barts, a fabled land of wealth untold,\nA mansion grand hath traded hands for gleaming gold,\nA sum so vast, e'en mighty Thor would stand amazed,\nOne hundred thirty-six million, a sum ne'er before gazed.\n\nTo Amazon, the giant of a realm unseen,\nIts landlord's fate, as yet untouched by fortune's keen,\nAs storm-clouds gather 'cross the merchants' distant shore,\nTheir ceaseless march shall wound the giants, yet not more.\n\nThe scribes of banks within the realm of new found land,\nSeek wisdom as their fortune shifts like grains of sand,\nIn ledgers drowned, the fates of giants none can trace,\nThey call upon the seers to reveal their race.",
     "feedItems": [
       {
         "title": "St. Barts Estate Sells for About $136 Million, a Record for the Caribbean Island",
@@ -133,12 +133,12 @@
   },
   {
     "author": {
-      "name": "Conchobar mac Nessa",
-      "id": "conchobar",
-      "avatar": "cat-3.png",
-      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.png",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "In days of yore when taxes due,\nA tale I sing, forsooth, 'tis true.\nThe IRS with patience tried,\nFor fewer folk on hold did bide.\n\nWhen plagues and pestilence assailed,\nBy Omicron's dread blow, hearts quailed.\nYet lo! A single dose, a dream,\nIn U.S. lands shall reign supreme.\n\nBehold brave Canada's resolve,\nA Russian ship's fate they'll solve.\nTo seize and gift to Ukraine's might,\nFor liberty and freedom's fight.",
+    "newsMedieval": "On this Tax Day we find reprieve,\nThe IRS hath not our flasks to heave,\nWith fewer calls to wait and grind,\nSome ease of burden on our mind.\n\nOne dose, from Omicron to fend,\nA Covid shot, our health to mend,\nNow when this foe doth cease its blight,\nIn God's good grace, we find respite.\n\nAnd lo, in North lands doth it unfold,\nThat Russian cargo seized and bold,\nFor Canada, as friends, repart,\nTo Ukraine, hands the vessel's heart.",
     "feedItems": [
       {
         "title": "Tax Day: IRS Left Fewer Taxpayers on Hold This Year",
@@ -202,9 +202,9 @@
       "name": "Guillemette de Ventadour",
       "id": "guillemette",
       "avatar": "cat-2.png",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
     },
-    "newsMedieval": "In distant lands where Muscovites reside,\nA court's decree doth hold a scribe confined;\nFor justice sought or shadows yet to hide,\nFor truth and honor shall we intertwine.\n\nProclaim in joy the pow'rs of potions fair,\nAs Johnson's works of healing do abound;\nAn outlook raised for noble souls to share,\nTheir fortunes swell in golden bounties found.\n\nAsseverate the climb of markets grand,\nFor banks do roll their earnings ever higher;\nIn harmony with these times' stalwart stand,\nAs valiant crowds exult unto the spire.",
+    "newsMedieval": "In courts of wolves and chains arise,\nA scribe detained, unjust his ties,\nFrom farthest East, the news beware,\nA goat's lament in Russian snare.\n\nA hare springs forth, its course prevails,\nJohnson's elixir now regales,\nIn healing arts it keeps the pace,\nForesees the dawn, the future's face.\n\nAs banks reveal their guarded store,\nS&P, the snail, climbs up from shore,\nSlowly it mounts in fortune's glow,\nA woodland chorus, earnings show.",
     "feedItems": [
       {
         "title": "Russian Court Upholds WSJ Reporter's Detention",

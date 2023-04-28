@@ -1,12 +1,12 @@
 [
   {
     "author": {
-      "name": "Brother Arnulfus",
-      "id": "arnulfus",
-      "avatar": "dog-1.png",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
     },
-    "newsMedieval": "What The Board Needs To Know, O, tell:\nGod's wisdom, pray, attend their quest,\nFor as He watches high and low.\nHis light may guide them to the best.\n\nOl’ Elon Musk, with lofty thought,\nOf spheres beyond our ken 'tis said,\nIn AI - art with angels sought,\nTo knit God's tapestry; His thread.\n\nThe governor of Oklahoma state,\nHis tongue, alas, a bane hath wrought,\nWith words that burn and tongues that grate,\nHe sinks in folly deeply caught.",
+    "newsMedieval": "In council gathered, minds of wisdom sought,\nOn boards of governance did leaders convene,\nTo pierce the veil, of matters grave and taut,\nIn hallowed halls, the future to glean.\n\nA lofty quest, of might and intellect,\nElon, famed star-crossed smith, in venture bold,\nHis craft of AI to beget,\nAnd grasp the secrets of cosmos untold.\n\nIn stern decree, the Governor speaks,\nFrom Oklahoma's raging tempest lands,\nCalls for resignations, scandal creaks,\nAnd threatening voices, to quell their demands.",
     "feedItems": [
       {
         "title": "What The Board Needs To Know",
@@ -67,12 +67,12 @@
   },
   {
     "author": {
-      "name": "Æthelred the Skald",
-      "id": "aethelred",
-      "avatar": "cat-1.png",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.png",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "In yon halls of ratings, a tale to unfold,\nOf Nielsen the Measurer, true and bold,\nOnce cast from the keep of accreditation's hold,\nNow restored to the ranks of the sagas it's told.\n\nA daunting contest, with the shadows of lies,\nFox News and Dominion contend for the prize,\nIn the merciless grasp of defamation's guise,\nRisk, much forsooth awaits, as to trial it flies.\n\nHarken the travail of Gershkovich in cage,\nA scribe of the Journal, for wisdom he'd wage,\nAt last, a visit from a U.S. envoy sage,\nTo tend true his burden, and stress disengage.",
+    "newsMedieval": "In Nielsen's goblet, God hath poured, (1)\nAccreditation now restored; (2)\nÆnglish wine of media's grace, (3)\nTheir reputation to embrace. (4)\n\nFox News and Dominion, they (1)\nUsurp the tongue of saints, astray; (2)\nIn defamation's trial's brew, (3)\nBoth face the risks, God's judgment true. (4)\n\nGood Gershkovich, scribe so fair, (1)\nAt last, a visit doth declare; (2)\nU.S. saints their presence bring, (3)\nTo aid his plight, God's mercy sing. (4)",
     "feedItems": [
       {
         "title": "Nielsen Regains Key Media Accreditation",
@@ -133,12 +133,12 @@
   },
   {
     "author": {
-      "name": "Conchobar mac Nessa",
-      "id": "conchobar",
-      "avatar": "cat-3.png",
-      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.png",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
     },
-    "newsMedieval": "Upon a day, the tale doth sing, a gathering of souls entwined,\n\"Love Is Blind,\" these voices ring, in screens unseen now bind,\nWhen lands afar, their joys delay, their hearts entangle'd be confined,\nAlas, the time hath come to blare, this union's mirth now find.\n\nIn times of yore, when giants strong, did raise and fall the tides,\nThe stocks did edge above the throng, foretelling higher strides,\nYet caution held these merchants fair, to weigh against the rates,\nWith hast'ning hearts, their fortunes bear, betwixt the fickle fates.\n\nAnd now beware, the House of yon, where noble men converse,\nTheir tongues in discord, with disdain, provoke a viler verse,\nFrom new-born York, a battle fierce, with partisan enshroud,\nForsooth, in endless strife immerse, a land with voices loud.",
+    "newsMedieval": "As goats in meadows graze, our eyes beguiled,\nLove's blindness now unveiled, new bard hath styled,\nWith subtle pause, a reunion's fate begot,\nOn yon streaming bank, delayed joys we sought.\n\nIn markets flourished, timid hounds embark,\nBeneath the ambient glow, stocks seek their mark,\nE'er the sandpipers' rise, returns amassed,\nTo weigh the heavy coffer, rates surpassed.\n\nHark, the snarl of dog and hare apace,\nHouse panel's clamor spreads in hallowed place,\nIn New York's tempest cloud, discordant din,\nRaging partisan throngs, words clash within.",
     "feedItems": [
       {
         "title": "Netflix Releases 'Love Is Blind' Reunion Show After Delay",
@@ -199,12 +199,12 @@
   },
   {
     "author": {
-      "name": "Guillemette de Ventadour",
-      "id": "guillemette",
-      "avatar": "cat-2.png",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "In a land of clamorous trade, where bondmen dwell,\nThe silver steep of venerated rates hath ris'n.\nTheir ardent gaze on Canadian shores impel,\nAnd wary merchants find new wealth in their decisions.\n\nWhen whispers from the East crept o'er the sea,\nAlleged mischief foiled by watchful guardians brace.\nThe serpent's coil obscures the deals, a piteous plea,\nAnd thus, the strife on China's visage finds its place.\n\nA noble steed hath called a pasture home,\nAs years did wax and wane in markets sought.\nBut now the tale doth close with joyous tome,\nA farm in old Connecticut at last hath found its lot.",
+    "newsMedieval": "A-hark, ye traders by the shore,\nWhere rate hikes fuel hearts implore,\nThe bondholders of Pacific's mirth,\nCanadian choirs entwined forthwith.\n\nExclaim the news anon we see,\nOf U.S. hands in chains set free,\nCharging dozens, fates entwine,\nWith China's schemes, o'er land malign.\n\nOn Connecticut's green bestowed,\nWhere equine sentinels make their abode,\nYon farm doth sell in close embrace,\nA decade's dance upon the stage.",
     "feedItems": [
       {
         "title": "Pro Take: Rate Hikes Fuel Bondholders' Canadian Pacific Trade",

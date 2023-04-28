@@ -4,9 +4,9 @@
       "name": "Brother Arnulfus",
       "id": "arnulfus",
       "avatar": "dog-1.png",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "In battle fierce, do cables clash,\nWith carriers of mobile lore,\nO'er wireless lands, for bits they vie,\nEnabling saints to singeth more.\n\nSupply chains fret, the monks, they sweat,\nTo count their beans and clasp their fists,\nFor even as storming pandemics pass,\nTo gaineth gold, they still persist.\n\nBehold dear flock, those stacks of slips,\nBed, Bath & Beyond doth call us all,\nTo purchase dear, with coupons near,\nOur final chance 'fore curtain fall.",
+    "newsMedieval": "In cables and carriers there doth war wage,\nO'er th'wireless realm, fierce battles of our age;\nGod grant us speed in warring for connection,\nIn life of boundless streams, divine direction.\n\nWhen yon supply chains face their trials weary,\nCFOs in constant prayer, e'en when teary;\nThe plagues be done, but still they grasp their fears,\nAnd work the vineyard, tending through the years.\n\nHaste, friends of Bed and Bath, & Beyond no less,\nWith paper bounty, seek thy store's address;\nThine coupons old, in nervous hands they rest,\nTo trade for goods, and know ye shall be bless'd.",
     "feedItems": [
       {
         "title": "Cable Companies and Mobile Carriers Battle Over Fixed Wireless Internet",
@@ -67,12 +67,12 @@
   },
   {
     "author": {
-      "name": "Æthelred the Skald",
-      "id": "aethelred",
-      "avatar": "cat-1.png",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.png",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
     },
-    "newsMedieval": "In realms unseen, a vicious blight,\nA cyber-dragon's murderous spite,\nDid lay its siege one fateful day,\nTo halt the path of life's array.\n\nYet in the biting cold still braved,\nThe humble trucker ne'er dismayed,\nTheir burdened ships through muck and mire,\nThat data reign shall stifle ire.\n\nLo, from yon southrons' gleaming shore,\nDeSantis' summons wields the board,\nAs Disney's fosse with cunning weighed,\nTo nullify the deals once made.",
+    "newsMedieval": "In cyber realm, a wicked strike,\nHalt'ed logistics wings to spike,\nA snail's somber pace unfurled,\nNature's calm disrupt'ed world.\n\nTruck driv'rs oft burdened like the goat,\nCarrying data they sadly tote,\nRabbits dash, the change foreseen,\nLight'ning sweep 'cross laden green.\n\nIn lands of DeSantis and his pride,\nDisney's contracts nullified,\nLoyal dogs they've been befell,\nSmooth'ed path mixed, tangled spell.",
     "feedItems": [
       {
         "title": "A Cyberattack Forced a Logistics Company to Temporarily Halt Operations",
@@ -133,12 +133,12 @@
   },
   {
     "author": {
-      "name": "Conchobar mac Nessa",
+      "name": "Conchobar mac Dubhthach",
       "id": "conchobar",
       "avatar": "cat-3.png",
-      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "On yonder eve, as twilight fell,\nA tale of woe I've come to tell,\nOf natural gas that sharply fell,\nIts price a heavy burden.\n\nWith somber voice, I singeth now,\nA dirge for First Republic's vow,\nTheir shares beset by tempest's brow,\nUnder pressure's dark curtain.\n\nA roundup next, do I commence,\nOf market talk and recompense,\nIn financial services’ dense,\nI weave my song's intention.",
+    "newsMedieval": "Of nature's gaseous boon, I speak,\nIn whispering winds, its value creak,\nFor fickle fate hath turned her wheel,\nAnd forced the noble gas to kneel.\n\nWhen First Republic vested shares,\nFair fortune's face with frowns now wears,\nSuch pressure weighs upon their back,\nA drowning ship midst sea's attack.\n\nOh valiant Knights of Finance, hear,\nMy mellow voice thy Market near,\nRound up thy services and talk,\nFor wisdom's path is long to walk.",
     "feedItems": [
       {
         "title": "Natural Gas Falls Sharply",
@@ -199,12 +199,12 @@
   },
   {
     "author": {
-      "name": "Guillemette de Ventadour",
-      "id": "guillemette",
-      "avatar": "cat-2.png",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
     },
-    "newsMedieval": "In desperate times of shared despair,\nThe First Republic treads with care,\nA heavy burden they must bear,\nAs pressure mounts in market air.\n\nCurse false tongues that poison most,\nCarlson's vile words, he doth boast,\nSealed his fate, now stands accused,\nFor vulgar speech, his honor bruised.\n\nWith weary hearts, we watch and wait,\nBiden's charge, the people's fate,\nUpon a land, still troubled, sore,\nHe strides to heal in days of yore.",
+    "newsMedieval": "Upon the First Republic's troubled shore,\nTheir shares dost face a tempest's vengeful roar,\nAs fortunes ebb and flow like Ocean's tide,\nTheir golden fleet adrift, they can't abide.\n\nIn Carlson's halls, an ember's wrath did sear,\nHis vulgar missives brought to light, now clear,\nBy Loki's tongue, these insults found their fate,\nSuch whispers fell, dark-woven threads of hate.\n\nYoung Biden sails through whirlwinds of despair,\nAn economy improved, yet storms still blare,\nSteel in his grasp, the hero weathers strife,\nHe forges on, through troubled seas of life.",
     "feedItems": [
       {
         "title": "First Republic Shares Under Further Pressure",

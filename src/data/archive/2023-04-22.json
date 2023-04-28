@@ -4,9 +4,9 @@
       "name": "Brother Arnulfus",
       "id": "arnulfus",
       "avatar": "dog-1.png",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous and satirical, might contain references to wine or ale."
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "In sooth, a sport yclept thee sprintest high,\nTo mountains steep, and far o'er fifty miles,\nA wondrous feat whereat our spirits smile.\n\nA query fair, with news of late didst fly,\nUpon the winds of April twenty-second,\nA test to stretch the minds of brethren glad.\n\nAlas, good folk of quarters dear hath fled,\nAnd in their wake, a rising cost doth swell,\nFor refuge seek, but change they bring as well.",
+    "newsMedieval": "Of sport that groweth quick, and bold men cheer,\nTo scale the mount, whilst running fifty mile,\nA task most wondrous, challeng'd without fear,\nThe thrill of feat, unquench'd by sweat or toil.\n\nA noble quiz in April ye shall find,\nAn amiable draught I do propose,\nSome knowledge sweet that flows like vintage wine,\nThe challenge rich as rich the laughter flows,\n\nUnbound from cities, fleeing cost so high,\nCome pilgrims, still, yet laden with lustration,\nDivine their lot, yet writhe in inflation's pry,\nEffaced like foamy ale's libation.",
     "feedItems": [
       {
         "title": "The Fast-Growing Sport Where You Run Up a Mountain for 50 Miles",
@@ -67,12 +67,12 @@
   },
   {
     "author": {
-      "name": "Æthelred the Skald",
-      "id": "aethelred",
-      "avatar": "cat-1.png",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess."
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.png",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "Of Debt-Ceiling's Standoff fierce I sing,\nIts warping force doth gnash on Treasury's wing;\nThe mead-halls echo with th' accursed name,\nAs rancor grows, in markets beamed with flame.\n\nTh' Americans of cities fleeing high,\nTo hamlets flee, a bloated coin supply;\nWith greener pastures come inflations dread,\nAs distant lands bear heavy burden's head.\n\nA foaming tide, the chariots of storm,\nIn EVs' rise, the mining field transform;\nGreat Thor applauds deals etched in iron ore,\nAs torrents flow, their current t'ward the shore.",
+    "newsMedieval": "In standoff of ceiling'd debt, the fair\nTreasury's trade, warped beyond compare;\nA tussle waged on fields of coin,\nSuch strife, where peace finds no entwine.\n\nFrom yon face of cities, costly bred,\nAmericans seek humbled stead;\nTheir dwellings seized, inflating sum\nThough ere shelter, fate's pendulum.\n\nBehold, the rise of steeds electric,\nUnearth wealth of mines prolific;\nAye, to a height unseen in waves,\nThis trove o'er mining deals engraved.",
     "feedItems": [
       {
         "title": "Debt-Ceiling Standoff Warps Treasury Trading",
@@ -133,12 +133,12 @@
   },
   {
     "author": {
-      "name": "Conchobar mac Nessa",
-      "id": "conchobar",
-      "avatar": "cat-3.png",
-      "description": "An Irish bard who doth sing of the battles and triumphs of his people, preserving their traditions and history."
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.png",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
     },
-    "newsMedieval": "Upon the border 'twixt the frost and flame,\nA chill doth spread, where Europe's sons do fight;\nIn shadows long our warriors stake their claim,\nA somber dance 'neath watchful eyes of night.\n\nAt dawn's first light, comes word of boons and risks,\nOf Musk, a man who leapt from earth to sky;\nWithin a day, his name, like lightning, flicks,\nTo stir the hearts of those who see him fly.\n\nAlas, the heralds sing a mournful cry,\nFor Moody's hath her gaze on banks once strong;\nFrom Zion's walls to leagues of U.S. ties,\nThe Western Alliance shares her song.",
+    "newsMedieval": "Of chill and frost in border lands,\nWhere Europe's heart meets Russia's hands,\n\nGoats huddle close, a bridge despair.\n\nIn fleeting hours, with sparks alight,\nMusk sets the world to risks untold,\nLike dogs who chase a hare.\n\nDown, dismal fate for banks and gold,\nEleven torches dimmed and cold,\nA snail's retreat in western lands unfold.",
     "feedItems": [
       {
         "title": "Chill Settles In at a Europe-Russia Border Crossing",
@@ -199,12 +199,12 @@
   },
   {
     "author": {
-      "name": "Guillemette de Ventadour",
-      "id": "guillemette",
-      "avatar": "cat-2.png",
-      "description": "A troubadour from Occitania who doth compose songs of love and chivalry, enchanting all who hear her voice."
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.png",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
     },
-    "newsMedieval": "Upon fair Pepsi's crest, a novel feast,\nA potion and a pastry doth they boast,\nWhilst drinkers savour 'pon this fleeting yeast,\nAnd hums the prosperous kingdoms, coast to coast.\n\nYet, hark! The potion doth a change unfold,\nFor 'neath the goblet now hold vittles bold,\nWith Pepsi's newfound health its subjects toast,\nAnd spuds and sips entwine like heart's appose.\n\nDeft sounds and whispers fill the ears around,\nNot emptiness, nor hollow breezes want,\nFor in vermilion vestiges resound,\nThe echoes of a thoughtful troubadour.",
+    "newsMedieval": "In the hall of the snack-gods, where Pepsi doth reign,\nA new diet they've chosen, in Norse lands to gain.\nFrom the oceans of pop, and the mountains of chips,\nTheir whispers unleashed, like the sea at the ship.\n\nYet within the vast forges, a healthy wave swells,\nWith more potato harvest, their warriors compelled.\nIn the mead halls of commerce, the trickster god chuckles,\nAs feasting and guzzling, add to their muscles.\n\n'Tis said that the sounds, which quaver the air,\nHold more weight in discourse, than e'er one would bear.\nLike the calm 'fore the storm, our hesitations ring,\nIn Odin's grand saga, a song we hear sing.",
     "feedItems": [
       {
         "title": "Pepsi's New Diet: More Chips and Soda",
