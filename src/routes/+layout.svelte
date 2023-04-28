@@ -18,14 +18,14 @@
 		async
 		defer
 		data-website-id="dcfdf23e-805d-4bec-a639-6c7335abfc7d"
-		data-domains="readdeadpeople.com,www.readdeadpeople.com"
+		data-domains="tidings.potato.horse,www.tidings.potato.horse"
 		src="https://sonnet-events.vercel.app/umami.js"
 	></script>
 	<SocialMeta
 		title="The (Medieval) Times"
-		url="https://readdeadpeople.com"
+		url="https://tidings.potato.horse"
 		socialImage={{
-			absoluteUrl: 'https://readdeadpeople.com/social.png',
+			absoluteUrl: 'https://tidings.potato.horse/social.png',
 			height: 506,
 			width: 1012
 		}}
