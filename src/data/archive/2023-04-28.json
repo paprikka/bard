@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In battle 'gainst inflation's fearsome tide,\nThe ECB doth raise its shield and sword,\nBut cautious be, lest harm doth take its side,\nAmundi warns, the cycle's pace to slow.\n\nAs oil and sea doth drop their precious load,\nWith Mobil's Exxon and Chevron's might,\nTheir profits, like famed warriors of old,\nStand strong, resurgent 'midst the ebbing flow.\n\nNow hear the tale of Beijing's rise once more,\nBut woe betide, the saboteur doth lurk,\nAs state extends its ever-reaching hand,\nEspionage and raids doth harm conspire.",
+    "feedItems": [
+      {
+        "title": "ECB Likely to Stay Cautious With Rate Rises Despite Inflation Fight",
+        "description": "The ECB’s fight against inflation remains relentless but its wariness over the economic impact of the tightening cycle is likely to make it slow the pace of its interest-rate rise next week, according to asset manager Amundi.",
+        "link": "https://www.wsj.com/articles/ecb-likely-to-stay-cautious-with-rate-rises-even-as-it-fights-inflation-amundi-says-interview-40b4a55",
+        "id": "WP-WSJ-0000832774"
+      },
+      {
+        "title": "Exxon, Chevron Profits Are Resilient Even as Oil Prices Drop",
+        "description": "Exxon Mobil and Chevron collectively posted $18 billion in first-quarter profits, showing resilient performance even as oil and natural-gas prices declined.",
+        "link": "https://www.wsj.com/articles/chevron-cvx-exxon-xom-q1-earnings-report-2023-6a022a3d",
+        "id": "WP-WSJ-0000831892"
+      },
+      {
+        "title": "Beijing's Bain Raid, Espionage Law are Self-Sabotage",
+        "description": "China’s economy is bouncing back. Recent moves show that the potential for state overreach is, too.",
+        "link": "https://www.wsj.com/articles/beijings-bain-raid-espionage-law-are-self-sabotage-40f87276",
+        "id": "WP-WSJ-0000832655"
+      }
+    ],
+    "date": "2023-04-28"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Rusland's realm, a missile's might,\nTo Ukraine's cities doth bring blight;\nMourning thirteen, as fate unfurls,\nThe drone's cold wrath upon this world.\n\nThe Bank of China, known by name IC,\nRevealèd growth so near to be;\nYet hark, the first, the quarter's tale,\nThe whining drop of interest, doth weep and fail.\n\nIn twisted quest, she breeds anew,\nAn AI clone, with whispers true;\nHer bank and kin, beguiled so deep,\nBy eerie likeness, nightmares doth reap.",
+    "feedItems": [
+      {
+        "title": "Russian Missile Barrage Kills 13 in Ukraine",
+        "description": "Russia targeted cities across Ukraine in the most severe missile barrage in more than a month, killing at least 13 people, as the Kremlin called for expanding the development and use of drones.",
+        "link": "https://www.wsj.com/articles/russian-missile-barrage-kills-13-in-ukraine-3c4dec04",
+        "id": "WP-WSJ-0000832705"
+      },
+      {
+        "title": "ICBC Reported Flat Net-Profit Growth in First Quarter",
+        "description": "Industrial & Commercial Bank of China reported flat growth in first-quarter net profit and a 4.8% drop in net interest income.",
+        "link": "https://www.wsj.com/articles/icbc-reported-flat-net-profit-growth-in-first-quarter-4c27188b",
+        "id": "WP-WSJ-0000832700"
+      },
+      {
+        "title": "I Cloned Myself With AI. She Fooled My Bank and My Family.",
+        "description": "Our columnist replaced herself with AI voice and video to see how humanlike the tech can be. The results were eerie.",
+        "link": "https://www.wsj.com/articles/i-cloned-myself-with-ai-she-fooled-my-bank-and-my-family-356bd1a3",
+        "id": "WP-WSJ-0000824444"
+      }
+    ],
+    "date": "2023-04-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of troubled banks and blunders' tale,\nStricter bounds to mend their strife,\nSilent postmortems to unveil,\nThe realm seeks solace from their strife.\n\nIn lands far, in sing'd city dear,\nRents sore increase, boundless they grow,\nWhere tenants face a dread and fear,\nIn Metropolis, their woes doth show.\n\nAs growth of wage and prices dance,\nThe watchful Fed to ponder rate,\nTo weigh their steps, not left to chance,\nTheir wise decision we await.",
+    "feedItems": [
+      {
+        "title": "Regulators to Publish Postmortems on SVB, Signature Failures",
+        "description": "The reports are expected to include recommendations for stricter regulation of regional banks.",
+        "link": "https://www.wsj.com/articles/regulators-to-publish-postmortems-on-silicon-valley-bank-signature-failures-37abe07",
+        "id": "WP-WSJ-0000831631"
+      },
+      {
+        "title": "'That's Just Crazy': The Metropolis Where Rents Rise 60%, 75%, Even 100%",
+        "description": "It’s a tough time to be a tenant in Singapore, with rent increases outpacing those in London and New York.",
+        "link": "https://www.wsj.com/articles/thats-just-crazy-the-metropolis-where-rents-rise-60-75-even-100-b3c536df",
+        "id": "WP-WSJ-0000826497"
+      },
+      {
+        "title": "Wage Growth, Inflation Data to Inform Fed Before Rate Decision",
+        "description": "The government will release the employment-cost index and the price gauge watched by the central bank.",
+        "link": "https://www.wsj.com/articles/employment-cost-index-q1-2023-personal-consumption-expenditures-price-index-march2023-1d4a191",
+        "id": "WP-WSJ-0000830553"
+      }
+    ],
+    "date": "2023-04-28"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of yonder land where skies doth weep,\nIn shadows cast, clean powers creep,\nThough fervent Europe giveth chase,\nTo Uncle Sam's green bounty race.\n\nAs chargers fill the inns with ease,\nEre night descends on horseless steeds,\nA battle grim for youthful sparks,\nTo drink, perchance to quench in dark.\n\nToo many seats, but bottoms few,\nIn tavern halls where silence grew,\nAway the feast, and call for change!\nThis realm of mirth doth rearrange.",
+    "feedItems": [
+      {
+        "title": "Europe's Green-Energy Push Struggles to Match U.S. Momentum",
+        "description": "Solar and other clean-energy initiatives in Europe are being overshadowed as U.S. tax credits draw the focus of investors.",
+        "link": "https://www.wsj.com/articles/europe-clean-energy-renewables-us-4ce5d3e1",
+        "id": "WP-WSJ-0000828968"
+      },
+      {
+        "title": "The Most Annoying Hotel Guest Is the EV Charger Hog",
+        "description": "More electric vehicles mean more competition for chargers during overnight stays.",
+        "link": "https://www.wsj.com/articles/electric-vehicles-hotels-road-trips-d61375e7",
+        "id": "WP-WSJ-0000818446"
+      },
+      {
+        "title": "'Too Many Seats, Too Few Butts' Mean Changes at Your Favorite Restaurant",
+        "description": "As eating out is replaced by ordering out, restaurant real estate gets a radical makeover",
+        "link": "https://www.wsj.com/articles/too-many-seats-too-few-butts-mean-changes-at-your-favorite-restaurant-e876b092",
+        "id": "WP-WSJ-0000819155"
+      }
+    ],
+    "date": "2023-04-28"
+  }
+]
