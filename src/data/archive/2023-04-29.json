@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Texas land, a frightful tale,\nFive souls to death imbued,\nA squabble harsh, a senseless fail,\nBy monstrous hearts construed.\n\nIn northern wilds, the oil sands cry,\nAs darkened waters seep,\nThe tribes do scorn, the land doth sigh,\nThe secrets that it keeps.\n\nUkraine's fair plants, the danger near,\nExplosions mark the fight,\nDiplomacy now must lend an ear,\nPreserve the sacred light.",
+    "feedItems": [
+      {
+        "title": "Five People Killed in Texas Shooting; Authorities Searching for Suspect",
+        "description": "A noise dispute may have set off the attack that left an 8-year-old and four adults dead, according to law enforcement.",
+        "link": "https://www.wsj.com/articles/five-people-killed-in-texas-shooting-authorities-searching-for-suspect-cc5c6dd9",
+        "id": "WP-WSJ-0000836608"
+      },
+      {
+        "title": "Exxon's Canadian Affiliate Struggles With Oil Sands Wastewater Leak",
+        "description": "Indigenous groups are criticizing a delay in revealing the full extent of toxic seepage in northern Alberta.",
+        "link": "https://www.wsj.com/articles/exxons-canadian-affiliate-struggles-with-oil-sands-wastewater-leak-6fe5a16f",
+        "id": "WP-WSJ-0000835837"
+      },
+      {
+        "title": "Explosions Near Ukraine's Giant Nuclear Plant Prompt Diplomatic Push",
+        "description": "The United Nations atomic energy agency is racing to prevent the war in Ukraine from endangering the Zaporizhzhia facility as fighting nearby intensifies.",
+        "link": "https://www.wsj.com/articles/explosions-near-ukraines-giant-nuclear-plant-prompt-diplomatic-push-fe031af2",
+        "id": "WP-WSJ-0000832733"
+      }
+    ],
+    "date": "2023-04-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In India's realm, a battle fierce,\nFor love doth strive 'gainst custom's vice,\nYet marriage rights shall pierce the hearse,\nOf bigotry, religion's price.\n\nIn Brooklyn's streets, a car doth dwell,\nA Corvette old, with storied tale,\nMidst rattling carts and potholed hell,\nIn sunshine gleams, its joy unveiled.\n\nNow to fair Chicago's scene,\nA pot of pizza, famed devise,\nA legal strife assaults serene,\nIn line they stand, for savory prize.",
+    "feedItems": [
+      {
+        "title": "In India's Landmark Same-Sex Marriage Case, Arguments Span Equality, Family, Religion",
+        "description": "Petitioners seeking marriage rights for LGBTQ people face opposition from India’s socially conservative government.",
+        "link": "https://www.wsj.com/articles/in-indias-landmark-same-sex-marriage-case-arguments-span-equality-family-religion-63ac7ec5",
+        "id": "WP-WSJ-0000836276"
+      },
+      {
+        "title": "His 1960 Corvette Is At Home in a Public Brooklyn Garage",
+        "description": "Jan Hyde drives his first-generation Corvette on New York City’s potholed streets “when the weather is nice.”",
+        "link": "https://www.wsj.com/articles/his-1960-corvette-is-at-home-in-a-public-brooklyn-garage-e794e6b9",
+        "id": "WP-WSJ-0000833345"
+      },
+      {
+        "title": "Chicago Eatery That Invented Pizza Pot Pie in Legal Battle",
+        "description": "Despite an ownership fight, it is business as usual at the longtime eatery where patrons line the sidewalk to get a seat.",
+        "link": "https://www.wsj.com/articles/chicago-restaurant-that-invented-pizza-pot-pie-embroiled-in-legal-battle-a3e40a72",
+        "id": "WP-WSJ-0000833687"
+      }
+    ],
+    "date": "2023-04-29"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In DeSantis' trove lie treasures bold,\nA fortune vast, but yet so cold,\nWith cunning guile and artful pleas,\nHe seeks to claim, as ruler sees.\n\nAmongst the Orient's mighty realm,\nTheir vessels sail, as oars o'erwhelm,\nTo forge alliances and trade,\nIn quest for liquid fire, unswayed.\n\nThe lodgings dearth, a dragon's hoard,\nNow doubled, as the market roared,\nIn scarce a moon, a change so stark,\nRenters wronged, caught in the dark.",
+    "feedItems": [
+      {
+        "title": "How Ron DeSantis Could Unlock $86 Million for a Presidential Run",
+        "description": "Some election lawyers say the cash, sitting in a Florida political committee, can’t be used to help his White House bid, but his allies are pressing forward.",
+        "link": "https://www.wsj.com/articles/how-ron-desantis-could-unlock-86-million-for-a-presidential-run-850b81c0",
+        "id": "WP-WSJ-0000835487"
+      },
+      {
+        "title": "China's Oil Strategy Mixes Diplomacy and a Domestic Drilling Push",
+        "description": "Chinese oil companies are increasing their drilling at home and signing big deals overseas as part of a push for energy security.",
+        "link": "https://www.wsj.com/articles/chinas-oil-strategy-mixes-diplomacy-and-a-domestic-drilling-push-89a1cedf",
+        "id": "WP-WSJ-0000832588"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Just 18 months ago, a 10% hike was normal. Today, rents there are up 100%.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-fdc35ae4",
+        "id": "SB10480284648127154415004589590231611614848"
+      }
+    ],
+    "date": "2023-04-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In days of yore, a modest rate,\nDid dwell upon the dwelling's gate,\nBut now doth heed the soaring call,\nA hundred-fold increase befall.\n\nOf Lagerfeld's companion, fair,\nChoupette, we wonder, dost she dare,\nTo grace the Met, the red rug fierce,\nAnd in their hearts, the masses pierce?\n\nIn subtle threads, Succession's dames,\nDo spin and weave their artful games,\nGerri's hat, and Willa's guise,\nFair Isle whispers 'neath Shiv's eyes.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "Just 18 months ago, a 10% hike was normal. Today, rents there are up 100%.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-25a6c899",
+        "id": "SB10480284648127154415004589590230998754847"
+      },
+      {
+        "title": "The Met Gala's Most Anticipated Guest? Karl Lagerfeld's Cat, Choupette",
+        "description": "Fans are wondering whether the feline heir of a storied fashion designer could make red-carpet history",
+        "link": "https://www.wsj.com/articles/the-met-galas-most-anticipated-guest-karl-lagerfelds-cat-choupette-b15cdcf0",
+        "id": "WP-WSJ-0000834398"
+      },
+      {
+        "title": "The Fashion Power Plays of the 'Succession' Women",
+        "description": "Gerri’s hat. Willa’s minis. Shiv’s dormant warm and fuzzy side, as told by her long-lost Fair Isle sweaters. What the style in HBO’s hit tells us about women angling for power.",
+        "link": "https://www.wsj.com/articles/succession-fashion-shiv-gerri-willa-naomi-c4d58bb5",
+        "id": "WP-WSJ-0000834891"
+      }
+    ],
+    "date": "2023-04-29"
+  }
+]
