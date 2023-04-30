@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In lands of Cathay strong they rise,\nConsumption's vigor in April thrives,\nBut lo, the factory's contrivance lies,\nA sudden contraction strikes our eyes.\n\nTo Biden's call for scribes' release,\nFor Gershkovich and brethren cease,\nAt White House feast where men did dine,\nHe spake for liberty, press divine.\n\nMusk, of space his vessel wrought,\nA star-bound ship with ambitions taut,\nTwo billion coin, the cost prepares,\nAnd yet, new funds need not he care.",
+    "feedItems": [
+      {
+        "title": "China's Consumers Lead Recovery in April",
+        "description": "Retail spending has come back strong, but surveys also showed a surprise contraction in factory activity in April.",
+        "link": "https://www.wsj.com/articles/official-gauge-of-chinas-manufacturing-activity-fell-into-contraction-in-april-2f66258e",
+        "id": "WP-WSJ-0000837083"
+      },
+      {
+        "title": "Biden Calls for Release of Jailed Journalist Evan Gershkovich, Other Detainees",
+        "description": "The president addressed the importance of a free press at the annual White House Correspondents’ Association dinner.",
+        "link": "https://www.wsj.com/articles/biden-calls-for-release-of-jailed-journalist-evan-gershkovich-other-detainees-a42153bc",
+        "id": "WP-WSJ-0000837126"
+      },
+      {
+        "title": "Musk Expects SpaceX to Spend Around $2 Billion on Starship This Year",
+        "description": "The company plans to add more ground infrastructure at its launch site in South Texas and likely won’t need to seek new funding",
+        "link": "https://www.wsj.com/articles/elon-musk-expects-spacex-to-spend-around-2-billion-on-starship-rocket-this-year-31f768fb",
+        "id": "WP-WSJ-0000837070"
+      }
+    ],
+    "date": "2023-04-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In skies aloft where Eddas fly,\nIn haste t'was thought, we place our blame;\nYet oft hath fault a hidden face,\nThine own undoing doth confess.\n\nThe cunning numbersmith of yore,\nA thorn intwined 'round Wall's brow;\nHis knowledge vast, his guile reborn,\nResumes as Sjáandi, relentless scorn.\n\nHark, First Republic's fate belies,\nThe giants tread the path of war;\nSan Francisco's keep doth teeter,\nWait they now, to grasp the golden shore.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "You want to blame the airline, but sometimes it&#x27;s just your fault",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-17ce94ed",
+        "id": "SB10480284648127154415004589591223031572546"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "He was a hedge fund quant. Now, he&#x27;s become a thorn in the side of Wall Street.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-cb1d9d4e",
+        "id": "SB10480284648127154415004589591053495796577"
+      },
+      {
+        "title": "What's Going On With First Republic Bank?",
+        "description": "Regulators are poised to seize the San Francisco lender and sell it off to a larger bank.",
+        "link": "https://www.wsj.com/articles/first-republic-bank-stock-rescue-what-to-know-a22a3d",
+        "id": "WP-WSJ-0000690052"
+      }
+    ],
+    "date": "2023-04-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In fair Texas' land, where tumult reigned,\nA noise dispute brought sorrow untamed,\nFive souls were swept, young and old alike,\nIn endless search for the miscreant's strike.\n\nThrough bearish realms, investors withstand,\nTheir lessons shared, in uncertain land,\nThe dance they shift, strategies anew,\nFor hope in days when skies are less blue.\n\nHarken now, to tales of fortune fore,\nOf tech giants when earnings restore,\nThough growth is slow, the worst it seems past,\nThe fires of hope, flicker on steadfast.",
+    "feedItems": [
+      {
+        "title": "Five People Killed in Texas Shooting; Authorities Searching for Suspect",
+        "description": "A noise dispute may have set off the attack that left an 8-year-old and four adults dead, according to law enforcement.",
+        "link": "https://www.wsj.com/articles/five-people-killed-in-texas-shooting-authorities-searching-for-suspect-cc5c6dd9",
+        "id": "WP-WSJ-0000836608"
+      },
+      {
+        "title": "Bear Market's Survivors Share Biggest Lessons",
+        "description": "With the S&P 500 in the longest bear market since 1973, individual investors are maneuvering differently from just months ago.",
+        "link": "https://www.wsj.com/articles/bear-markets-survivors-share-biggest-lessons-177adfb4",
+        "id": "SB11395873277094093581204589590892972967068"
+      },
+      {
+        "title": "Big Tech Earnings Spark Hope That Worst Is Over",
+        "description": "Shares rise on better-than-expected results, but growth lags behind what Microsoft, Amazon and Google did in the past.",
+        "link": "https://www.wsj.com/articles/big-tech-earnings-spark-hope-that-worst-is-over-a882899c",
+        "id": "SB11395873277094093581204589590861614578416"
+      }
+    ],
+    "date": "2023-04-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the fief of circuit'd wares, hope springs anew,\nFrom mighty lords, e'en Amazon to Google grew,\nYet, still the bountiful harvest of the past they lack,\nIn the kingdom's coffers, slight earnings accrue.\n\nBy yonder Sudan's strife, generals' discord doth prey,\nAs creatures caught in crossfire, shutt'ring homes they lay,\nThe toll mounts, so does despair, in far corners of that land,\nLives snuffed like gentle candles, in war's malaise they sway.\n\nYon briny cloaked in toxic cloak, Alberta's weeping shore,\nTroubled slumbers of ancient sands disturb'd by avarice's roar,\nExxon's scions now scramble for answers to past mistakes,\nWhile voices of indigenous tribes reach the skies, for justice they implore.",
+    "feedItems": [
+      {
+        "title": "Big Tech Earnings Spark Hope That Worst Is Over",
+        "description": "Shares rise on better-than-expected results, but growth lags behind what Microsoft, Amazon and Google did in the past.",
+        "link": "https://www.wsj.com/articles/big-tech-earnings-spark-hope-that-worst-is-over-9f5880bd",
+        "id": "SB11395873277094093581204589590823814965600"
+      },
+      {
+        "title": "What Is Happening in Sudan? The Fighting Explained",
+        "description": "A power struggle between Sudan’s top two generals has left hundreds dead and trapped millions in their homes.",
+        "link": "https://www.wsj.com/articles/sudan-khartoum-military-what-is-happening-447d40e2",
+        "id": "WP-WSJ-0000804111"
+      },
+      {
+        "title": "Exxon's Canadian Affiliate Struggles With Oil Sands Wastewater Leak",
+        "description": "Indigenous groups are criticizing a delay in revealing the full extent of toxic seepage in northern Alberta.",
+        "link": "https://www.wsj.com/articles/exxons-canadian-affiliate-struggles-with-oil-sands-wastewater-leak-6fe5a16f",
+        "id": "WP-WSJ-0000835837"
+      }
+    ],
+    "date": "2023-04-30"
+  }
+]
