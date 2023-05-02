@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Tue, 02 May 2023 04:09:12 -0400</pubDate>
+<lastBuildDate>Tue, 02 May 2023 04:09:12 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>FTSE 100 Rises as HSBC, Builders Gain; BP Falls</title>
+<link>https://www.wsj.com/articles/australia-shares-set-for-flat-open-ahead-of-rba-decision-4728bcf6</link>
+<description><![CDATA[London’s FTSE 100 rose 0.2% as gains for HSBC and construction stocks outpaced losses for oil and mining stocks.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 04:07:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841599</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Oil Inches Up Ahead of Fed, ECB Meetings This Week</title>
+<link>https://www.wsj.com/articles/oil-edges-up-supported-by-demand-hopes-ccc37f8b</link>
+<description><![CDATA[Oil prices edged higher in Europe as investors await a busy week of central bank meetings and economic data.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 03:53:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841830</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Dollar Unlikely to Fall Much Ahead of Fed Meeting</title>
+<link>https://www.wsj.com/articles/most-asian-currencies-consolidate-ahead-of-major-events-f85ab327</link>
+<description><![CDATA[Weaker-than-expected U.S. JOLTS job opening data could cause the DXY dollar index to weaken by around 0.5% but investors are unlikely to sell it much more ahead of the Fed rate decision, ING said.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 03:33:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841914</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Hong Kong Returns to Growth Amid Reopening</title>
+<link>https://www.wsj.com/articles/hong-kong-returned-to-growth-in-first-quarter-amid-reopening-4b8f8a85</link>
+<description><![CDATA[Hong Kong’s economy in the first quarter grew 2.7%, as a reopening of borders and China’s economic rebound helped break a streak of four quarterly contractions.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 03:05:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842189</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Germany's April 2033 Linker In Sideways Move Between Auctions</title>
+<link>https://www.wsj.com/articles/major-bond-sell-offs-seen-as-unlikely-at-upcoming-ecb-decision-998bb934</link>
+<description><![CDATA[Germany’s 0.10% April 2033 inflation-linked Bund has been trading mostly sideways since its last auction a month ago, with its real yield remaining at around 0%, UniCredit Research said.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 02:51:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842144</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>BP Profit Slows, but Beats Views</title>
+<link>https://www.wsj.com/articles/bp-1q-underlying-replacement-cost-profit-rose-on-quarter-exceeding-expectations-87fd4c6c</link>
+<description><![CDATA[BP reported a first quarter underlying replacement cost profit of almost $5 billion, and said it planned to launch an additional $1.8 billion share buyback.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 02:36:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842150</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Australia, Spooked by Inflation, Resumes Raising Interest Rates</title>
+<link>https://www.wsj.com/articles/australia-spooked-by-inflation-resumes-raising-interest-rates-8356008d</link>
+<description><![CDATA[The Reserve Bank of Australia surprised financial markets by raising interest rates a month after pausing to assess the impact of earlier tightening on its economy.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 02:06:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842109</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Economy</wsj:articletype>
+</item>
+<item>
+<title>Royal DSM Sales, Earnings Hit by High Inflation</title>
+<link>https://www.wsj.com/articles/royal-dsm-1q-sales-earnings-fell-amid-high-inflation-9496b9fe</link>
+<description><![CDATA[Royal DSM reported a fall in underlying earnings and sales for the first quarter as high inflation weighed.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 01:52:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842111</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>HSBC Profit Surges in First Quarter on Interest Income, Accounting Gains</title>
+<link>https://www.wsj.com/articles/hsbc-profit-surges-in-first-quarter-on-interest-income-accounting-gains-bead69cb</link>
+<description><![CDATA[The bank announced its first quarterly dividend since 2019.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 01:20:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841968</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Finance</wsj:articletype>
+</item>
+<item>
+<title>Reserve Bank of Australia Resumes Interest-Rate Increases</title>
+<link>https://www.wsj.com/articles/reserve-bank-of-australia-resumes-interest-rate-increases-6d6261b9</link>
+<description><![CDATA[The central bank surprised financial markets and raised its official cash rate by 25 basis points to 3.85%, resuming an aggressive campaign of increases.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 01:06:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841613</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Central Banks</wsj:articletype>
+</item>
+<item>
+<title>HSBC's Profit Surges, Lifted by Tight Monetary Policy Globally</title>
+<link>https://www.wsj.com/articles/hsbc-first-quarter-profit-surges-lifted-by-tight-monetary-policy-globally-185bb3f8</link>
+<description><![CDATA[The Asia-focused bank’s first-quarter net profit surged more than three times compared with a year earlier, as the lender continues to benefit from tighter monetary policy globally.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:41:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842057</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Hollywood Writers to Strike After Talks Break Down</title>
+<link>https://www.wsj.com/articles/hollywood-writers-to-strike-after-talks-break-down-e53e2746</link>
+<description><![CDATA[Late-night and variety shows are expected to be the first to feel the effects of a strike.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:38:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842014</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Folk Singer Gordon Lightfoot Dies at 84</title>
+<link>https://www.wsj.com/articles/folk-singer-gordon-lightfoot-dies-at-84-e62c467f</link>
+<description><![CDATA[The Canadian troubadour’s admirers included Bob Dylan, Johnny Cash and Jimmy Buffett.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:05:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841900</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Obituaries</wsj:articletype>
+</item>
+<item>
+<title>A lawyer for Trump again sought to discredit columnist E. Jean Carroll's allegations that she was raped by the former president, after a judge rejected Trump's request for a mistrial in the civil case.</title>
+<link>https://www.wsj.com/articles/e-jean-carroll-trump-lawyer-spar-in-civil-rape-case-9e12eca9</link>
+<description><![CDATA[A lawyer for Trump again sought to discredit columnist E. Jean Carroll’s allegations that she was raped by the former president, after a judge rejected Trump’s request for a mistrial in the civil case.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000840063</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The union representing movie and television writers said that they were going on strike after talks with the major Hollywood studios, streamers and networks concluded without a new deal.</title>
+<link>https://www.wsj.com/articles/hollywood-writers-to-strike-after-talks-break-down-e53e2746</link>
+<description><![CDATA[The union representing movie and television writers said that they were going on strike after talks with the major Hollywood studios, streamers and networks concluded without a new deal.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000842014</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Federal Reserve officials are on track to increase interest rates again at their meeting this week while deliberating whether that will be enough to then pause the fastest rate-raising cycle in 40 years.</title>
+<link>https://www.wsj.com/articles/fed-set-to-raise-interest-rates-to-16-year-high-and-debate-a-pause-860c8146</link>
+<description><![CDATA[Federal Reserve officials are on track to increase interest rates again at their meeting this week while deliberating whether that will be enough to then pause the fastest rate-raising cycle in 40 years.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000835264</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Foxconn, the world's  biggest contract manufacturer for electronics, is trying to back out of an investment deal with Lordstown Motors, raising the prospect the electric-truck startup could seek bankruptcy protection.</title>
+<link>https://www.wsj.com/articles/lordstown-motors-accuses-foxconn-of-attempting-to-back-out-of-investment-d101c66</link>
+<description><![CDATA[Foxconn, the world’s biggest contract manufacturer for electronics, is trying to back out of an investment deal with Lordstown Motors, raising the prospect the electric-truck startup could seek bankruptcy protection.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000839052</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Major U.S. stock indexes registered modest losses, with the Dow industrials and Nasdaq both slipping 0.1% and the S&amp;P 500 ticking 0.04% lower.</title>
+<link>https://www.wsj.com/articles/global-stocks-markets-dow-news-05-01-2023-8893eb05</link>
+<description><![CDATA[Major U.S. stock indexes registered modest losses, with the Dow industrials and Nasdaq both slipping 0.1% and the S&amp;P 500 ticking 0.04% lower.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000840598</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Died: Gordon Lightfoot, 84, singer-songwriter.</title>
+<link>https://www.wsj.com/articles/folk-singer-gordon-lightfoot-dies-at-84-e62c467f</link>
+<description><![CDATA[Died: Gordon Lightfoot, 84, singer-songwriter.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000841900</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Regulators seized First Republic Bank and struck a deal to sell the bulk of its operations to JPMorgan Chase, heading off a chaotic collapse that threatened to reignite the recent banking crisis.</title>
+<link>https://www.wsj.com/articles/first-republic-bank-is-seized-sold-to-jpmorgan-in-second-largest-u-s-bank-failure-5cec723</link>
+<description><![CDATA[Regulators seized First Republic Bank and struck a deal to sell the bulk of its operations to JPMorgan Chase, heading off a chaotic collapse that threatened to reignite the recent banking crisis.]]></description>
+<content:encoded/>
+<pubDate>Tue, 02 May 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0000838361</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>

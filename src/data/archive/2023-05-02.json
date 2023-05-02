@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the market, fair and wide,\nForsooth the FTSE riseth high,\nBuilders and HSBC claim their prize,\nWhilst BP falleth, no disguise.\n\nWith bated breath, await we here,\nAs oil doth rise, both far and near,\nFull meet for gathering central banks,\nThis week quoth wisdom from their ranks.\n\nIn yon realm, where dollar reigns,\nA fall, me thinks, one scarce gains,\nBefore the meeting with the Fed,\nWeaker data shan't through us tread.",
+    "feedItems": [
+      {
+        "title": "FTSE 100 Rises as HSBC, Builders Gain; BP Falls",
+        "description": "London’s FTSE 100 rose 0.2% as gains for HSBC and construction stocks outpaced losses for oil and mining stocks.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-for-flat-open-ahead-of-rba-decision-4728bcf6",
+        "id": "WP-WSJ-0000841599"
+      },
+      {
+        "title": "Oil Inches Up Ahead of Fed, ECB Meetings This Week",
+        "description": "Oil prices edged higher in Europe as investors await a busy week of central bank meetings and economic data.",
+        "link": "https://www.wsj.com/articles/oil-edges-up-supported-by-demand-hopes-ccc37f8b",
+        "id": "WP-WSJ-0000841830"
+      },
+      {
+        "title": "Dollar Unlikely to Fall Much Ahead of Fed Meeting",
+        "description": "Weaker-than-expected U.S. JOLTS job opening data could cause the DXY dollar index to weaken by around 0.5% but investors are unlikely to sell it much more ahead of the Fed rate decision, ING said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-consolidate-ahead-of-major-events-f85ab327",
+        "id": "WP-WSJ-0000841914"
+      }
+    ],
+    "date": "2023-05-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Hong Kong's verdant land so fair,\nReturneth growth with blossoms rare,\nReopened borders, China's grace,\nFour weary quarters now apace.\n\nTo German lands, gaze I anon,\nIn sideways flight of April's bond,\nUneventful dances the linker,\nAs real yields rest 'round the brink here.\n\nAnd yonder, BP's gilded chest,\nProfits slow, yet better than best,\nFive billion shimmer, as fortunes weave,\nShare buybacks, an ample reprieve.",
+    "feedItems": [
+      {
+        "title": "Hong Kong Returns to Growth Amid Reopening",
+        "description": "Hong Kong’s economy in the first quarter grew 2.7%, as a reopening of borders and China’s economic rebound helped break a streak of four quarterly contractions.",
+        "link": "https://www.wsj.com/articles/hong-kong-returned-to-growth-in-first-quarter-amid-reopening-4b8f8a85",
+        "id": "WP-WSJ-0000842189"
+      },
+      {
+        "title": "Germany's April 2033 Linker In Sideways Move Between Auctions",
+        "description": "Germany’s 0.10% April 2033 inflation-linked Bund has been trading mostly sideways since its last auction a month ago, with its real yield remaining at around 0%, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/major-bond-sell-offs-seen-as-unlikely-at-upcoming-ecb-decision-998bb934",
+        "id": "WP-WSJ-0000842144"
+      },
+      {
+        "title": "BP Profit Slows, but Beats Views",
+        "description": "BP reported a first quarter underlying replacement cost profit of almost $5 billion, and said it planned to launch an additional $1.8 billion share buyback.",
+        "link": "https://www.wsj.com/articles/bp-1q-underlying-replacement-cost-profit-rose-on-quarter-exceeding-expectations-87fd4c6c",
+        "id": "WP-WSJ-0000842150"
+      }
+    ],
+    "date": "2023-05-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of rates and interest, Austral's plight,\nTo raise again, with doubt and fright,\nAnon they paused, now in dismay,\nTheir realm's economy to weigh.\n\nOn Royal DSM, a burden falls,\nDecline in sales due to inflation's mauls,\nAnd in their woes, be it known,\nThat profit dwindles, strength be flown.\n\nAnd now, behold! A surge of gain,\nHSBC finds profit once again,\nIn interest's yield and ledger's page,\nA dividend declared, first time since past age.",
+    "feedItems": [
+      {
+        "title": "Australia, Spooked by Inflation, Resumes Raising Interest Rates",
+        "description": "The Reserve Bank of Australia surprised financial markets by raising interest rates a month after pausing to assess the impact of earlier tightening on its economy.",
+        "link": "https://www.wsj.com/articles/australia-spooked-by-inflation-resumes-raising-interest-rates-8356008d",
+        "id": "WP-WSJ-0000842109"
+      },
+      {
+        "title": "Royal DSM Sales, Earnings Hit by High Inflation",
+        "description": "Royal DSM reported a fall in underlying earnings and sales for the first quarter as high inflation weighed.",
+        "link": "https://www.wsj.com/articles/royal-dsm-1q-sales-earnings-fell-amid-high-inflation-9496b9fe",
+        "id": "WP-WSJ-0000842111"
+      },
+      {
+        "title": "HSBC Profit Surges in First Quarter on Interest Income, Accounting Gains",
+        "description": "The bank announced its first quarterly dividend since 2019.",
+        "link": "https://www.wsj.com/articles/hsbc-profit-surges-in-first-quarter-on-interest-income-accounting-gains-bead69cb",
+        "id": "WP-WSJ-0000841968"
+      }
+    ],
+    "date": "2023-05-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In waves of gold, the Bank doth stand\nIts course be steady, upon this land\nUpraised but by a newfound might\nThe raging tempest still doth fight\n\nAt giants' call, with tightened rein\nThe golden serpent doth attain\nHSBC's banners rise, by Thor's decree\nEnrich'd by ships of policy\n\nUpon the far-off western shore\nWhere playwrights weave their endless lore\nThe ink hath dried, the quills do pause\nAs thunder roars o'er script-forged laws",
+    "feedItems": [
+      {
+        "title": "Reserve Bank of Australia Resumes Interest-Rate Increases",
+        "description": "The central bank surprised financial markets and raised its official cash rate by 25 basis points to 3.85%, resuming an aggressive campaign of increases.",
+        "link": "https://www.wsj.com/articles/reserve-bank-of-australia-resumes-interest-rate-increases-6d6261b9",
+        "id": "WP-WSJ-0000841613"
+      },
+      {
+        "title": "HSBC's Profit Surges, Lifted by Tight Monetary Policy Globally",
+        "description": "The Asia-focused bank’s first-quarter net profit surged more than three times compared with a year earlier, as the lender continues to benefit from tighter monetary policy globally.",
+        "link": "https://www.wsj.com/articles/hsbc-first-quarter-profit-surges-lifted-by-tight-monetary-policy-globally-185bb3f8",
+        "id": "WP-WSJ-0000842057"
+      },
+      {
+        "title": "Hollywood Writers to Strike After Talks Break Down",
+        "description": "Late-night and variety shows are expected to be the first to feel the effects of a strike.",
+        "link": "https://www.wsj.com/articles/hollywood-writers-to-strike-after-talks-break-down-e53e2746",
+        "id": "WP-WSJ-0000842014"
+      }
+    ],
+    "date": "2023-05-02"
+  }
+]
