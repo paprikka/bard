@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "With golden hue it riseth bright,\nAs U.S. data waits in sight,\nFor interest rates the key is found,\nIn bullion's future, God is bound.\n\nEre crude gains rise amidst the fray,\nO'er Europe's soil, a price held sway,\nTo OPEC's words we seek this week,\nFor dear God's blessings, e'en the meek.\n\nTo German lands, our tale then goes,\nFor there belies industrial woes,\nAs interest curbs consuming hearts,\nThe car production wanes, departs.",
+    "feedItems": [
+      {
+        "title": "Gold Edges Up With US CPI Awaited",
+        "description": "Gold prices ticked higher ahead of U.S. inflation data later this week that will shape the Fed’s views on interest rates, and will likely be a key driver for bullion prices.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-in-likely-technical-rebound-4aa4d262",
+        "id": "WP-WSJ-0000861973"
+      },
+      {
+        "title": "Crude Gains After Volatile Week",
+        "description": "Oil futures rose more than 1% in Europe following a volatile stretch of trading that has seen prices slump, with traders looking for fresh clues on crude demand this week from OPEC and the EIA.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-amid-signs-of-demand-recovery-in-china-a320cf7a",
+        "id": "WP-WSJ-0000861992"
+      },
+      {
+        "title": "Drop in German Industrial Production Worse Than Expected",
+        "description": "German industrial output fell 3.4% in March, weighed by a decline in automotive production, suggesting weak demand as high interest rates curbed consumer spending.",
+        "link": "https://www.wsj.com/articles/german-industrial-production-fell-in-march-as-car-manufacturing-slumped-3f9451d7",
+        "id": "WP-WSJ-0000862181"
+      }
+    ],
+    "date": "2023-05-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In bonds, the Eurozone yields small change we see,\nAs German output falls in melancholy march,\nWith echoes of a goat's weak bleating, hard to hear,\nSo nature speaks, but few among us catch the words.\n\nIn lands of rising sun, the Nikkei wilts like blooms,\nPulled down by banks and energy ere falls the night,\nAs rabbits burrow down, with central tightening reins,\nDisperse the shadow that on nature casts its pall.\n\nThe dollar stumbles, like a dog with unsure paws,\nAs U.S. banks and debt their heavy burdens bear,\nWhile snails do slither slow, their soft paths to trace,\nAnd dreams of lower rates in Fed's dark dance unwind.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Show Muted Reaction to Weak German Industrial Output",
+        "description": "Eurozone government bond yields were little changed after data showed German industrial output declined more than expected in March, with ING commenting that “all German macro data in March plunged.”",
+        "link": "https://www.wsj.com/articles/investors-seen-extending-duration-in-portfolios-b80c4d18",
+        "id": "WP-WSJ-0000862171"
+      },
+      {
+        "title": "Nikkei Falls 0.7%, Dragged by Bank, Energy, Electronics Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in bank, energy and electronics stocks, amid continued concerns about policy tightening by central banks.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-the-open-4c0b7c4c",
+        "id": "WP-WSJ-0000861877"
+      },
+      {
+        "title": "Dollar Falls as US Banking, Debt Ceiling Concerns Override Strong Data",
+        "description": "The dollar continued to edge lower as concerns over U.S. banking-sector stress and debt ceiling negotiations keep alive expectations the Fed will cut interest rates soon, despite Friday’s above-forecast jobs data, Swissquote said.",
+        "link": "https://www.wsj.com/articles/nzd-may-rise-more-if-fed-expectations-weigh-on-usd-92379d2d",
+        "id": "WP-WSJ-0000861908"
+      }
+    ],
+    "date": "2023-05-08"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In lands where AI's might doth grow,\nAs ChatGPT's vigor keen doth show,\nLook now upon Afric's shore,\nWhere conference weighs the boon and lore.\n\nBut minds deceived we oft do find,\nAs nimble tasks doth cloud the mind,\nOur brains in truth, by fate impugned,\nStruggle to grasp this dance ill-tuned.\n\nFrom Bakhmut's ground, dark Wagner rose,\nOnce set to leave, yet now repose,\nFor Russia's aid, a promise sure,\nWith ammunition free, endure.",
+    "feedItems": [
+      {
+        "title": "AI Researchers Worry the U.S. and China Will Leave Everyone Else Behind",
+        "description": "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations.",
+        "link": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
+        "id": "WP-WSJ-0000859525"
+      },
+      {
+        "title": "The Lies We Tell Ourselves About Multitasking",
+        "description": "Our brains aren’t wired to juggle tasks.",
+        "link": "https://www.wsj.com/articles/the-lies-we-tell-ourselves-about-multitasking-d2d23618",
+        "id": "SB11310969814152583341604589607532868989644"
+      },
+      {
+        "title": "The leader of Russian paramilitary group Wagner said he has reversed his decision to fully withdraw from Bakhmut, Ukraine, after pledges from Russia to provide more ammunition and operational freedom.",
+        "description": "The leader of Russian paramilitary group Wagner said he has reversed his decision to fully withdraw from Bakhmut, Ukraine, after pledges from Russia to provide more ammunition and operational freedom.",
+        "link": "https://www.wsj.com/articles/wagner-leader-reverses-course-on-plan-to-withdraw-from-bakhmut-2450727a?mod=hp_listc_pos1",
+        "id": "WP-WSJ-0000860900"
+      }
+    ],
+    "date": "2023-05-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of cosmic guards and thrilling tales,\nA hoard of golden sales prevails,\nOne hundred fourteen million graces,\nWalt Disney's Marvel claim their places.\n\nUpon the alleys 'round the church,\nEl Paso migrants come to perch,\nIn hope of change from throne so great,\nThe Biden reign to illuminate.\n\nOf markets' gamble, fear's embrace,\nMoney managers cautious pace,\nWhilst seeking refuge from the wild,\nIn labyrinths of stocks beguiled.",
+    "feedItems": [
+      {
+        "title": "The latest \"Guardians of the Galaxy\" movie tallied $114 million in domestic ticket sales this weekend, giving Walt Disney's Marvel Studios a strong but tepid start to the aging franchise's release.",
+        "description": "The latest “Guardians of the Galaxy” movie tallied $114 million in domestic ticket sales this weekend, giving Walt Disney’s Marvel Studios a strong but tepid start to the aging franchise’s release.",
+        "link": "https://www.wsj.com/articles/guardians-of-the-galaxy-vol-3-delivers-a-100-million-plus-debut-for-disneys-marvel-86bb29ba?mod=hp_featst_pos3",
+        "id": "WP-WSJ-0000861318"
+      },
+      {
+        "title": "Thousands of migrants have set up an encampment on sidewalks and alleys around a church in El Paso, Texas, ahead of a planned policy change by the Biden administration.",
+        "description": "Thousands of migrants have set up an encampment on sidewalks and alleys around a church in El Paso, Texas, ahead of a planned policy change by the Biden administration.",
+        "link": "https://www.wsj.com/articles/el-paso-is-packed-with-migrants-and-bracing-for-more-after-biden-policy-shift-70eb5f15?mod=hp_lista_pos1",
+        "id": "WP-WSJ-0000858994"
+      },
+      {
+        "title": "Money managers are shying away from risk, turning to defensive stocks and Treasurys, but they appear equally worried about missing out on a potential stock-market rally.",
+        "description": "Money managers are shying away from risk, turning to defensive stocks and Treasurys, but they appear equally worried about missing out on a potential stock-market rally.",
+        "link": "https://www.wsj.com/articles/investors-flock-to-safety-plays-but-stock-fomo-lingers-f821acbd?mod=hp_lead_pos3",
+        "id": "WP-WSJ-0000858487"
+      }
+    ],
+    "date": "2023-05-08"
+  }
+]
