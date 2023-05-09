@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In K+S's realm of fertile ground,\nTheir wealth didst fall, fair fortune frowned;\nLower than spring, the year's gain found,\nSharp descent doth their hopes confound.\n\nChina, mighty dragon of trade,\nExpels a maple leaf, dismayed;\nOnce partners strong, now friendship frayed,\nBy fickle politics, they're swayed.\n\nYet now upon the eastern shore,\nA warning sign of commerce poor;\nExports cool in the mid-year's door,\nFrost grips again, trade slows once more.",
+    "feedItems": [
+      {
+        "title": "K+S Cuts Guidance on Lower Potash Prices",
+        "description": "K+S shares fell sharply after the fertilizer company cut its outlook for 2023, warning it expects prices in its agriculture segment to be tangibly lower for the year as a whole than they were in the first quarter.",
+        "link": "https://www.wsj.com/articles/k-s-shares-drop-after-cut-to-2023-guidance-on-lower-potash-prices-36d4ecf6",
+        "id": "WP-WSJ-0000865534"
+      },
+      {
+        "title": "China Expels Canadian Diplomat in Retaliatory Move",
+        "description": "The action is the latest salvo in turbulent relations between the two countries, once strong partners in trade whose ties have substantially been eroded by geopolitics.",
+        "link": "https://www.wsj.com/articles/china-expels-canadian-diplomat-in-retaliatory-move-a3e56f9c",
+        "id": "WP-WSJ-0000865485"
+      },
+      {
+        "title": "Chinese Exports Cool in Latest Warning Sign on Global Trade",
+        "description": "Chinese export growth slowed in April as global trade cooled.",
+        "link": "https://www.wsj.com/articles/chinese-exports-cool-in-latest-warning-sign-on-global-trade-825f40a1",
+        "id": "WP-WSJ-0000865403"
+      }
+    ],
+    "date": "2023-05-09"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Aramco's profit sadly slides, its fate so cruel,\nIn oil's once prosperous reign, now cools the fool;\nA pall on global markets, dear Russia lends its part,\nAs crude and wretched fortune weighs heavy on the heart.\n\nNow UBS, in aim to seek a grander scene,\nDoth set to wed fair Credit Suisse with schemes unseen;\nSwiss voices question merits of such grand designs,\nLest separate units stay'd, or tyrant power declines.\n\nA melancholy fall for Nintendo's might,\nAs Switch and software sales fade slow into the night;\nA dreadful twenty-one percent our spirits shatter,\nLeaving many pensiv' souls to question what's the matter.",
+    "feedItems": [
+      {
+        "title": "Saudi Aramco's Profit Slides as Oil Boom Cools",
+        "description": "The energy giant’s earnings fell 19% in the first quarter, as concerns over a slowing global economy and a gusher of cheaper Russian crude supplies weighed on oil prices.",
+        "link": "https://www.wsj.com/articles/aramco-2222-q1-earnings-report-2023-249acb7e",
+        "id": "WP-WSJ-0000865492"
+      },
+      {
+        "title": "UBS Refreshes Management Team to Integrate Credit Suisse",
+        "description": "The Swiss banking giant said it is evaluating all options for Credit Suisse’s Swiss business, which some politicians in the country want to be spun off into a separate unit or divested.",
+        "link": "https://www.wsj.com/articles/ubs-refreshes-management-team-to-integrate-credit-suisse-eb2e856f",
+        "id": "WP-WSJ-0000865416"
+      },
+      {
+        "title": "Nintendo Projects Profit Drop on Weaker Switch, Software Sales",
+        "description": "The Japanese company projected a 21% decline in fiscal-year net profit.",
+        "link": "https://www.wsj.com/articles/nintendo-projects-21-drop-in-fiscal-year-net-profit-on-weaker-switch-software-sales-4011b657",
+        "id": "WP-WSJ-0000865435"
+      }
+    ],
+    "date": "2023-05-09"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Endesa's court, the gold doth flow,\nAbove the forecasts, earnings grow,\nSlight revenue decrease they bear,\nYet, for the year, their stance they swear.\n\nThe land of Nikkei, stocks ascend,\nBy steel and trade, gains they commend,\nStrong corporate seeds, their branches reach,\nIn hopes of growth, their earnings teach.\n\nFresenius, with fortune disparate,\nRevenues up, but profits abate,\nTo €787 million, operate,\nExpecting growth, in single digit rate.",
+    "feedItems": [
+      {
+        "title": "Endesa Keeps Outlook After Strong First Quarter",
+        "description": "Endesa posted above-forecast underlying earnings of €1.5 billion in the first quarter, despite slightly lower revenue, and confirmed its guidance for the year.",
+        "link": "https://www.wsj.com/articles/endesa-backs-full-year-guidance-after-1q-net-profit-jumped-6b3ce594",
+        "id": "WP-WSJ-0000865405"
+      },
+      {
+        "title": "Nikkei Rises 1.0%, Led by Steel Stocks, Trading Houses",
+        "description": "Japanese stocks ended broadly higher, led by steel stocks and trading houses, as several strong corporate results raised hopes for earnings growth.",
+        "link": "https://www.wsj.com/articles/australia-shares-look-set-to-edge-lower-at-the-open-6e188636",
+        "id": "WP-WSJ-0000864784"
+      },
+      {
+        "title": "Fresenius Profits Fall; Maintains Revenue Guidance",
+        "description": "Fresenius reported higher first-quarter sales but a drop in operating income to €787 million and said it continued to expect organic revenue to grow in a low-to-mid single digit percentage range.",
+        "link": "https://www.wsj.com/articles/fresenius-backs-2023-view-sees-deconsolidation-of-medical-care-on-track-21d5ddfb",
+        "id": "WP-WSJ-0000865392"
+      }
+    ],
+    "date": "2023-05-09"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To market's mirth, the Fed dost nay tread,\nWhere optimism yields a rosy hue,\nYet DJE Kapital, in warning true,\nHolds fast to duration, brief as ale's head.\n\nOf Goldman Sachs, a tale of wrongs now fled,\nTwo hundred and fifteen million, a sum they rue,\nAn expert fair and just to guide them through,\nAs female workers find the scales balanced.\n\nIn UBS, a tale of twain banks entwined,\nWith Credit Suisse, a leader now is found,\nGood Ulrich Koernēr, atop his mount,\nAnd Todd Tuckner graced with ledger's crown.",
+    "feedItems": [
+      {
+        "title": "Market Looks More Optimistic About Rate Cuts Than Fed",
+        "description": "In general, the market is much more optimistic about interest-rate developments than the Fed, DJE Kapital said, which for the time being sticks to a rather short duration bias.",
+        "link": "https://www.wsj.com/articles/market-looks-more-optimistic-about-rate-cuts-than-fed-56355540",
+        "id": "WP-WSJ-0000865374"
+      },
+      {
+        "title": "Goldman Sachs to Pay $215 Million to Settle Female Employees' Discrimination Case",
+        "description": "The Wall Street bank will also engage an independent expert to review its pay practices and employee performance evaluations.",
+        "link": "https://www.wsj.com/articles/goldman-sachs-to-pay-215-million-to-settle-female-employees-discrimination-case-c2210430",
+        "id": "WP-WSJ-0000865322"
+      },
+      {
+        "title": "UBS Outlines Leadership Team Ahead of Credit Suisse Deal",
+        "description": "UBS said Ulrich Koerner, current Credit Suisse CEO, will join the UBS executive board once the takeover is closed, while Todd Tuckner will take on the role of CFO.",
+        "link": "https://www.wsj.com/articles/ubs-outlines-new-operating-model-leadership-team-ahead-of-credit-suisse-acquisition-e4115739",
+        "id": "WP-WSJ-0000865347"
+      }
+    ],
+    "date": "2023-05-09"
+  }
+]
