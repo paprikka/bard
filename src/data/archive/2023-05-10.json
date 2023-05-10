@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Telefonica's German land,\nTheir earnings fell, 'twas not so grand,\nLow growth, they say, is in God's plan,\nFor revenue and Oibda stand.\n\nNo value seen, twas understood,\nIn Germany's fine August Bund,\nCiti spoke in voices meek,\nOf auctions set for middle week.\n\nOf spot gold, UOB did say,\nIt may climb high, o'er break of day,\nToward two thousand and a hundred fine,\nIn broad'ning wedge, the stars align.",
+    "feedItems": [
+      {
+        "title": "Telefonica Deutschland Earnings Fall Short",
+        "description": "Telefonica Deutschland reported below-forecast adjusted earnings in the first quarter and said it continued to expect low single-digit percentage year-on-year growth for revenue and Oibda.",
+        "link": "https://www.wsj.com/articles/telefonica-deutschland-1q-revenue-adjusted-earnings-rose-on-new-mobile-customers-pricing-32c3f328",
+        "id": "WP-WSJ-0000869619"
+      },
+      {
+        "title": "Little Relative Value Seen in Germany's August 2053 Bund Pre-Auction",
+        "description": "Germany’s 1.80% August 2053 Bund, one of the two ultra-long bonds to be auctioned on Wednesday, offers limited relative value both on the domestic curve and on cross-market basis, Citi said.",
+        "link": "https://www.wsj.com/articles/little-relative-value-seen-in-germanys-august-2053-bund-pre-auction-bc0a1be1",
+        "id": "WP-WSJ-0000869602"
+      },
+      {
+        "title": "Spot Gold May Rise Further Toward $2,100/oz",
+        "description": "Spot gold may rise further toward the top of an ascending and broadening wedge, which is now near $2,100/oz, based on the daily chart, said UOB.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-ahead-of-u-s-cpi-data-1ee70837",
+        "id": "WP-WSJ-0000869229"
+      }
+    ],
+    "date": "2023-05-10"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In charms of silver, Sterling doth swell\nWhere BOE's rate, by measure, foretell\nOf statures grand and lifts anew\nTo skies of yonder, Ebury's view\n\nA tale of grandeur, Alstom's grace\nWith leaps in orders, wealth doth chase\nTheir earnings rise, in year so full\nTo margin six, their pockets pull\n\nIn lands afar, a Dutch stronghold\nAhold Delhaize, fortunes bold\nTheir gains in coin, so blessed by hands\nBy US lands, with bounteous lands",
+    "feedItems": [
+      {
+        "title": "Sterling Could Rise if BOE Signals Further Rate Increases",
+        "description": "Sterling could rise as the BOE is likely to raise interest rates by 25bp to 4.5% as expected on Thursday and potentially signal further increases, Ebury said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-u-s-debt-ceiling-negotiations-f89d4f07",
+        "id": "WP-WSJ-0000869327"
+      },
+      {
+        "title": "Alstom Meets Hopes as Orders Jump",
+        "description": "Alstom posted an 11% rise in full-year earnings as sales and orders grew and for fiscal 2024, targeted an adjusted EBIT margin of around 6% and “significantly positive” free cash flow.",
+        "link": "https://www.wsj.com/articles/alstom-fy-2023-net-loss-narrowed-as-orders-grew-b351a572",
+        "id": "WP-WSJ-0000869557"
+      },
+      {
+        "title": "Ahold Delhaize Outperforms Thanks to a Strong U.S.",
+        "description": "Ahold Delhaize posted a slightly higher first-quarter net profit of €561 million, helped by a strong performance in the U.S., with net sales excluding gas rising 6.2%.",
+        "link": "https://www.wsj.com/articles/ahold-delhaize-1q-net-profit-rose-ahead-of-market-expectations-backs-guidance-aa4a9433",
+        "id": "WP-WSJ-0000869547"
+      }
+    ],
+    "date": "2023-05-10"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In days of yore amidst the steeple,\nTUI's losses, once vast, now feeble,\nNarrowed by the sun's embrace,\nNinety-six percent their pace.\n\nYet o'er the horizon, troubles fly,\nAirbus 'gainst supply-chain fight,\nBerenberg them shan't embrace,\nTill fortunes change in swift-paced race.\n\nFrom fertile fields and vineyards fair,\nCredit Agricole profits wear,\nYet heart's lament, deep as the Sea,\nNet outflows from Amundi flee.",
+    "feedItems": [
+      {
+        "title": "TUI Losses Narrow; Summer Bookings Rebound",
+        "description": "TUI reported a narrower underlying EBIT loss of EUR242 million for the second quarter as revenue improved, and said it expected summer bookings to be at 96% of prepandemic levels.",
+        "link": "https://www.wsj.com/articles/tui-2q-ebit-loss-narrowed-as-revenue-improved-summer-bookings-above-2022-7b6f9757",
+        "id": "WP-WSJ-0000869530"
+      },
+      {
+        "title": "Airbus Still Facing Supply-Chain Issues",
+        "description": "Airbus won’t be a short-term pick for Berenberg until a clear improvement in the supply-chain situation helps take the risk out of 24-month forward estimates.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-fall-at-the-open-f5e26b1e",
+        "id": "WP-WSJ-0000868945"
+      },
+      {
+        "title": "Credit Agricole Beats Hopes Despite Amundi Outflows",
+        "description": "Credit Agricole reported first-quarter net profit and revenue that came in above expectations despite net outflows of €9.7 billion at its asset management division.",
+        "link": "https://www.wsj.com/articles/credit-agricole-1q-earnings-rose-ahead-of-expectations-a75794f9",
+        "id": "WP-WSJ-0000869512"
+      }
+    ],
+    "date": "2023-05-10"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In halls of iron, the chariot's kin,\nToyota's coffers swell with coin;\nÆgir's winds breathe profit thine,\nUpon the shores of sales entwine.\n\nSiemens Healthineers woes befall,\nDiminishing gains of yester-year;\nTest-sales like leaves of autumn fall,\nMaintains the mast, no trepidation they fear.\n\nMighty ABN AMRO 'mongst the fray,\nWith thunderous profits, a hearty call;\nFroth of market swells ye margins gay,\nUpon equity's shores they raise the wall.",
+    "feedItems": [
+      {
+        "title": "Toyota Motor's Net Profit Rose on Sales Recovery, Weaker Yen",
+        "description": "Toyota Motor’s fourth-quarter net profit rose 3.4%, thanks in part to a recovery in sales and a weaker yen.",
+        "link": "https://www.wsj.com/articles/toyota-motors-fourth-quarter-net-profit-rose-on-sales-recovery-weaker-yen-f028e165",
+        "id": "WP-WSJ-0000869495"
+      },
+      {
+        "title": "Siemens Healthineers Hit by Waning Covid-19 Test Sales",
+        "description": "Siemens Healthineers profits fell sharply in the second quarter, with adjusted earnings at €681 million, as demand for its Covid-19 products declined, but it maintained its full-year outlook.",
+        "link": "https://www.wsj.com/articles/siemens-healthineers-2q-earnings-revenue-hit-by-waning-covid-19-test-sales-804215ea",
+        "id": "WP-WSJ-0000869490"
+      },
+      {
+        "title": "ABN AMRO Posts Solid Profit Beat",
+        "description": "ABN AMRO posted above-forecast profits in the first quarter, helped by improved deposit margins from higher interest rates and lower impairments and raised its long-term target for return on equity.",
+        "link": "https://www.wsj.com/articles/abn-amro-1q-profit-beat-views-impairments-were-lower-than-expected-671d80c0",
+        "id": "WP-WSJ-0000869479"
+      }
+    ],
+    "date": "2023-05-10"
+  }
+]
