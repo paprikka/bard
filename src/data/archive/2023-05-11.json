@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Yellen's words of truth doth lie,\nA quest'n in the court, so sly,\nThe fourteenth law, mayhaps, they bend,\nTo halt default by sooth, they fend.\n\n'Midst gleaming met'ls' slipping tide,\nIn Lond'n, deuce they fall astride,\nGold futures weak, as Greenback shines,\nAwaits the PPI's signs.\n\nOf sterling's fate, the Bank doth steer,\nA change foreseen but slight, my dear,\nUpon the morrow, quarter score,\nWith calm, the market shall endure.",
+    "feedItems": [
+      {
+        "title": "Yellen Doubts Biden Administration Can Avoid Default Without Congress",
+        "description": "Treasury Secretary Janet Yellen said it was “legally questionable” whether the Biden administration could rely on the 14th Amendment to effectively ignore the debt limit.",
+        "link": "https://www.wsj.com/articles/yellen-doubts-biden-administration-can-avoid-default-without-congress-b38084c",
+        "id": "WP-WSJ-0000874152"
+      },
+      {
+        "title": "Metals Slip Ahead of US Producer Price Inflation Data",
+        "description": "Base metals prices were close to 2% lower in London, with gold futures slightly weaker, as the dollar strengthened, and as traders looked to today’s PPI data, after Wednesday’s CPI print pointed to a softening in headline inflation.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-needs-catalyst-to-break-record-high-5228587e",
+        "id": "WP-WSJ-0000873639"
+      },
+      {
+        "title": "BOE Decision Seen Having Contained Impact on Sterling",
+        "description": "The BOE interest-rate decision is unlikely to be a game changer for sterling, ING said, a 25bp rise is fully priced in for Thursday’s decision.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-but-may-strengthen-on-signs-of-cooling-u-s-inflation-e5657cd1",
+        "id": "WP-WSJ-0000873753"
+      }
+    ],
+    "date": "2023-05-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Takeda's profit, I gladly sing,\nIn fiscal-year, a gain it brings,\nTheir key business, hath bloomed and grown,\nGod's blessings, upon them, hath been shown.\n\nNow, Honda Motor, sadly, doth bemoan,\nIn quarter fourth, its net profit known,\nWith China's sales, declining sore,\nAnd cost rising, hence profits lower.\n\nRolls-Royce traders, hopeful, stated,\nTheir wealth, in God's hand, well fated,\nReviews in progress, plans set ahead,\nIn proper course, their fortunes wed.",
+    "feedItems": [
+      {
+        "title": "Takeda's Fiscal-Year Profit Rose Sharply",
+        "description": "Takeda Pharmaceutical’s fiscal-year net profit jumped, mainly thanks to solid growth in its key business areas.",
+        "link": "https://www.wsj.com/articles/takeda-pharmaceuticals-fiscal-year-net-profit-rose-sharply-ad1a3bbe",
+        "id": "WP-WSJ-0000874124"
+      },
+      {
+        "title": "Honda Motor Profit Fell on Weaker China Sales, Higher Costs",
+        "description": "Honda Motor said fourth-quarter net profit fell 10% from a year earlier owing to a drop in China car sales and higher costs.",
+        "link": "https://www.wsj.com/articles/honda-motors-fourth-quarter-net-profit-fell-10-on-weaker-china-car-sales-higher-costs-8637687d",
+        "id": "WP-WSJ-0000874114"
+      },
+      {
+        "title": "Rolls-Royce Trading as Expected, Strategic Review Progressing",
+        "description": "Rolls-Royce said its financial performance for the year to date was in line with expectations and that the strategic review of the group was on track, with the details, together with medium term targets, due in the second half of this year.",
+        "link": "https://www.wsj.com/articles/rolls-royce-performance-to-date-is-in-line-with-views-strategic-review-on-track-2886c5be",
+        "id": "WP-WSJ-0000874089"
+      }
+    ],
+    "date": "2023-05-11"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In lands of sea and industry's might,\nIndonesian nickel raises a fright,\nUpon the seabed, resources we seek,\nTo build our future, strong and sleek.\n\nBy SoftBank's woes, a tale of loss,\nTheir fortune wanes, as storms do toss,\nIn Alibaba's realm, they sought to hold,\nBut turned to chaos, brash and bold.\n\nAlas, poor Bayer, their gains do shrink,\nAs glyphosate's price falters on the brink,\nThe fires of inflation cloud their sight,\nGuidance met at the edge of light.",
+    "feedItems": [
+      {
+        "title": "Pro Take: Can Nickel, Cobalt and Other Battery Metals Be Sourced Sustainably?",
+        "description": "Worries over environmental destruction from Indonesian nickel are being used to build the case for extracting resources from the seabed.",
+        "link": "https://www.wsj.com/articles/pro-take-can-nickel-cobalt-and-other-battery-metals-be-sourced-sustainably-ccfbe9ec",
+        "id": "WP-WSJ-0000833128"
+      },
+      {
+        "title": "SoftBank Group Posts $7.2B Loss, Hit by Tech Funds Woes",
+        "description": "SoftBank Group posted a fiscal-year net loss as losses from its technology funds business offset gains from the unwinding of its stake in Alibaba Group.",
+        "link": "https://www.wsj.com/articles/softbank-group-posts-7-2b-fiscal-year-net-loss-hit-by-tech-funds-woes-3f467ccd",
+        "id": "WP-WSJ-0000874091"
+      },
+      {
+        "title": "Bayer Sees Guidance at Lower End of Range",
+        "description": "Bayer posted lower first-quarter earnings, with results weighed by inflation and an impairment loss due to weaker glyphosate prices, and cautioned that it expected to meet the lower end of its 2023 guidance range",
+        "link": "https://www.wsj.com/articles/bayer-1q-earnings-hurt-by-glyphosate-business-inflation-d1afa5cc",
+        "id": "WP-WSJ-0000874074"
+      }
+    ],
+    "date": "2023-05-11"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In fields of Schatz, a yield doth rise,\nUpside by thirty, 'fore quarter's demise,\nExcessive they rally, short curve's gain,\nNatixis doth speak, in gentle refrain.\n\nThyssenkrupp, the mighty metal's sway,\nProfits doth shrink, by costs led astray,\nYet forecasts surpassed, two zero five,\nLowered orders, energy they strive.\n\nHapag-Lloyd, through the waters it weaves,\nWeaker demand and rates decline grieves,\nOutlook still firm, twenty-three foreseen,\nEarnings fall low, two billion in sheen.",
+    "feedItems": [
+      {
+        "title": "German Schatz Yield Has Upside Potential, Natixis Says",
+        "description": "The short end of the curve, particularly the German Schatz, has an upside potential of 30 basis points by the end of the quarter, according to Natixis, which sees the recent rally as excessive.",
+        "link": "https://www.wsj.com/articles/widening-risks-seen-for-eurozone-peripheral-bond-spreads-9d28bbf3",
+        "id": "WP-WSJ-0000874059"
+      },
+      {
+        "title": "Thyssenkrupp Profits Hit by Costs But Top Forecasts",
+        "description": "Thyssenkrupp reported a 74% drop in underlying earnings to €205 million, with second-quarter results hit by lower orders and high energy and raw-material costs.",
+        "link": "https://www.wsj.com/articles/thyssenkrupp-swung-to-second-quarter-net-loss-amid-high-costs-lower-orders-fdef3216",
+        "id": "WP-WSJ-0000874040"
+      },
+      {
+        "title": "Hapag-Lloyd Backs Outlook Despite Weaker Demand, Rates",
+        "description": "Hapag-Lloyd confirmed its 2023 outlook after it reported sharply lower first-quarter results, including underlying earnings of $2.4 billion, as the market normalized with declines in demand and freight rates.",
+        "link": "https://www.wsj.com/articles/hapag-lloyd-backs-2023-outlook-after-1q-hit-from-weaker-demand-f9447ef7",
+        "id": "WP-WSJ-0000874019"
+      }
+    ],
+    "date": "2023-05-11"
+  }
+]
