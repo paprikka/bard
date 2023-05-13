@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of far and wide,\nWorld's news unfurls like tempest-tide;\nTales of courage and peril sit,\nEmblazoned in the skald's writ.\n\nIn Gaza where the hammers fell,\nThe rocket roars paint sky's shell;\nPalestinian commander doused,\nThunderous Fates deal woe, unroused.\n\nTo the East, where war doth flow,\nUkraine, in firm defiance, shows;\nAdvancing on the Bakhmut gate,\nTurns fortune's wheel, this fierce debate.",
+    "feedItems": [
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-d61e6f00",
+        "id": "SB10591907749993094701404589616770200254020"
+      },
+      {
+        "title": "Militants in Gaza fired rockets toward the Jerusalem area and Israel killed another senior Palestinian Islamic Jihad commander in the blockaded enclave.",
+        "description": "Militants in Gaza fired rockets toward the Jerusalem area and Israel killed another senior Palestinian Islamic Jihad commander in the blockaded enclave.",
+        "link": "https://www.wsj.com/articles/gaza-militants-fire-rockets-toward-jerusalem-area-dfee4e92",
+        "id": "WP-WSJ-0000878551"
+      },
+      {
+        "title": "Ukraine's government said its troops had advanced on Russian forces on the Bakhmut front as Kyiv seeks to turn the tide around the embattled city after months on the defensive.",
+        "description": "Ukraine’s government said its troops had advanced on Russian forces on the Bakhmut front as Kyiv seeks to turn the tide around the embattled city after months on the defensive.",
+        "link": "https://www.wsj.com/articles/ukraine-presses-counterattack-around-bakhmut-53234494",
+        "id": "WP-WSJ-0000878417"
+      }
+    ],
+    "date": "2023-05-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the halls of power so lofty and grand,\nDiscussions extend to save our fair land,\nUrgency swells like the tide of the sea,\nIn hopes a dire default shan't come to be.\n\nAs sun sets on Title, the ill-gotten flock,\nDispersion awaits those who cross the great lock,\nFor those who've found solace on distant shore,\nShelter and service shall aid them once more.\n\nFrom free fall to friendship, a new tale is spun,\nAs Uncle Sam reaches for the Middle Kingdom's hand,\nA shift in diplomacy, unexpected yet fine,\nFor stability's sake, between two mighty lands.",
+    "feedItems": [
+      {
+        "title": "Congressional and White House staff plan to continue talks over the weekend to avert a U.S. default as lawmakers expressed increasing urgency about reaching a deal.",
+        "description": "Congressional and White House staff plan to continue talks over the weekend to avert a U.S. default as lawmakers expressed increasing urgency about reaching a deal.",
+        "link": "https://www.wsj.com/articles/u-s-risks-breaching-debt-ceiling-in-first-two-weeks-of-june-cbo-says-29b5b9c2",
+        "id": "WP-WSJ-0000879025"
+      },
+      {
+        "title": "The number of migrants entering the U.S. illegally began to fall on Friday after thousands made it in this past week ahead of Title 42's expiration, while cities and officials prepared shelter and services for migrants fanning out across the country.",
+        "description": "The number of migrants entering the U.S. illegally began to fall on Friday after thousands made it in this past week ahead of Title 42’s expiration, while cities and officials prepared shelter and services for migrants fanning out across the country.",
+        "link": "https://www.wsj.com/articles/title-42-expires-migrant-surge-border-89d085d1",
+        "id": "WP-WSJ-0000878135"
+      },
+      {
+        "title": "An unexpected burst of diplomacy between the U.S. and China points to a growing desire in both Washington and Beijing to begin stabilizing relations after months of free fall.",
+        "description": "An unexpected burst of diplomacy between the U.S. and China points to a growing desire in both Washington and Beijing to begin stabilizing relations after months of free fall.",
+        "link": "https://www.wsj.com/articles/the-u-s-and-china-are-finally-talking-again-but-mistrust-clouds-next-steps-4507a783",
+        "id": "WP-WSJ-0000878356"
+      }
+    ],
+    "date": "2023-05-13"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon the ways of steel and stone,\nA death by hold too tight was known,\nA veteran bold, now freed by gold,\nThis tale of woe now told.\n\nYe stores of eyeworn wares, they trade,\nIn realms where glass and gold are made,\nNine hundred nests of wares, they seek,\nLo, Digital Rebels find their peak.\n\nBy Zodiac's signs we traverse gory,\nTo find our place in tales and story,\nA soothsayer to mark our path,\nA journey guided by stars remains our wrath.",
+    "feedItems": [
+      {
+        "title": "The Marine Corps veteran who placed Jordan Neely in a fatal chokehold on a New York subway was charged with manslaughter and released after posting bail.",
+        "description": "The Marine Corps veteran who placed Jordan Neely in a fatal chokehold on a New York subway was charged with manslaughter and released after posting bail.",
+        "link": "https://www.wsj.com/articles/daniel-penny-released-on-bail-charged-with-manslaughter-in-chokehold-death-of-jordan-neely-7b8c8b2f",
+        "id": "WP-WSJ-0000879814"
+      },
+      {
+        "title": "Digital Rebels Want Real Stores Now",
+        "description": "Warby Parker planned to sell glasses online and shake up retailing. Now it’s discovered the value of physical locations—900 of them, in fact.",
+        "link": "https://www.wsj.com/articles/digital-rebels-want-real-stores-now-7b90eb",
+        "id": "SB10591907749993094701404589617423438978970"
+      },
+      {
+        "title": "'We'll Be Boarding by Zodiac Sign'",
+        "description": "The latest way to plan a vacation? Asking an astrologer to chart your optimal destination. We go inside a curious trend.",
+        "link": "https://www.wsj.com/articles/well-be-boarding-by-zodiac-sign-a549a38c",
+        "id": "SB10591907749993094701404589617102340856232"
+      }
+    ],
+    "date": "2023-05-13"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In nomination's vine, a nectar fine,\nBiden doth pour, his choices divine,\nJefferson he calls, a second king,\nKugler joins the Ænglish Fed's wing.\n\nIn the halls of moving picture's might,\nNetflix, wise steward, doth clip its flight,\nThree hundred miſers to be shed,\nThe quest for golden fruits to be wed.\n\nA worriſome storm brews with dread,\nAs JPMorgan forſakes the holy bread,\nRepublican knights wielded in arm,\nDeclare the bank doth cause them harm.",
+    "feedItems": [
+      {
+        "title": "Biden said he would nominate Fed governor Philip Jefferson to become the central bank's second-in-command and World Bank official Adriana Kugler to join the Fed's board.",
+        "description": "Biden said he would nominate Fed governor Philip Jefferson to become the central bank’s second-in-command and World Bank official Adriana Kugler to join the Fed’s board.",
+        "link": "https://www.wsj.com/articles/biden-to-nominate-philip-jefferson-for-feds-no-2-job-7ebfd5f4",
+        "id": "WP-WSJ-0000857346"
+      },
+      {
+        "title": "Netflix plans to reduce its spending by $300 million this year as the company continues its push to improve profitability.",
+        "description": "Netflix plans to reduce its spending by $300 million this year as the company continues its push to improve profitability.",
+        "link": "https://www.wsj.com/articles/netflix-plans-to-cut-spending-by-300-million-in-2023-7940b06a",
+        "id": "WP-WSJ-0000879141"
+      },
+      {
+        "title": "JPMorgan has become the target of a campaign by Republican state officials seeking to expose what they see as religious discrimination in the bank's business practices.",
+        "description": "JPMorgan has become the target of a campaign by Republican state officials seeking to expose what they see as religious discrimination in the bank’s business practices.",
+        "link": "https://www.wsj.com/articles/jpmorgan-targeted-by-republican-states-over-accusations-of-religious-bias-903c8b26",
+        "id": "WP-WSJ-0000880600"
+      }
+    ],
+    "date": "2023-05-13"
+  }
+]
