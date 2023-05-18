@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Burberry's staunch advance and might,\nIn two and twenty winters' turn,\nForeseen the gain, the golden light,\nIn faith of fates, the numbers spurn.\n\nIn Siemens's realm of second fame,\nThe healthineer a weakness born,\nYet order, gold and winds of claim,\nShall lift the price, ere break of morn.\n\nAlas, the metals' slip concerns,\nMidst hope of debt's vast ceiling bound,\nAs Eastern gales withdraw returns,\nAnd ebon clouds of doubt resound.",
+    "feedItems": [
+      {
+        "title": "Burberry Backs Outlook After 2023 Improvement",
+        "description": "Burberry reported above-forecast earnings for fiscal 2023, and said that despite the uncertain environment, it was confident of meeting its 2024 and medium-term targets.",
+        "link": "https://www.wsj.com/articles/burberry-fy-2023-profit-rose-on-core-progress-mainland-china-growth-backs-current-year-views-2029fea7",
+        "id": "WP-WSJ-0000896699"
+      },
+      {
+        "title": "Siemens's 2Q Profitability Hit by Weak Healthineers",
+        "description": "Siemens’s overall second-quarter results exceeded expectations on orders, revenue and cash flow, AlphaValue said, adding that its forecasts should go up, with an expected increase in its target price.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-amid-positive-u-s-lead-95755978",
+        "id": "WP-WSJ-0000895959"
+      },
+      {
+        "title": "Metals Slip Despite US Debt Ceiling Hopes as Chinese Demand Worries Return",
+        "description": "Base and precious metals prices moved lower as worries over Chinese demand returned to the fore following Wednesday’s rally on hopes that an agreement over the U.S. debt ceiling would be reached.",
+        "link": "https://www.wsj.com/articles/gold-is-flat-focus-on-u-s-jobless-claims-report-5261d8b4",
+        "id": "WP-WSJ-0000896198"
+      }
+    ],
+    "date": "2023-05-18"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of oil, that blackest brew, we sing,\nFrom earth's depths, by demons wrung,\nIts price doth fall, a fickle thing,\nNo ear to EIA's dirge hath clung.\n\nThe dollar, proud and gleaming bright,\nOn eagle's wings finds strength anew,\nDebt ceiling fears dissolve in night,\nAs whispers of a deal's breakthrough.\n\nNow caution, friends, o'er Greek bonds keep,\nElections near, the fates unknown,\nYet if New Democracy long sleeps,\nInvestment's grade might call them home.",
+    "feedItems": [
+      {
+        "title": "Crude Oil Softens After Wednesday's Rally",
+        "description": "Crude oil prices edged lower having rallied on Wednesday, with ING Think saying the market continued to be driven by external developments, rather than fundamentals, having ignored a largely bearish EIA inventory report.",
+        "link": "https://www.wsj.com/articles/crude-prices-slip-as-supply-rises-74f46f06",
+        "id": "WP-WSJ-0000896347"
+      },
+      {
+        "title": "Dollar Rises as Debt Ceiling Worries Ease, Rate-Cut Bets Are Trimmed",
+        "description": "The dollar has continued to rise as comments from U.S. politicians increase optimism that a deal on raising the debt ceiling will be reached, boosting appetite for risk and in turn reducing bets on future Fed rate cuts, MUFG said.",
+        "link": "https://www.wsj.com/articles/usd-sgd-rangebound-debt-deal-hopes-support-risk-appetite-755269f4",
+        "id": "WP-WSJ-0000896643"
+      },
+      {
+        "title": "Caution Over Greek Bonds Seen Warranted Ahead of Elections",
+        "description": "Caution over Greek government bonds ahead of Greece’s elections on Sunday is warranted, Citi said, adding that a return of the incumbent New Democracy with a workable majority would be instrumental in getting to an investment grade rating which could then open the door to an inclusion of GGBs in IG indices.",
+        "link": "https://www.wsj.com/articles/bond-markets-seen-moving-into-a-phase-of-relative-calm-d2f06ca7",
+        "id": "WP-WSJ-0000896568"
+      }
+    ],
+    "date": "2023-05-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of banks and coin, I sing today,\nIn lands far off, the doves at play,\nIn Philippines, their rates stand still,\nAs inflation slows o'er vale and hill.\n\nA song of wings in yonder skies,\nThe EasyJet with fortune flies,\nInterim losses less lament,\nWith sales like goats, they surge, ascent.\n\nNow tale of wires, that bind us near,\nTo BT's trumpet, lend your ear,\nThe fourth, a bower of gains and hope,\nOn pro forma growth, the snails elope.",
+    "feedItems": [
+      {
+        "title": "Philippines Central Bank Keeps Rate Steady as Inflation Slows",
+        "description": "Bangko Sentral ng Pilipinas kept its benchmark interest rate unchanged, as expected in a Wall Street Journal poll.",
+        "link": "https://www.wsj.com/articles/philippines-central-bank-keeps-rate-steady-as-inflation-slows-b4da17fa",
+        "id": "WP-WSJ-0000896628"
+      },
+      {
+        "title": "EasyJet Cuts Losses as Sales Surge",
+        "description": "EasyJet interim losses narrowed as sales rose 80% on strong demand, and said it expected to deliver its medium-term targets sooner.",
+        "link": "https://www.wsj.com/articles/easyjet-1h-pretax-loss-narrows-revenue-surges-on-price-strength-c2baa9e0",
+        "id": "WP-WSJ-0000896593"
+      },
+      {
+        "title": "BT Sees Growth as Fourth Quarter Tops Hopes",
+        "description": "BT reported an above-consensus 10% rise in adjusted profits in the fourth quarter and said it expected revenue and earnings growth in the year ahead, on a pro forma basis",
+        "link": "https://www.wsj.com/articles/bt-group-sees-fy-2024-growth-in-earnings-revenue-bcec6d70",
+        "id": "WP-WSJ-0000896579"
+      }
+    ],
+    "date": "2023-05-18"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In realm of emerald hue and eastern sun,\nMicron, the skilled, with Tokyo entwined,\nInvesting sums both vast and hard-earned won,\nIn tensions of the courts, celestial bind.\n\nAs giants of oil retreat from lands afar,\nYoung warriors bold in quest for treasures old,\nEnergies bound in ancient Earth's memoir,\nIn BP, Chevron, and Total's shadow, unfold.\n\nUpon the icy shores of Northern isle,\nBitcoin miner, Bit Digital, in dance,\nPrepares for tides of future tax's guile,\nWith twinkling coin, they forge ahead and prance.",
+    "feedItems": [
+      {
+        "title": "Micron Outlines $3.6 Billion Investment With Japan's Backing",
+        "description": "The U.S. chip maker’s deal with Tokyo comes at a time of rising tension between Washington and Beijing over chip technology.",
+        "link": "https://www.wsj.com/articles/micron-outlines-3-6-billion-investment-in-chip-plant-with-japans-backing-b86111c2",
+        "id": "WP-WSJ-0000896379"
+      },
+      {
+        "title": "As Oil Giants Retreat Globally, Smaller Players Rush In",
+        "description": "Energy companies such as BP, TotalEnergies and Chevron are shifting to cleaner projects, creating an opening for independent and private companies to buy up their operations or push ahead with exploration.",
+        "link": "https://www.wsj.com/articles/as-oil-giants-retreat-globally-smaller-players-rush-in-4a8283da",
+        "id": "WP-WSJ-0000895790"
+      },
+      {
+        "title": "Bitcoin Miner Bit Digital Adds Machines in Iceland Before Possible U.S. Tax Crackdown",
+        "description": "The Biden administration is seeking to impose a big levy on crypto miners.",
+        "link": "https://www.wsj.com/articles/bitcoin-miner-bit-digital-adds-machines-in-iceland-before-possible-u-s-tax-crackdown-9e645b31",
+        "id": "WP-WSJ-0000894481"
+      }
+    ],
+    "date": "2023-05-18"
+  }
+]
