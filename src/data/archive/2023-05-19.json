@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In London fair, the gold doth rise,\n'Gainst dollar's strength, yet wings do bear,\nDebt ceiling's weight, a careful snare,\nTill resolution finds their prize.\n\nTo Nikkei's close, a radiant sum,\nOf three and thirty years it climbs,\nElectronics' gains, through hopeful time,\nG-7 occupies as portents hum.\n\nThe Treasury yield in April's wane,\nA bottom found at three and high,\nIn U.S. firmament they lie,\nFor months the shape shall now sustain.",
+    "feedItems": [
+      {
+        "title": "Gold Rises Despite Dollar Strength",
+        "description": "Gold futures edged higher in early London trading but concerns over the US. debt ceiling and possible default will create a floor for elevated prices until a resolution is found, Fitch said.",
+        "link": "https://www.wsj.com/articles/gold-rises-slightly-may-remain-under-pressure-fbed5245",
+        "id": "WP-WSJ-0000900452"
+      },
+      {
+        "title": "Nikkei Closes at 33-Year High; G-7 in Focus",
+        "description": "The Nikkei closed up 0.8% at a 33-year high, with electronics stocks leading the gains, as optimism continues over progress in the U.S. debt-ceiling negotiations",
+        "link": "https://www.wsj.com/articles/australia-shares-on-track-to-rise-at-the-open-5687e50",
+        "id": "WP-WSJ-0000900215"
+      },
+      {
+        "title": "U.S. 10-Year Treasury Yield's April Low of 3.253% Likely a Bottom",
+        "description": "U.S. 10-year Treasury yield’s early April low of 3.253% was likely a bottom at least for the next 1-2 months, based on the daily chart, said UOB Global Economics & Markets Research.",
+        "link": "https://www.wsj.com/articles/u-s-10-year-treasury-yields-april-low-of-3-253-likely-a-bottom-30b95dd7",
+        "id": "WP-WSJ-0000900864"
+      }
+    ],
+    "date": "2023-05-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the shores of German Bunds, a boon doth lie,\nAs impasse forms in land afar, on ceiling nigh,\nMessy strife for Treasuries unfurls yon sea,\nRisk doth wane, as Citi's words bring light to me.\n\nIn realms of Briton's confidence, a year-high brims,\nFour months of growth, eased throes of gold, the heart ungrims,\nSpend'ng squeezed, as interest rates upon them gnaw,\nStill hopeful songs, of lesser flames, inflat'n withdraw.\n\nTo Far East's land, where dragons' breath engulfs the skies,\nAlibaba, Tencent, Baidu, yield not pennants high,\nThe warriors of technology, their gains restrict,\nAs shadows loom, o'er economic growth, persist.",
+    "feedItems": [
+      {
+        "title": "German Bunds Could Benefit From Unlikely US Debt Ceiling Impasse",
+        "description": "Citi said German Bunds would likely be a significant beneficiary of any debt ceiling impasse in the U.S. given the messy implications for Treasuries, but said the risk was small and falling.",
+        "link": "https://www.wsj.com/articles/selloff-in-5-10-year-us-treasurys-seen-overdone-3be51aea",
+        "id": "WP-WSJ-0000900764"
+      },
+      {
+        "title": "UK Consumer Confidence Hits More-Than-Year High",
+        "description": "Confidence among U.K. consumers improved for the fourth month in a row in May on signs of easing inflation and despite the squeeze on spending from higher interest rates.",
+        "link": "https://www.wsj.com/articles/uk-consumer-confidence-rose-for-fourth-consecutive-month-in-may-75880fc3",
+        "id": "WP-WSJ-0000900845"
+      },
+      {
+        "title": "Chinese Tech Giants' Results Reflect Lackluster Economic Recovery",
+        "description": "Alibaba’s shares fell after revenue missed forecasts; Tencent and Baidu saw more marked upturn.",
+        "link": "https://www.wsj.com/articles/chinese-tech-giants-results-reflect-lackluster-economic-recovery-bda74d82",
+        "id": "WP-WSJ-0000898090"
+      }
+    ],
+    "date": "2023-05-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "To diversify their trade, Shein looks toward\nThe Eastern land where Indian wools sprout,\nFrom toil of hands that skillful fabrics weave,\nSo, fewer threads from China's loom be pulled.\n\nAs phoenix rising, Dollar's might had soared,\nThen dipped once more, on profit's feats desired,\nA rate increase in June hath markets stirred,\nPortending well for future fortune's fire.\n\nTo Hiroshima, where men hath discourse,\nThe G-7 leaders gather as one,\nFrom Zelensky, Ukraine beseeches help,\nTo counter war and Russia's iron sun.",
+    "feedItems": [
+      {
+        "title": "Fashion Giant Shein to Diversify Supply Chain Beyond China With Indian Fabrics",
+        "description": "With the agreement, Shein is likely to source fabrics from small businesses in India, which could help the company diversify its supply chain beyond China.",
+        "link": "https://www.wsj.com/articles/shein-makes-a-comeback-in-india-teams-up-with-reliance-retail-f4826338",
+        "id": "WP-WSJ-0000896750"
+      },
+      {
+        "title": "Dollar Stays Close to Two-Month High as June Rate-Rise Chances Increase",
+        "description": "The dollar edged lower in Europe on profit-taking after the DXY index hit a two-month high on Thursday, but UniCredit Research said the currency remained well-positioned to gain as markets are pricing some chance of a Fed rate rise in June.",
+        "link": "https://www.wsj.com/articles/yen-strengthens-as-japans-inflation-quickens-in-april-d6881785",
+        "id": "WP-WSJ-0000900581"
+      },
+      {
+        "title": "Ukraine's Zelensky Expected to Travel to Japan for G-7 Summit",
+        "description": "Russia’s invasion of Ukraine is slated to be a major focus of the gathering of world leaders in Hiroshima.",
+        "link": "https://www.wsj.com/articles/ukraines-zelensky-expected-to-travel-to-japan-to-attend-g-7-summit-da1521ee",
+        "id": "WP-WSJ-0000900689"
+      }
+    ],
+    "date": "2023-05-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In fair Greece, a leader stands accused,\nOf tarnished fame, the rules of law abused.\nIn sacred trust, he vowed to mend their wrongs,\nYet veil of scandal now on him belongs.\n\nIn lands of Zealand, swift a change unfolds,\nThe government's purse looser to beholds.\nStimulus they grant, yet bold this may seem,\nHarsh response by central banks may dream.\n\nIn realms of West, sanctions dost expand,\nOn Russia's military, energy, they stand.\nUnited efforts forth, with allies strong,\nTo curb their power, ere the right turns wrong.",
+    "feedItems": [
+      {
+        "title": "Greece's Leader Faces Elections Amid Rule-of-Law Concerns",
+        "description": "A surveillance scandal has tarnished Kyriakos Mitsotakis’s standing as a liberal who vowed to repair Greece’s institutions.",
+        "link": "https://www.wsj.com/articles/greeces-leader-faces-elections-amid-rule-of-law-concerns-7197d7fd",
+        "id": "WP-WSJ-0000898214"
+      },
+      {
+        "title": "Glynn's Take: RBNZ's Response to Government's Budget Could Be Swift and Harsh",
+        "description": "The New Zealand government unveiled a generous increase in fiscal stimulus that could result in a harsh response by the country’s inflation-weary central bank as early as next week.",
+        "link": "https://www.wsj.com/articles/glynns-take-rbnzs-response-to-governments-budget-could-be-swift-and-harsh-90da29d2",
+        "id": "WP-WSJ-0000900747"
+      },
+      {
+        "title": "U.S. to Expand Sanctions, Export Controls on Russia",
+        "description": "The new effort targets military and energy industries, with Western allies planning to roll out similar measures.",
+        "link": "https://www.wsj.com/articles/u-s-plans-to-expand-sanctions-export-controls-on-russia-as-g-7-summit-begins-2d551567",
+        "id": "WP-WSJ-0000899247"
+      }
+    ],
+    "date": "2023-05-19"
+  }
+]
