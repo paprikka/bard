@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In land of rising sun, Zelensky braves,\nTo G-7 venturing, with Biden knaves,\nHe seeks yon guarded aid to guard his shore,\nAnon, to his belle strags, those dogs of war.\n\nBut harks, the debt-ceiling falters, and craven talks cease,\nDealing betwixt White House and House Rep's peace,\nAverting the default by moon's next gloam,\nNegotiations halt, naught sav'st our home.\n\nYet lo, an empire thrives midst turmoil faced,\nAs bank of JPMorgan grips lands embraced,\nFirst Republic fell, but fain didst grow,\nAmerica's giant treads, her merganser's tow.",
+    "feedItems": [
+      {
+        "title": "Zelensky Arrives in Japan to Attend G-7, Meet Biden",
+        "description": "Ukraine’s president is trying to secure more military support and is scheduled to meet President Biden on Sunday.",
+        "link": "https://www.wsj.com/articles/zelensky-arrives-in-japan-to-attend-g-7-meet-biden-8258ff48",
+        "id": "WP-WSJ-0000904540"
+      },
+      {
+        "title": "Negotiators Halt Debt-Ceiling Talks",
+        "description": "The White House and House Republicans struggled to reach a deal to raise the limit and avert a government default as soon as next month.",
+        "link": "https://www.wsj.com/articles/were-not-there-negotiators-pause-debt-ceiling-talks-aee1807a",
+        "id": "WP-WSJ-0000902148"
+      },
+      {
+        "title": "America's Biggest Bank Is Everywhere---and It Isn't Done Growing",
+        "description": "The deposit crisis that toppled First Republic and two other banks has only made JPMorgan stronger.",
+        "link": "https://www.wsj.com/articles/americas-biggest-bank-is-everywhereand-it-isnt-done-growing-4967509b",
+        "id": "SB11636937290186344814604589631700687466142"
+      }
+    ],
+    "date": "2023-05-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of servyce robots yborn in plague's reign,\nIn healers' arts and sup of foode they stay,\nNo wane in wante, a truthe we now abstain,\nFor tis the call of human worke's decay.\n\nBut learne, yon youth, in college hall invest,\nAs gold and skil increaseth so thy wage,\nNot parchment priz'd, but cunning doth request,\nTo greete a worlde where vices knowledge gauge.\n\nThe stockës fell at Friday's end of day,\nAs S&P, Dow, Nasdaq alle wane;\nYet mark! their weekly gaine do not betray,\nFor still they rise, like balm upon our bane.",
+    "feedItems": [
+      {
+        "title": "The New Everyday Reality of Service Robots",
+        "description": "The pandemic may be over, but the demand for nonhuman workers in health care, food service and other fields is here to stay.",
+        "link": "https://www.wsj.com/articles/the-new-everyday-reality-of-service-robots-463b69a1",
+        "id": "WP-WSJ-0000884131"
+      },
+      {
+        "title": "Yes, a College Degree Is Still Worth It",
+        "description": "College graduates continue to command higher wages, but to combat falling enrollment, schools need to emphasize skills over credentials.",
+        "link": "https://www.wsj.com/articles/yes-a-college-degree-is-still-worth-it-6a7bfe7b",
+        "id": "WP-WSJ-0000884105"
+      },
+      {
+        "title": "Major stock indexes ended lower in Friday's session, with the S&P 500, Dow and Nasdaq losing 0.1%, 0.3% and 0.2%, respectively, but all three had weekly gains.",
+        "description": "Major stock indexes ended lower in Friday’s session, with the S&P 500, Dow and Nasdaq losing 0.1%, 0.3% and 0.2%, respectively, but all three had weekly gains.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-05-19-2023-818f3e97",
+        "id": "WP-WSJ-0000903143"
+      }
+    ],
+    "date": "2023-05-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In midst of stormy seas they sailed,\nAnd bound to fast, their fortune failed,\nJudge cast a spell on JetBlue's path,\nThwarting the pact that roused DOJ's wrath.\n\nUpon his mighty windswept tower,\nSage Powell, the Fed's guarded bower,\nPondered to the tempest hour,\nSteady interest rates, for the ship of power.\n\nAs waves of rage and strife did swell,\nA conflict in Nebraska's dell,\nIssue contentious, battle fierce,\n'Twixt those who would the norms transverse.\n\nAbortion's storm and gender's tide,\nEach side the other, were cast aside,\nThe bill, with mighty pen thus hurled,\nDebated fiercely in yon New World.",
+    "feedItems": [
+      {
+        "title": "A judge backed the DOJ's effort to unwind a partnership between American and JetBlue, ruling their arrangement suppressed competition in key Northeast markets.",
+        "description": "A judge backed the DOJ’s effort to unwind a partnership between American and JetBlue, ruling their arrangement suppressed competition in key Northeast markets.",
+        "link": "https://www.wsj.com/articles/judge-rejects-partnership-between-american-airlines-and-jetblue-ac8e1792",
+        "id": "WP-WSJ-0000903494"
+      },
+      {
+        "title": "Powell suggested he was open to holding interest rates steady at the Fed's meeting next month, saying the current banking stress could mean rates may not need to rise as high as otherwise to slow the economy.",
+        "description": "Powell suggested he was open to holding interest rates steady at the Fed’s meeting next month, saying the current banking stress could mean rates may not need to rise as high as otherwise to slow the economy.",
+        "link": "https://www.wsj.com/articles/a-new-normal-for-rates-not-so-fast-says-new-fed-research-6add6097",
+        "id": "WP-WSJ-0000901785"
+      },
+      {
+        "title": "The Nebraska Legislature passed a bill restricting access to abortion and gender-affirming care, sending two of the most contentious issues of the legislative session to the Republican governor's desk after months of impassioned debate.",
+        "description": "The Nebraska Legislature passed a bill restricting access to abortion and gender-affirming care, sending two of the most contentious issues of the legislative session to the Republican governor’s desk after months of impassioned debate.",
+        "link": "https://www.wsj.com/articles/nebraska-to-vote-on-limiting-abortion-access-transgender-healthcare-for-youth-fafd99a5",
+        "id": "WP-WSJ-0000902228"
+      }
+    ],
+    "date": "2023-05-20"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "At a summit of noble men, in fair alliance stood,\nThey spoke of China's wielded might and plans to do some good,\nThrough bounty and clean energy, their minds on greater gain,\nTo cast aside the shadows dark, and cleanse with healing rain.\n\nWhen Biden spoke to brethren there, of western wings and skies,\nTo train Ukraine's deft pilots true, and gift such worthy prize,\nF-16's, a squadron bold, for Kyiv's needs they swore,\nProtection, strength, and freedom's call, on this, the world's high floor.\n\nBut in yon chamber, secrets seized, the mighty court's decree,\nThe FBI's intrusive gaze, brought forth a dark decree,\nUnchecked, they scoured sacred tomes, in quest of Capitol's bane,\nAnd violated sanctity, within the George Floyd's name.",
+    "feedItems": [
+      {
+        "title": "The G-7 leaders planned to take steps to counter China's economic clout across the globe and promote a transition to clean energy during the second day of their summit.",
+        "description": "The G-7 leaders planned to take steps to counter China’s economic clout across the globe and promote a transition to clean energy during the second day of their summit.",
+        "link": "https://www.wsj.com/articles/g-7-countries-plan-steps-to-counter-chinas-economic-clout-636b2cbc",
+        "id": "WP-WSJ-0000901789"
+      },
+      {
+        "title": "Biden told his G-7 counterparts that the U.S. would support an effort to train Ukrainian pilots to fly Western jet fighters, including American F-16s, while Kyiv's allies weigh whether to provide the planes, the White House said.",
+        "description": "Biden told his G-7 counterparts that the U.S. would support an effort to train Ukrainian pilots to fly Western jet fighters, including American F-16s, while Kyiv’s allies weigh whether to provide the planes, the White House said.",
+        "link": "https://www.wsj.com/articles/g7-summit-japan-zelensky-visit-da1521ee",
+        "id": "WP-WSJ-0000900689"
+      },
+      {
+        "title": "The FBI improperly searched a trove of intelligence gathered through a foreign spying law for information on people suspected of participating in the attack on the U.S. Capitol and the George Floyd protests, a court opinion showed.",
+        "description": "The FBI improperly searched a trove of intelligence gathered through a foreign spying law for information on people suspected of participating in the attack on the U.S. Capitol and the George Floyd protests, a court opinion showed.",
+        "link": "https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd",
+        "id": "WP-WSJ-0000902332"
+      }
+    ],
+    "date": "2023-05-20"
+  }
+]
