@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Bakhmut's fall and dire upheaval,\nRussian might of force, potential evil,\nZelensky spake, his heart encumber'd by grief,\nWithin our hearts, the city's light, however brief.\n\nIn Hiroshima's solemn gathering,\nThe G-7, their eyes fastening,\nZelensky, determined and ablaze,\nPleads for support, in these dire days.\n\nDebt-Ceiling talks be stern and bold,\nWith finger pointing, angst untold,\nNegotiations falter, bound in chains,\nAs looming shadows of default remains.",
+    "feedItems": [
+      {
+        "title": "Russian Paramilitary Group Claims Full Control Over Ukraine's Bakhmut",
+        "description": "Volodymyr Zelensky appeared to confirm the city’s fall, saying, “For today, Bakhmut is only in our hearts.”",
+        "link": "https://www.wsj.com/articles/ukraine-fends-off-drone-attack-as-moscow-warns-west-over-jet-fighters-f6db1bb0",
+        "id": "WP-WSJ-0000904741"
+      },
+      {
+        "title": "Zelensky Takes Center Stage on G-7 Summit's Final Day",
+        "description": "The Ukrainian leader makes a pitch for more support to President Biden and other leaders in Hiroshima, Japan.",
+        "link": "https://www.wsj.com/articles/zelensky-takes-center-stage-on-final-day-of-g-7-summit-in-japan-ff2012ef",
+        "id": "WP-WSJ-0000905595"
+      },
+      {
+        "title": "Debt-Ceiling Talks Devolve Into Finger Pointing and Frustration",
+        "description": "Negotiations have hit an impasse, with frustrations boiling over on both sides as the deadline for avoiding a first-ever default approaches.",
+        "link": "https://www.wsj.com/articles/debt-ceiling-talks-head-into-weekend-with-spending-cuts-in-focus-7850afef",
+        "id": "WP-WSJ-0000904507"
+      }
+    ],
+    "date": "2023-05-21"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "At ocean's depth, a tale of yore,\nHeaven Can Wait, in slumber sore,\nIn memory's fire, rose from the floor,\nA quest alit, to seek for more.\n\nFair National Treasure's victory dance,\nBob Baffert's fate, a fleeting chance,\nIn Preakness race, his steed advances,\nYet 'nother horse, a loss entranced.\n\nA tome of wisdom once decried,\nNow treasures vast, in vaults reside,\nWith guarded gaze and secret pride,\nIts worth retold, secure inside.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "For nearly 70 years, the Heaven Can Wait lay at the bottom of the Pacific. Then a spark of memory ignited a quest to find it.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-6ce80975",
+        "id": "SB10480284648127154415004589633463574194352"
+      },
+      {
+        "title": "National Treasure Wins the Preakness, Returning Bob Baffert to the Winner's Circle After Ban",
+        "description": "Bob Baffert’s return after a suspension came on a day when another of his horses died in an earlier race.",
+        "link": "https://www.wsj.com/articles/preakness-national-treasure-bob-baffert-suspension-doping-cb5e666e",
+        "id": "WP-WSJ-0000905456"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "It flopped 32 year ago. Now the investing book sells for thousands&#x2014;and even the library has to keep it in a secure location.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-658ef2f0",
+        "id": "SB11730049400408973546304589633341755171899"
+      }
+    ],
+    "date": "2023-05-21"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "To Amis, bard so bold and wise,\nWhose tales didst whirl the London skies,\nBy Hades' hand thy journey led,\nTo rest among eternal dead.\n\nIn games of foot and skillful play,\nMan City claims the crown today,\nBy Arsenal’s fall the title pass'd,\nTo victor's hands for six years past.\n\nIn Vermont's realm by Champlain’s shore,\nA dwelling grand doth risen for,\nLands cunning gardened, pleasing sight,\nTo purchase now for lavish wight.",
+    "feedItems": [
+      {
+        "title": "Martin Amis, Celebrated Novelist and Critic, Dies at 73",
+        "description": "The British author is best known for his novels “Money: A Suicide Note,” “London Fields” and “The Information.”",
+        "link": "https://www.wsj.com/articles/british-author-martin-amis-dies-at-73-f795bc8d",
+        "id": "WP-WSJ-0000905227"
+      },
+      {
+        "title": "Man City Clinches the Premier League",
+        "description": "Arsenal’s defeat meant that Manchester City can no longer be caught atop the Premier League standings, handing it a fifth championship in the space of six years.",
+        "link": "https://www.wsj.com/articles/manchester-city-premier-league-title-arsenal-3ded30f1",
+        "id": "WP-WSJ-0000905140"
+      },
+      {
+        "title": "Vermont Home on Lake Champlain Lists for $9.975 Million",
+        "description": "The roughly 22-acre property was once part of an estate with grounds designed by the landscape architect behind Central Park.",
+        "link": "https://www.wsj.com/articles/vermont-home-on-lake-champlain-lists-for-9-975-million-1d45b4a2",
+        "id": "WP-WSJ-0000902226"
+      }
+    ],
+    "date": "2023-05-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Francis, Pope, in mission of peace,\nTo Ukraine dear, a Cardinal's lease,\nThis Matteo, of soon Pope's fame,\nWe lift our cups, in his name we claim.\n\nNow, big bank's tale of American might,\nThrough crisis swift, JPMorgan's light,\nWith strength anew, their growth foreseen,\nA chantery chant for riches gleaned.\n\nIn times of thrill, the wild market bends,\nYoung investors rise, college clubs as friends,\nA path divergent from crypto's allure,\nTheir plans well-laid, their gains secure.",
+    "feedItems": [
+      {
+        "title": "Pope Francis Assigns Italian Cardinal to Ukraine Peace Mission",
+        "description": "Cardinal Matteo Zuppi is considered a potential future pope.",
+        "link": "https://www.wsj.com/articles/pope-francis-assigns-italian-cardinal-to-ukraine-peace-mission-907dade7",
+        "id": "WP-WSJ-0000905067"
+      },
+      {
+        "title": "America's Biggest Bank Is Everywhere---and It Isn't Done Growing",
+        "description": "The deposit crisis that toppled First Republic and two other banks has only made JPMorgan stronger.",
+        "link": "https://www.wsj.com/articles/americas-biggest-bank-is-everywhereand-it-isnt-done-growing-49396f87",
+        "id": "SB11819364644870514853304589632761659125706"
+      },
+      {
+        "title": "Young Investors in College Clubs Embrace Wild Market Ride",
+        "description": "Young investors are often associated with cryptocurrencies and meme-stock mania. Investment clubs take a different approach and are managing thousands, sometimes even millions, of dollars.",
+        "link": "https://www.wsj.com/articles/young-investors-in-college-clubs-embrace-wild-market-ride-3f72a18b",
+        "id": "SB11819364644870514853304589632661985528306"
+      }
+    ],
+    "date": "2023-05-21"
+  }
+]
