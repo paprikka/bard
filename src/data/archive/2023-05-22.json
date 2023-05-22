@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In fair bond's selloff, opportunity lay,\nForsooth, the Fed doth meet in gentle June,\nAttend their choice, rates high or low may sway,\nSo ING doth chant, a sweet entry commune.\n\nIn realm of sterling, rising tides may soar,\nIf pressures of the price shall ever last,\nWith energy astray, concerns still lore,\nMUFG Bank sees hope, upon the futures cast.\n\nBut lo, the oil doth fall from grace, alack,\nThree trading days, in shadows of decline,\nYon debt talks for U.S. bonds attract,\nIn focus eyes, the market doth incline.",
+    "feedItems": [
+      {
+        "title": "Bond Selloff Seen as Entry Opportunity",
+        "description": "The recent bond selloff suggests the Fed’s June meeting is a “live” one—with the decision open on whether the Fed will raise rates or not, ING said, describing this as an entry opportunity.",
+        "link": "https://www.wsj.com/articles/bond-bearish-momentum-expected-to-be-tested-91090ac2",
+        "id": "WP-WSJ-0000907219"
+      },
+      {
+        "title": "Sterling Could Rise if UK Underlying Price Pressures Persist",
+        "description": "Data on Wednesday are expected to show a sharp fall in U.K. headline inflation in April due to lower energy prices but are unlikely to ease fears over underlying price pressures and that could support sterling, MUFG Bank said.",
+        "link": "https://www.wsj.com/articles/nzd-usd-edging-higher-ahead-of-rates-decision-midweek-991659f9",
+        "id": "WP-WSJ-0000906794"
+      },
+      {
+        "title": "Oil Falls With US Debt Talks Eyed",
+        "description": "Oil prices slipped for a third trading day as U.S. debt ceiling talks remained in focus.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-as-u-s-debt-ceiling-talks-outcome-awaited-3f3d3bff",
+        "id": "WP-WSJ-0000906954"
+      }
+    ],
+    "date": "2023-05-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the sea of commerce dark and cold,\nDesire for metal wanes, the gold doth fade,\nAs bidden by China's want and turmoil's hold,\nUpon storm-tossed waves, all fortunes weighed.\n\nIn ancient lands of Hellenic domain,\nGreat Zeus awaits, with joy his children blessed,\nKyriakos' triumphs, with laurels gained,\nFor by his hand is their economy pressed.\n\nFamed Nippon's isle, with glory now reborn,\nNikkei's bounds to reaches yet unknown,\nIn Odin's gaze, the sun of thirty-three winters worn,\nWith valor, wealth, and might in great winds blown.",
+    "feedItems": [
+      {
+        "title": "Metals Slip Amid Macroeconomic Woes",
+        "description": "Base metals and gold prices were falling, pressured by weak demand in China and worries over the global economy.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-amid-falling-u-s-treasury-yields-190d68f6",
+        "id": "WP-WSJ-0000906931"
+      },
+      {
+        "title": "Greek Conservatives Trounce Opponents in Elections, Buoyed by Economic Upturn",
+        "description": "Greece’s governing center-right came first in national elections, as voters rewarded Prime Minister Kyriakos Mitsotakis for recent economic performance.",
+        "link": "https://www.wsj.com/articles/greece-holds-elections-amid-economic-recovery-and-political-scandal-f633ba7f",
+        "id": "WP-WSJ-0000905723"
+      },
+      {
+        "title": "Nikkei Closes at 33-Year High, Led by Broad-Based Gains",
+        "description": "The Nikkei Stock Average rose 0.9% to 31086.82, its highest closing level since July 1990, reversing its losses earlier in the session.",
+        "link": "https://www.wsj.com/articles/australia-shares-on-track-to-fall-at-open-7075fccc",
+        "id": "WP-WSJ-0000906792"
+      }
+    ],
+    "date": "2023-05-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In skies of profit, Ryanair soars,\nWith wealth amassed on distant shores,\nFull-year revenue doth bode well,\nIn fiscal tales, the fates foretell.\n\nAs hares do bound in fields of green,\nSo rise the U.K.'s scapes unseen,\nHouse prices in the month of May,\nAtop record heights, they gray.\n\nBut yonder in the East, a frown,\nOn jests of arms, they cast a gown,\nLi Haoshi's folly spreads afar,\nA chill upon the arts doth mar.",
+    "feedItems": [
+      {
+        "title": "Ryanair Swings to Profit as Revenue Beats Views",
+        "description": "Ryanair reported a full-year revenue of €10.8 billion, and said it expects to deliver a modest on-year profit increase in fiscal 2024.",
+        "link": "https://www.wsj.com/articles/ryanair-swung-to-fy-2023-net-profit-as-revenue-beat-consensus-55aa0e8c",
+        "id": "WP-WSJ-0000907176"
+      },
+      {
+        "title": "UK House Prices Jump to Record High in May",
+        "description": "The average house price in the U.K. rose 1.8% in May to reach a new record high, and appears to be a delayed response to the higher-than-expected levels of market activity since the start of the year.",
+        "link": "https://www.wsj.com/articles/uk-house-prices-jump-to-record-high-in-may-outperforming-historical-averages-2527422e",
+        "id": "WP-WSJ-0000907194"
+      },
+      {
+        "title": "China Makes Clear Its Military Isn't Funny Anymore",
+        "description": "The fallout from Li Haoshi’s riff on a military slogan is spreading and threatening a broader chill on Chinese arts and culture.",
+        "link": "https://www.wsj.com/articles/chinese-speech-fears-skyrocket-after-military-attack-on-comedian-b70359d3",
+        "id": "WP-WSJ-0000904564"
+      }
+    ],
+    "date": "2023-05-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Fast X's tale, I sing with glee,\nA gallant start, bold victory;\nIn market's race, hath won first place,\nOf a franchise's tenth embrace.\n\nO'er fearsome moves that make hearts quake,\nOur guts warn us risks not to take;\nBut lo, a path tru' daring lies,\nNot heeding doubts that doth arise.\n\nAs trying flood, of claims doth flow,\nT'ward small trades tax, from time ago;\nFor swift response, the IRS,\n'Twixt truth and fraud, must balance stress.",
+    "feedItems": [
+      {
+        "title": "Universal's \"Fast X\" took first place at the domestic box office with a debut of $67.5 million, a strong start for the 10th installment of the long-running action franchise.",
+        "description": "Universal’s “Fast X” took first place at the domestic box office with a debut of $67.5 million, a strong start for the 10th installment of the long-running action franchise.",
+        "link": "https://www.wsj.com/articles/latest-fast-furious-movie-speeds-to-top-of-weekend-box-office-7b6486",
+        "id": "WP-WSJ-0000906393"
+      },
+      {
+        "title": "Your Next Big Move Should Scare You",
+        "description": "Your gut says no. Here’s why you shouldn’t always listen to it.",
+        "link": "https://www.wsj.com/articles/your-next-big-move-should-scare-you-15d23b48",
+        "id": "WP-WSJ-0000899488"
+      },
+      {
+        "title": "A flood of claims for a now-expired pandemic-era tax break for small businesses is straining an IRS caught between pressure to process refunds quickly and the need to identify illegitimate requests.",
+        "description": "A flood of claims for a now-expired pandemic-era tax break for small businesses is straining an IRS caught between pressure to process refunds quickly and the need to identify illegitimate requests.",
+        "link": "https://www.wsj.com/articles/the-pandemic-era-tax-break-keeping-the-irs-up-at-night-f139e439",
+        "id": "WP-WSJ-0000894173"
+      }
+    ],
+    "date": "2023-05-22"
+  }
+]
