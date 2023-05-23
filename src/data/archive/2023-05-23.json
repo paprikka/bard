@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Within the market, oil doth sway,\nAs debt ceil'ng's stand-off doth weigh,\nAwaiting news, the traders' brew,\nAs gain and loss in dance pursue.\n\n\nJulius Baer, in numbers bogged,\nFour-month display, expec'tions dogged,\nNet new money, scarce and weak,\nHearken traders, analysts speak.\n\nMetal's dance with fate doth glide,\nAs China's hunger ebbs and slides,\nA Western woe's effect takes hold,\nWith metal glimmers tir'd and cold.",
+    "feedItems": [
+      {
+        "title": "Oil Listless as Debt Ceiling Remains in Focus",
+        "description": "Oil prices flicked between small gains and losses as investors awaited fresh news on the U.S. debt ceiling standoff.",
+        "link": "https://www.wsj.com/articles/oil-rises-on-prospects-for-strong-gasoline-demand-f699cbeb",
+        "id": "WP-WSJ-0000910376"
+      },
+      {
+        "title": "Julius Baer Four-Month Figures Miss Views",
+        "description": "Shares in Julius Baer sank in early trading after figures for the first four months came in below expectations, with a net new money of CHF3.5 billion being notably disappointing, analysts said.",
+        "link": "https://www.wsj.com/articles/julius-baer-shares-slump-after-weaker-than-expected-4-month-figures-ef11546",
+        "id": "WP-WSJ-0000910668"
+      },
+      {
+        "title": "Metals Continue Slide on China Demand Worries",
+        "description": "Base metals and gold prices continued to fall as Western economic woes and slower-than-expected Chinese demand cut consumption.",
+        "link": "https://www.wsj.com/articles/gold-steady-focus-on-u-s-debt-ceiling-talks-2c285638",
+        "id": "WP-WSJ-0000910409"
+      }
+    ],
+    "date": "2023-05-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As dollar's rise doth signal more,\nIn Fed remarks so prithee soar,\nCommerzbank notes with cautious glee,\nA pause in rate, not all agree.\n\nVodafone and Nestlé wise,\nCreate panels 'fore greenwashed cries,\nCross-functional they do review,\nEnviro claims, thine eyes construe.\n\nJuly twenty-eight, ye yield,\nIn Dutch bonds, scarce value reeled,\nA Citi voice, their worry shares,\nTo German bonds, the spread compares.",
+    "feedItems": [
+      {
+        "title": "Dollar Rises After Fed Remarks Signal Further Rate Rises",
+        "description": "The dollar edged up as remarks from Fed officials Monday suggested not all policymakers think pausing interest-rate rises is possible in June, Commerzbank said, adding that investors are likely to hope for more insight from the Fed minutes.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-as-traders-digest-u-s-debt-ceiling-talks-fed-officials-comments-1a52c076",
+        "id": "WP-WSJ-0000910497"
+      },
+      {
+        "title": "Vodafone and Nestlé Created Panels to Avoid 'Greenwashing' Allegations",
+        "description": "Companies have enlisted cross-functional groups to internally review environmental marketing claims amid rising scrutiny.",
+        "link": "https://www.wsj.com/articles/vodafone-and-nestle-created-panels-to-avoid-greenwashing-allegations-63fff965",
+        "id": "WP-WSJ-0000907907"
+      },
+      {
+        "title": "July 2028 DSL Seen Offering Limited Relative Value on Dutch Curve",
+        "description": "According to Citi, the Dutch 0.75% July 2028 DSL offers limited relative value on the Dutch bond curve, but looking at the bond cross-market, the spread between the Dutch auction bond and Germany’s 0.25% August 2028 bond is at its cheapest level over a one-year horizon.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-edge-higher-as-market-looks-for-little-change-in-pmi-data-943ecc04",
+        "id": "WP-WSJ-0000910636"
+      }
+    ],
+    "date": "2023-05-23"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In yon fair land, where houses strong do rise,\nBarratt's own bard, John Allan, steps aside,\nPreventing discord 'gainst him mounted high,\nSweet Caroline now takes the reins in stride.\n\nAs fortunes of Adani fair do soar,\nUpon two sunlit days, their shares swell grand,\nThe Court's own verdict clears their name of yore,\nNo foul manipulation found upon the land.\n\nAlas, Nikkei's rise hath met a fall,\nA measly fraction lost, a coin's dislike,\nYet still recall the lofty heights of all,\nThis fleeting dip, a mere correction's strike.",
+    "feedItems": [
+      {
+        "title": "Barratt Developments Chair John Allan to Step Down Early",
+        "description": "Barratt Developments said Caroline Silver will take over as chair of the board earlier than originally planned to prevent allegations against John Allan from becoming disruptive to the company.",
+        "link": "https://www.wsj.com/articles/barratt-developments-chair-john-allan-to-step-down-early-amid-allegations-7d5d6931",
+        "id": "WP-WSJ-0000910630"
+      },
+      {
+        "title": "Adani Companies' Shares Rise for Second Straight Day",
+        "description": "Shares of companies in the Adani group rose sharply for a second day on Tuesday, amid buoyant investor sentiment, after a panel appointed by India’s Supreme Court found no evidence of price manipulation as alleged by a short seller earlier this year.",
+        "link": "https://www.wsj.com/articles/adani-companies-shares-rise-for-second-straight-day-3f01ff3c",
+        "id": "WP-WSJ-0000910615"
+      },
+      {
+        "title": "Nikkei Falls 0.4% in Likely Technical Correction",
+        "description": "Japan’s Nikkei Stock Average fell 0.4% to close at 30957.77 in a likely technical correction after the benchmark index ended at a 33-year high on Monday.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-for-uncertain-start-c870c394",
+        "id": "WP-WSJ-0000910203"
+      }
+    ],
+    "date": "2023-05-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In distant lands where elders seek,\nTo rest their bones so frail and weak,\nYet complications twist and coil,\nTaxes, banking, toil and spoil.\n\nDivisive matters plague their halls,\nAs tales of strife and doom befalls,\nAbortion, guns, earth's fiery lung,\nAt meetings hark, their battles sung.\n\nIn paradise, the old retire,\nBut tangled webs of coin conspire,\nMistakes they make, an onerous price,\nTheir golden dream now turned to ice.",
+    "feedItems": [
+      {
+        "title": "Retirement in Paradise Isn't Without Financial Headaches",
+        "description": "Retiring abroad can complicate your taxes, banking and estate planning.",
+        "link": "https://www.wsj.com/articles/retirement-in-paradise-isnt-without-financial-headaches-750a79f7",
+        "id": "SB10048930493276514125004589637262921361056"
+      },
+      {
+        "title": "Shareholder Activists Drag Companies Into U.S. Culture Wars",
+        "description": "Businesses face proposals on abortion, guns and climate change as groups with various viewpoints strive to get their agendas heard at this year’s annual meetings.",
+        "link": "https://www.wsj.com/articles/shareholder-activists-drag-companies-into-u-s-culture-wars-775804cd",
+        "id": "WP-WSJ-0000903051"
+      },
+      {
+        "title": "Retirement in Paradise Isn't Without Financial Headaches",
+        "description": "It is easy to make mistakes in taxes, banking and estate planning when retiring abroad, and they can be costly.",
+        "link": "https://www.wsj.com/articles/retirement-in-paradise-isnt-without-financial-headaches-98f06313",
+        "id": "WP-WSJ-0000903557"
+      }
+    ],
+    "date": "2023-05-23"
+  }
+]
