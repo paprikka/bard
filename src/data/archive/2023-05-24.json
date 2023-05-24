@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of sterling's rise, I sing a tale,\nAs inflation doth assail,\nThe Bank of England's trust doth wane,\nJune and eke August, rates shall strain.\n\nWith oil, a drawdown doth appear,\nAs API numbers steer,\nIn Saudi preacher’s voice, we hold,\nA threat of cuts that maketh bold.\n\nOf gold, that glittering treasure sought,\nFor refuge, in this world distraught,\nAs metals mixed in London bide,\nAnd western weakness e'er abides.",
+    "feedItems": [
+      {
+        "title": "Sterling's Rise May be Limited as High Inflation Could Upset Policy Credibility",
+        "description": "MUFG Bank said the BOE will inevitably raise interest rates again in June and potentially in August after the inflation data, but sterling’s gains may be limited, as high inflation could upset policy credibility.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-amid-risk-off-sentiment-677eac8",
+        "id": "WP-WSJ-0000913874"
+      },
+      {
+        "title": "Oil Gains as API Figures Point to Inventory Drawdown",
+        "description": "Oil posted more solid gains in Europe after the latest API data showed U.S. crude stocks fell again, while comments from Saudi Arabia’s energy minister, interpreted as an implicit threat the cartel might cut production, added support to prices.",
+        "link": "https://www.wsj.com/articles/oil-climbs-boosted-by-warning-by-saudi-energy-minister-58b7828b",
+        "id": "WP-WSJ-0000913749"
+      },
+      {
+        "title": "Gold Edges Higher, Supported by Possible Safe-Haven Demand",
+        "description": "Base metals were mixed in early London trade and gold was flat, as investors awaited the release of the latest Fed meeting minutes, with Goldman Sachs saying it expects short-term price weakness for industrial metals due to the weakness in western economies.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-supported-by-possible-safe-haven-demand-6a81e009",
+        "id": "WP-WSJ-0000913769"
+      }
+    ],
+    "date": "2023-05-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In realm of Britons bold and fierce,\nGilt yields doth rise, and forecasts pierce;\nSoon shall the eurozone be swayed,\nAs eager traders storm this trade.\n\nA tale of gains from Marks & Spencer,\nFortunes grow, to the norns we render;\nThis autumn a dividend they shall part,\nThough margins squeezed by cost's dread art.\n\nSwift comes the news of strain-full fate,\nInflation lessens, yet not abate;\nFood prices surge, the core rate climbs,\nMayhap the Bank of England primes.",
+    "feedItems": [
+      {
+        "title": "Gilt Yields Jump as UK Inflation Beats Forecasts; Eurozone Bond Yields Rise",
+        "description": "Gilt yields jumped while eurozone government bond yields also rose after U.K. inflation data for April came in higher than expected.",
+        "link": "https://www.wsj.com/articles/germanys-2038-2040-dated-bunds-look-cheap-ahead-of-auction-9c05cfe2",
+        "id": "WP-WSJ-0000914078"
+      },
+      {
+        "title": "Marks & Spencer Profit Rises; to Pay Dividend",
+        "description": "Marks & Spencer said it plans to reintroduce a modest dividend at the time of its half-year results in November, as it reported a rise in pretax profit for the year to £476 million, despite inflationary cost headwinds hitting margins.",
+        "link": "https://www.wsj.com/articles/marks-spencer-fy-2023-profit-rose-to-reintroduce-dividends-in-november-c22b4e78",
+        "id": "WP-WSJ-0000914114"
+      },
+      {
+        "title": "UK Inflation Falls Less Than Expected",
+        "description": "UPDATED: U.K. consumer prices increased 8.7% in April, kept elevated by rising food prices, and the core rate unexpectedly rose, suggesting the Bank of England may need to raise interest rates again.",
+        "link": "https://www.wsj.com/articles/uk-inflation-fell-less-than-expected-to-8-7-in-april-1b9dd32d",
+        "id": "WP-WSJ-0000914088"
+      }
+    ],
+    "date": "2023-05-24"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the dawning hours of the sun's zenith fair,\nKingfisher’s fortune falters as sales doth ebb,\nYet comfort found in full-year forecasts remains,\nIn tender grip of tempestuous clime, what's done is yet unmarred.\n\nNext, a tale of Aviva's strength doth bloom,\nIn quarter's first embrace, an eleven percent gale,\nImparts fortune rich, with pounds two-point-four billion,\nTargets attain'd or scal'd by sangfroid's end, with no signs of doom.\n\nBut woe befalls the eastern realm of Nippon's Nikkei,\nAs shadows cast on U.S. debt talks cause furrowed brow,\nThe market waver' - a harrowing dance, point nine percent decrease,\nThe perilous threat of credibility's decay looms nigh.",
+    "feedItems": [
+      {
+        "title": "Kingfisher Keeps Profit Target Despite Sales Fall",
+        "description": "Kingfisher said its first-quarter comparable sales fell 3.3%, as poor weather in the U.K. and France hurt its performance, but it remained comfortable with its full-year profit forecasts.",
+        "link": "https://www.wsj.com/articles/kingfisher-1q-sales-hurt-by-poor-weather-comfortable-with-consensus-forecast-bc9a32c5",
+        "id": "WP-WSJ-0000914119"
+      },
+      {
+        "title": "Aviva Posts Solid First Quarter; Backs Targets",
+        "description": "Aviva’s general insurance gross written premiums hit £2.4 billion in the first quarter on an 11% rise in sales, and it said it was on track to meet or exceed some financial targets by 2024.",
+        "link": "https://www.wsj.com/articles/aviva-1q-general-insurance-sales-rose-backs-targets-e53ecf6b",
+        "id": "WP-WSJ-0000914096"
+      },
+      {
+        "title": "Nikkei Falls 0.9% on Worry U.S. Debt-Ceiling Talks Could Stall",
+        "description": "Japan’s Nikkei closed 0.9% lower as worries that stalling U.S. debt talks could lead to a technical default or create a situation that does huge damage to the U.S. fiscal credibility, CMC Markets said.",
+        "link": "https://www.wsj.com/articles/nikkei-may-fall-on-worry-over-ongoing-u-s-debt-ceiling-talks-d7bc0075",
+        "id": "WP-WSJ-0000913652"
+      }
+    ],
+    "date": "2023-05-24"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Lenovo's halls, a slump most dire,\nAs profits flee, their coffers tire,\nThe meek PCs do wane as need,\nBy failing want and spending's heed.\n\nFrom distant lands, New Zealand cries,\nTheir interest rate, it swiftly rises,\nBut stay, dear snail, the tightening ends,\nFor slow, the consumers cease to spend.\n\nThe Banks, like goats now frolicing free,\nWere once but dull stocks, could it be?\nAlas, dear rabbit, now, in March,\nThey trill and leap, 'tis traders' last arch.",
+    "feedItems": [
+      {
+        "title": "Lenovo Profit Slumps Amid Continued PC Weakness",
+        "description": "Lenovo Group’s fourth-quarter net profit fell 72%, as personal-computer sales continued to decline amid a deteriorating global economy and soft consumer spending.",
+        "link": "https://www.wsj.com/articles/lenovo-fourth-quarter-profit-fell-72-amid-continued-pc-weakness-e1723ba7",
+        "id": "WP-WSJ-0000914028"
+      },
+      {
+        "title": "RBNZ Signals Possible End to Interest Rate Hikes",
+        "description": "The Reserve Bank of New Zealand raised its official cash rate by a further 25 basis points, but indicated it could be done tightening the policy screws as consumers have slowed spending.",
+        "link": "https://www.wsj.com/articles/rbnz-announces-another-rate-hike-as-cyclone-clean-up-lifts-economy-3583e27d",
+        "id": "WP-WSJ-0000913954"
+      },
+      {
+        "title": "Bank Stocks Are Now Meme Stocks",
+        "description": "Shares of banks such as PacWest used to be too boring for active traders. That was before March.",
+        "link": "https://www.wsj.com/articles/bank-stocks-are-now-meme-stocks-8f32f831",
+        "id": "SB10048930493276514125004589639780109139594"
+      }
+    ],
+    "date": "2023-05-24"
+  }
+]
