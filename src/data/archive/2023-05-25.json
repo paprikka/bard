@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In sterling's swift ascent, a tale of sorrow weaved,\nWhen Bank of England's might, inflation’s bane conceiv'd,\nBy forces from without, their efforts all but thieved,\nA melancholy song for those who had believ'd.\n\nIn London's market fair, where metals mixed by chance,\nA dolar's strength foretold, gold's weakened countenance,\nThrough looming debt and doubt that plagued the fiscal dance,\nA somber ode for those who chased the fleeting glace.\n\nBetwixt the spice-filled lands, fair Indonesia's shore,\nHer central bank did stand, as they had done before,\nThe seven-day reverse repo rate in guarded store,\nA chant for those who sought, seeking change evermore.",
+    "feedItems": [
+      {
+        "title": "Concerns Over BOE's Ability to Control Inflation Hits Sterling",
+        "description": "Sterling’s positive reaction to Wednesday’s higher-than-expected U.K. inflation data was brief given concerns the BOE will struggle to contain price pressures due to factors outside its control, Commerzbank said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-rising-treasury-yields-fcba1a89",
+        "id": "WP-WSJ-0000917524"
+      },
+      {
+        "title": "Metals Mixed Amid Dollar Strength",
+        "description": "Base metals were slightly firmer in London, with gold prices weaker, as worries over the U.S. debt ceiling and uncertainty about the Fed’s next move on rates, dominating markets.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-in-likely-technical-rebound-85a72a53",
+        "id": "WP-WSJ-0000917393"
+      },
+      {
+        "title": "Indonesia's Central Bank Stands Pat",
+        "description": "Bank Indonesia maintained its benchmark seven-day reverse repo rate, as expected in a WSJ poll.",
+        "link": "https://www.wsj.com/articles/indonesias-central-bank-stands-pat-75bbd2e2",
+        "id": "WP-WSJ-0000917781"
+      }
+    ],
+    "date": "2023-05-25"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Europe's midst, oil's blackened sea\nHolds ground, with gains unyielding be,\nBy data spurred, the Saudi creed\nAs tyrants warn, their needs to feed.\n\nTo Dortmund's borough, tidings fair\nA rise in confidence fills the air,\nMinus twenty-four, forecast divine,\nBy GfK, the purse strings now unwind.\n\nBold Coca-Cola, in valiant quest,\nReaffirms its target, meets the test,\nGuidance steady, with margins gold,\nEternal growth its fate foretold.",
+    "feedItems": [
+      {
+        "title": "Oil Holds Gains Following US Stocks Data",
+        "description": "Oil prices edged lower in Europe but held onto the bulk of gains made this week following bullish inventory data and a warning from the Saudi Arabia energy minister.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-in-likely-technical-correction-631ce51d",
+        "id": "WP-WSJ-0000917423"
+      },
+      {
+        "title": "German Consumer Morale to Improve Further",
+        "description": "Germany’s forward-looking consumer-sentiment index forecast confidence to tick up to minus 24.2 in June, the strongest level since April 2022, according to GfK, as income expectations brightened.",
+        "link": "https://www.wsj.com/articles/german-consumer-sentiment-to-improve-in-june-on-stronger-wage-expectations-b07f5820",
+        "id": "WP-WSJ-0000917754"
+      },
+      {
+        "title": "Coca-Cola HBC Backs Outlook, Upgrades Targets",
+        "description": "Coca-Cola HBC reiterated its fiscal 2023 guidance and updated its medium-term financial targets for revenue and earnings margin growth, reflecting a positive outlook for its markets.",
+        "link": "https://www.wsj.com/articles/coca-cola-hbc-raises-medium-term-revenue-growth-target-backs-fy-2023-views-591cfd15",
+        "id": "WP-WSJ-0000917752"
+      }
+    ],
+    "date": "2023-05-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of German land, a tale of woe,\nRecession's grip doth steal their show.\nWith meager growth and pinching purse,\nInflation's thirst, it stings and curse.\n\nGenerali, a worthy beast,\nIn profits gain, it hath increased.\nConfirm'd, their plan to title steer,\nBy yon now bow, through twenty-four.\n\nAnd Gucci's sire, Kering, dost join,\nWith GSK, a nature's coin,\nTo set a standard wise and fair,\nUndo the loss our world doth wear.",
+    "feedItems": [
+      {
+        "title": "Germany Enters Recession After GDP Revised Down",
+        "description": "Germany’s GDP contracted 0.3% in the first quarter, according to a second estimate, as household expenditure was squeezed by high inflation.",
+        "link": "https://www.wsj.com/articles/germany-entered-recession-after-1q-gdp-estimate-revised-down-78416a05",
+        "id": "WP-WSJ-0000917733"
+      },
+      {
+        "title": "Generali Backs Targets After Profits Jump",
+        "description": "Generali confirmed the targets of its strategic plan for 2024 after it posted increased premiums and sharply higher profits in the first quarter.",
+        "link": "https://www.wsj.com/articles/generali-confirms-targets-after-1q-earnings-rise-964f0b29",
+        "id": "WP-WSJ-0000917731"
+      },
+      {
+        "title": "Gucci-Owner Kering, Drugmaker GSK and Others Are Developing Global Targets on Nature Loss",
+        "description": "Setting standards can help companies move from multiple and conflicting definitions of what is enough action for nature, to consistent and replicable guidance.",
+        "link": "https://www.wsj.com/articles/gucci-owner-kering-drugmaker-gsk-and-others-are-developing-a-global-standard-on-nature-loss-4c2a7f3b",
+        "id": "WP-WSJ-0000914907"
+      }
+    ],
+    "date": "2023-05-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Hellenic and Teutonic bonds I sing,\nIn tender verse their stable union framed,\nEre June's full course hath run, their value cling,\nOne-hundred forty points their link proclaimed.\n\nOh weary woes! United vestige falls,\nIn lowered grounds and wanton air consumed,\nProfits reduced, the hare lament's sweet calls,\nInflations grown and costs to heights resume.\n\nNow waned the case, to Ericsson's delight,\nThe court declares from whence the shadows cast,\nIn gallant truth, investors reclaimed their right,\nIn yon Iraq their pretensions lie in past.",
+    "feedItems": [
+      {
+        "title": "Greek-German Bond Yield Spread Expected to Stabilize Near Term",
+        "description": "The 10-year Greek-German government bond yield spread has reached Citi’s target of 140 basis points and looks to stabilize there until the second election in June, it said.",
+        "link": "https://www.wsj.com/articles/greek-german-bond-yield-spread-expected-to-stabilize-near-term-615a5b44",
+        "id": "WP-WSJ-0000917723"
+      },
+      {
+        "title": "United Utilities Profit Slides, Misses Consensus",
+        "description": "United Utilities reported a 28% drop in underlying profit, reflecting lower consumption, higher inflation and increased operational costs.",
+        "link": "https://www.wsj.com/articles/united-utilities-fy-2023-profit-fell-on-lower-consumption-inflation-3d703811",
+        "id": "WP-WSJ-0000917712"
+      },
+      {
+        "title": "Court Dismisses Ericsson Shareholder Lawsuit",
+        "description": "Ericsson said a U.S court has rejected a claim by certain shareholders that the company misled investors over its business dealings and compliance in Iraq.",
+        "link": "https://www.wsj.com/articles/ericsson-says-us-court-has-dismissed-shareholder-lawsuit-246b0950",
+        "id": "WP-WSJ-0000917702"
+      }
+    ],
+    "date": "2023-05-25"
+  }
+]
