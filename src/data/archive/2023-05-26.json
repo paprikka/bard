@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "With heavy heart the Euro falters, weak,\nAgainst the Dollar's fierce and stormy might;\nIn downward trend since words of counsel speak,\nAt fair ECB, where once was light.\n\nThe Viking's fury Credit Suisse doth taste,\nAs Georgian foe hath claimed his rights just earned;\nIn Singapore, the battle fierce doth waste,\nTheir safeguard failed, a lesson's price must learn.\n\nIn shadow-blackened seas the oil doth rise,\nTho' Russia doubts that OPEC shall take heed;\nYet still it struggles ‘gainst the tempest skies,\nAnd hopes are dashed like ships upon the reef.",
+    "feedItems": [
+      {
+        "title": "Euro Seen Vulnerable to Further Falls Versus Dollar",
+        "description": "The euro has been on a downward trend against the dollar since the ECB’s May 4 meeting and is vulnerable to further falls, SEB said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-may-weaken-on-usd-tailwinds-6ef22397",
+        "id": "WP-WSJ-0000922494"
+      },
+      {
+        "title": "Credit Suisse Loses Case Against Georgian Businessman in Singapore",
+        "description": "A Singapore court has ordered a unit of Credit Suisse to compensate Georgian businessman Bidzina Ivanishvili for its failure in safeguarding the plaintiff’s assets.",
+        "link": "https://www.wsj.com/articles/credit-suisse-loses-case-against-georgian-businessman-in-singapore-799e2fab",
+        "id": "WP-WSJ-0000922880"
+      },
+      {
+        "title": "Oil Edges Up After Russia Doubts OPEC Will Act on Output",
+        "description": "Oil prices wavered in Europe, having tumbled on Thursday after comments from Russia’s deputy minister scrambled investors’ expectations for OPEC+ plans.",
+        "link": "https://www.wsj.com/articles/oil-prices-mixed-likely-to-be-supported-over-longer-term-c181e463",
+        "id": "WP-WSJ-0000922409"
+      }
+    ],
+    "date": "2023-05-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In praise, as shimmering metals ascend \nBy US debt ceiling enmity end,\nIn markets' tide, with hope we gaze upon,\nA thousand golden gleams of dawn, we fond.\n\nBetween fair German Bunds and French Oats sigh,\nAs downgrade risks rise, SocGen warns nigh,\nNow in pursuit of union's ebb and flow,\nTen-year yield spread treads with cautious woe.\n\nYe April sun doth warm the shoppes in glee,\nAs UK’s sales rebound, fair growth we see,\nAway, dread rain of March that brought us cold,\nNow yield to easing energy's soft hold.",
+    "feedItems": [
+      {
+        "title": "Metals Rally Amid Hopes of Agreement on US Debt Ceiling",
+        "description": "Base metals and gold prices were rising as improvements in sentiment over the debt ceiling talks plus positive economic data from the U.S. is helping to boost the macro mood, Deutsche Bank said.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-u-s-data-likely-next-catalyst-d149aa7",
+        "id": "WP-WSJ-0000922437"
+      },
+      {
+        "title": "Rating Downgrade Is a Risk for 10-Year French-German Yield Spread",
+        "description": "SocGen reiterated its pessimistic view on the 10-year French OAT-German Bund yield spread with rating downgrade risks looming.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-expected-to-move-in-range-to-seek-new-driver-9ccc09ba",
+        "id": "WP-WSJ-0000922782"
+      },
+      {
+        "title": "UK Retail Sales Rebound",
+        "description": "U.K. retail-sales volumes rose by a more-than-expected 0.5% in April, recovering from a rain-hit March that affected non-food sales, with easing energy prices lifting some of the pressures on household spending.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-rose-0-5-in-april-after-rain-hit-march-b1ed032",
+        "id": "WP-WSJ-0000922789"
+      }
+    ],
+    "date": "2023-05-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of highest stocks in London's wake\nProgress o'er debt, signs they make\nYet time runs thin, on June's horizon\nA fragile stance, where fate lies uncertain\n\nCasino now with creditors parleys\nSerried debts entangled, harried qualms\nTo Intermarche, some stores away\nA conciliation born, the fray\n\nA noble tipster sang of Ericsson's bribe\nTheir secrets whispered, they could not hide\nAwards, vast sum, the tale unfurls\nTwo hundred seventy nine million golden curls",
+    "feedItems": [
+      {
+        "title": "London Stocks Open Higher on Tentative Signs of US Debt Deal Progress",
+        "description": "The FTSE 100 opened up 0.5%, helped by gains in Asia and some signs of progress on the U.S. debt ceiling talks, but IG said sentiment remained fragile due to concerns the June 1 deadline for an agreement is fast approaching and with a U.S. rate rise next month looking increasingly likely.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-uncertain-open-15a9ad14",
+        "id": "WP-WSJ-0000922123"
+      },
+      {
+        "title": "Casino to Start Talks With Creditors; Offload Some Stores",
+        "description": "Casino has opened a conciliation procedure with its creditors over planned debt talks and has agreed to sell a number of its stores in France to Intermarche.",
+        "link": "https://www.wsj.com/articles/casino-opens-legal-talks-with-creditors-to-sell-stores-to-intermarche-e29acd2a",
+        "id": "WP-WSJ-0000922768"
+      },
+      {
+        "title": "Record $279 Million Whistleblower Award Went to a Tipster on Ericsson",
+        "description": "The largest-ever award in the SEC’s cash-for-tips program was related to a bribery case against the telecommunications company.",
+        "link": "https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98",
+        "id": "WP-WSJ-0000921012"
+      }
+    ],
+    "date": "2023-05-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of looming debt and worrisome times,\nThe city and state in fear doth bind;\nAs deadlines approach, the cost doth climb,\nAnd federal spending take flight like a marbled shrine.\n\nIn Germany's star, a question doth sprout,\nDid Merkel's past deeds bear Ukraine's bout?\nWith Putin's dark hand, deals made were bold,\nYet her reluctance the truth unfolds.\n\nNow hark, dear brothers, to news of great cheer,\nFor Tesla's fast-charging doth draw near;\nFord's humble disciples join the grand quest,\nTo share in the bounty, the Northlands' best.",
+    "feedItems": [
+      {
+        "title": "Munis on Edge as Debt Ceiling Deadline Nears",
+        "description": "City and state governments fear a potential surge in borrowing costs and curtailed federal spending.",
+        "link": "https://www.wsj.com/articles/municipal-bond-issuers-on-edge-as-debt-ceiling-deadline-nears-bc498cc0",
+        "id": "WP-WSJ-0000920991"
+      },
+      {
+        "title": "Did Merkel Pave the Way for the War in Ukraine?",
+        "description": "The former German chancellor is unapologetic as critics reexamine her deals with Putin and reluctance to punish his previous aggressions.",
+        "link": "https://www.wsj.com/articles/did-merkel-pave-the-way-for-the-war-in-ukraine-4abef297",
+        "id": "WP-WSJ-0000908257"
+      },
+      {
+        "title": "Tesla is opening some of its fast-charging network to Ford customers in the U.S. and Canada, the companies' chief executives said in a joint appearance.",
+        "description": "Tesla is opening some of its fast-charging network to Ford customers in the U.S. and Canada, the companies’ chief executives said in a joint appearance.",
+        "link": "https://www.wsj.com/articles/tesla-ford-team-up-in-ev-charging-deal-c6884cbf",
+        "id": "WP-WSJ-0000922009"
+      }
+    ],
+    "date": "2023-05-26"
+  }
+]
