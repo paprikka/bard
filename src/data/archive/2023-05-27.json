@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Neal, the YouTube's herald fine,\nWho treads 'mong creators, merry and bright,\nAnd woos every advertiser 'neath the sun's light,\nHis quest to win viewers of short tales entwined.\n\nA strife amongst Democrats dost rise,\nOn debt, they fault President Biden's sway,\nLike Bowman of New York, who cries foul play,\nThey say too much, he hath given away.\n\nVolkswagen, with a beast of former years,\nDoth bring back life to their fortunes dear,\nA stout old SUV, they make it clear,\nTo win over the hearts of these lands, they steer.",
+    "feedItems": [
+      {
+        "title": "The CEO of YouTube Has a Plan to Win Over Anyone Watching TV",
+        "description": "Neal Mohan goofs around with creators and woos advertisers to the platform’s short videos and TV offerings.",
+        "link": "https://www.wsj.com/articles/the-ceo-of-youtube-has-a-favorite-video-and-a-plan-to-win-over-anyone-watching-tv-dc0eae91",
+        "id": "WP-WSJ-0000913703"
+      },
+      {
+        "title": "Ahead of Debt Deal, Some Democrats Fault Biden",
+        "description": "Lawmakers including Rep. Jamaal Bowman of New York say the president has given too much away.",
+        "link": "https://www.wsj.com/articles/ahead-of-debt-ceiling-deal-some-democrats-point-finger-at-biden-3f86be1",
+        "id": "WP-WSJ-0000925638"
+      },
+      {
+        "title": "Volkswagen Bets an Old SUV Can Help It Win Over Americans",
+        "description": "After decades of trying to sell German engineering to Americans only to end up with a tiny slice of the world’s most profitable car market, Volkswagen has a new strategy: Revive a once-beloved brand that hasn’t produced cars since 1980.",
+        "link": "https://www.wsj.com/articles/volkswagen-bets-an-old-suv-can-help-it-win-over-americans-85319f04",
+        "id": "WP-WSJ-0000914887"
+      }
+    ],
+    "date": "2023-05-27"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Chinese merchants sly and wise,\nA murky Wind doth cloud our eyes,\nNo more shall foreign souls perceive,\nTheir shopping trends and images they leave.\n\nA cunning ploy, these modern spies,\nTo track their spouse and sneak, descry:\n\"What hath he at the midday Inn?\"\nA question fraught with secret sin.\n\nNow Alo Yoga shines, ascends,\nWith garments sleek, their game transcends,\nAs saints and sinners garbed alike,\nDefeat’st the Nike and Lulu in the fight.",
+    "feedItems": [
+      {
+        "title": "A Chinese Alternative to Bloomberg Terminals Quietly Limits Information Overseas",
+        "description": "E-commerce shopping trends and satellite images are no longer available to foreign users of Wind, clouding their view of the world’s second-largest economy.",
+        "link": "https://www.wsj.com/articles/a-chinese-alternative-to-bloomberg-terminals-quietly-limits-information-overseas-bd98cf5e",
+        "id": "WP-WSJ-0000922955"
+      },
+      {
+        "title": "Is It OK to Track Your Spouse's Location?",
+        "description": "Partners who share their whereabouts can find themselves having to explain: “What was he doing at a hotel in the middle of the day?”",
+        "link": "https://www.wsj.com/articles/is-it-ok-to-track-your-spouses-location-c3719728",
+        "id": "WP-WSJ-0000920477"
+      },
+      {
+        "title": "Alo Yoga Is Beating Lululemon at Its Own Game",
+        "description": "Models, pop superstars and all-star athletes wear its sleek workout clothes, paying homage in “sanctuaries.” How the Alo faithful took on Nike and Lululemon.",
+        "link": "https://www.wsj.com/articles/alo-yoga-workout-sets-a8a15492",
+        "id": "WP-WSJ-0000920785"
+      }
+    ],
+    "date": "2023-05-27"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In ancient halls of Lazard's keep\nA new chieftain, named Orszag, doth sweep\nThe former aid of Obama's rule\nNow wields the bank's almighty tool\n\nA tempest rising, wild fire's dread\nDismays State Farm, their fear widespread\nIn golden sun, they cease to trade\nDefending homes from the blazes made\n\nThe seër's craft, of artful mind\nIn Wall Street's realm, these powers entwined\nYet wise men claim, this might be not\nA bubble formed, but fate's own plot",
+    "feedItems": [
+      {
+        "title": "Lazard named Peter Orszag as its next CEO, putting the former Obama administration official at the investment bank's helm.",
+        "description": "Lazard named Peter Orszag as its next CEO, putting the former Obama administration official at the investment bank’s helm.",
+        "link": "https://www.wsj.com/articles/lazard-names-peter-orszag-as-next-ceo-7a13aa31",
+        "id": "WP-WSJ-0000922436"
+      },
+      {
+        "title": "State Farm is stopping the sale of new home-insurance policies in California because of wildfire risk and rapid inflation in construction costs.",
+        "description": "State Farm is stopping the sale of new home-insurance policies in California because of wildfire risk and rapid inflation in construction costs.",
+        "link": "https://www.wsj.com/articles/state-farm-halts-home-insurance-sales-in-california-5748c771",
+        "id": "WP-WSJ-0000925954"
+      },
+      {
+        "title": "The rise of generative artificial intelligence has created a frenzy on Wall Street, but investors and strategists say the rush to profit from the new technology isn't necessarily a bubble.",
+        "description": "The rise of generative artificial intelligence has created a frenzy on Wall Street, but investors and strategists say the rush to profit from the new technology isn’t necessarily a bubble.",
+        "link": "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a",
+        "id": "WP-WSJ-0000920055"
+      }
+    ],
+    "date": "2023-05-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land of the S&P, Dow and Nasdaq high,\nOn a merry Friday, as stocks sored to the sky,\nWith gains of percentages, they took flight for the week,\nWith tech-heavy Nasdaq, 2.5% did peak.\n\nIn a twist of fate, as May did unfold,\nConsumers in the land of the U.S. grew bold,\nTheir spending and inflation, did briskly ascend,\nAnd to the Fed, a dilemma, the rates may portend.\n\nAnd now in the realm of the fair Texas state,\nA trial looms near, for misdeeds of late,\nProceedings against the Attorney General Paxton,\nThe gavel resounds, as impeachment starts waxin'.",
+    "feedItems": [
+      {
+        "title": "U.S. stocks climbed Friday, with the Nasdaq, S&P 500 and Dow gaining 2.2%, 1.3% and 1%, respectively. The tech-heavy Nasdaq rose 2.5% for the week.",
+        "description": "U.S. stocks climbed Friday, with the Nasdaq, S&P 500 and Dow gaining 2.2%, 1.3% and 1%, respectively. The tech-heavy Nasdaq rose 2.5% for the week.",
+        "link": "https://www.wsj.com/articles/stocks-rise-on-hopes-for-debt-ceiling-deal-db6d6cb8",
+        "id": "WP-WSJ-0000924870"
+      },
+      {
+        "title": "Consumers in the U.S. increased their spending sharply last month and inflation accelerated, fresh data showed Friday, potentially complicating the Federal Reserve's debate on whether to raise interest rates again in June.",
+        "description": "Consumers in the U.S. increased their spending sharply last month and inflation accelerated, fresh data showed Friday, potentially complicating the Federal Reserve’s debate on whether to raise interest rates again in June.",
+        "link": "https://www.wsj.com/articles/consumer-spending-personal-income-april-2023-b1b57c31",
+        "id": "WP-WSJ-0000921710"
+      },
+      {
+        "title": "State lawmakers are expected to begin impeachment proceedings against Texas Attorney General Paxton.",
+        "description": "State lawmakers are expected to begin impeachment proceedings against Texas Attorney General Paxton.",
+        "link": "https://www.wsj.com/articles/texas-lawmakers-to-consider-impeachment-proceedings-against-ken-paxton-7bb86cf",
+        "id": "WP-WSJ-0000924603"
+      }
+    ],
+    "date": "2023-05-27"
+  }
+]
