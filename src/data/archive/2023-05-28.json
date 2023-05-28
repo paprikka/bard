@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands afar o'er oceans wide,\nWhere falcons of the skies do glide,\nA C919, proud and strong,\nA dragon to the skies belongs.\n\nWith earth once ruled by golden coin,\nEurope findeth now a choice:\nA king of old shall hold his sway,\nAs interest rates in dance do play.\n\nOf Antioch, a city near,\nWhere whispers dark do rise mid-air,\nHalf the guards with tongues so foul,\nEngage in words that hearts do scowl.",
+    "feedItems": [
+      {
+        "title": "China's C919 Takes Maiden Commercial Flight---and First Bite From Boeing",
+        "description": "Despite backing from top leaders and a ready-made market for its planes, manufacturer Comac faces a steep path to success.",
+        "link": "https://www.wsj.com/articles/chinas-c919-takes-maiden-commercial-flightand-first-bite-from-boeing-9cce6934",
+        "id": "WP-WSJ-0000927218"
+      },
+      {
+        "title": "Dollar Is Still King in Europe and Swaying Interest Rates",
+        "description": "The Federal Reserve’s interest-rate increases affect Europe’s economy as much as—or even more than—they do the U.S.",
+        "link": "https://www.wsj.com/articles/the-dollar-is-still-king-in-europe-and-its-swaying-interest-rates-179f01e5",
+        "id": "WP-WSJ-0000917622"
+      },
+      {
+        "title": "In a Small California City, Nearly Half the Police Included in Racist Text Threads",
+        "description": "For at least four years, officers in Antioch called Black residents racial slurs, bragged about beating suspects and joked about violating people’s rights.",
+        "link": "https://www.wsj.com/articles/in-a-small-california-city-nearly-half-the-police-included-in-racist-text-threads-ee308235",
+        "id": "WP-WSJ-0000925667"
+      }
+    ],
+    "date": "2023-05-28"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Oh, Holmes of Theranos fame, dost face\nAn earthly trial, shackled and confined,\nWithin a prison's walls, ye seek God's grace\nAnd inmates' friendship rare, perchance to find.\n\nIn Turkey's realm, where Erdogan doth reign,\nThe people vote, for power hangs in wait,\nTheir voices speak, mid chaos and great strain,\nIn hopes to shape their lands and seal their fate.\n\nHark! Plush companions for the babes, now sought,\nBy weary souls, who covet soft embrace,\nAs Jellycats, with human mien distort,\nBring solace to the heart, and laughter's trace.",
+    "feedItems": [
+      {
+        "title": "Inmates Await Theranos Founder: 'I Want to Be Her Friend'",
+        "description": "Elizabeth Holmes is expected to begin an 11-year sentence at a Bryan, Texas, prison camp on Tuesday.",
+        "link": "https://www.wsj.com/articles/elizabeth-holmes-prison-inmates-3a46a79f",
+        "id": "WP-WSJ-0000926051"
+      },
+      {
+        "title": "Turkey Votes in Runoff After Erdogan Takes First-Round Lead",
+        "description": "Millions of people are heading to the polls on Sunday in a presidential runoff election that could cement President Recep Tayyip Erdogan’s grip on power and his country’s influence in the war in Ukraine, the Middle East and NATO.",
+        "link": "https://www.wsj.com/articles/turkey-votes-in-runoff-after-erdogan-takes-first-round-lead-95773cfd",
+        "id": "WP-WSJ-0000926291"
+      },
+      {
+        "title": "Why Adults Are Snapping Up a Stuffed Toy Originally for Babies",
+        "description": "Jellycats’ quirky designs and humanlike characteristics seem suited to home décor and self-care.",
+        "link": "https://www.wsj.com/articles/why-adults-are-snapping-up-a-stuffed-toy-originally-meant-for-babies-d5e5632a",
+        "id": "WP-WSJ-0000815309"
+      }
+    ],
+    "date": "2023-05-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In wild fields where rabbits play,\nTwo vying factions meet halfway,\nFor to mend the pierced ceil'ng high,\nEre the hounds of the House descry.\n\nOf tether'd spending, work and wall,\nA deal is struck, agreeing all,\nThat goat and snail walk arm in arm,\nAnd sheltered be from storm and harm.\n\nNe'er ventured here such noble feasts,\nOf tipping tips in gas-lit wastes,\nAs gallant troubadour rides hence,\nTo sing anew 'midst goat and hens.",
+    "feedItems": [
+      {
+        "title": "Biden, McCarthy Strike Debt-Ceiling Deal 'in Principle'",
+        "description": "Republicans and Democrats will now race to pass the agreement to raise the nation’s $31.4 trillion borrowing limit for two years through both chambers of Congress, with a House vote expected in the coming week.",
+        "link": "https://www.wsj.com/articles/debt-ceiling-talks-extend-into-weekend-with-deal-seen-as-close-7eb59fbc",
+        "id": "WP-WSJ-0000926170"
+      },
+      {
+        "title": "What's in the Debt-Ceiling Deal",
+        "description": "The agreement in principle between President Biden and House Republicans includes spending caps, work requirements and permitting.",
+        "link": "https://www.wsj.com/articles/whats-in-the-debt-ceiling-deal-461b9822",
+        "id": "WP-WSJ-0000927163"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "&#x22;This is a gas station off I-80 in the middle of nowhere, not a fancy restaurant in New York.&#x22; Tipping is out of control.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-f3eb4180",
+        "id": "SB11730049400408973546304589647611286050552"
+      }
+    ],
+    "date": "2023-05-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Texan halls, where swords divide,\nA house of lords, a great divide,\nKen Paxton felled, by kin and kind,\nTheir voices joined, in fate’s design.\n\nOf birth and blood, the tale unfolds,\nAmerican kin, shall bear no more,\nTheir cradles bare, the earth unshackled,\nAs fewer babes grace these hallowed shores.\n\nA hall once grand, the stones did roll,\nIn Montauk's land, he built anew,\nJann Wenner's dream, of counsel sought,\nNow minimalist, retreats to shore.",
+    "feedItems": [
+      {
+        "title": "Texas House Votes to Impeach Ken Paxton",
+        "description": "Fellow Republicans joined in the move to oust the state’s top lawyer.",
+        "link": "https://www.wsj.com/articles/texas-house-votes-to-impeach-ag-ken-paxton-5f20d126",
+        "id": "WP-WSJ-0000926919"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Why Americans are having fewer babies",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-af5b902d",
+        "id": "SB11730049400408973546304589647431009141879"
+      },
+      {
+        "title": "The House That 'Rolling Stone' Built",
+        "description": "‘Rolling Stone’ co-founder Jann Wenner has forgone his maximalist past, building a casually minimalist family retreat in Montauk, New York.",
+        "link": "https://www.wsj.com/articles/the-house-that-rolling-stone-built-194b9b95",
+        "id": "SB10048930493276514125004589647220838511200"
+      }
+    ],
+    "date": "2023-05-28"
+  }
+]
