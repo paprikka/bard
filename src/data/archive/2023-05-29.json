@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Turkish lands, where Lira's sway,\nFalls swift 'pon Erdogan's triumph day,\nFor low stood rates, a course contest',\nYet UniCredit's gaze predicts duress.\n\nFor Puma's shares, such woe appears,\nBaader Helvea quells the market's fears,\nFrom add to buy, the rating soars,\nYet target's sum, from seventy, lowers.\n\nWhen WPP with Nvidia fuses,\nA content engine, AI new births,\nFor advertising, digital gleam,\nTheir union fuels a rapturous dream.",
+    "feedItems": [
+      {
+        "title": "Turkish Lira Falls as Erdogan Wins Presidential Election",
+        "description": "The Turkish lira fell after Erdogan’s win in Sunday’s runoff presidential election, as his controversial policy of keeping interest rates low has put pressure on the currency and will likely continue to do so, UniCredit said.",
+        "link": "https://www.wsj.com/articles/nzd-usd-likely-to-keep-rising-as-us-debt-talks-near-resolution-3d63a13d",
+        "id": "WP-WSJ-0000928202"
+      },
+      {
+        "title": "Puma's Shares Seem to Price in Too Much Pessimism",
+        "description": "Puma’s share price suggests the market is pricing in a too pessimistic scenario for the company, Baader Helvea Baader said, raising its rating to buy from add, but cutting its target price to €60 from €70.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-jump-amid-debt-ceiling-optimism-ba1c05df",
+        "id": "WP-WSJ-0000928215"
+      },
+      {
+        "title": "WPP, Nvidia Partner in AI Deal",
+        "description": "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising.",
+        "link": "https://www.wsj.com/articles/wpp-nvidia-team-up-to-build-ai-enabled-content-engine-f1d0efaa",
+        "id": "WP-WSJ-0000928465"
+      }
+    ],
+    "date": "2023-05-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Stern's mind did clouds reside,\nWith mem'ry in twilight's keep,\nAs shadow's hand, it hath us sighed:\nSeek answers in dementia's deep.\n\nIn market's calm, the quants they dance,\nWith signals swift their trades advance,\nAs other hands in rest do stand,\nThese lords of buying rule the land.\n\nWall Street now sighs, their hope in fray,\nFor miracles they yearn and pray,\nA challenger to Biden, Trump,\nIn business fields may they triumph.",
+    "feedItems": [
+      {
+        "title": "Something Was Wrong With Dr. Stern. It Took Five Years to Figure Out.",
+        "description": "Early detection of dementia can help people make important life decisions and weigh possible treatments. But getting a diagnosis can be difficult.",
+        "link": "https://www.wsj.com/articles/dementia-diagnosis-difficulties-frontotemporal-9c1486c5",
+        "id": "WP-WSJ-0000913426"
+      },
+      {
+        "title": "Why Are Markets So Calm? Quants Are Dominating",
+        "description": "Firms that use computers to determine buy and sell signals have been loading up while other investors sit back.",
+        "link": "https://www.wsj.com/articles/why-are-markets-so-calm-its-revenge-of-the-quant-funds-26a93425",
+        "id": "WP-WSJ-0000920120"
+      },
+      {
+        "title": "Wall Street Mobilizes for a Presidential Election, Reluctantly",
+        "description": "The finance set wants a business-friendly challenger to Biden and Trump. “Everybody is hoping for a miracle.”",
+        "link": "https://www.wsj.com/articles/wall-street-mobilizes-for-a-presidential-election-reluctantly-49b4b735",
+        "id": "WP-WSJ-0000925315"
+      }
+    ],
+    "date": "2023-05-29"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In days of yore, when Midgard's might,\nRan strong in veins of AI's flight,\nA dearth of chips, advanced and bold,\nLeft countless minds untamed, unsold.\n\nAlas! Poor Disney's grand design,\nDid falter, fail in sun-soaked clime,\nOrlando's dreams did turn to woe,\nFor Magic Kingdom could not grow.\n\nA treacherous tide hath swept the Strip,\nLas Vegas' gold now lost in grip,\nTo cunning hosts, the players bane,\nBlackjack's ill fortune, Loki's gain.",
+    "feedItems": [
+      {
+        "title": "The AI Boom Runs on Chips, but It Can't Get Enough",
+        "description": "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds.",
+        "link": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+        "id": "WP-WSJ-0000925933"
+      },
+      {
+        "title": "Disney's Orlando Campus Cancellation a Blow to Neighboring Projects",
+        "description": "Adjoining commercial and residential developments were banking on the relocation of 2,000 Walt Disney employees to Florida.",
+        "link": "https://www.wsj.com/articles/disneys-orlando-campus-cancellation-a-blow-to-neighboring-projects-77b51e85",
+        "id": "WP-WSJ-0000924202"
+      },
+      {
+        "title": "Why You're Losing More to Casinos on the Las Vegas Strip",
+        "description": "Casinos are making it costlier to play and harder to win. Blackjack players lost nearly $1 billion on the Strip last year, according to data from the Nevada Gaming Control Board.",
+        "link": "https://www.wsj.com/articles/why-youre-losing-more-to-casinos-on-the-las-vegas-strip-73f6f3ab",
+        "id": "WP-WSJ-0000925239"
+      }
+    ],
+    "date": "2023-05-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of C919's maiden flight, a tale I raise,\nA challenge to Airbus and Boeing's claim,\nIn China's realm, a token doth amaze,\nA frothy brew of rivalry in fame.\n\nIn data shrouds, a Chinese hand doth snare,\nAccess to figures hid from foreign eyes,\nTheir quest to grasp the wealth and faire,\nA wine, reserved and veiled, they'd deign to prize.\n\nThe Mermaid Little now doth swim to shore,\nWith coin of ninety-five and million more,\nIn Disney's realm, a tale retold and dressed,\nLive-action brew, by eager hearts possessed.",
+    "feedItems": [
+      {
+        "title": "China's homegrown C919 passenger jet made its long-awaited maiden commercial flight, marking a small but symbolic first challenge to Boeing and Airbus in one of their most important markets.",
+        "description": "China’s homegrown C919 passenger jet made its long-awaited maiden commercial flight, marking a small but symbolic first challenge to Boeing and Airbus in one of their most important markets.",
+        "link": "https://www.wsj.com/articles/chinas-c919-takes-maiden-commercial-flightand-first-bite-from-boeing-9cce6934?mod=world_lead_pos3",
+        "id": "EEAA38FC-0221-45ED-9D36-D065D27BCB64"
+      },
+      {
+        "title": "A Chinese data provider has started limiting international companies/ access to some information, makiig it harder for them to analyze how the world's second-largest economy is performing.",
+        "description": "A Chinese data provider has started limiting international companies/ access to some information, makiig it harder for them to analyze how the world’s second-largest economy is performing.",
+        "link": "https://www.wsj.com/articles/a-chinese-alternative-to-bloomberg-terminals-quietly-limits-information-overseas-bd98cf5e?mod=tech_lead_pos2",
+        "id": "WP-WSJ-0000922955"
+      },
+      {
+        "title": "Disney's \"The Little Mermaid\"  sold $95.5 million in domestic tickets in its first three days, leading the weekend box office with a performance that puts it in the middle of the studio's live-action remakes of an animated classic.",
+        "description": "Disney’s “The Little Mermaid” sold $95.5 million in domestic tickets in its first three days, leading the weekend box office with a performance that puts it in the middle of the studio’s live-action remakes of an animated classic.",
+        "link": "https://www.wsj.com/articles/little-mermaid-disney-box-office-15e0c0f8?mod=hp_featst_pos5",
+        "id": "WP-WSJ-0000927852"
+      }
+    ],
+    "date": "2023-05-29"
+  }
+]
