@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "'Pon early morn of trading gray,\nIn fair Londinium stocks dost sway,\nAs golden hopes of debt's resolve,\nTo stinging fears of rates dissolve.\n\nThe Euro falt'ring 'fore the Dollar strong,\nDoth find itself in weakened throng,\nAs data 'bout the confidence,\nMay dimin'sh more its humbled stance.\n\nNow oil doth slip on doubts and whispers,\nAs Biden's deal, like fog that simmers,\nStruggles on for Congress' grace,\nWhilst watchful eyes on OPEC's chase.",
+    "feedItems": [
+      {
+        "title": "London Stocks Fall in Early Trade",
+        "description": "The FTSE 100 fell 0.2% in early action, as optimism following a tentattive deal on the U.S. debt ceiling gave way to ongoing concerns about further Fed interest-rate rises.",
+        "link": "https://www.wsj.com/articles/nikkei-likely-rangebound-after-ascent-to-33-year-high-3823ae5a",
+        "id": "WP-WSJ-0000929587"
+      },
+      {
+        "title": "Euro Falls to Two-Month Low Vs Dollar, Confidence Data Could Knock It Further",
+        "description": "The euro hit a two-month low against a broadly firmer dollar and could fall further if eurozone industrial and consumer confidence figures for May, due at 0900 GMT, weaken, ING said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-hopes-for-u-s-debt-ceiling-deals-passage-cbdfee40",
+        "id": "WP-WSJ-0000929791"
+      },
+      {
+        "title": "Oil Slips on Doubts Over US Debt Deal",
+        "description": "Oil prices dipped in European trading on concerns that Joe Biden’s debt-ceiling deal could struggle to win congressional support, while focus was also on the upcoming OPEC meeting.",
+        "link": "https://www.wsj.com/articles/oil-gains-on-optimism-over-u-s-debt-deal-4d622095",
+        "id": "WP-WSJ-0000929686"
+      }
+    ],
+    "date": "2023-05-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Europe fair where metals slip,\nDebt-ceiling talks, tales of a ship,\nBase gold doth glint, while job numbers wait,\nIn dollar's grip, their fortune's fate.\n\nOf Spanish bonds a boon may flow,\nFrom prudence in elections' show,\nTheir fiscal might, with grace pursue,\nCiti's sight, a course anew.\n\nWhen drones descend on Moscow bright,\nResidents cleave to safety's light,\nKyiv's swift reply, amidst the storm,\nHomes lay awry, to air assault's scorn.",
+    "feedItems": [
+      {
+        "title": "Metals Slip Amid Mixed Macro Signals",
+        "description": "Base metals and gold prices were falling in Europe with investors looking at the progress in the debt-ceiling talks and to the U.S. job numbers this week, and their effect on the dollar, Peak Trading said.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-investors-still-weigh-on-debt-deal-d48cc902",
+        "id": "WP-WSJ-0000929662"
+      },
+      {
+        "title": "Spanish Bonds Could Benefit From More Fiscal Prudence After National Elections",
+        "description": "Spanish government bonds could benefit from more fiscal prudence after snap elections in July, Citi said.",
+        "link": "https://www.wsj.com/articles/spanish-bonds-could-benefit-from-more-fiscal-prudence-after-national-elections-a8300684",
+        "id": "WP-WSJ-0000929984"
+      },
+      {
+        "title": "Drones Hit Residential Areas in Moscow for First Time",
+        "description": "Drones struck several buildings in the first attacks on civilian areas deep inside Russia since the invasion of Ukraine last year, as Kyiv spent another night under air assault.",
+        "link": "https://www.wsj.com/articles/drones-strike-residential-areas-in-moscow-9984942",
+        "id": "WP-WSJ-0000929911"
+      }
+    ],
+    "date": "2023-05-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of China's rebuff, a tale I sing,\nTo Pentagon's chief, a rapproch_sent thwing,\nLord Austin sought, but met disdain,\nFrom Li Shangfu, discord doth remain.\n\nUpon dark deeds, a fine bestowed,\nCrown Resorts with heavy gold unrobed,\nA sum of A$450 million weighs,\nFor breaches past, amend they must their ways.\n\nNow Daimler Truck and Toyota's might,\nTheir wings entwined, to soar new heights,\nMitsubishi Fuso and Hino blend,\nIn Tokyo's list, their names ascend.",
+    "feedItems": [
+      {
+        "title": "China Rebuffs Pentagon Chief, Blunting Rapprochement Push",
+        "description": "A U.S. request for a meeting of Defense Secretary Lloyd Austin and China’s Defense Minister Li Shangfu was declined, showing the limits of a tentative rapprochement between the two powers.",
+        "link": "https://www.wsj.com/articles/china-rebuffs-pentagon-chief-blunting-push-for-rapprochement-dd78d9bf",
+        "id": "WP-WSJ-0000929433"
+      },
+      {
+        "title": "Blackstone's Crown Resorts Agrees to Penalty for High-Risk Practices",
+        "description": "Crown Resorts agreed to a A$450 million penalty over breaches of anti-money-laundering and counterterrorism laws prior to the casino operator’s acquisition by Blackstone.",
+        "link": "https://www.wsj.com/articles/blackstones-crown-resorts-agrees-to-a-450-mln-penalty-for-high-risk-practices-142834e2",
+        "id": "WP-WSJ-0000929958"
+      },
+      {
+        "title": "Daimler Truck, Toyota to Merge Parts of Asian Businesses",
+        "description": "Daimler Truck and Toyota plan to to combine their Mitsubishi Fuso Truck and Hino operations and list the new company on the Tokyo stock exchange.",
+        "link": "https://www.wsj.com/articles/daimler-truck-toyota-motor-sign-agreement-with-intent-to-create-new-tokyo-listed-company-6df48c46",
+        "id": "WP-WSJ-0000929951"
+      }
+    ],
+    "date": "2023-05-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In realms of Eastern dragons' lair,\nThree sons of sky ascend on air,\n'Gainst West's fierce gaze they dare to race,\nTo claim yon firmament's embrace.\n\nYet in the scepter'd isle afar,\nWhere once proud warriors wove war's scar,\nThe mead-halls' bounty waxeth thin,\nIn prices high their purses spin.\n\nBut lo! A mystery laid bare,\nOf Uyghur scholar once ensnared,\nYet not in China's iron grasp,\nIn Southern land now safe, unclasped.",
+    "feedItems": [
+      {
+        "title": "China Launches Three Astronauts, Including First Civilian, Into Orbit",
+        "description": "The liftoff showcases the nation’s expanding capabilities in space at a time when mounting military and technological competition with the U.S. is stoking geopolitical tension.",
+        "link": "https://www.wsj.com/articles/china-launches-three-astronauts-including-first-civilian-into-orbit-898a29b9",
+        "id": "WP-WSJ-0000929902"
+      },
+      {
+        "title": "UK Shop-Price Inflation Hits Record",
+        "description": "Prices at U.K. stores in the first week of May were 9% higher on year, a new record high, but food inflation slowed slightly, as lower energy and commodity costs started to ease.",
+        "link": "https://www.wsj.com/articles/uk-shop-price-inflation-loses-steam-in-may-on-lower-food-prices-report-says-695fc0a7",
+        "id": "WP-WSJ-0000929908"
+      },
+      {
+        "title": "Rights Group Revisits Report on Missing Uyghur Scholar After Questions Emerge",
+        "description": "Amnesty International said it feared Abuduwaili Abudureheman had disappeared into Chinese custody in Hong Kong, but new reports indicate he’s in South Korea.",
+        "link": "https://www.wsj.com/articles/rights-group-revisits-report-on-missing-uyghur-scholar-after-questions-emerge-a915d49e",
+        "id": "WP-WSJ-0000929863"
+      }
+    ],
+    "date": "2023-05-30"
+  }
+]
