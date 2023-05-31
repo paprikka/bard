@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In th'Occitan meadow, gaunt and drear,\nThe oil's sharp decline we hear,\nAs Chine's feeble gesture doth unfold,\nPiercing the land's heart, now e'er so cold.\n\nIn the realm of Thailand's fervent sphere,\nThe Bank's ardent fight against inflation revere,\nA leap of twenty-five points to tame the wild,\nInflation's fierce tempest thus beguiled.\n\nAmidst the labyrinthine world of base metals, low,\nWeak China demand doth Shadows sow,\nIn the grip of reck'ning that lingers still,\nAffecting the land with price's will.",
+    "feedItems": [
+      {
+        "title": "Oil Holds Sharp Declines After China PMI Data",
+        "description": "Oil prices fell 0.2% in Europe after weak Chinese economic data, and markets are worried the country’s commodity demand is weakening more quickly than anticipated, Commonwealth Bank said.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-after-china-pmi-slides-further-into-contraction-ecf704c7",
+        "id": "WP-WSJ-0000934274"
+      },
+      {
+        "title": "Bank of Thailand Raises Rate to Tame Inflation",
+        "description": "Thailand’s central bank increased its policy rate by 25 basis points to 2.00% as it continued its efforts to tame inflation.",
+        "link": "https://www.wsj.com/articles/bank-of-thailand-raises-rate-to-tame-inflation-fc7c49fe",
+        "id": "WP-WSJ-0000934431"
+      },
+      {
+        "title": "Base Metals Lower as Weak China Demand Weighs on Prices",
+        "description": "Industrial metal prices were weaker with China’s disappointing economic recovery continuing to weigh on the demand outlook, according to ANZ.",
+        "link": "https://www.wsj.com/articles/gold-little-changed-congress-vote-on-debt-ceiling-in-focus-d73576f8",
+        "id": "WP-WSJ-0000934005"
+      }
+    ],
+    "date": "2023-05-31"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of dollar rise and equity weak,\nThe Fed doth turn the wheels we seek,\nIn haven's safety, we confide,\nAs Unicredit's words provide.\n\nIn distant France, the goods inflate,\nConsumers see a lesser rate,\nWith food and energy impaired,\nA lighter burden is declared.\n\nBehold the tale of Handelsbanken wide,\nIn Finnish lands, a deal's tides abide,\nTo S-Bank, Fennia, and Oma's gain,\nA sum so vast, a billion doth attain.",
+    "feedItems": [
+      {
+        "title": "Dollar Rises on Fed Rate Expectations, Weak Equities",
+        "description": "The dollar was higher in European trading due to growing expectations the Fed will continue raising rates and falls in equity markets which increase demand for safe havens, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-risk-off-sentiment-40a5f3e6",
+        "id": "WP-WSJ-0000934253"
+      },
+      {
+        "title": "French Inflation Eases",
+        "description": "France’s consumer price index rose by 5.1% on year in May, a lower than expected print, helped by falling energy, food and services prices.",
+        "link": "https://www.wsj.com/articles/french-inflation-dropped-more-than-expected-in-may-as-energy-food-prices-ease-9cbbc01b",
+        "id": "WP-WSJ-0000934428"
+      },
+      {
+        "title": "Handelsbanken Secures Deal to Sell Bulk of Finnish Business",
+        "description": "Handelsbanken has agreed to sell parts of its Finnish operations to S-Bank, Oma Savings Bank and Fennia Life Insurance for around €1.3 billion.",
+        "link": "https://www.wsj.com/articles/handelsbanken-sells-parts-of-finnish-ops-for-around-1-4-bln-c091a34e",
+        "id": "WP-WSJ-0000934419"
+      }
+    ],
+    "date": "2023-05-31"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm where Nikkei lays,\nThe dragon of trade breathes its malaise,\nFortunes down, steelmakers grieve,\nClouds of doubt the sky doth weave.\n\nTo fair Eurozone's vast tide,\nInflation slows, bond yields confide,\nTheir steady course to ebb and sway,\nAn uncertain storm shall rule the day.\n\nA weakened foot upon China's shore,\nDulled are steel's fierce fangs of yore,\nIn factories dark and trade winds mild,\nGrowth recedes like ocean’s wild.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 1.4%, Dragged by Trading Houses, Steelmakers",
+        "description": "The Nikkei closed down 1.4%, dragged by declines in trading houses and steelmakers, as profit-taking kicked in on continued uncertainty over the inflation and economic outlook.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-point-to-lower-open-d6a4097e",
+        "id": "WP-WSJ-0000933706"
+      },
+      {
+        "title": "Slowdown in Inflation Set to Drive Eurozone Bond Yields Lower",
+        "description": "The inflation-driven rally in eurozone rates markets looks set to continue with national CPI data likely to slow markedly, Commerzbank said.",
+        "link": "https://www.wsj.com/articles/slowdown-in-inflation-set-to-drive-eurozone-bond-yields-lower-49358f9e",
+        "id": "WP-WSJ-0000934406"
+      },
+      {
+        "title": "China's Recovery Slows Further as Factory, Services Activity Pulls Back",
+        "description": "China’s factory activity contracted for a second straight month while growth in the services sector slowed.",
+        "link": "https://www.wsj.com/articles/chinas-recovery-slows-further-as-factory-services-activity-pulls-back-9384124d",
+        "id": "WP-WSJ-0000934379"
+      }
+    ],
+    "date": "2023-05-31"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In deepest grief, a web is spun,\nFor lives once bright now darkly dim,\nBoeing's mea culpa won,\nIn anguished hearts, a mournful hymn.\n\nForsooth, on yonder Chicago's streets,\nA vile tempest of hate doth rage,\nDisinvestment's trauma repeats,\nAs sorrow floods the mortal stage.\n\nA query looms 'pon parchment scribed,\nWhither goes this land's vast refrain?\nIn debt's cruel grip we're described,\nA tempest shrouds our futures' bane.",
+    "feedItems": [
+      {
+        "title": "Boeing 737 MAX Victims' Families Can Seek Compensation for Pain and Suffering, Judge Rules",
+        "description": "The aircraft maker has admitted responsibility for the 2019 crash, but has contested factoring victims’ precrash pain and suffering into damages.",
+        "link": "https://www.wsj.com/articles/boeing-737-max-victims-families-can-seek-compensation-for-pain-and-suffering-judge-rules-6dd8aef5",
+        "id": "WP-WSJ-0000933968"
+      },
+      {
+        "title": "Another Shoot-'em-Up Memorial Day Weekend in Chicago",
+        "description": "The city’s new mayor attributes shootings to the ‘trauma’ of disinvestment.",
+        "link": "https://www.wsj.com/articles/chicago-memorial-day-weekend-shootings-brandon-johnson-275ef812",
+        "id": "SB11419817110155214061004589652903494289562"
+      },
+      {
+        "title": "Where Is the U.S. Economy Headed? Follow the Money",
+        "description": "Debt markets, where lenders funnel money to businesses and consumers, are showing signs of strain.",
+        "link": "https://www.wsj.com/articles/where-is-the-u-s-economy-headed-follow-the-money-41d1d264",
+        "id": "SB12068897222189324064904589653651522989672"
+      }
+    ],
+    "date": "2023-05-31"
+  }
+]
