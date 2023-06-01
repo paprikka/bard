@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In London's morn, the metals clash,\nAs sea of trade brings surge and thrash,\nGold doth slip as rates rise high,\nStrong winds from Western shore draw nigh.\n\nThe House of trade in futures gleams,\nAs debt-ceiling casts sunbeams,\nThe fateful bill, to Senate bound,\nShall till January keep its ground.\n\nDollar's stall, like Viking's pause,\nFed's talk whispers in market's maws,\nInterest steady, June defies,\nJuly's sun may lift their cries.",
+    "feedItems": [
+      {
+        "title": "Base Metals Rise, Gold Slips Amid Choppy Macro Sentiment",
+        "description": "Base-metal prices were rising while gold fell in early London trade, with strong jobs data in the U.S. likely to cement further rate hikes this year, a headwind for gold as of late, against more positive economic data coming from China.",
+        "link": "https://www.wsj.com/articles/gold-gains-after-strong-u-s-labor-data-fed-officials-comments-154d562d",
+        "id": "WP-WSJ-0000938912"
+      },
+      {
+        "title": "Stock Futures Firmer as House Approves Debt-Ceiling Deal",
+        "description": "Stock futures edged higher after the House passed the debt-ceiling bill, which pairs spending cuts with suspension of the U.S. borrowing limit until January 2025. It now heads to the Senate.",
+        "link": "https://www.wsj.com/articles/australia-shares-likely-to-add-to-losses-at-the-open-2d40fd1e",
+        "id": "WP-WSJ-0000938588"
+      },
+      {
+        "title": "Dollar Stalls as Fed Officials Talk of Skipping June Rate Rise",
+        "description": "The dollar stalled in early European trading, pulling away from recent highs, after two Fed officials suggested the central bank could opt to keep interest rates steady in June and raise them in July instead.",
+        "link": "https://www.wsj.com/articles/aud-usd-could-set-year-low-if-market-wrong-on-rba-rate-hike-62a48f62",
+        "id": "WP-WSJ-0000938742"
+      }
+    ],
+    "date": "2023-06-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon oils gains we sing today,\nAs Chinese factories saith, \"Hooray!\"\nO'PEC's meeting soon shall tell,\nYet price adjustments, naught foretell.\n\nNo change foreseen in Gallic land,\nFor S&P shall take its stand,\nWhile ‘AA’ and outlook bleak,\nTheir mark on France’s fortunes speak.\n\nSAS, in base desire for growth,\nAn unchanged loss their path uncloath,\nFor fuel, costlier doth become,\nIn year's wane, yet targets still shall hum.",
+    "feedItems": [
+      {
+        "title": "Oil Gains After China's Manufacturing PMI Rises",
+        "description": "Oil prices edged higher in Europe as Chinese data pointed to expanding factory activity, and as expectations for an OPEC+ meeting this weekend were also fluctuating, with most analysts taking the view it will hold off from adjusting production levels for now.",
+        "link": "https://www.wsj.com/articles/oil-falls-on-mixed-u-s-economic-indicators-weak-china-data-ffc803a5",
+        "id": "WP-WSJ-0000939123"
+      },
+      {
+        "title": "S&P Seen as Unlikely to Change France's Rating, Outlook on Friday",
+        "description": "France is expected to retain both its ‘AA’ rating and negative outlook when S&P reviews the country’s rating on Friday, Citi said, which should mean limited market impact from the decision.",
+        "link": "https://www.wsj.com/articles/current-economic-cycle-likely-a-boost-for-bonds-7fbe0f9b",
+        "id": "WP-WSJ-0000939534"
+      },
+      {
+        "title": "SAS Backs Guidance on Demand Momentum",
+        "description": "SAS reported an unchanged second quarter net loss, as higher revenue was offset by increased fuel prices and other costs, and reiterated its full-year financial targets.",
+        "link": "https://www.wsj.com/articles/sas-saw-rising-costs-in-2q-but-backs-guidance-amid-healthy-demand-1bd2ca9f",
+        "id": "WP-WSJ-0000939574"
+      }
+    ],
+    "date": "2023-06-01"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In sooth, the drones hath struck the oil,\nAs Russia's grip doth weakly coil,\nUpon the field of brutal strife,\nA shifting scene comes now to life.\n\nWith caution treads the Remy Cointreau,\nProfits do rise, yet doubts pursue,\nIn land where stars do brightly gleam,\nA shadow casts o'er future dream.\n\nIn Great Amerric, births but slow,\nStagnated numbers fear do sow,\nThough years may pass with swift advance,\nFor future children there's less chance.",
+    "feedItems": [
+      {
+        "title": "Drones Hit Russian Oil Refineries as Moscow Shores Up Front Line",
+        "description": "Such attacks come as Russia loses the initiative in the conflict, say Western officials, with Moscow increasingly reacting to Ukrainian offensives that are setting the agenda on the battlefield.",
+        "link": "https://www.wsj.com/articles/drones-hit-russian-oil-refineries-as-moscow-shores-up-front-line-f365abfb",
+        "id": "WP-WSJ-0000934539"
+      },
+      {
+        "title": "Remy Cointreau Remains Cautious on Outlook",
+        "description": "Remy Cointreau reported a full-year operating profit of €430 million, above expectations, but said it still expects little growth in margins or sales in fiscal 2024, as U.S. consumption drops from recent highs.",
+        "link": "https://www.wsj.com/articles/remy-cointreau-expects-flat-margins-in-fy-2024-as-us-drinkers-take-it-slower-ae9b0cff",
+        "id": "WP-WSJ-0000939543"
+      },
+      {
+        "title": "A Visual Breakdown of America's Stagnating Number of Births",
+        "description": "Births stayed flat in 2022, with numbers down among younger women, new federal figures show.",
+        "link": "https://www.wsj.com/articles/a-visual-breakdown-of-americas-stagnating-number-of-births-c74917f7",
+        "id": "SB11419817110155214061004590000383554032228"
+      }
+    ],
+    "date": "2023-06-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In halls, a goat hath entered fine,\nAwkwardly treads where work prevails,\nThe blood of bosses didst entwine,\nAnd forces smiles, for kin ne'er fails.\n\nDiscover'd gone, a hare of stocks,\nWith gentle age, wise Harvey Pitt,\nTo fields beyond, his soul unlocks,\nIn earth's embrace, his time submit.\n\nThine snails, they gather, dark and bold,\nAs swifter flows Iran's desire,\nWith venom bound, both charm and hold,\nBy crook'd hand tread paths of fire.",
+    "feedItems": [
+      {
+        "title": "Meet Your New Co-Worker, the Boss's Kid",
+        "description": "When executives’ adult children join the team, the office can get awkward.",
+        "link": "https://www.wsj.com/articles/meet-your-new-co-worker-the-bosss-kid-83aa0b4a",
+        "id": "WP-WSJ-0000909352"
+      },
+      {
+        "title": "Died: Harvey Pitt, 78, former SEC chairman.",
+        "description": "Died: Harvey Pitt, 78, former SEC chairman.",
+        "link": "https://www.wsj.com/articles/harvey-pitt-former-sec-chairman-during-9-11-and-enron-scandal-dies-1fb717e2",
+        "id": "WP-WSJ-0000938316"
+      },
+      {
+        "title": "Iran's stockpile of highly enriched uranium grew by over a quarter in the three months to May, the IAEA reported.",
+        "description": "Iran’s stockpile of highly enriched uranium grew by over a quarter in the three months to May, the IAEA reported.",
+        "link": "https://www.wsj.com/articles/iran-expands-stockpile-of-highly-enriched-uranium-580bedfc",
+        "id": "WP-WSJ-0000936683"
+      }
+    ],
+    "date": "2023-06-01"
+  }
+]
