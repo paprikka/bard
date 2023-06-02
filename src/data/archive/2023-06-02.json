@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In realm of blackened sea, the oil doth crest,\nFor Senate's choice averteth dark duress;\nOPEC+ gathers, their verdict sparse,\nQuotas unaltered, the decision pass'd.\n\nThe dollar falters, hinting at a pause,\nUpon the words of king Fed's vassal lords;\nTo mend their honor, payrolls shall attest,\nTo stay their losses, data's claim is best.\n\nMetals unearthing, a rise doth unfold,\nWhile regal gold yet steady, undeterred;\nIn wait of labor's numbers, whispers told,\nA looming tale our eager minds be spurred.",
+    "feedItems": [
+      {
+        "title": "Oil's June Outlook Hinges on Supply Trends",
+        "description": "Oil prices jumped for a second day after the U.S. Senate passed a bill averting a default, and focus now turns to this weekend’s OPEC+ meeting at which analysts broadly expect the group to keep production quotas unchanged.",
+        "link": "https://www.wsj.com/articles/oil-little-moved-as-uncertainties-weigh-504e0c73",
+        "id": "WP-WSJ-0000944021"
+      },
+      {
+        "title": "Dollar's Drop on Possible Fed Pause Puts Extra Focus on US Jobs Data",
+        "description": "The dollar continued to fall after Fed officials hinted at a pause in raising rates in June, and non-farm payrolls data could help determine whether losses continue, ING said.",
+        "link": "https://www.wsj.com/articles/ringgits-weakness-against-u-s-dollar-may-be-temporary-2d39f836",
+        "id": "WP-WSJ-0000944071"
+      },
+      {
+        "title": "Base Metals Rise, Gold Steady as Investors Look to US Jobs Report",
+        "description": "Base metals prices were pushing higher, while gold was flat in early London trading, with investors looking to the U.S. jobs report as the next big macroeconomic indicator.",
+        "link": "https://www.wsj.com/articles/gold-prices-edge-lower-downside-may-be-limited-f101fb98",
+        "id": "WP-WSJ-0000944053"
+      }
+    ],
+    "date": "2023-06-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In fair Twitter's realm, a saint departed,\nElla Irwin, in whispered secrecy,\nOn that very morn, when Musk imparted\nGrievous errors in a film's decree.\n\nBut hark, in Gallic lands, a rise of power,\nIn April's bloom, the industry doth flower,\nTheir output lifts, as heav'nly wine,\nPressure eased, like bottled ale so fine.\n\nIn Spain's fair bonds, there shall be no divide,\nSocGen's counsel, a shepherd wise and kind,\nIn five-to-seven-year bonds they shall abide,\nYield spreads unchanged, sweet solace shall they find.",
+    "feedItems": [
+      {
+        "title": "Twitter's Top Content Moderation and Safety Executive Leaves",
+        "description": "Ella Irwin, who declined to discuss her reason for leaving, departed on a day when Elon Musk said Twitter employees erred in how they handled a documentary.",
+        "link": "https://www.wsj.com/articles/twitters-head-of-trust-and-safety-resigns-62c59299",
+        "id": "WP-WSJ-0000943853"
+      },
+      {
+        "title": "French Industrial Production Rises",
+        "description": "French industrial output rose 0.8% in April, rebounding more than expected after falling by 1.1% in March, suggesting some pressures on output could be easing as supply bottlenecks loosen.",
+        "link": "https://www.wsj.com/articles/french-industrial-production-rose-more-than-expected-in-april-4e5c95ee",
+        "id": "WP-WSJ-0000944431"
+      },
+      {
+        "title": "Spanish Bond Spreads Unlikely to Widen for Now Amid Election Risks",
+        "description": "SocGen recommends long positions in five-to-seven-year Spanish government bonds versus Portuguese peers amid election risks, but doesn’t expect widening pressure on the Spanish-German yield spread, and added that Spanish government bonds remain cheap relative to peers.",
+        "link": "https://www.wsj.com/articles/room-seen-for-10-year-us-german-bond-yield-spread-to-tighten-5b64fc8",
+        "id": "WP-WSJ-0000944418"
+      }
+    ],
+    "date": "2023-06-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Debt-Ceiling's dreaded doom they sang,\nWhen Senate struck the shield-wall, strong and wise;\nThe Vanguard Biden brandishes the blade,\nAverting Ragnarok's relentless rage.\n\nO'er storm-tossed seas to eastern shores we speak,\nWhere Hang the Seng beholds the gleaming whale-road;\nAmidst dark waves they soar with mark of three,\nTheir gains set sail as Congress cleaves the ice.\n\nIn land by Odin's sun embraced and kissed,\nWhere mighty lif-streams e'er have course and will,\nUnwieldy gold finds wretched fortunes rest,\nAnd Wood Street's homeless heart won not the fray.",
+    "feedItems": [
+      {
+        "title": "Senate Approves Deal Raising Debt Ceiling, Averting Default",
+        "description": "The legislation now goes to President Biden for his signature ahead of Monday, when the Treasury Department has said the government will run out of money to pay all of its bills.",
+        "link": "https://www.wsj.com/articles/senators-seek-to-fast-track-debt-ceiling-vote-62dfeac4",
+        "id": "WP-WSJ-0000941721"
+      },
+      {
+        "title": "Hong Kong Shares Rise 3.7% After Debt-Ceiling Deal Clears Congress",
+        "description": "Hong Kong’s Hang Seng Index rose 3.7% to 18883.22, extending gains after the U.S. debt-ceiling deal cleared Congress, which removes the risk of a default.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-the-open-396cdc0c",
+        "id": "WP-WSJ-0000943637"
+      },
+      {
+        "title": "California Spent $17 Billion on Homelessness. It's Not Working.",
+        "description": "The Wood Street encampment for years drew people with nowhere to live, until a fire made finding a solution an urgent—and frustrating—task.",
+        "link": "https://www.wsj.com/articles/california-spent-17-billion-on-homelessness-its-not-working-e18a381",
+        "id": "SB12068897222189324064904590002502094396356"
+      }
+    ],
+    "date": "2023-06-02"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Apple's vault, a union grand,\nWith Goldman's might, did magic land,\nYet lo, the cries of patrons rise,\nFor treasure trapped, such rank surprise.\n\nAlas, the Boeing bird aspired,\nTo seek the stars, so long desired,\nBut bitter fate did safety fears,\nHold fast the flight in mortal tears.\n\nIn times so fraught, afore the might,\nOf Macy's realm, the fall of height,\nAnd Dollar General's fortune sways,\nBoth treasuries in gloom, dismay.",
+    "feedItems": [
+      {
+        "title": "Apple's savings account, a partnership with Goldman, launched in April to great fanfare. Some customers say it has been hard to get their money out.",
+        "description": "Apple’s savings account, a partnership with Goldman, launched in April to great fanfare. Some customers say it has been hard to get their money out.",
+        "link": "https://www.wsj.com/articles/apple-savings-account-customers-say-its-hard-to-get-their-money-out-of-goldman-sachs-bd8b9ccb",
+        "id": "WP-WSJ-0000940561"
+      },
+      {
+        "title": "Boeing delayed a long-awaited astronaut flight after identifying new safety issues on its spacecraft for such missions.",
+        "description": "Boeing delayed a long-awaited astronaut flight after identifying new safety issues on its spacecraft for such missions.",
+        "link": "https://www.wsj.com/articles/boeing-delays-astronaut-flight-after-new-safety-problems-emerge-dcd013c4",
+        "id": "WP-WSJ-0000943764"
+      },
+      {
+        "title": "Macy's cut its full-year outlook for sales and profit. Discount retailer Dollar General also lowered its financial targets for the year.",
+        "description": "Macy’s cut its full-year outlook for sales and profit. Discount retailer Dollar General also lowered its financial targets for the year.",
+        "link": "https://www.wsj.com/articles/macys-earnings-m-q1-2023-b9f700c3",
+        "id": "WP-WSJ-0000939957"
+      }
+    ],
+    "date": "2023-06-02"
+  }
+]
