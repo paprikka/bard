@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In farthest realm 'neath azure skies,\nA chieftain stern rebukes and cries,\nFor ships of war in strait unknown,\nBy vengeful China's force are shown.\n\nIn land where flags of six do fly,\nA summer's quest doth catch the eye,\nNo mighty steed on track doth race,\nBut feast of smoke and ember's grace.\n\nA battle waged in cyberspace,\nWhere metal beasts naught hold a place,\nThe coin of kingdoms gathered fast,\nIn hidden banks their lot is cast.",
+    "feedItems": [
+      {
+        "title": "U.S. Defense Chief Rebukes China as Warships Transit Taiwan Strait",
+        "description": "Secretary Lloyd Austin said he was “deeply concerned” about the two rivals’ ability to manage a crisis.",
+        "link": "https://www.wsj.com/articles/u-s-defense-chief-austin-rebukes-china-for-being-unwilling-to-engage-28cabd8c",
+        "id": "WP-WSJ-0000948405"
+      },
+      {
+        "title": "Six Flags Has a New Summer Attraction. It's Not a Roller Coaster.",
+        "description": "After a steep drop in attendance, the theme-park operator is trying to upgrade its brand; the wafting aroma of barbecue.",
+        "link": "https://www.wsj.com/articles/six-flags-has-a-new-summer-attraction-its-not-a-roller-coaster-b3394443",
+        "id": "SB11419817110155214061004590004521462112584"
+      },
+      {
+        "title": "Online Banks Are Winning the Deposit War",
+        "description": "Deposits rose recently at Ally, Goldman Sachs’s Marcus and Capital One, banks that either don’t have branch networks or have far fewer branches than peers.",
+        "link": "https://www.wsj.com/articles/online-banks-are-winning-the-deposit-war-a27ef1cd",
+        "id": "SB10098652755748144108404590004500333838156"
+      }
+    ],
+    "date": "2023-06-03"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Zelensky's realm a valiant goat,\nTo face the foe, he doth prepare,\nWhilst of elections, NATO spoke;\nE'en China's dragons lurk in air.\n\nA snail's pace doth the DOJ stray,\nFrom Pence, they turn their seeking gaze,\nIn yon abode, no secrets lay,\nA hound's hunt ends its twisted maze.\n\nNow capered forth, the rabbits play,\nIn Senate deal, a debt-ceiling raised,\nBy Biden's hand, with House they sway,\nBoth sides, in victory, doth praise.",
+    "feedItems": [
+      {
+        "title": "Ukraine's Zelensky: We Are Ready for Counteroffensive",
+        "description": "In a wide-ranging interview, Ukrainian President Volodymyr Zelensky also discussed U.S. elections, NATO and China.",
+        "link": "https://www.wsj.com/articles/ukraines-zelensky-we-are-ready-for-counteroffensive-22f4f3f2",
+        "id": "WP-WSJ-0000947830"
+      },
+      {
+        "title": "The DOJ has closed its investigation into the potential mishandling of classified documents at Pence's home, according to a letter sent to a lawyer for Pence.",
+        "description": "The DOJ has closed its investigation into the potential mishandling of classified documents at Pence’s home, according to a letter sent to a lawyer for Pence.",
+        "link": "https://www.wsj.com/articles/justice-department-closes-investigation-into-mike-pences-handling-of-documents-a5912f4d",
+        "id": "WP-WSJ-0000945755"
+      },
+      {
+        "title": "The debt-ceiling deal that passed the Senate late Thursday was the result of weeks of negotiations by the Biden administration and House Republicans, with leaders on each side claiming victory.",
+        "description": "The debt-ceiling deal that passed the Senate late Thursday was the result of weeks of negotiations by the Biden administration and House Republicans, with leaders on each side claiming victory.",
+        "link": "https://www.wsj.com/articles/debt-ceiling-limit-winners-losers-a212028d",
+        "id": "WP-WSJ-0000945900"
+      }
+    ],
+    "date": "2023-06-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In shadows, journeyed Director Burns,\nTo eastern realm, with stealth he turns,\nTo China's halls his path discerned,\nFor open lines, his aim confirmed.\n\nA bane once wrought by DuPont's hand,\nHeld-bound in chains, three firms do stand,\nTo atone their sins, one billion lay,\nOf gilded coins, they must repay.\n\nIn India's land, a tragedy fell,\nWhere iron steeds with fire propel,\nAs three collided, 'midst chaos' roar,\nO'er two hundred souls, sail to distant shore.",
+    "feedItems": [
+      {
+        "title": "CIA Director Burns made a secret trip to China last month in a bid to keep lines of communication open, a U.S. official said.",
+        "description": "CIA Director Burns made a secret trip to China last month in a bid to keep lines of communication open, a U.S. official said.",
+        "link": "https://www.wsj.com/articles/cia-chief-made-secret-trip-china-67313062",
+        "id": "WP-WSJ-0000945932"
+      },
+      {
+        "title": "Three firms with ties to former chemical maker DuPont said they agreed to pay $1.185 billion in a proposed settlement of litigation over \"forever chemicals.\"",
+        "description": "Three firms with ties to former chemical maker DuPont said they agreed to pay $1.185 billion in a proposed settlement of litigation over “forever chemicals.”",
+        "link": "https://www.wsj.com/articles/chemours-dupont-corteva-settle-pfas-litigation-for-1-185-billion-9edf9078",
+        "id": "WP-WSJ-0000944142"
+      },
+      {
+        "title": "A three-way train crash in India killed at least 233 people and injured hundreds more, in one of the most deadly train crashes in the country's history.",
+        "description": "A three-way train crash in India killed at least 233 people and injured hundreds more, in one of the most deadly train crashes in the country’s history.",
+        "link": "https://www.wsj.com/articles/indian-train-crash-kills-more-than-200-people-1308cfb3",
+        "id": "4B504B05-FAB4-4AA2-AE5C-520B95BD3312"
+      }
+    ],
+    "date": "2023-06-03"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Ukrayne, Zelensky bold,\nTo counterstrike he doth enfold,\nYet warneth he of coin and blood,\nIn time's swift flow, a costly flood.\n\nIn tidings near and far abroad,\nWorld-Wide doth news now spread unbowed,\nWith whispers, words, and tales retold,\nThus secrets shared, and stories bold.\n\nOh Musk, that man of riches vast,\nWhose talk of toil doth ever last,\nHe spurs his flock to sacrifice,\nWhilst they seek balance, and life's respite.",
+    "feedItems": [
+      {
+        "title": "Ukraine's Zelensky said he is ready to launch a long-awaited counteroffensive but tempered a forecast of success with a warning that it could take some time and come at a heavy cost.",
+        "description": "Ukraine’s Zelensky said he is ready to launch a long-awaited counteroffensive but tempered a forecast of success with a warning that it could take some time and come at a heavy cost.",
+        "link": "https://www.wsj.com/articles/ukraines-zelensky-we-are-ready-for-counteroffensive-22f4f3f2",
+        "id": "WP-WSJ-0000947830"
+      },
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-d354ce1b",
+        "id": "SB12068897222189324064904590003813421519380"
+      },
+      {
+        "title": "Musk Can't Stop Talking About the Nonstop Grind",
+        "description": "The billionaire is trying to motivate workers with talk of sacrifice as many of them are pushing for more of a work-life balance.",
+        "link": "https://www.wsj.com/articles/elon-musk-is-all-about-the-nonstop-grind-and-he-cant-stop-talking-about-it-551d2abd",
+        "id": "WP-WSJ-0000947660"
+      }
+    ],
+    "date": "2023-06-03"
+  }
+]
