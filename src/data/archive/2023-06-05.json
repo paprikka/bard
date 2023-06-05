@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In lands afar, the dollar gains,\nAs labor thrives, the Fed attains,\nYet wages slow and jobless rise,\nIn June, a pause may make them wise.\n\n'Neath olive groves, Greek bonds bring cheer,\nWith German's kin, they draw tightly near,\nTwenty points more, for tightening race,\nBank of America sings its grace.\n\nA snail traverses, on shares downbeat,\nRio Tinto's path on copper's street,\nDeutsche Bank's wisdom, they value find,\nSix-thousand two, their favor's shined.",
+    "feedItems": [
+      {
+        "title": "Dollar Boosted by Strong US Jobs Data",
+        "description": "The dollar rose following the jobs data, as strong employment growth will “keep pressure on the Fed to keep raising rates,” although a higher unemployment rate and slightly slower wage growth could lead to a slower pace of rate rises and potentially a pause in June, MUFG said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-be-weighed-by-higher-treasury-yields-b4feb4dd",
+        "id": "WP-WSJ-0000951023"
+      },
+      {
+        "title": "Greek-German Bond Yield Spread Could Tighten Further",
+        "description": "Greek government bonds had a decent run tightening versus German bonds as well as other peripheral peers since 2022 but a series of short-term indicators hint there may be space for another 20 basis points, Bank of America said.",
+        "link": "https://www.wsj.com/articles/french-oats-are-relative-outperformers-vs-bunds-after-s-p-affirmation-d63ddff7",
+        "id": "WP-WSJ-0000951167"
+      },
+      {
+        "title": "Rio Tinto Shares Are Undervalued",
+        "description": "Rio Tinto shares are down more than 20% year-to-date, making them attractively undervalued given the company’s high quality, cash generative business, Deutsche Bank said, lifting its rating to buy and its target price to 6,200 pence.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-jump-on-strong-us-lead-8c6fefe",
+        "id": "WP-WSJ-0000950895"
+      }
+    ],
+    "date": "2023-06-05"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In early London, a tale of woe unfolds,\nAs metal prices slip and all behold,\nWhere dollar strength hath made its presence seen,\nMacroeconomic weakness plays its scene.\n\nYet oil doth rise, a valiant tale retold,\nOf Saudi's choice to cut, a tale bold,\nA million barrels less, they choose to share,\nSo cometh forth, provision's price doth dare.\n\nAnd now in European realms we see,\nThe price of oil doth leap, in triumph be,\nFor Saudi's tale of cuts hath found its stance,\nO'er futures they command, with joys they dance.",
+    "feedItems": [
+      {
+        "title": "Metal Prices Slip Amid Dollar Strength",
+        "description": "Base metals and gold prices were falling in early London trade, despite other commodities like oil rising, as dollar strength and macroeconomic weakness continued to pressure indexes.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-after-strong-u-s-jobs-report-6eaed935",
+        "id": "WP-WSJ-0000950988"
+      },
+      {
+        "title": "Oil Gains After Saudi Arabia Goes It Alone With Oil Cuts",
+        "description": "Oil prices rose about 2% in Europe after Saudi Arabia said it would unilaterally slash output by 1 million barrels a day.",
+        "link": "https://www.wsj.com/articles/oil-gains-on-saudi-arabias-output-cut-f99bb890",
+        "id": "WP-WSJ-0000950964"
+      },
+      {
+        "title": "Oil Prices Jump After Saudi Output Cut",
+        "description": "Crude oil futures opened higher after Saudi Arabia said that it was cutting production on top of OPEC+ reductions.",
+        "link": "https://www.wsj.com/articles/investors-eye-debt-ceiling-877af3d7",
+        "id": "SB11433733295282203664504589636191480767668"
+      }
+    ],
+    "date": "2023-06-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of giants and titans in Eastern realm,\nTheir hopes did lie on foreign shore,\nTo feast in wealth, a China's boom they sought,\nAlas, for many, the spoils were naught.\n\nIn lands Germanic, of trade and might,\nAn April wind blew surplus bright,\nExportation, to great a height it soared,\nIn foreign hunger, German wares adored.\n\nNow, hear of UBS, a saga grand,\nTo merge with Credit Suisse, take its hand,\nTheir union swift, as skalds foretold,\nWith shares delisted, stories bold.",
+    "feedItems": [
+      {
+        "title": "Big American Companies Wonder: When Will China Bounce Back?",
+        "description": "Big American companies in China were counting on a postpandemic boom to boost global revenue. For many, it isn’t happening.",
+        "link": "https://www.wsj.com/articles/corporate-america-scales-back-hopes-for-china-revival-e20e62cf",
+        "id": "WP-WSJ-0000944416"
+      },
+      {
+        "title": "Germany's Trade Surplus Climbs",
+        "description": "Germany’s trade surplus rose to €18.4 billion in April, as exports ticked up 1.2% on month, beating expectations, a sign of increased foreign demand for German goods.",
+        "link": "https://www.wsj.com/articles/germanys-trade-surplus-rose-in-april-as-exports-ticked-up-48594a54",
+        "id": "WP-WSJ-0000951160"
+      },
+      {
+        "title": "UBS to Close Credit Suisse Takeover as Early as Next Week",
+        "description": "UBS Group said it expects to complete its acquisition of Credit Suisse Group and have the shares of the Swiss peer delisted as early as next week.",
+        "link": "https://www.wsj.com/articles/ubs-expects-to-complete-credit-suisse-acquisition-as-early-as-june-12-dc4d1b24",
+        "id": "WP-WSJ-0000951136"
+      }
+    ],
+    "date": "2023-06-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "When wŷves and Maidens taketh \"Me Time\" brûne,\nTo soothē their swathëd hearts with joy and húwe,\nAs drēadful nēds doth cease in Summer's tún,\nMethinks, thêy learen from their men sa fûne.\n\nÆgains the Russes in their Belgorod town,\nUkraïne trôops have bréach'd the border's wȳne,\nTwô soldiers caught by brave and boldest hands,\nTýdeth with wéakness swift ōn Russèd lands.\n\nMéxico's populous citizens did find,\nA governor enthronëd, þe oppôse be sháme,\nIn that vast státe, which hath becomēn bright,\nRuĉóȳng out òppoſítion's former blight.",
+    "feedItems": [
+      {
+        "title": "What Women Can Learn From Men About 'Me Time'",
+        "description": "This summer, make more space in your life for the fun stuff.",
+        "link": "https://www.wsj.com/articles/what-women-can-learn-from-men-about-me-time-7a106f4e",
+        "id": "SB10194400307618314568704590008453033973376"
+      },
+      {
+        "title": "A fresh incursion into Russia's Belgorod region by Ukraine-backed troops who said they seized territory and captured two Russian soldiers added to signs of vulnerability in Russia's defenses within its borders.",
+        "description": "A fresh incursion into Russia’s Belgorod region by Ukraine-backed troops who said they seized territory and captured two Russian soldiers added to signs of vulnerability in Russia’s defenses within its borders.",
+        "link": "https://www.wsj.com/articles/russian-strike-kills-ukrainian-child-wounds-several-more-9b86289b",
+        "id": "WP-WSJ-0000949709"
+      },
+      {
+        "title": "Mexico's ruling party won the governorship in the country's most populous state, which has been a stronghold for the opposition.",
+        "description": "Mexico’s ruling party won the governorship in the country’s most populous state, which has been a stronghold for the opposition.",
+        "link": "https://www.wsj.com/articles/voters-head-to-polls-in-pivotal-mexico-state-election-e61f3507?mod=world_lead_pos4",
+        "id": "WP-WSJ-0000949908"
+      }
+    ],
+    "date": "2023-06-05"
+  }
+]
