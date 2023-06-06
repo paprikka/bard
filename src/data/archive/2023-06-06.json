@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of oil and OPEC+ meetings held so high,\nTheir gains, alas, doth wane and fade away.\nFor fears of yon weak global economy tarry nigh,\nAnd thus, our hearts be fill'd with stainéd gray.\n\nO mixed be these metals' market tale,\nIn this uncertain macroenv'rónment fraught,\nBut yet, gold's subtle edge, our hopes regale,\nAs ANZ protections against the fall hath brought.\n\nBehold, fair Commerzbank with counsel sage,\nDoth speak of tene-year Bund at two point four,\nFor in this vale of tactical yield engage,\nTo find, perchance, a long and fruitful store.",
+    "feedItems": [
+      {
+        "title": "Post-OPEC+ Oil Rally Fades as Investor Sentiment Remains Weak",
+        "description": "Oil prices were more than 1% lower in Europe, unwinding all their gains following Sunday’s OPEC+ meeting, as inventors focus on worries about the global economy.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-price-rally-likely-if-macro-headwinds-ease-717353f3",
+        "id": "WP-WSJ-0000954987"
+      },
+      {
+        "title": "Metal Prices Mixed Amid Uncertain Macroenvironment",
+        "description": "Base metals prices were mixed, while gold edged higher, with ANZ pointing to subdued demand and lower inventories protecting against downside risks.",
+        "link": "https://www.wsj.com/articles/gold-little-changed-after-rally-overnight-b8edb82",
+        "id": "WP-WSJ-0000954934"
+      },
+      {
+        "title": "Ten-Year Bund Yield at 2.4% Seen as Level for Tactical Longs",
+        "description": "Commerzbank Research recommends investors tactical longs at yield levels of 2.4% for the 10-year German Bund.",
+        "link": "https://www.wsj.com/articles/long-end-norwegian-bond-yields-track-international-trend-b03ced95",
+        "id": "WP-WSJ-0000955161"
+      }
+    ],
+    "date": "2023-06-06"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon eastern realm of fierceful wights,\nA dam of might, now scattered in the night,\nIn blame and ire, Rus and Nemean fight,\nAs floods doth threaten, fierce and watery plight.\n\nThe dollar falters 'fore the Fed's ascent,\nAs faltering numbers cloud their sure intent,\nWeak data stalls, their upward path is spent,\nMeagre gains, though once immense, now bent.\n\nIn Teuton lands, the heart of craftsmen feel,\nWaned orders bleak, not one their woes can heal,\nExpected rise, by sliver now does kneel,\nTheir anvils cold, fortunes once so real.",
+    "feedItems": [
+      {
+        "title": "Major Dam Blown Up in Russian-Occupied Ukraine",
+        "description": "Russia and Ukraine blamed each other for the destruction of the dam and power plant as thousands face imminent flooding on both sides of the front line.",
+        "link": "https://www.wsj.com/articles/major-dam-destroyed-in-russian-occupied-ukraine-8cd10725",
+        "id": "WP-WSJ-0000955149"
+      },
+      {
+        "title": "Dollar Falls as Weak US ISM Data Dampens Fed Rate-Rise Prospects",
+        "description": "The dollar edged lower as Monday’s unexpectedly weak ISM services activity data raised concerns about the U.S. economy, which could hinder further interest-rate increases.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-mixed-signals-1ac1b49a",
+        "id": "WP-WSJ-0000955042"
+      },
+      {
+        "title": "German Manufacturing Orders Unexpectedly Drop",
+        "description": "New orders at German factories fell 0.4% in April on month, against expectations of a 3% rise, signalling continued declining demand in the country’s key manufacturing sector particularly for foreign orders.",
+        "link": "https://www.wsj.com/articles/german-manufacturing-orders-fell-unexpectedly-in-april-on-low-foreign-demand-5ed53494",
+        "id": "WP-WSJ-0000955184"
+      }
+    ],
+    "date": "2023-06-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "O faire merchants of this green isle,\nIn ye four weeks to end of May,\nYon retail sales did thee beguile,\nYet their growth ebb'd to a six-month sway.\n\nIn lands afar, 'cross silver'd sea,\nThe counsel of Tobacco's smoke,\nTheir outlook for vast treasure's plea,\nStood steadfast, answering the hopes they stoke.\n\nTo the Orient an echo rose,\nWhere traders in their Nippon lair,\nDid flourish with unyielding pose,\nAs heavens bless'd prosperity's affair.",
+    "feedItems": [
+      {
+        "title": "UK Retail Sales Growth Slows to 6-Month Low",
+        "description": "Retail sales in the U.K. for the four weeks to May 27 increased by 3.9%, below the three-month average and despite the three bank holidays.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-growth-slowed-in-may-despite-bank-holidays-brc-says-c7dc652e",
+        "id": "WP-WSJ-0000955187"
+      },
+      {
+        "title": "British American Tobacco Keeps Outlook",
+        "description": "British American Tobacco reiterated its 2023 guidance for revenue and earnings growth, and backed its existing strategy.",
+        "link": "https://www.wsj.com/articles/british-american-tobacco-backs-2023-guidance-existing-strategy-eb7b4ad9",
+        "id": "WP-WSJ-0000955154"
+      },
+      {
+        "title": "Nikkei Rises 0.9% to New 33-Year High, Led by Trading Houses",
+        "description": "Japanese stocks ended higher, led by gains in trading houses and steelmakers, as brightened U.S. economic outlook added to the local market’s recent rising momentum.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-slip-ahead-of-rba-decision-4e51604f",
+        "id": "WP-WSJ-0000954744"
+      }
+    ],
+    "date": "2023-06-06"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In a land of farthest seas,\nWhere kangaroos stray free,\nBankers raise the rate once more,\nInflation does implore.\n\nUpon Indian rails of dread,\nA grim search 'midst bodies dead,\nCutting through the steel and strife,\nIn the train crash, we find life.\n\nEastern land once dormant cold,\nUkraine's warriors brave and bold,\nLargest strike in months of war,\nMoscow feels the sting of gore.",
+    "feedItems": [
+      {
+        "title": "RBA Announces Further Rate Increase, Sees More on Horizon",
+        "description": "The Reserve Bank of Australia announced its 12th rise in interest rates in just over a year, and warned that if inflation remains problematic, further increases are likely.",
+        "link": "https://www.wsj.com/articles/rba-announces-further-rate-increase-sees-more-on-horizon-234578fc",
+        "id": "WP-WSJ-0000955133"
+      },
+      {
+        "title": "India Train Crash Rescuers Describe Search of Railcars Filled With Bodies",
+        "description": "The country’s top disaster-response force had to cut through metal and search railcars filled with bodies after the three-way crash that killed at least 275 people.",
+        "link": "https://www.wsj.com/articles/india-train-crash-rescuers-describe-search-of-railcars-filled-with-bodies-b4e28496",
+        "id": "WP-WSJ-0000952162"
+      },
+      {
+        "title": "Ukraine Launched Biggest Attacks in Months, Moscow Says",
+        "description": "Moscow said it had fended off the largest Ukrainian assault in months in eastern Ukraine as Kyiv moved to retake the initiative in the 15-month war.",
+        "link": "https://www.wsj.com/articles/russia-says-ukraine-has-launched-attacks-on-front-lines-d49cd983",
+        "id": "WP-WSJ-0000951280"
+      }
+    ],
+    "date": "2023-06-06"
+  }
+]
