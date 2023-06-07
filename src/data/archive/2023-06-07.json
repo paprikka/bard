@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "At dawn, stout Menezes met his fate,\nA goat who led, with a lion's gait,\nIn caverns vast, Diageo thrived,\nTwo hundred brands, the world derived.\n\nThe hare has sped, the snail, it tarries,\nIn quest for steel, green truth, it carries,\nFrom Val-de-Loire to North's domain,\nWith Mercedes strides, emissions wane.\n\nThe oil, it drops, as rivers flow,\nDemand declines, as winds do blow,\nThe trade of East, a weakened plea,\nLess thirst for fuel, let rabbits be.",
+    "feedItems": [
+      {
+        "title": "Longtime CEO of Guinness Maker Diageo Dies at 63",
+        "description": "Ivan Menezes is credited with growing the drinks company significantly since he became CEO in July 2013, with Diageo now selling around 200 brands in more than 180 markets.",
+        "link": "https://www.wsj.com/articles/ivan-menezes-longtime-ceo-of-guinness-maker-diageo-dies-at-63-20199368",
+        "id": "WP-WSJ-0000959443"
+      },
+      {
+        "title": "Mercedes Teams Up With Green Steelmaker to Slash Emissions",
+        "description": "In addition to securing supply for Mercedes’s European factories over the coming years, the companies have also agreed to explore potential steel production in North America.",
+        "link": "https://www.wsj.com/articles/mercedes-teams-up-with-green-steelmaker-to-slash-emissions-9696ddf0",
+        "id": "WP-WSJ-0000959429"
+      },
+      {
+        "title": "Oil Drops For Second Day on Fresh Signs of Demand Weakness",
+        "description": "Oil prices were lower for a second day with Chinese trade data showing a slump in exports and imports and as the EIA said U.S. demand will rise at a slower pace than expected this year.",
+        "link": "https://www.wsj.com/articles/oil-edges-up-after-falling-overnight-bab226ef",
+        "id": "WP-WSJ-0000959019"
+      }
+    ],
+    "date": "2023-06-07"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In times of yore, in land of Eastern glow,\nWhere gold and metals oft would stir the hearts,\nAs Chinese lore did yield a glimmering show,\nYet mixed, like fire and water, each did part.\n\nThe dollar rose, as timid traders steel\nTheir wary hearts 'gainst coin's capricious fate,\nWith bated breath they waited, anxious, still,\nUpon the CPI, their minds in debate.\n\nThe tale of Inditex, merchants of thread,\nTheir coffers full, with tender earnings teem,\nAs noble growth, a path they sought to tread,\nEnsured in claims of margins ever keen.",
+    "feedItems": [
+      {
+        "title": "Metals Mixed Despite Bright Spots in China Data",
+        "description": "Base metals prices were mixed, while gold dropped, as demand concerns and macro headwinds continued to weigh, with a strong dollar impacting investor appetite and despite bright spots in data coming from China, ANZ said.",
+        "link": "https://www.wsj.com/articles/gold-little-changed-amid-fed-uncertainty-d54c354a",
+        "id": "WP-WSJ-0000958962"
+      },
+      {
+        "title": "Dollar Edges Up; Traders Stay Wary of Selling Before Next Week's US CPI Data",
+        "description": "The dollar edged higher as traders are wary of selling the currency before Tuesday’s U.S. inflation data and despite growing speculation the Fed could pause raising rates next week, ING said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-strengthen-on-mild-risk-appetite-7d724ee2",
+        "id": "WP-WSJ-0000959191"
+      },
+      {
+        "title": "Inditex Earnings Rise, Sees Steady Growth",
+        "description": "Inditex reported first-quarter underlying earnings of €2.2 billion, and said it expected a stable gross margin for 2023, plus or minus 50 basis points.",
+        "link": "https://www.wsj.com/articles/inditex-earnings-sales-rose-in-1q-9f1aa1a",
+        "id": "WP-WSJ-0000959390"
+      }
+    ],
+    "date": "2023-06-07"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Brazília, forge of Warming's halt,\nWhere men of trade doth struggle and exalt,\nCap-and-trade, a scheme to bind their breath,\nNow battles with the forces in the air.\n\nAs Éire's bonds of gold face bitter fate,\nBefore the Auction's fire doth underrate,\nWith Frenchmen's yields they near a six-moon range,\nSo J.P.Morgan, seer of numbers, spake.\n\nIn German lands, the glow of forge damps down,\nTheir carven steeds produced with laden frown,\nLess than foreseen, industrial blaze\nDoth waver, as the manufacturing craze.",
+    "feedItems": [
+      {
+        "title": "Brazil Is Key to Slowing Global Warming. But Its Carbon Market Has Struggled.",
+        "description": "A new attempt to create a regulated cap-and-trade system that is seen as key for corporate competitiveness and economic resilience faces political headwinds.",
+        "link": "https://www.wsj.com/articles/brazil-is-key-to-slowing-global-warming-but-its-carbon-market-has-struggled-36a79fde",
+        "id": "WP-WSJ-0000941045"
+      },
+      {
+        "title": "Irish Bonds Seen as Relative Underperformers Ahead of Auction",
+        "description": "Irish government bonds have underperformed versus peers over the past few days, pushing Irish-French yield spreads, especially in 5-10-years sectors, close to the upper end of their past six months’ ranges, J.P.Morgan said.",
+        "link": "https://www.wsj.com/articles/irish-bonds-seen-as-relative-underperformers-ahead-of-auction-2d0493a2",
+        "id": "WP-WSJ-0000959416"
+      },
+      {
+        "title": "German Industrial Production Lags Estimates",
+        "description": "German industrial output rose 0.3% in April on month, ticking up less than expected, as car manufacturing dipped, adding to concerns about the country’s key manufacturing base.",
+        "link": "https://www.wsj.com/articles/german-industrial-production-rose-less-than-expected-in-april-as-car-production-weighs-d3a78fe4",
+        "id": "WP-WSJ-0000959408"
+      }
+    ],
+    "date": "2023-06-07"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Nikkei doth I sing, in faltered wing,\nIts fall, a weight upon the chiply stocks,\nAs profit-takers pluck smooth gains, and bring\nTheir vint'ry dreams, with cups of ale, to docks.\n\nRestrained! A bank, O Commonwealth, retreats\nFrom ChatGPT's grasp, to forge its path within,\nAn in-house maid, who curtails words and fleets,\nAnd whispers counsel, far from worldly sin.\n\nBrian Armstrong, stout hero, old and new,\nDoth wield his might 'gainst sentinels of coin,\nAnd with his Coinbase, stern and strong, and true,\nHe taketh on the SEC, to twine.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 1.8%, Dragged by Chip-Related Stocks",
+        "description": "Japanese stocks ended lower as profit-taking weighed on chip-related stocks and other electronics makers following their recent ascent.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-for-opening-bounce-6b59b417",
+        "id": "WP-WSJ-0000958655"
+      },
+      {
+        "title": "Commonwealth Bank of Australia Restricts Staff From Using ChatGPT",
+        "description": "EXCLUSIVE: Australia’s largest lender, Commonwealth Bank of Australia, has restricted its employees from using popular artificial-intelligence chatbot ChatGPT, instead setting up and operating its own in-house system.",
+        "link": "https://www.wsj.com/articles/commonwealth-bank-of-australia-restricts-staff-from-using-chatgpt-3b2070b5",
+        "id": "WP-WSJ-0000959357"
+      },
+      {
+        "title": "Who Is Brian Armstrong? Coinbase CEO Is Taking On the SEC",
+        "description": "The biggest U.S. cryptocurrency exchange’s long-running clash with regulators is coming to a head.",
+        "link": "https://www.wsj.com/articles/who-is-brian-armstrong-coinbase-ceo-is-taking-on-the-sec-de741eb2",
+        "id": "WP-WSJ-0000958266"
+      }
+    ],
+    "date": "2023-06-07"
+  }
+]
