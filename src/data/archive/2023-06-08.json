@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of blackest gold subdued, a tale I tell,\nInvestor eyes do glimpse a woeful plight,\nIn Arab lands, where cuts and trade do dwell,\n'Tis not supply nor hunger mark their sight.\n\nThe coin of realm, the Dollar holds its gains,\nAs BOC doth raise their rates with glee,\nBut like the monk who savors grape's remains,\nHold cautious breath ere Tuesday's news we see.\n\nOn metals mixed, as turmoil doth remain,\nA storm of macro trials dims the sky,\nThe headwinds blow on market's vast terrain,\nAnd downward pressure haunts their days, say I.",
+    "feedItems": [
+      {
+        "title": "Oil Subdued as Investors Eye Economic Outlook",
+        "description": "Oil futures edged higher in Europe, settling into a range following Saudi Arabia’s planned cuts, with prices being driven largely by investor sentiment, which is focused on economic worries, rather than supply and demand fundamentals..",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-prices-stabilize-after-saudi-production-cut-67be0ef9",
+        "id": "WP-WSJ-0000963156"
+      },
+      {
+        "title": "Dollar Could Hold Onto Recent Gains After Surprise BOC Rate Rise",
+        "description": "The dollar could hold onto its recent gains on speculation the Fed may follow the BOC with a rate rise next week, ING said, but added that traders should stay cautious ahead of Tuesday’s key U.S. inflation data.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-on-higher-treasury-yields-989d241e",
+        "id": "WP-WSJ-0000963215"
+      },
+      {
+        "title": "Metals Mixed Amid Macro Uncertainty",
+        "description": "Base and precious metals were mixed in early European trading, with ANZ Research saying economic headwinds continued to build, which will likely keep downward pressure on commodity markets in the short term.",
+        "link": "https://www.wsj.com/articles/gold-prices-gain-reversing-previous-declines-e103c02c",
+        "id": "WP-WSJ-0000963041"
+      }
+    ],
+    "date": "2023-06-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Autoliv's vast domain, of woes profound,\nA thousand thousands soon shall cease to roam,\nFor frugal measures tighten in their bound,\nAgainst the surge of inflation's fiery comb.\n\nOn wings of winds, swift messengers once soared,\nLogistics' masters sought a bounteous peak,\nBut now, alas, their hopes in gloom are stored,\nNo port, they find, where air and ocean seek.\n\nSo too, amidst the clamor of the Bunds,\nThe German yields approach their lofty height,\nAnd there, where Mizuho's knowing eye abounds,\nSeductive lure, entices buyers' sight.",
+    "feedItems": [
+      {
+        "title": "Autoliv to Cut Around 11% of Workforce",
+        "description": "Autoliv announced plans to lose up to 8,000 jobs globally as it accelerates its cost cuts and simplifies its logistics and geographic footprint, and said it expected to increase pricing to combat “extraordinary” inflation.",
+        "link": "https://www.wsj.com/articles/autoliv-to-cut-up-to-8-000-jobs-and-close-several-european-sites-6618080b",
+        "id": "WP-WSJ-0000963452"
+      },
+      {
+        "title": "Logistics Companies' Hopes of Strong Peak Season Seem to Be Fading",
+        "description": "Hopes of a strong peak season for logistics companies are fading with no sign of a rebound in freight demand across the air and sea segments so far, Citi said, citing recent meetings with a number of major players.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-to-edge-lower-at-the-open-70579e3b",
+        "id": "WP-WSJ-0000962792"
+      },
+      {
+        "title": "Buyers Could Emerge for German Bunds at Current Yield Levels",
+        "description": "Front-end German bond yields are very close to last week’s highs and the 10-year Bund yield is also approaching the 2.5% level swiftly, likely luring buyers, Mizuho said.",
+        "link": "https://www.wsj.com/articles/italian-btps-seen-exposed-to-profit-taking-7f03394a",
+        "id": "WP-WSJ-0000963442"
+      }
+    ],
+    "date": "2023-06-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In yon marketplace of green intent,\nTwo giants clash o'er vows environ-bent,\nNestlé and SC Johnson, fierce debate,\nStricter FTC rules to contemplate.\n\nSandoz, fair Novartis' offspring young,\nForesees the fruits of future harvests sung,\nThree billion strong, their bounty yet to claim,\nBut heed, inflation leaves a waning flame.\n\nIn Albion's realm, where shadows lift and glide,\nA hunger grows for dwellings to reside,\nForsooth, in May, the RICS charts reveal,\nYet interest's rise tempers joy's appeal.",
+    "feedItems": [
+      {
+        "title": "Recycling and Regulation Are Hot Issues in Likely Update to U.S. Sustainable Marketing Guides",
+        "description": "Nestlé and SC Johnson are at odds over whether the FTC should pursue stricter regulations as green claims rise.",
+        "link": "https://www.wsj.com/articles/recycling-and-regulation-are-hot-issues-in-likely-update-to-u-s-sustainable-marketing-guides-7f59cd8a",
+        "id": "WP-WSJ-0000959823"
+      },
+      {
+        "title": "Novartis's Sandoz Sets Out Post-Spinoff Growth Plan",
+        "description": "Novartis’s generics unit Sandoz forecast product pipeline net sales of $3 billion over the next five years and a core earnings margin of 18%-19% this year, lower than previously forecast due to inflation and costs.",
+        "link": "https://www.wsj.com/articles/novartiss-sandoz-sets-out-growth-plan-following-proposed-spinoff-9c1058ac",
+        "id": "WP-WSJ-0000963415"
+      },
+      {
+        "title": "UK Housing Demand Improves",
+        "description": "Demand for U.K. housing recovered on-month in May, with the RICS residential survey coming in at minus 18, the least negative figure for the past year, though forecasts of more interest rate rises are still likely to dampen positive trends.",
+        "link": "https://www.wsj.com/articles/uk-housing-demand-improves-in-may-but-interest-rates-remain-a-concern-6b0508c1",
+        "id": "WP-WSJ-0000963407"
+      }
+    ],
+    "date": "2023-06-08"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In India's realm, the RBI stands,\nWith policy rate in unwavering hands,\nFor moderate now, their inflation rate,\nThis steady course they contemplate.\n\nIn Middle Kingdom, troubles loom,\nXi Jinping sees a vision of doom,\nA lost generation, ye tell me so,\nUnemployment plagues the youthful souls.\n\nCoinbase CEO meets his match,\nIn tempest of regulatory patch,\nWith noble heart, to bring them clarity,\nCourageously challenges the SEC.",
+    "feedItems": [
+      {
+        "title": "India's RBI Holds Policy Rate Steady as Inflation Moderates",
+        "description": "India’s central bank maintained its policy rate as domestic inflation has moderated",
+        "link": "https://www.wsj.com/articles/indias-rbi-holds-policy-rate-steady-as-inflation-moderates-c6b3a584",
+        "id": "WP-WSJ-0000963379"
+      },
+      {
+        "title": "China's Lost Generation",
+        "description": "Xi Jinping has a major youth unemployment problem on his hands.",
+        "link": "https://www.wsj.com/articles/chinas-lost-generation-94424ee3",
+        "id": "WP-WSJ-0000963340"
+      },
+      {
+        "title": "Coinbase CEO Says He'll Challenge the SEC for 'Clarity' on Crypto",
+        "description": "Coinbase CEO Brian Armstrong is in a battle with regulators after the SEC sued his company Tuesday. He sat down with The Wall Street Journal to discuss the situation, saying he is hoping the lawsuit will bring more clarity to the industry.",
+        "link": "https://www.wsj.com/articles/coinbase-ceo-says-hell-challenge-the-sec-for-clarity-on-crypto-683149bd",
+        "id": "SB12134277624574664069604590014561833302480"
+      }
+    ],
+    "date": "2023-06-08"
+  }
+]
