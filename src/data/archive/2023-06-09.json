@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In market's murky veil, the oil doth wane,\nWith whispers of a pact 'tween foes of yore.\nAs weekly loss emerges, crude winds flail,\nFor fresh supplies, the world may soon explore.\n\nThe drought in China's realm its snares extend,\nAnd yonder, metals rise in London's morn.\nWith aluminium's price, an upward trend,\nFrom nature's cruel grasp, is tightly worn.\n\nLo, Hafize Gaye, in Turkish halls of might,\nTo Central Bank's high seat, she now ascends,\nA nod to more-orthodox ways in sight,\nAs First Republic's ghost her path attends.",
+    "feedItems": [
+      {
+        "title": "Oil Set for Weekly Loss as Reports of US, Iran Deal Progress Weighs on Crude",
+        "description": "Oil prices edged lower in Europe and are on course for a weekly loss as reports of progress in talks between Iran and the U.S. add the possibility of fresh supplies to the market.",
+        "link": "https://www.wsj.com/articles/oil-falls-as-likely-u-s-iran-deal-stokes-supply-worries-9304c3c5",
+        "id": "WP-WSJ-0000967002"
+      },
+      {
+        "title": "Aluminum Gains on Threat to Chinese Output",
+        "description": "Base metals prices rose in early London trading, and aluminium prices were higher as a drought in China threatened to undermine production.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-amid-mixed-outlook-37026abd",
+        "id": "WP-WSJ-0000966943"
+      },
+      {
+        "title": "Turkey Names Former First Republic Executive as Head of Central Bank",
+        "description": "Hafize Gaye Erkan’s appointment represents a possible return to more-orthodox economic policies.",
+        "link": "https://www.wsj.com/articles/turkey-names-former-first-republic-executive-as-head-of-central-bank-4142ace2",
+        "id": "WP-WSJ-0000967292"
+      }
+    ],
+    "date": "2023-06-09"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the market's tumult and the morrow's wake,\nThe FTSE 100 falteth, cautious heart at stake,\nAs central banks convene, futures to make,\nCroda's decline, a somber reminder take.\n\nA feeble greenback withers, brought low by claims,\nYet steadies at the nadir, where desire tames,\nUniCredit foretells of a calm untamed,\nAwaiting the Fed and ECB's fickle flames.\n\nIn distant lands, of China's vast empire's might,\nA window opened, casting truth and light,\nOn kickback's siren call, a cunning blight,\nPioneering paths where resources' deals ignite.",
+    "feedItems": [
+      {
+        "title": "FTSE 100 Edges Lower on Caution Before Fed, ECB Decisions Next Week; Croda Slides",
+        "description": "The FTSE 100 edged down in opening trade, with investors cautious in the run up to next week’s key central bank meetings.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-the-open-d820887f",
+        "id": "WP-WSJ-0000966610"
+      },
+      {
+        "title": "Dollar Stays Weak After High US Jobless Claims, Should Steady at Lower Levels",
+        "description": "The dollar remained weak following sharp falls on Thursday, but UniCredit Research said the currency could steady from here as traders stay cautious ahead of events next week, including decisions by the Fed and the ECB.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-next-weeks-events-264d05a5",
+        "id": "WP-WSJ-0000967035"
+      },
+      {
+        "title": "Court Papers Open Rare Window Into Role of Graft in China's Overseas Lending",
+        "description": "A former state bank executive collected millions in kickbacks as he helped pioneer Beijing’s resource-for-infrastructure investment model in the Global South.",
+        "link": "https://www.wsj.com/articles/court-papers-open-rare-window-into-role-of-graft-in-chinas-overseas-lending-69f7ab81",
+        "id": "WP-WSJ-0000959537"
+      }
+    ],
+    "date": "2023-06-09"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the chamber where secrets speak,\nStands young Holland, with mind so deep,\nA thrilling tale, their triumph lies,\nIn the tapestry woven by Apple’s eyes.\n\nFar in the East, where dragons wake,\nNo fiery breath doth inflation take,\nTheir golden hoard stays cool and still,\nWhilst Western banks toil up the hill.\n\nHeralds proclaim a pact anew,\nAstraZeneca and Quell pursue,\nA healing touch, their quest doth start,\nFor autoimmune ill, they seek an Art.",
+    "feedItems": [
+      {
+        "title": "'The Crowded Room' Review: Viewers' Patience Rewarded",
+        "description": "Tom Holland and Amanda Seyfried shine as suspect and interrogator in an intricate 10-part thriller from Apple TV+.",
+        "link": "https://www.wsj.com/articles/the-crowded-room-review-tom-holland-amanda-seyfried-apple-tv-8f41be27",
+        "id": "SB12200825249898044427604590011520250698864"
+      },
+      {
+        "title": "China's Inflation Problem? It Has None",
+        "description": "As Western central banks continue to jack up interest rates to douse stubbornly high inflation, China faces a growing risk of the opposite problem—deflation.",
+        "link": "https://www.wsj.com/articles/chinas-inflation-problem-it-has-none-ea9a27f7",
+        "id": "WP-WSJ-0000967256"
+      },
+      {
+        "title": "AstraZeneca Enters Pact with Cell Therapy Startup",
+        "description": "AstraZeneca will pay Quell Therapeutics $85 million upfront for it to help develop treatments for autoimmune diseases, and further payments of more than $2 billion for future development and commercial milestones and royalties.",
+        "link": "https://www.wsj.com/articles/astrazeneca-reaches-agreement-with-quell-therapeutics-for-treg-cell-therapies-46c8d0d6",
+        "id": "WP-WSJ-0000967271"
+      }
+    ],
+    "date": "2023-06-09"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In bonds of Eurozone, a peak hath met,\nWhere interest raised, no more shall fret,\nThe long-term yields, as wise men bet,\nBy words of Capital Economics, set.\n\nSummoned now to Miami's hold,\nTrump of old, in case untold,\nOf documents of secret lore,\nHe standeth tall at courthouse door.\n\nA change of guard at Dassault's gate,\nNew leader Pascal taketh the plate,\nWith targets hushed and profits great,\n€2.2 to €2.4 a share awaits.",
+    "feedItems": [
+      {
+        "title": "Eurozone Government Bond Yields Likely Have Peaked",
+        "description": "Further ECB interest-rate rises this year are unlikely to trigger another leg up in long-term eurozone government bond yields, Capital Economics said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-yields-likely-have-peaked-633e0b27",
+        "id": "WP-WSJ-0000967249"
+      },
+      {
+        "title": "Trump Indicted in Classified Documents Case",
+        "description": "The former president said he has been summoned to the federal courthouse in Miami over his handling of government documents at Mar-a-Lago.",
+        "link": "https://www.wsj.com/articles/donald-trump-indicted-in-document-case-b4e563d7",
+        "id": "WP-WSJ-0000958477"
+      },
+      {
+        "title": "Dassault Systems Outlines Midterm Targets; Names New CEO",
+        "description": "Dassault Systemes forecast double-digit revenue growth and earnings of €2.2-€2.4 a share in 2028, as the software company named Pascal Daloz as its new CEO effective the beginning of next year.",
+        "link": "https://www.wsj.com/articles/dassault-systemes-targets-significant-mid-term-growth-names-pascal-daloz-ceo-3cd2e08a",
+        "id": "WP-WSJ-0000967225"
+      }
+    ],
+    "date": "2023-06-09"
+  }
+]
