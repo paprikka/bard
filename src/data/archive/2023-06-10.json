@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In realms of iron and artful mind,\nWhere axioms weighty, cunning bind,\n’Tis Altman, OpenAI’s chief, doth plea,\nLet hand with China joined e’er be.\n\nA miracle hath graced the green,\nFour babes, from ashen skies unseen,\nSurvived they crash, through thicket roamed,\nTill Amazon’s embrace, they’re homed.\n\nNow, cometh forth this lesson strange,\nOn beauty’s fickle, dread exchange,\nEsteem unearned mires fair face,\nIn filaments of pride's embrace.",
+    "feedItems": [
+      {
+        "title": "OpenAI CEO Calls for Collaboration With China to Counter AI Risks",
+        "description": "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement.",
+        "link": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
+        "id": "WP-WSJ-0000970724"
+      },
+      {
+        "title": "Four children, including a baby, were found alive in the Amazon jungle nearly six weeks after they survived the crash of a small plane and wandered into the wilderness, Colombia's president said.",
+        "description": "Four children, including a baby, were found alive in the Amazon jungle nearly six weeks after they survived the crash of a small plane and wandered into the wilderness, Colombia’s president said.",
+        "link": "https://www.wsj.com/articles/children-lost-in-amazon-jungle-after-plane-crash-found-alive-ee2dd790",
+        "id": "WP-WSJ-0000970524"
+      },
+      {
+        "title": "The Moral Hazards of Being Beautiful",
+        "description": "Research shows that attractive people tend to receive unearned esteem from others and cultivate self-serving beliefs.",
+        "link": "https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61",
+        "id": "WP-WSJ-0000937482"
+      }
+    ],
+    "date": "2023-06-10"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of TV's peak, the stars so bright,\nCaught in the midst, their hearts ignite,\nAs nature's creatures we revel on,\nThe stage that dost hold their light anon.\n\nElon Musk and CEO fair,\nTwitter's couple, an odd affair,\nWith no accord or contract made,\nCan they as one foray or fade?\n\nIn Poland's den, a tale of strife,\nSaboteurs plot through Baltic life,\nNord Stream pipelines, a Russian quest,\nBy stealthy hands, they seek unrest.",
+    "feedItems": [
+      {
+        "title": "The True Stars of Peak TV Are Caught in the Middle",
+        "description": "",
+        "link": "https://www.wsj.com/articles/the-true-stars-of-peak-tv-are-caught-in-the-middle-9a34dcc9",
+        "id": "WP-WSJ-0000968462"
+      },
+      {
+        "title": "Can Twitter's Odd Couple Make It Work? Elon Musk and His New CEO Are About to Find Out",
+        "description": "Musk announced her arrival before she had a contract. They haven’t formally agreed on a budget or headcount. And Linda Yaccarino hasn’t even gotten to the hard part yet.",
+        "link": "https://www.wsj.com/articles/twitter-ceo-linda-yaccarino-elon-musk-odd-couple-f72fdd98",
+        "id": "WP-WSJ-0000968290"
+      },
+      {
+        "title": "German investigators are examining evidence that suggests a sabotage team used Poland as an operating base to blow up the Nord Stream pipelines built to transport Russian gas through the Baltic Sea.",
+        "description": "German investigators are examining evidence that suggests a sabotage team used Poland as an operating base to blow up the Nord Stream pipelines built to transport Russian gas through the Baltic Sea.",
+        "link": "https://www.wsj.com/articles/nord-stream-sabotage-probe-turns-to-clues-inside-poland-4ed20422",
+        "id": "WP-WSJ-0000969773"
+      }
+    ],
+    "date": "2023-06-10"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In parchment old, the truth revealed,\nThe secrets held by Trump concealed,\nOf military's hidden treasures,\nBrought forth unto the people's measures.\n\nFrom o'er the sea, in Albion's mist,\nLies Johnson, caught in scandal's twist,\nResigns as knight in Commons' Hall,\nBy truth's firm gavel, he did fall.\n\nIn Kyiv, brave warriors take the field,\nTo free their land, they shan't yield,\nProbing defenses, they seek a crack,\nTo press the foes, and thus fight back.",
+    "feedItems": [
+      {
+        "title": "Federal prosecutors unsealed a sweeping 49-page indictment against Trump alleging the former president held on to sensitive military secrets he knew he shouldn't have retained access to, shared them with others and directed his staff to help him evade authorities' efforts to get them back.",
+        "description": "Federal prosecutors unsealed a sweeping 49-page indictment against Trump alleging the former president held on to sensitive military secrets he knew he shouldn’t have retained access to, shared them with others and directed his staff to help him evade authorities’ efforts to get them back.",
+        "link": "https://www.wsj.com/articles/trump-associate-also-indicted-in-mar-a-lago-documents-case-759cbb17",
+        "id": "WP-WSJ-0000968164"
+      },
+      {
+        "title": "Former U.K. leader Boris Johnson said he would step down as a lawmaker following a probe into whether he lied to Parliament about his attendance at a series of parties during Covid lockdowns.",
+        "description": "Former U.K. leader Boris Johnson said he would step down as a lawmaker following a probe into whether he lied to Parliament about his attendance at a series of parties during Covid lockdowns.",
+        "link": "https://www.wsj.com/articles/ex-british-leader-boris-johnson-quits-as-lawmaker-ahead-of-partygate-report-767a4baa",
+        "id": "WP-WSJ-0000969953"
+      },
+      {
+        "title": "Ukrainian forces were probing Russian defenses as Kyiv searched for weak points that could allow it to break through Russian lines and retake occupied territory as part of its long-anticipated counteroffensive.",
+        "description": "Ukrainian forces were probing Russian defenses as Kyiv searched for weak points that could allow it to break through Russian lines and retake occupied territory as part of its long-anticipated counteroffensive.",
+        "link": "https://www.wsj.com/articles/ukraine-probes-russian-defenses-for-weak-points-after-kicking-off-counteroffensive-26296960",
+        "id": "WP-WSJ-0000967431"
+      }
+    ],
+    "date": "2023-06-10"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the tides of worldly news,\nWith ink and feathered quill we muse,\nOf events near and far we spin,\nA web of tales to sail entire kin.\n\nIn halls where children sing and play,\nLurk secrets that do lead astray,\nThe serpent’s hiss, a whisper charm,\nTo shield our kin from hazard's harm.\n\nThe trial of a leader bold,\nOn path of power, both new and old,\nThrough tempest, storm, and lightning's flash,\nHis tale unfoldeth, on empire's clash.",
+    "feedItems": [
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-1d42cbd0",
+        "id": "SB12200825249898044427604590017714059744390"
+      },
+      {
+        "title": "The Case for Banning TikTok and Other Socials for Kids Under 16",
+        "description": "Doctors and policy makers say that 13 is too young for social media. Science suggests waiting would be better.",
+        "link": "https://www.wsj.com/articles/the-case-for-banning-tiktok-snapchat-and-instagram-for-kids-under-16-37f63180",
+        "id": "WP-WSJ-0000939144"
+      },
+      {
+        "title": "Trump Faces 2024 Split Screen of Campaign, Criminal Trials",
+        "description": "The former president’s indictment ensures his legal woes will be front and center through the GOP primaries and next year’s general election.",
+        "link": "https://www.wsj.com/articles/trump-faces-2024-split-screen-of-campaign-and-criminal-trials-d8d49536",
+        "id": "WP-WSJ-0000970159"
+      }
+    ],
+    "date": "2023-06-10"
+  }
+]
