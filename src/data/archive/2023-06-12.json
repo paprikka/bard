@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Glencore's quest for riches vast,\nIts gaze on Teck's coal treasures cast,\nA union sought for to pursue,\nOr buy the unit's worth anew.\n\nIn oil's unstable realm we see,\nFutures slip 'fore our very eyes,\nWhilst eager minds on US rates be,\nThe tightening market set aside.\n\nThe Sterling hangs in balance fine,\nAs rate rise bets may fade away,\nAwaiting wage and age's sign,\nIf weak, its fortitude doth sway.",
+    "feedItems": [
+      {
+        "title": "Glencore Approaches Teck Over Its Coal Business",
+        "description": "The commodities giant is willing to buy Teck’s unit as an alternative to a full merger.",
+        "link": "https://www.wsj.com/articles/glencore-approaches-teck-over-its-coal-business-c7d6c74b",
+        "id": "WP-WSJ-0000972333"
+      },
+      {
+        "title": "Oil Slips as Investors Await US Rate Decision",
+        "description": "Oil futures were close to 1.5% lower in Europe, with concerns about the economic outlook driving prices down and as investors, for now, ignoring signs of a sharply tightening market.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-cautious-mood-ahead-of-central-bank-meetings-97a94bff",
+        "id": "WP-WSJ-0000972802"
+      },
+      {
+        "title": "Sterling Vulnerable as UK Rate Rise Bets Could Be Revised Lower",
+        "description": "Sterling could be exposed to a potential scaling back of the market’s interest rate rise expectations for the BOE, if upcoming U.K. wage and inflation data are weaker, ING said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-ahead-of-central-bank-meetings-c679904d",
+        "id": "WP-WSJ-0000972881"
+      }
+    ],
+    "date": "2023-06-12"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To Georg Fischer's tune, a tale I tell,\nOf Finland's Uponor, bid doth swell,\nWith €2.1 billion in shares adroit,\nTo boost water and flow, the business unite.\n\nOf Autoliv doth sing my quill,\nConfirms outlook in 2023, and targets fulfill,\nOrganic growth of fifteen percent, doth they foresee,\nAnd margin adjusted, 'twixt eight point five and nine, decree.\n\nNow cometh ye tale of bond and yield,\nOf BTP Italia and German Bunds in the field,\nIn fair and balanced spreads they meet,\nAs Eurozone's tightening spreads take seat.",
+    "feedItems": [
+      {
+        "title": "Georg Fischer Makes Bid for Finland's Uponor",
+        "description": "Industrial supplier Georg Fischer has made an all-share offer to buy peer Uponor for €2.1 billion as it looks to boost its water- and flow-solutions business.",
+        "link": "https://www.wsj.com/articles/georg-fischer-makes-2-3-bln-bid-for-finlands-uponor-7d2c1e77",
+        "id": "WP-WSJ-0000973033"
+      },
+      {
+        "title": "Autoliv Confirms 2023 Outlook, Other Targets",
+        "description": "Autoliv said it still expects to report organic sales growth of around 15% and an adjusted operating margin of around 8.5%-9.% this year, and reiterated its medium- and long-term financial targets.",
+        "link": "https://www.wsj.com/articles/autoliv-backs-fy-guidance-and-longer-term-targets-84e2c628",
+        "id": "WP-WSJ-0000973029"
+      },
+      {
+        "title": "Ten-Year Italian BTP-German Bund Yield Spread Seen at Fair Level",
+        "description": "Eurozone government bond yield spreads may continue tightening, but the 10-year Italian BTP-German Bund spread is at fair levels, BofA Global Research said.",
+        "link": "https://www.wsj.com/articles/finnish-bonds-seen-cheap-despite-favourable-supply-dynamics-4f1a7cf5",
+        "id": "WP-WSJ-0000973013"
+      }
+    ],
+    "date": "2023-06-12"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Novo's land of healing wares,\nA bounty pledged with utmost care,\nTwo billion gold, and change to spare,\nFor ailments' bane to make most rare.\n\nIn eastern realm of rising sun,\nThe Nikkei climbs, as traders run,\nAwaiting wisdom, rates begun,\nDecisions made when dawn is spun.\n\nOf metal, sheen both strong and lean,\nThe fickle worth of Aluminum,\nA pressure mounts, as excess seen,\nA falling tide in autumn's gleam.",
+    "feedItems": [
+      {
+        "title": "Novo Nordisk To Boost Output Capability",
+        "description": "Novo Nordisk said it plans to invest $2.3 billion to expand a pharmaceutical ingredient production facility in Denmark for its future portfolio within serious chronic diseases.",
+        "link": "https://www.wsj.com/articles/novo-nordisk-invests-2-29-bln-to-expand-manufacturing-facilities-in-denmark-266bb93b",
+        "id": "WP-WSJ-0000973006"
+      },
+      {
+        "title": "Nikkei Rises 0.5% as Investors Await Economic Data, Rate Decisions",
+        "description": "Japan’s Nikkei closed up 0.5%, as investors awaited major economic data and central bank decisions this week.",
+        "link": "https://www.wsj.com/articles/nikkei-rises-0-4-tracking-wall-street-gains-d43ee631",
+        "id": "WP-WSJ-0000972791"
+      },
+      {
+        "title": "Aluminum Prices Likely to Stay Under Pressure",
+        "description": "Aluminum is likely to remain under pressure, SDIC Essence Futures said, expecting supply excess to emerge in the third quarter, which could pose a downside risk for prices.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-ahead-of-u-s-cpi-fomc-meeting-777ca2e1",
+        "id": "WP-WSJ-0000972808"
+      }
+    ],
+    "date": "2023-06-12"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In distant lands of commerce vast,\nThe mighty Novartis grasped ;\nA Chinook Therapeutics behold,\nAcquired for shining coins, untold.\n\nIn sails of labor's stern embrace,\nNot a climb, but coast we face;\nAs that which stalls, is not as it seems,\nThe fairest path, midst life's streams.\n\nTho' interest climbs and gold grows thin,\nDetermined hearts, Wall Street doth win;\nOn sturdy back of consumer class,\nThe tide of fortune's fees do pass.",
+    "feedItems": [
+      {
+        "title": "Novartis to Buy U.S.-Based Chinook",
+        "description": "Novartis has agreed to acquire Chinook Therapeutics for up to $3.5 billion, in a deal that will expand its portfolio of kidney disease treatments.",
+        "link": "https://www.wsj.com/articles/novartis-to-acquire-chinook-therapeutics-for-up-to-3-5-billion-c9607248",
+        "id": "WP-WSJ-0000972989"
+      },
+      {
+        "title": "The Smart Way to Coast at Work",
+        "description": "Sometimes, it’s not the moment to climb. That doesn’t mean you’ve stalled.",
+        "link": "https://www.wsj.com/articles/the-smart-way-to-coast-at-work-1ed874ac",
+        "id": "SB12245329658058513692404590022052395787386"
+      },
+      {
+        "title": "Wall Street Firms Up Bets on U.S. Consumers",
+        "description": "Rising interest rates and inflation have barely dented most borrowers’ bill payments.",
+        "link": "https://www.wsj.com/articles/wall-street-firms-up-bets-on-u-s-consumers-96b90cd2",
+        "id": "WP-WSJ-0000964812"
+      }
+    ],
+    "date": "2023-06-12"
+  }
+]
