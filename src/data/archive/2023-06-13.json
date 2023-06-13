@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In oil's embrace, a glimmer found,\nAs Fed's grand meeting doth abound;\nProjections cast for economies wide,\nCrude demands in futures spied.\n\nSterling steadfast, standing strong,\nUK jobs prove labor's tender song;\nWage inflation clings like ivy's thread,\nLow chances of rate cuts hence are tread.\n\nIn metals' gleam doth hope arise,\nWith eager eyes set 'pon the skies;\nYet gold may find its stronghold weak,\nWhen hawkish Fed's strength doth speak.",
+    "feedItems": [
+      {
+        "title": "Oil Gains as Fed Meeting Set to Begin",
+        "description": "Oil prices recovered some of their steep previous-session losses, with investors eyeing Wednesday’s Fed decision for broader economic projections and crude demand expectations, ING said.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-higher-in-likely-technical-rebound-c3f34b1",
+        "id": "WP-WSJ-0000975757"
+      },
+      {
+        "title": "Sterling Could Remain Supported in Near-Term After UK Jobs Data",
+        "description": "Sterling should remain supported in the near-term after data showed “ultra-tight” U.K. labor market conditions, ING said, adding that sticky wage inflation means “very low chances” of the BOE cutting interest rates before 2024.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-ahead-of-fomc-meeting-191586d4",
+        "id": "WP-WSJ-0000975843"
+      },
+      {
+        "title": "Metals Prices Push Higher Ahead of U.S. Inflation Data",
+        "description": "Base metals and gold prices rose in early London trading, as investors looked to U.S. inflation data, but strong economic activity suggests a hawkish Fed in the short term, which could see the gold price consolidating, ANZ said.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-amid-mild-usd-weakness-fb2a64dc",
+        "id": "WP-WSJ-0000975745"
+      }
+    ],
+    "date": "2023-06-13"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In northern Syria, where strife be endless,\nLo, a helicopt'r hath brought strife anew,\nTwenty and two crusaders caught in mess,\nTheir wounds in service to the red, white, blue.\n\nIn a land of digital mirage,\nUbisoft, the minstrels of the realm,\nIn pursuit of time, they craft and dodge,\nAn Assassin's tale bright at the helm.\n\nTo fair Italia, bonds we bless,\nThe market cares for BTPs dear,\nFive to ten in years wise men assess,\nA fruitful auction, nigh they cheer.",
+    "feedItems": [
+      {
+        "title": "U.S. Troops Injured in Syria Helicopter Incident",
+        "description": "Twenty-two members of the U.S. military were injured in a helicopter incident in northern Syria over the weekend, U.S. Central Command said.",
+        "link": "https://www.wsj.com/articles/twenty-two-u-s-troops-injured-in-syria-helicopter-incident-41a7f88c",
+        "id": "WP-WSJ-0000976185"
+      },
+      {
+        "title": "Ubisoft's Assassin's Creed Mirage Should Be Released on Time",
+        "description": "Ubisoft’s Assassin’s Creed Mirage game looks polished and the chances for a release delay are low, Jefferies said following a game showcase event.",
+        "link": "https://www.wsj.com/articles/nikkei-rises-0-8-tracking-wall-street-gains-cf54105d",
+        "id": "WP-WSJ-0000975686"
+      },
+      {
+        "title": "Italian BTPs Seen Most Favored in Five- to 10-Year Maturity Bucket",
+        "description": "Risk appetite is supportive for Italian government bonds, with the five to 10-year maturity segment being most favored, boding well for today’s auction, Mizuho said.",
+        "link": "https://www.wsj.com/articles/ecb-likely-reaching-cruising-altitude-bond-yields-seen-in-range-trading-b2fe5c2d",
+        "id": "WP-WSJ-0000976129"
+      }
+    ],
+    "date": "2023-06-13"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Centrica's mighty halls, a tale of thriving time,\nTheir fortunes, strong and bountiful, did glisten and did climb;\nWith first five moons of waning year, a fulsome outcome found,\nTheir earnings soar, like thunder's roar, 'bove common market's ground.\n\nThe German realm of chieftain's might and burghers stern of gaze,\nBehold the fall of oft breath's price, that weakened House ablaze;\nCommodities of vital life, uneasy lords they tamed,\nAnd fearsome might of Flame-Wield's hand, their victory proclaimed.\n\nOn British shores where weal and woe are measured by the labor,\nA sudden turn — tale's ebb and flow, like fyrdmen on their sabre;\nTheir jobless kin, released from strife, find solace in their toil,\nYet silver gained by men-at-arms, 'neath pressure's grasp shall coil.",
+    "feedItems": [
+      {
+        "title": "Centrica Confident on Full-Year Outcome",
+        "description": "Centrica said its performance in the first five months of the year has been strong overall, and it expects adjusted earnings to be around the top end of market expectations.",
+        "link": "https://www.wsj.com/articles/centrica-sees-2023-earnings-at-top-end-of-analysts-views-a823e594",
+        "id": "WP-WSJ-0000976164"
+      },
+      {
+        "title": "German Inflation Falls in May, Confirming Estimates",
+        "description": "Germany’s consumer price index increased 6.1% in May, in line with preliminary estimates, after energy costs eased further, though underlying pressures on household spending remained strong.",
+        "link": "https://www.wsj.com/articles/german-inflation-fell-in-may-as-energy-prices-cooled-5546712a",
+        "id": "WP-WSJ-0000976127"
+      },
+      {
+        "title": "UK Jobless Rate Falls But No Sign of Slowing Wages",
+        "description": "The U.K.’s unemployment rate fell to 3.8% in the three months to April, reversing recent rises, but pay growth continued to edge up.",
+        "link": "https://www.wsj.com/articles/uk-jobless-rate-fell-in-three-months-to-april-abe56d6c",
+        "id": "WP-WSJ-0000976139"
+      }
+    ],
+    "date": "2023-06-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In distant lands, the dragon wakes and stirs,\nHis heavy hoard of gilded treasure turns,\nWith iron grasp and bated breath, he spurns,\nA foretaste of an empire's swift return.\n\nIn darkest depths of Amazonian hold,\nFour tender souls, their fortitude untold,\nFrom fire and ill-fated wings unfolded,\nLost in a realm of hunger, thirst, and cold.\n\nAnd in the West, where rival claims contend,\nThe one crowned Nuggets gilded path ascend,\nIn triumph's wake, they rise, their foes bend 'fore,\nA tale of vict'ry loud with striking blend.",
+    "feedItems": [
+      {
+        "title": "China's Central Bank Moves to Shore Up Recovery",
+        "description": "Unexpected trim in key lending rate likely heralds further steps to stimulate China’s economy.",
+        "link": "https://www.wsj.com/articles/chinas-central-bank-moves-to-shore-up-recovery-677013a8",
+        "id": "WP-WSJ-0000976107"
+      },
+      {
+        "title": "Colombian Children Survived on Fruit, Nuts and Wits After Crash in Amazon Jungle",
+        "description": "After escaping the wreckage of a plane crash that killed their mother, four children wandered for a month, suffering from malnourishment and dehydration before being found.",
+        "link": "https://www.wsj.com/articles/colombian-children-survived-on-fruit-nuts-and-wits-in-amazon-jungle-b462a3ef",
+        "id": "WP-WSJ-0000975983"
+      },
+      {
+        "title": "The Denver Nuggets Win Their First NBA Title",
+        "description": "The Denver Nuggets won their first NBA championship, beating the Miami Heat in five games.",
+        "link": "https://www.wsj.com/articles/denver-nuggets-nba-finals-nikola-jokic-d32f563e",
+        "id": "WP-WSJ-0000975979"
+      }
+    ],
+    "date": "2023-06-13"
+  }
+]
