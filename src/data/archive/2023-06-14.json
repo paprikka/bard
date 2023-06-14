@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of oil demand that wanes, a tale I weave,\nRound Odin's call, swift chariots to leave,\nE'er more of Thor's fierce bolt, this age shalt seek,\nThe gods resound, their flames to quench man's reek.\n\nTo Shell, the wise, their reward now comes hither,\nShare Loki's laugh as mortals grasp and slither,\nIn Jotun's gold they find their highest call,\nWhilst bound to waning flame, they'll rise and fall.\n\nAnd now of Brent, like waves Ægir broods,\nHesitation mists, awaiting call from Fed,\nBetween the serpent's jaws, the path unclear,\nInflation's menace doth relentlessly leer.",
+    "feedItems": [
+      {
+        "title": "Oil Demand to Peak This Decade, IEA Says",
+        "description": "Rising demand for crude oil is set to slow to a trickle within five years and peak before the end of the decade, as electric-vehicle uptake surges and developed nations rapidly transition to cleaner sources of energy.",
+        "link": "https://www.wsj.com/articles/oil-demand-to-peak-this-decade-as-electric-vehicle-uptake-accelerates-iea-says-ef900668",
+        "id": "WP-WSJ-0000979474"
+      },
+      {
+        "title": "Shell to Lift Dividend, Launch $5 Billion Buyback",
+        "description": "The energy major Shell said it will share billions more from its record profits with investors while deepening its commitment to the oil-and-gas businesses that produce the highest returns. .",
+        "link": "https://www.wsj.com/articles/shell-to-lift-dividend-launch-5-billion-buyback-eadf10ed",
+        "id": "WP-WSJ-0000979374"
+      },
+      {
+        "title": "Brent Inches Higher Ahead of Federal Reserve Meeting",
+        "description": "Oil futures were little changed in Europe as investors awaited the latest Fed rate decision, with the central bank “caught between a rock and a hard place” regarding inflation, said Commodity Research Group.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-in-likely-technical-correction-31e8f389",
+        "id": "WP-WSJ-0000978965"
+      }
+    ],
+    "date": "2023-06-14"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of campus denunciation and strife,\nWhere comfort finds discordant tale,\nMethinks we ought consult the ale,\nTo soothe the wounds of daily life.\n\nFTSE riseth, as the monks their wine,\nAs traders weigh the GDP,\nEager for the interest decree,\nA brew of markets and quaffs divine.\n\nIn Virginia Tech the speech doth ring,\nStudents deemed as vile conservatives,\nProfessors spew their invectives,\nPray, in Heaven's name, let ale hearts sing.",
+    "feedItems": [
+      {
+        "title": "The Comforts of Campus Denunciation",
+        "description": "Hear some talk that you dislike?",
+        "link": "https://www.wsj.com/articles/bias-response-team-anonymous-campus-denunciation-9505c076",
+        "id": "SB11423793958218753988804590023703047393326"
+      },
+      {
+        "title": "FTSE 100 Rises as Traders Weigh UK GDP Data, Await US Rate Decision",
+        "description": "The FTSE 100 edged up early in the session, as traders reacted to U.K. economic growth data and looked ahead to the Fed interest rate decision.",
+        "link": "https://www.wsj.com/articles/nikkei-rises-1-4-amid-risk-on-sentiment-af628ff3",
+        "id": "WP-WSJ-0000978733"
+      },
+      {
+        "title": "Notable & Quotable: Speech at Virginia Tech",
+        "description": "‘When students filed this current lawsuit, a Virginia Tech tenured professor took to Twitter to publicly call the students ‘conservative s—tbags’ who were ‘suing the school because they’re bigots.’ ’",
+        "link": "https://www.wsj.com/articles/notable-quotable-speech-at-virginia-tech-chill-lawsuit-bias-response-45227dab",
+        "id": "SB10853416872274844013304590026053250489116"
+      }
+    ],
+    "date": "2023-06-14"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Trump's indictment, readers engage,\nIn law's domain, carelessness or sage?\nA crime without a wounded soul,\nSuch quandary fills the parchment scroll.\n\nIn young minds, gender's woes reside,\nAlarm can harm, yet oft misguide.\nTransient be this path they tread,\nA phase of search; not fate's firm thread.\n\nLest Russia fall in disarray,\nA chance for China, some may say,\nIn chaos seek stability,\nBut not at cost of equity.",
+    "feedItems": [
+      {
+        "title": "How to Think About the Trump Indictment: Readers Debate",
+        "description": "A reckless disregard for the law or another victimless crime?",
+        "link": "https://www.wsj.com/articles/readers-debate-trump-indictment-classified-documents-8005d22c",
+        "id": "SB11423793958218753988804590023670256808344"
+      },
+      {
+        "title": "Alarmism Hurts Children With Gender Dysphoria",
+        "description": "For many minors, this may be a transient phase of exploration rather than a permanent identity.",
+        "link": "https://www.wsj.com/articles/children-gender-dysphoria-trans-doctors-8417ac9e",
+        "id": "SB12200825249898044427604590017573497651324"
+      },
+      {
+        "title": "If Russia Loses, Don't Let China Win",
+        "description": "Russian instability could be an opportunity for the Chinese.",
+        "link": "https://www.wsj.com/articles/china-russia-ukraine-war-vacuum-77e2e0ee",
+        "id": "SB12200825249898044427604590013712017045700"
+      }
+    ],
+    "date": "2023-06-14"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Within the halls of knowledge vast,\nWhere questions asked and answers cast,\nThe challenge met, and wisdom gleaned,\nFrom students' minds, true understanding weaned.\n\nSad tidings from the Naspers bower,\nTheir earnings, once in bloom, did cower,\nSore losses from the dragon's lair,\nAs Tencent's profit falls to thinning air.\n\nTwo knights, with banners raised anew,\nTo contest for honor, tried and true,\nAs voices raised in protest sang,\nIn fateful contest, on the winds they hang.",
+    "feedItems": [
+      {
+        "title": "Examples Are the True Test of Learning",
+        "description": "They challenge students to demonstrate that they understand the concept.",
+        "link": "https://www.wsj.com/articles/examples-school-testing-oral-exam-learning-1f73ecdb",
+        "id": "SB12134277624574664069604590015624278941914"
+      },
+      {
+        "title": "Naspers Warns on Earnings",
+        "description": "Naspers said it expected to report a 26%-33% fall in core earnings per share for 2023 and 2024, mostly due to lower profit contributions from its associates, China’s Tencent in particular.",
+        "link": "https://www.wsj.com/articles/naspers-fy-2023-headline-eps-slumped-629f6659",
+        "id": "WP-WSJ-0000979432"
+      },
+      {
+        "title": "A Slogan for a Biden-Trump Rematch in 2024",
+        "description": "Inspired by 1960s campus antiwar protests.",
+        "link": "https://www.wsj.com/articles/biden-trump-2024-rematch-campaign-slogan-20a88f41",
+        "id": "SB12245329658058513692404590023963900515010"
+      }
+    ],
+    "date": "2023-06-14"
+  }
+]
