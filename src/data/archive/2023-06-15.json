@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In market's loom, a woeful tale,\nThe FTSE fell, and fortunes pale,\nFor Fed hath ceased its rate to raise,\nYet twice more may, in coming days.\n\nA hawkish pause, though rate doth stall,\nThe oil doth inch, and gains enthrall,\nA floor for dollar, wind 'gainst sail,\nCommodity markets bear the hail.\n\nFrom distant shores, in Orient's keep,\nA flagging strength doth make men weep,\nAs China cuts rates down, to hold,\nThe trembling hands of fortune gold.",
+    "feedItems": [
+      {
+        "title": "FTSE 100 Falls as Fed's Rate Decision Weighs",
+        "description": "The FTSE 100 fell 0.2% after the Fed signalled it could deliver two more interest rate increases this year even as it paused its rate rise cycle.",
+        "link": "https://www.wsj.com/articles/australia-shares-likely-to-rise-after-fed-holds-rates-b29300f7",
+        "id": "WP-WSJ-0000982321"
+      },
+      {
+        "title": "Oil Inches Higher After Fed Moves to Pause Rate Hikes",
+        "description": "Crude prices edged up in Europe clawing back some of the losses following the Fed’s decision, with Peak Trading calling it a “hawkish pause,” which “puts a floor under the dollar, a headwind for commodity markets.”",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-in-possible-technical-rebound-24423b36",
+        "id": "WP-WSJ-0000982494"
+      },
+      {
+        "title": "China Cuts Rates to Prop Up Flagging Recovery",
+        "description": "The Chinese central bank’s latest interest-rate cut signals Beijing is increasingly uneasy about the economy’s prospects.",
+        "link": "https://www.wsj.com/articles/china-cuts-rates-to-prop-up-flagging-recovery-6fe3ec72",
+        "id": "WP-WSJ-0000982856"
+      }
+    ],
+    "date": "2023-06-15"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon ECB's figures, euro's fate to bind,\nInflation's forecast sway, it shall impart,\nAs arbiter of value in vast mart,\nCommerzbank doth whisper in the wind.\n\nThough metals sink and heed the Fed's decree,\nIn base and gold, a loss in Europe's strife,\nMore rate hikes loom within the mortal life,\nTheir patience pause, yet storms in distance see.\n\nThe Schatz of German yield soars high above,\nAs Mizuho claims the cycle nears its end,\nIn fading selloff, value doth amend,\nEUR rates find solace, as a dove.",
+    "feedItems": [
+      {
+        "title": "ECB's New Inflation Forecasts Could Move Euro",
+        "description": "A widely expected interest rate rise by the ECB is unlikely to move the euro much, but new inflation forecasts could have a major impact, Commerzbank said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-worry-over-further-fed-tightening-bc8900bb",
+        "id": "WP-WSJ-0000982597"
+      },
+      {
+        "title": "Metals Prices Sink After Fed Indicates More Rate Hikes Possible, Despite Wednesday's Pause",
+        "description": "Base metals and gold fell more than 1% in Europe, in reaction to the Fed indicating more rate hikes were possible this year.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-amid-concerns-of-more-fed-tightening-f442ea48",
+        "id": "WP-WSJ-0000982504"
+      },
+      {
+        "title": "German Two-Year Schatz Seen Offering Value Above 3% Yield",
+        "description": "Mizuho said the ECB’s rate-rising cycle is mostly done and it sees value in fading any selloff that might materialise in front-end EUR rates after Thursday’s policy meeting and in the coming weeks.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-on-feds-hawkish-hold-a37692b6",
+        "id": "WP-WSJ-0000982868"
+      }
+    ],
+    "date": "2023-06-15"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Hugo Boss, a tale I'll sing to thee,\nTheir gains dost swell, a future fair they see;\nIn Asia-Pacific's lands, in China's might,\nTheir earnings flourish, prospects shining bright.\n\nSiemens, in ventures bold, doth plant its seeds,\nWith coin of gold, they seek to meet their needs;\nIn digitalization's waltz, they sway,\nAnd in automation's arms, their dance displayed.\n\nNow hark! A trumpet sounds o'er Legal's gate,\nTo welcome Simoes, their chief awaits;\nIn Anno Domini, come first new morn,\nHe taketh rein, and leads them through the storm.",
+    "feedItems": [
+      {
+        "title": "Hugo Boss Upgrades 2023, Midterm Targets",
+        "description": "Hugo Boss forecast 10%-20% earnings growth this year and raised its financial targets through 2025, thanks to strong sales in Asia-Pacific and especially China.",
+        "link": "https://www.wsj.com/articles/hugo-boss-targets-china-growth-as-it-sets-higher-midterm-targets-update-da4d923f",
+        "id": "WP-WSJ-0000982886"
+      },
+      {
+        "title": "Siemens Plans Asia Production Expansion",
+        "description": "Siemens said it planned to invest €2 billion to boost manufacturing capacity this year to tap growth opportunities in digitalization and automation and after experiencing “significantly above-market growth.”",
+        "link": "https://www.wsj.com/articles/siemens-to-boost-manufacturing-capacity-with-2-17-bln-investments-fa35d735",
+        "id": "WP-WSJ-0000982900"
+      },
+      {
+        "title": "Legal & General Names Santander Executive as New CEO",
+        "description": "Legal & General has appointed Antonio Simoes as its incoming chief executive officer effective Jan. 1 2024.",
+        "link": "https://www.wsj.com/articles/legal-general-names-antonio-simoes-as-new-ceo-cd6a9361",
+        "id": "WP-WSJ-0000982879"
+      }
+    ],
+    "date": "2023-06-15"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the garments, stitched H&M might,\nSales waxed in six mere notches bright.\nYet forecasts missed as climes unfavour'd,\nDoomed by weather, fortune waver'd.\n\nIn Eastern realm, the isle of Nippon,\nTo aid the U.S., words are spoken.\nAn arsenal forged, artillery shares,\nFor Ukraine's cause, against Russian stares.\n\nIn vast domain where dragons dwell,\nRise property, tales of interest tell.\nFor rate cuts come: their strength is sought,\nThough cooler homes in China are wrought.",
+    "feedItems": [
+      {
+        "title": "H&M Sales Rise But Miss Forecasts",
+        "description": "H&M second quarter sales rose by 6% on year but were “flattish” in local currencies, affected by unfavourable weather conditions, but said June had got off to a good start.",
+        "link": "https://www.wsj.com/articles/h-m-2q-sales-increased-6-on-year-shy-of-forecasts-daaa2a12",
+        "id": "WP-WSJ-0000982861"
+      },
+      {
+        "title": "Japan in Talks to Provide Artillery Shells to U.S. to Boost Stocks for Ukraine",
+        "description": "A global hunt for shells has intensified as Ukraine presses its counteroffensive against Russia, but Japan has long curbed exports of lethal weapons.",
+        "link": "https://www.wsj.com/articles/japan-in-talks-to-provide-artillery-shells-to-u-s-to-boost-stocks-for-ukraine-7be5ddf9",
+        "id": "WP-WSJ-0000982813"
+      },
+      {
+        "title": "Chinese Property Shares Rise Despite Cooler Home Prices",
+        "description": "Shares of Chinese property stocks rose, buoyed by hopes for more interest rate cuts, despite data showing a further slowdown in China’s real-estate market.",
+        "link": "https://www.wsj.com/articles/chinese-property-shares-rise-despite-cooler-home-prices-50c88e3a",
+        "id": "WP-WSJ-0000982823"
+      }
+    ],
+    "date": "2023-06-15"
+  }
+]
