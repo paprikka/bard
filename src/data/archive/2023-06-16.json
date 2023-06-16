@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A well of black gold rests and stirs,\nGains held on wings of China's spurs,\nTheir stimulus a calming balm,\nTo keep economy from harm.\n\nThe humble dollar, worn and tossed,\nRises up, its losses lost,\nFed comments sway the trader's fate,\nDecisions made on data's gate.\n\nA shadow cast o'er bank's fair land,\nClaims of a grip, Party's strong hand,\nCommunist whispers, doubts now sown,\nInfrastructure's tale is grown.",
+    "feedItems": [
+      {
+        "title": "Oil Holds Gains Following China Stimulus",
+        "description": "Oil prices were flattish in Europe but holding onto gains from the previous session that came after China took steps to stimulate its economy.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-amid-vulnerable-global-growth-outlook-741faf49",
+        "id": "WP-WSJ-0000986255"
+      },
+      {
+        "title": "Dollar Rises After Earlier Losses as Traders Assess Fed Decision",
+        "description": "The dollar edged higher in Europe after earlier hitting a five-week low as investors continued to digest Powell’s comments on future rate hikes, with upcoming decisions to depend on data, Commerzbank said.",
+        "link": "https://www.wsj.com/articles/yen-strengthens-in-likely-position-adjustment-ahead-of-boj-decision-36a48169",
+        "id": "WP-WSJ-0000986297"
+      },
+      {
+        "title": "China-Led Infrastructure Bank Just Can't Escape the Communist Party's Shadow",
+        "description": "The Asian Infrastructure Investment Bank says it will conduct an internal review after former executive claims China’s Communist Party has infiltrated the institution.",
+        "link": "https://www.wsj.com/articles/infrastructure-banks-efforts-to-show-it-isnt-a-chinese-tool-hit-setback-7560b9d",
+        "id": "WP-WSJ-0000983770"
+      }
+    ],
+    "date": "2023-06-16"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Ukrainë's prancing horses bold,\nAnd mines laid thick in soils of war,\nTho' knights do charge with hearts of gold,\nTheir foes' defense, a bitter snare.\n\nIn realm of Dragon Red, Micron,\nAye, blacklisted by lordly frown,\nYet still its coffer gladly shone,\nSix hundred millions to lay down.\n\nUpon fair Londën's market scene,\nThe metals gleam and prices rise,\nAs Chïna dreams of plentious sheen,\nAnd augurs hope in merchants' eyes.",
+    "feedItems": [
+      {
+        "title": "'Mines Everywhere': Ukraine's Offensive Is Proving a Hard Slog",
+        "description": "After the first probing attacks yielded mixed results, Ukrainian forces have mostly paused their assaults as commanders try to figure out how to punch through Russian lines without taking huge losses.",
+        "link": "https://www.wsj.com/articles/mines-everywhere-ukraines-offensive-is-proving-a-hard-slog-270a1e4a",
+        "id": "WP-WSJ-0000986535"
+      },
+      {
+        "title": "Micron, Blacklisted by Beijing, to Pump $600 Million Into China Expansion",
+        "description": "Investment by biggest U.S. maker of memory chips comes about a month after major Chinese firms were banned from buying its products.",
+        "link": "https://www.wsj.com/articles/micron-blacklisted-by-beijing-to-pump-600-million-into-china-expansion-6b8d0075",
+        "id": "WP-WSJ-0000986518"
+      },
+      {
+        "title": "Metals Tick Higher Amid Hopes of China Stimulus",
+        "description": "Base metals and gold prices were ticking higher in London, with hopes of post-Covid stimulus being introduced in China helping to negate the current downturn in demand for industrial goods.",
+        "link": "https://www.wsj.com/articles/gold-steady-amid-mixed-developments-585f3893",
+        "id": "WP-WSJ-0000986261"
+      }
+    ],
+    "date": "2023-06-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From heavenly city, Rome's palace of faith,\nHernia stroke down, the Pope in battle worn.\nYet jovial he standeth, merciful wraith,\n\"Still alive,\" the pontiff laughs, spirits unshorn.\n\nAmidst the realm, so Eurozone be named,\nThe balance bendeth 'twixt trades and holdings,\nIn Citi's eye, the market's course proclaimed,\nTo technical seas, each bond unfolding.\n\nIn halls of Tesco, sales abound and soar,\nAs Aegir blow, an 8.2% gale,\nTo year's full bounty, steadfastness they swore,\nWith lofty quest and journey unwrapped sail.",
+    "feedItems": [
+      {
+        "title": "Pope Francis Released From Hospital After Operation for Hernia",
+        "description": "The pontiff, 86, looked tired but cheerful as he greeted a gaggle of reporters outside a Rome hospital. “Still alive,” he said, when asked how he was.",
+        "link": "https://www.wsj.com/articles/pope-francis-released-from-hospital-after-operation-for-hernia-6f264c94",
+        "id": "WP-WSJ-0000986541"
+      },
+      {
+        "title": "Market Technicals Seen Driving Eurozone Bonds Near Term",
+        "description": "The ECB signaled its intentions with bond reinvestments, leaving the eurozone government bond market to be moved by technicals, such as supply-demand balance, Citi said.",
+        "link": "https://www.wsj.com/articles/further-ecb-rate-rise-unlikely-to-trigger-bearish-bond-market-reaction-bb8dd10b",
+        "id": "WP-WSJ-0000986488"
+      },
+      {
+        "title": "Tesco Backs Full-Year Views",
+        "description": "Tesco said its like-for-like group retail sales grew 8.2% in the first quarter of fiscal 2024, boosted by volumes and inflation, and reiterated its guidance for the full year.",
+        "link": "https://www.wsj.com/articles/tesco-1q-group-retail-lfl-sales-rose-8-2-backs-fy-2024-guidance-65568847",
+        "id": "WP-WSJ-0000986510"
+      }
+    ],
+    "date": "2023-06-16"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In fair Disney's realm a tempest brews,\nChristine McCarthy, with swan's song must yield,\nA clash of thine execs, conjures the news,\nExit nigh, associates gaze, perturb'd afield.\n\nFrom eastern shores, where dragons rise and sway,\nInfrastructure stocks ascend, a glint of gold,\nA rousing revelation doth pave the way,\nIn bonds of treasury, tales of growth foretold.\n\nAnd lo, fair Adena of Nasdaq's fame,\nIn quest of knowledge dark, her dealings wrought,\nGreat deals complete, defying stifling flame,\nA black belt earned, in battle fiercely fought.",
+    "feedItems": [
+      {
+        "title": "Disney CFO Clashed With Executives Before Stepping Down",
+        "description": "Christine McCarthy’s exit caught some colleagues and associates by surprise.",
+        "link": "https://www.wsj.com/articles/disney-finance-chief-christine-mccarthy-to-step-down-3ba5b1e8",
+        "id": "WP-WSJ-0000985383"
+      },
+      {
+        "title": "China Infrastructure Stocks Rise, Buoyed by Report of Coming Stimulus",
+        "description": "Hong Kong-listed infrastructure stocks rose after a report that Beijing is considering issuing $140 billion in special treasury bonds to finance infrastructure projects and other initiatives to boost economic growth.",
+        "link": "https://www.wsj.com/articles/china-infrastructure-stocks-rise-buoyed-by-report-of-coming-stimulus-87878396",
+        "id": "WP-WSJ-0000986447"
+      },
+      {
+        "title": "Nasdaq CEO Adena Friedman Pursues a Black Belt in Dealmaking",
+        "description": "She agreed to the largest deal in the company’s history. “I tend to take a competitive approach to life.”",
+        "link": "https://www.wsj.com/articles/nasdaq-ceo-adena-friedman-pursues-a-black-belt-in-dealmaking-ddf6df69",
+        "id": "WP-WSJ-0000984451"
+      }
+    ],
+    "date": "2023-06-16"
+  }
+]
