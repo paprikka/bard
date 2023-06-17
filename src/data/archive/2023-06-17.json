@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In fields of strife, where man doth vie,\nUkraine embarks, its banners ply,\nTorn soldiers Russian, prisoners nigh,\nA tale of war, these lands belies.\n\nWith heav'n's vault above in sigh,\nA worldwide tax entwines with lies,\nIn labyrinth Congress doth not try,\nAs tangled fate to man applies.\n\nAnd as the worldly news unfolds,\nA chorus of events untold,\nIn prose of goat and snail be told,\nThrough rabbit ears and dog's soft hold.",
+    "feedItems": [
+      {
+        "title": "Tattered and Bandaged, Russian POWs Describe Ukraine's Offensive",
+        "description": "The first battles in Ukraine’s big offensive, aimed at retaking land in the country’s south and east occupied by Russia, are yielding a steady flow of Russian prisoners.",
+        "link": "https://www.wsj.com/articles/tattered-and-bandaged-russian-pows-describe-ukraines-offensive-3ee8c7e3",
+        "id": "WP-WSJ-0000980119"
+      },
+      {
+        "title": "Global Tax Mess Awaits U.S. Companies, and Congress Isn't Helping",
+        "description": "The consequences of an international minimum-tax agreement are about to be felt.",
+        "link": "https://www.wsj.com/articles/global-tax-mess-awaits-u-s-companies-and-congress-isnt-helping-eec13f2c",
+        "id": "WP-WSJ-0000981655"
+      },
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-ef502b85",
+        "id": "SB11423793958218753988804590031891531407102"
+      }
+    ],
+    "date": "2023-06-17"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In fine quill, I take to script tales anew,\nOf coin and commerce, Business & Finance brew,\nTheir doings 'cross this boundless realm doth span,\nAnd gently blend into the balmy winds that fan\n\nWhen Fathers' Day arrives with sombre shade,\nFor Dads estranged, the pain cuts like a blade,\nIn hearts of love, held hostage by life's strife,\nThey yearn to mend the bond 'tween child and life\n\nO, glimpse the silver mirror of our days,\nAnd meet the countenance who greets thy gaze,\nA future self we oft forsake or bay,\nWith shortsight, impel our fates to farthest sway",
+    "feedItems": [
+      {
+        "title": "What's News: Business & Finance",
+        "description": "What’s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-ee74537c",
+        "id": "SB11423793958218753988804590031891277001922"
+      },
+      {
+        "title": "For Estranged Dads, Father's Day Is a Painful Reminder",
+        "description": "Divorce, cultural changes and communication problems can make it hard for men to repair their relationships with the children they love.",
+        "link": "https://www.wsj.com/articles/for-estranged-dads-fathers-day-is-a-painful-reminder-9fe72b8f",
+        "id": "WP-WSJ-0000938158"
+      },
+      {
+        "title": "The Benefits of Getting to Know Your Future Self",
+        "description": "Many of us feel little connection with the person we’ll be decades from now. That can lead to shortsighted behavior that hurts us in the long run.",
+        "link": "https://www.wsj.com/articles/the-benefits-of-getting-to-know-your-future-self-d3246744",
+        "id": "WP-WSJ-0000970255"
+      }
+    ],
+    "date": "2023-06-17"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In garments scarce, so sheer and thin,\nThe bravest maidens, baring skin,\nWhere sea-born gods and giants stride,\nTheir dresses whisper like the tide.\n\nAs thunderclouds anon arise,\nTo hide the sun from watching eyes,\nThe dread of battles fought once more,\nTrump and Biden stand ashore.\n\nAs crafty Loki, spawned by fire,\nMeta's journey doth inspire,\nZuckerberg with thoughts profound,\nSeeketh knowledge with no bound.",
+    "feedItems": [
+      {
+        "title": "Cutouts, Sheer Dresses, No Pants: How to Pull Off 'Naked Dressing'",
+        "description": "Barely there, see-through and otherwise skimpy outfits are dominating runways and red carpets. But you needn’t show all to try the trend. Here, expert advice on how to wear “naked” clothes chicly—even to work.",
+        "link": "https://www.wsj.com/articles/cutouts-sheer-dresses-no-pants-how-to-pull-off-naked-dressing-12f8d7f2",
+        "id": "WP-WSJ-0000954396"
+      },
+      {
+        "title": "No One Is Looking Forward to the 2024 Election",
+        "description": "Donald Trump and President Biden appear headed for a repeat of 2020, and many voters are dreading the prospect.",
+        "link": "https://www.wsj.com/articles/presidential-election-2024-biden-trump-2c1e9bcc",
+        "id": "WP-WSJ-0000988862"
+      },
+      {
+        "title": "Mark Zuckerberg Was Early in AI. Now Meta Is Trying to Catch Up.",
+        "description": "CEO Mark Zuckerberg has invested for more than a decade in academic discoveries about AI, even making them open for others to view and use. Now Meta is behind in making consumer products like ChatGPT.",
+        "link": "https://www.wsj.com/articles/mark-zuckerberg-was-early-in-ai-now-meta-is-trying-to-catch-up-94a86284",
+        "id": "WP-WSJ-0000987868"
+      }
+    ],
+    "date": "2023-06-17"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Pepper and Salt, a tale I tell,\nA seasoning dance, a savory spell,\nLike holy water, of wine and ale,\nBlessèd be, those flavors regale.\n\nDaniel Ellsberg, in God's embrace,\nLeaked Pentagon truths with courage and grace,\nAt ninety and two, hath met his fate,\nIn heaven's peace may his soul partake.\n\nA challenge for Biden's reign doth bloom,\nWith threats of dark AI, I assume,\nCurbing Chinese investments' plume,\nIn matters of state, a war to consume.",
+    "feedItems": [
+      {
+        "title": "Pepper...and Salt",
+        "description": "Pepper...and Salt",
+        "link": "https://www.wsj.com/articles/pepper-and-salt-9fa6bfe9",
+        "id": "SB11423793958218753988804590031813781851080"
+      },
+      {
+        "title": "Died: Daniel Ellsberg, 92, military analyst who leaked the Pentagon Papers.",
+        "description": "Died: Daniel Ellsberg, 92, military analyst who leaked the Pentagon Papers.",
+        "link": "https://www.wsj.com/articles/daniel-ellsberg-pentagon-papers-whistleblower-dies-at-92-489cb711",
+        "id": "WP-WSJ-0000988673"
+      },
+      {
+        "title": "The Biden administration is grappling with how to identify artificial intelligence that poses a threat to national security, as the U.S. moves to curb investment in advanced technology companies in China.",
+        "description": "The Biden administration is grappling with how to identify artificial intelligence that poses a threat to national security, as the U.S. moves to curb investment in advanced technology companies in China.",
+        "link": "https://www.wsj.com/articles/u-s-grapples-with-potential-threats-from-chinese-ai-7d1f2e70",
+        "id": "WP-WSJ-0000984127"
+      }
+    ],
+    "date": "2023-06-17"
+  }
+]
