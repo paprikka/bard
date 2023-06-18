@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Ænglish land, a labor camp lay,\nWhence ínnocent men travaileth hence,\nWith little mercy, no reprieve seen,\nIn Mordovia's dreary dwelling they pray.\n\nOld folk tend t'wards stocks with care,\nInvesting in dreams, they seek fortune's face,\nYet, ensnared, they clutch onto hope's vine,\nTwo-thirds in feats of gamble do dare.\n\nTo fair Beijing comes Blinken, sincere,\nEntreaties made for parley and peace,\nFor though Chínese paint urgent need hís,\nEach hath cause for détente to appear.",
+    "feedItems": [
+      {
+        "title": "Americans Describe Harsh Life in Russian Labor Camp",
+        "description": "Inmates of IK-17 in Russia’s Mordovia region struggle with hazardous work and meager medical care. It could be the next destination for jailed Wall Street Journal reporter Evan Gershkovich.",
+        "link": "https://www.wsj.com/articles/russias-grim-fashion-colony-americans-describe-harsh-life-in-remote-labor-camp-9324bb80",
+        "id": "WP-WSJ-0000966868"
+      },
+      {
+        "title": "Boomers Got Hooked on Stocks. Now They Can't Let Go.",
+        "description": "Nearly two-thirds of U.S. adults age 65 and older have money in stocks.",
+        "link": "https://www.wsj.com/articles/boomers-got-hooked-on-stocks-now-they-cant-let-go-8589ff74",
+        "id": "WP-WSJ-0000988510"
+      },
+      {
+        "title": "After Months of Cold Shoulder, China Welcomes Blinken to Beijing",
+        "description": "Chinese officials have painted the U.S. as most eager to meet, but have their own reasons for detente.",
+        "link": "https://www.wsj.com/articles/after-months-of-cold-shoulder-china-welcomes-blinken-to-beijing-84b51627",
+        "id": "WP-WSJ-0000990353"
+      }
+    ],
+    "date": "2023-06-18"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of faltering realms and work unbent,\nWhere companies in twilight dwell,\nAnd layoff's haunting ethers quell,\nAs looming storms o'er yonder swell.\n\nA hero's tale, a fame that whispers,\nOf Bob the Huggins, coach of misters,\nAnd yet despair doth grip him fast,\nFor vile arrest his name is lashed.\n\nA dreary strand by ignorant youth,\nIn newfound halls their manners proof,\nAs office ways they grasp but naught,\nA tale of woe and lessons taught.",
+    "feedItems": [
+      {
+        "title": "Lots of Hiring, but Not So Much Working",
+        "description": "Companies are resisting layoffs even as economic weakness looms.",
+        "link": "https://www.wsj.com/articles/lots-of-hiring-but-not-so-much-working-d4f01646",
+        "id": "WP-WSJ-0000987910"
+      },
+      {
+        "title": "Hall of Fame West Virginia Coach Bob Huggins Resigns Following Arrest",
+        "description": "His resignation, following an arrest on Friday, comes after an earlier incident in which he was suspended for using an antigay slur.",
+        "link": "https://www.wsj.com/articles/bob-huggins-west-virginia-resignation-dui-95fc3129",
+        "id": "WP-WSJ-0000990416"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "New graduates have absolutely no idea how to behave in the office",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-504a5c28",
+        "id": "SB10480284648127154415004590034440783978579"
+      }
+    ],
+    "date": "2023-06-18"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oh, haste no more to check thy coin,\nFor times be bleak, reflections dire,\nIn 401(k) gaze not thine eye,\nAs winter wolves bemoan the pyre.\n\nWhen sun did rise o’er Uganda fair,\nIn havens of the hallowed hall,\nIslay's allies slayed the young,\nAs chaos reigned in mortal fall.\n\nAnd in the western realm 'cross seas,\nThe state-by-state, a guide does loom,\nWhere life begins, or cease to be,\nAbortion's legal dance of doom.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "Why this is a bad time to check your 401(k)",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-592208fc",
+        "id": "SB10480284648127154415004590034271933942610"
+      },
+      {
+        "title": "Suspected Islamic State Allies Kill at Least 37 High-School Students in Uganda",
+        "description": "Three adults were also killed as gunmen attacked a private boarding school near the East African country’s border with eastern Congo.",
+        "link": "https://www.wsj.com/articles/suspected-islamic-state-allies-kill-at-least-37-high-school-students-in-uganda-1ec05881",
+        "id": "WP-WSJ-0000989820"
+      },
+      {
+        "title": "Where Is Abortion Legal in the U.S.? A State-by-State Guide to Abortion Access",
+        "description": "Abortion access in the U.S. has changed considerably since the Supreme Court overturned Roe v. Wade. Track where abortion is now legal, banned or under threat.",
+        "link": "https://www.wsj.com/articles/where-is-abortion-legal-in-the-u-s-a-state-by-state-guide-to-abortion-access-c691d21c",
+        "id": "SB10853416872274844013304590034091216261932"
+      }
+    ],
+    "date": "2023-06-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "When banks of the west collapsed, array,\nThe loyal goats their stock did trust,\nSacrificed and now dismayed,\nWorkers of the California dust.\n\nOff his caper of yore, Biden,\nLike rabbit's fruitful brood, a sign,\nWith throngs of labor, nighted kin,\nHis blessing to serenade define.\n\nAbove a snail's pace now, I-95,\nHaste brings bridge and travelers,\nGovernor plans a lively jive,\n'Neath the river's watchful purlers.",
+    "feedItems": [
+      {
+        "title": "When SVB and First Republic Collapsed, So Did Their Employees' Investments",
+        "description": "Workers at the failed California banks plowed their money into company stock.",
+        "link": "https://www.wsj.com/articles/when-svb-and-first-republic-collapsed-so-did-their-employees-investments-4d426c95",
+        "id": "SB10853416872274844013304590034042341938382"
+      },
+      {
+        "title": "Biden Touts Job Growth in First Re-Election Campaign Rally",
+        "description": "The Democratic president spoke before the AFL-CIO, which has given him a historically early endorsement.",
+        "link": "https://www.wsj.com/articles/biden-touts-job-growth-in-first-re-election-campaign-rally-9337f3c2",
+        "id": "WP-WSJ-0000990116"
+      },
+      {
+        "title": "Collapsed I-95 Overpass in Philadelphia to Reopen in Two Weeks",
+        "description": "A temporary fix will allow vehicles to use the busy highway while engineers work on a permanent solution, the governor says.",
+        "link": "https://www.wsj.com/articles/collapsed-i-95-overpass-in-philadelphia-to-reopen-in-two-weeks-d3883f2d",
+        "id": "WP-WSJ-0000990089"
+      }
+    ],
+    "date": "2023-06-18"
+  }
+]
