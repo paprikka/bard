@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon mighty seas of commerce, fair Copper's vessel teeters,\nFor now, the sacred dragon's bank convenes for fateful meeting,\nGathered thoughts be like the storms, upon their brows, to weather,\nBase metals ebb and flow, whilst China's might prepares for leeching.\n\nIn halls where Shores of Silicon do rule o'er coin and trade,\nThe serpent SVB divests herself of Securities most vaunted,\nThus, Leerink Partners' mighty strength returns in swift cascade,\nBy leaders' hands, their fate is sealed, the path of change anointed.\n\nThrough lands and seas, the morrows hold uncertain tides for all,\nThe chambers of the FTSE 100, bore witness to decline,\nFrom distant shores, as East's great skin, as dragon scales, thus fall,\nAnd prudent traders shiver, as harbingers of fate intertwine.",
+    "feedItems": [
+      {
+        "title": "Copper Weakens Ahead of China Central Bank Meeting",
+        "description": "Copper prices slipped and other base metals were mixed, as traders nervously awaited a Chinese central bank meeting on Tuesday at which officials are broadly expected to cut interest rates to support the economy following a stretch of weak data releases.",
+        "link": "https://www.wsj.com/articles/gold-steady-supported-by-hopes-for-less-fed-tightening-7e37c39c",
+        "id": "WP-WSJ-0000990941"
+      },
+      {
+        "title": "SVB Securities to Be Acquired in Management Buyout",
+        "description": "The investment-banking business tied to Silicon Valley Bank will go back to being called Leerink Partners.",
+        "link": "https://www.wsj.com/articles/svb-securities-to-be-acquired-in-management-buyout-dc9ec4ca",
+        "id": "WP-WSJ-0000991104"
+      },
+      {
+        "title": "FTSE 100 Falls After Asia Stocks Decline",
+        "description": "The FTSE 100 fell 0.3% in early trading, tracking declines in Asian equities as concerns over China’s economic outlook weighed on sentiment.",
+        "link": "https://www.wsj.com/articles/nikkei-edges-0-2-lower-on-possible-profit-taking-c6630536",
+        "id": "WP-WSJ-0000990923"
+      }
+    ],
+    "date": "2023-06-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands afar where dragons dwell,\nAnd fears of China's stats dispel,\nThe darkened oil doth bend and quell,\nFor hope's swift flight, none can foretell.\n\nAs Sterling rises, bold and free,\nIn RBC's sagacious decree,\nTo sell the Euro as they see,\nEre'r moves the BOE grand spree.\n\nA wondrous deal hath Michelin sought,\nWith Flex Composite, dearly bought,\nFor €700 million wrought,\nShall earnings margin grace, they thought.",
+    "feedItems": [
+      {
+        "title": "Oil Dips on China Growth Fears",
+        "description": "Oil prices fell as investors continued to worry about the Chinese economy, with recent weak data undermining hopes that China’s postpandemic recovery would boost demand for crude.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-in-likely-technical-correction-3176555b",
+        "id": "WP-WSJ-0000990931"
+      },
+      {
+        "title": "RBC Advises Selling Euro Vs Sterling Ahead of BOE Decision",
+        "description": "Sterling could rise as the BOE’s meeting Thursday might prompt the market to raise its U.K. interest rate expectations, RBC Capital Markets said, advising selling EUR/GBP, targeting 0.8370 and placing a stop loss at 0.8600.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-mild-risk-off-sentiment-1ef04a79",
+        "id": "WP-WSJ-0000990958"
+      },
+      {
+        "title": "Michelin Buys High-Tech Fabrics Engineer",
+        "description": "Michelin has acquired Flex Composite from private-equity firm IDI for €700 million, expecting the deal to gradually increase its underlying earnings margin.",
+        "link": "https://www.wsj.com/articles/michelin-buys-flex-composite-group-from-idi-for-766-mln-722f6909",
+        "id": "WP-WSJ-0000991099"
+      }
+    ],
+    "date": "2023-06-19"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In lands afar or potentate's zone,\nIn ten-year Bunds, yields descendeth lone,\nTwo to five, the range Morgan chime,\nGerman gales doth blow, lower realms soon climb.\n\nAloft betide the dauntless MTU,\nMargin rise, in winds they steer anew,\nEight hundred millions in twenty-three,\nHarbinger of aero splendor, free.\n\nWinds apropos amid AI and Fed,\nBy tech-stock force, discord begets dread,\nIn night-gloaming are we vestiges,\nOr dawn's break, betwixt dreams and hedges?",
+    "feedItems": [
+      {
+        "title": "Ten-Year Bund Yield Seen Falling Toward Bottom of Range In Coming Months",
+        "description": "Ten-year German Bund yields are expected to fall to the lower end of the 2%-2.5% trading range over the coming months, Morgan Stanley said, affirming its previous expectations.",
+        "link": "https://www.wsj.com/articles/german-10-year-bund-yield-unlikely-to-rise-to-2-75-or-above-1c3368de",
+        "id": "WP-WSJ-0000991088"
+      },
+      {
+        "title": "MTU Aero Lifts Operating Margin Guidance",
+        "description": "MTU Aero Engines said it expected adjusted earnings for 2023 above €800 million, equivalent to a slight increase in the 12.3% margin it booked last year, based on expectations regarding its future business development.",
+        "link": "https://www.wsj.com/articles/mtu-aero-engines-lifts-2023-view-62821463",
+        "id": "WP-WSJ-0000991085"
+      },
+      {
+        "title": "Tech-Stock Boom Pits AI Against the Fed",
+        "description": "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger.",
+        "link": "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965",
+        "id": "WP-WSJ-0000989074"
+      }
+    ],
+    "date": "2023-06-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Ukraine's fight, brave knights they be,\nBattle with Rus, their might they'll see,\nForth comes the test, readiness calls,\nWinter shall prove the stoutest of all.\n\nIn Eastern realm, 'tis China's feat,\nTheir gin-horses frail, recovery wanes,\nYet, fruitless aid to merchants' reach,\nFor Beijing's touch, leaves little gains.\n\nYon transatlantic, care divide,\nA schism betwixt Europe and the States,\nIn gender's strife, caution they trade,\nAs knights of Red use 'fore thine gates.",
+    "feedItems": [
+      {
+        "title": "Ukraine's Offensive Is a Battle of Readiness",
+        "description": "The coming battles with Russian troops ultimately will boil down to which side has better prepared and strengthened over recent months.",
+        "link": "https://www.wsj.com/articles/ukraines-offensive-is-a-battle-of-readiness-e26d3825",
+        "id": "WP-WSJ-0000987969"
+      },
+      {
+        "title": "These Businesses Are Getting Hit Hard by China's Faltering Economic Recovery",
+        "description": "The government in Beijing has pushed banks to extend loans to small businesses, with limited success.",
+        "link": "https://www.wsj.com/articles/chinas-small-businesses-are-hit-hard-as-economic-recovery-falters-a3548a7d",
+        "id": "WP-WSJ-0000986598"
+      },
+      {
+        "title": "U.S. Becomes Transgender-Care Outlier as More in Europe Urge Caution",
+        "description": "Republicans seize on European doubts over medical interventions to call for restrictions.",
+        "link": "https://www.wsj.com/articles/u-s-becomes-transgender-care-outlier-as-more-in-europe-urge-caution-6c70b5e0",
+        "id": "WP-WSJ-0000990651"
+      }
+    ],
+    "date": "2023-06-19"
+  }
+]
