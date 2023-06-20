@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of markets bright, a tale I sing,\nThe FTSE hath climbed, on eagle's wing.\nWhen Yanks from feast their gaze did cast,\nTo reckon rates, afore they're past.\n\nIn German lands, a yield doth dwell,\nSchatz, it be called, reveals doth tell.\nRise scarce, they say, from current state,\nBy UniCredit, 'tis ornate.\n\nAs metals dance 'pon shifting stage,\nUncertain winds do twist and rage.\nGold's luster dimmed, the fates perplexed,\nYet hope doth brew, in trades unhexed.",
+    "feedItems": [
+      {
+        "title": "FTSE 100 Rises After Initial Losses as US Traders Return From Holiday",
+        "description": "The FTSE 100 managed to edge higher, recovering from opening losses, with the focus already shifting to Thursday’s BOE rate decision.",
+        "link": "https://www.wsj.com/articles/nikkei-falls-0-3-tracking-global-equity-market-weakness-14d8aa61",
+        "id": "WP-WSJ-0000992426"
+      },
+      {
+        "title": "German Two-Year Schatz Yield Unlikely to Rise Much from Current Levels",
+        "description": "The two-year German Schatz yield is trading at around 3.15% after rising roughly 40 basis points this month, aligning with UniCredit Research’s target for the end of September and leaving limited room for further rise.",
+        "link": "https://www.wsj.com/articles/german-10-year-bund-yield-seen-lacking-upward-momentum-7578ad08",
+        "id": "WP-WSJ-0000992785"
+      },
+      {
+        "title": "Metals Mixed Amid Uncertain Macro Sentiment",
+        "description": "Base metals were mixed with gold a touch lower as the macroeconomic outlook remained uncertain, said Peak Trading Research.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-may-remain-range-bound-2c9e0c30",
+        "id": "WP-WSJ-0000992457"
+      }
+    ],
+    "date": "2023-06-20"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Lanxess in strife, a warning dire,\nIts shares did tumble, year-end earnings drear,\nTheir path of M&A now mired in muck,\nThe goats of fortune wander, out of luck.\n\nIn Europe's grasp, with China risks to pare,\nA strategy unveiled, yet ties not tear,\nLike rabbits cautious, trade they navigate,\nThe snail of caution slow, but safe their gait.\n\nThe dollar stood, with nary a rise or fall,\nThe Fed held back its rate, a quiet call,\nNo leaps as dogs nor swiftness as the hare,\nMomentum lost, yet steady, like the snail they fare.",
+    "feedItems": [
+      {
+        "title": "Lanxess Slides on Profit Warning",
+        "description": "Lanxess shares dropped sharply after it downgraded its year-end earnings expectations, with some analysts questioning the success of the chemical company’s M&A strategy.",
+        "link": "https://www.wsj.com/articles/lanxess-shares-slide-after-slashing-2q-2023-earnings-expectations-55ee01db",
+        "id": "WP-WSJ-0000992852"
+      },
+      {
+        "title": "Europe Aims to Cut China Risks, Not China Ties",
+        "description": "The European Union is set to release an economic-security strategy aimed largely at reducing the risks in its trade relationship with Beijing.",
+        "link": "https://www.wsj.com/articles/europe-aims-to-cut-china-risks-not-china-ties-895c8769",
+        "id": "WP-WSJ-0000992225"
+      },
+      {
+        "title": "Dollar Loses Upward Momentum After Fed Skips Rate Rises",
+        "description": "The dollar was flat in Europe and MUFG Bank said the currency has lost upward momentum after the Fed skipped raising interest rates last week for the first time in more than a year.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-amid-risk-off-sentiment-2d5c6607",
+        "id": "WP-WSJ-0000992557"
+      }
+    ],
+    "date": "2023-06-20"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "O'er oil seas there lies a trade,\nWhence China's central banks persuade,\nYet Europe's prices bear no change,\nFrom cuts foreseen, as but a stage.\n\nIn Alibaba's throne doth rise,\nA new king seen with loyal eyes,\nThe Brooklyn Nets' own Joe Tsai,\nReplaces Zhang, who waves goodbye.\n\nBeside Stellantis doth Foxconn stand,\nTo venture forth in equal hand,\nAnd forge the blessed chips they sell,\nFor cars with volts, their tales to tell.",
+    "feedItems": [
+      {
+        "title": "Oil Shrugs Off China Rate Cuts",
+        "description": "Oil prices were largely unchanged in Europe, showing little reaction to a rate cut from China’s central bank which was widely expected.",
+        "link": "https://www.wsj.com/articles/oil-falls-potential-china-stimulus-in-focus-c43fc332",
+        "id": "WP-WSJ-0000992551"
+      },
+      {
+        "title": "Alibaba Is Replacing Chairman and CEO Daniel Zhang",
+        "description": "Alibaba is replacing top executive Daniel Zhang by naming company veteran and Brooklyn Nets owner Joe Tsai as the new chairman.",
+        "link": "https://www.wsj.com/articles/alibaba-says-joseph-tsai-to-take-over-as-chairman-succeeding-daniel-zhang-3bdf7a9",
+        "id": "WP-WSJ-0000992684"
+      },
+      {
+        "title": "Stellantis, Foxconn Form Chip Venture",
+        "description": "Stellantis and Foxconn are joining forces to create a new equally-owned business that will sell semiconductors to the automotive industry, particularly for EVs.",
+        "link": "https://www.wsj.com/articles/stellantis-foxconn-team-up-to-sell-chips-for-auto-industry-29b57670",
+        "id": "WP-WSJ-0000992753"
+      }
+    ],
+    "date": "2023-06-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "By Odin's hand, a tale I weave,\nOf far-off island where banks doth cleave,\nNew Zealand's shores, an inquiry announced,\nProfit and competition, now thrice renounced.\n\nAs dragons soar in skies of worth,\nIn Silicon Valley, a beast giveth birth,\nA unicorn rare, in Earth's deep heart,\nKoBold Metals, Gates doth start.\n\nHark! To East, a land of jade,\nWhere forts of commerce, China made,\nBorrowing rates cut, strive for renewal,\nYet uncertain chains, bind the sinew.",
+    "feedItems": [
+      {
+        "title": "New Zealand Government to Probe Banking Competition",
+        "description": "New Zealand authorities have announced an investigation into profitability and competition in its banking sector amid concerns that lenders have made large profits while customers are managing cost-of-living pressures.",
+        "link": "https://www.wsj.com/articles/new-zealand-government-to-probe-banking-competition-862109a9",
+        "id": "WP-WSJ-0000992729"
+      },
+      {
+        "title": "Silicon Valley's Newest Unicorn Is a Mining Company",
+        "description": "Bill Gates and other tech-industry investors are backing AI-powered startup KoBold Metals.",
+        "link": "https://www.wsj.com/articles/silicon-valleys-newest-unicorn-is-a-mining-company-9d22ea6c",
+        "id": "WP-WSJ-0000991725"
+      },
+      {
+        "title": "China Cuts Borrowing Rates Again in Bid to Juice Recovery",
+        "description": "Economists say that more drastic measures may be needed, with debt and uncertainty continuing to weigh on consumers’ willingness to spend.",
+        "link": "https://www.wsj.com/articles/china-cuts-borrowing-rates-again-in-bid-to-juice-recovery-466b1d90",
+        "id": "WP-WSJ-0000992642"
+      }
+    ],
+    "date": "2023-06-20"
+  }
+]
