@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Chinas boon in wine of tax so sweet,\nFor carriages electric, they promote,\nA bounty fair, for four years shall it meet,\nTo guide the folk in this new path remote.\n\nA tale, alas, of FTSE's woeful fall,\nAs housebuilders lament with bitter groan,\nThe rise of rates ignites a dreary pall,\nThe mortgage-held in darkness, left alone.\n\nTo gold's exalted state we turn our eyes,\nThrough years of turmoil and uncertain gales,\nFor when the Fed's rate-hiking path doth lie,\nThis precious shade shall shine o'er fleeting tales.",
+    "feedItems": [
+      {
+        "title": "China Rolls out $72 Billion in Tax Breaks for New-Energy Vehicles",
+        "description": "China unveiled a package of tax breaks aimed at boosting the purchase of electric vehicles over the next four years.",
+        "link": "https://www.wsj.com/articles/china-rolls-out-72-billion-in-tax-breaks-for-new-energy-vehicles-over-next-four-years-eefd299",
+        "id": "WP-WSJ-0000996193"
+      },
+      {
+        "title": "FTSE 100 Falls as UK Inflation Data Fuel Rate-Rise Bets",
+        "description": "The FTSE 100 fell 0.4%, led by housebuilders, as the inflation data fuelled expectations about further BOE rate rises, which would add to the squeeze on mortgage holders and dampen demand in the property market, Interactive Investors said.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-pull-back-from-two-month-high-5e4a88d",
+        "id": "WP-WSJ-0000995339"
+      },
+      {
+        "title": "Gold to Remain Elevated in 2023 and 2024 as Fed Nears End of Hiking Cycle",
+        "description": "Gold prices are likely to stay high through 2023 and into 2024, with a combination of global financial instability and with the Fed coming to the end of its interest-rate hiking cycle likely to bolster prices, Fitch said.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-in-likely-technical-rebound-e5552d56",
+        "id": "WP-WSJ-0000995737"
+      }
+    ],
+    "date": "2023-06-21"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon Sterling's sea, a tempest rose,\nAs Loki's whispers crept in foes,\nInflation's tide of numbers waned,\nYet interest harken'd unto gains.\n\nThen blackened clouds sail o'er the oil,\nUpon fierce waves where trade doth boil,\nA twisted path where signals mixed,\nIn Europe's grasp, a tempest fix'd.\n\nOf Euro bonds, far-reaching bough,\nOn Gilt yields gripped by upheaval's plow,\nWith voracious maw, now UK consumes,\nAs Fates with debts thus seal our dooms.",
+    "feedItems": [
+      {
+        "title": "Sterling Erases Initial Gains After UK Inflation Data",
+        "description": "Sterling erased its initial gains after the higher-than-expected U.K. inflation data, reflecting the market’s already aggressive interest-rate rise expectations for the BOE, ING said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-fed-chair-powells-testimony-c52439a8",
+        "id": "WP-WSJ-0000995807"
+      },
+      {
+        "title": "Oil Edges Up Amid Mixed Signals",
+        "description": "Oil prices edged up in Europe, continuing a stretch of sideways trading as the market is caught between conflicting demand drivers.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-amid-risk-off-sentiment-57712f2f",
+        "id": "WP-WSJ-0000995704"
+      },
+      {
+        "title": "Eurozone Government Bond Yields Rise After UK Inflation Data",
+        "description": "Eurozone government bond yields rose, tracking sharp gains for gilt yields on the higher-than-expected U.K. inflation data, which makes further BOE rate increases more likely, feeding through into European bond moves.",
+        "link": "https://www.wsj.com/articles/greek-german-spread-could-tighten-to-120bps-after-elections-782a8838",
+        "id": "WP-WSJ-0000996092"
+      }
+    ],
+    "date": "2023-06-21"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In depths below, a search so dire,\nFor missing sub, a sound doth ring.\nCanadian craft, to find and tire,\nTime runs short, for air is thin.\n\nA price unchanged, yet high it stands,\nIn U.K.'s grasp, inflation steady,\nThe BOE, with firm command,\nMust tame the rise, their plans be ready.\n\nFrom May's embrace, new cars ascend,\nIn Europe's land, sales leap and bound.\nElectric steeds, their share extend,\nYet still below, what once was found.",
+    "feedItems": [
+      {
+        "title": "Noises Detected in Hunt for Missing Titanic Submersible",
+        "description": "Canadian aircraft detected underwater noises in the search for a missing submersible, the U.S. Coast Guard said, as the clock ticks down in the race to find the crew before their air supply runs out.",
+        "link": "https://www.wsj.com/articles/noises-detected-in-hunt-for-missing-titanic-submersible-81e45067",
+        "id": "WP-WSJ-0000996088"
+      },
+      {
+        "title": "UK Inflation Unexpectedly Holds Steady",
+        "description": "Consumer prices in the U.K. were 8.7% higher in May, unchanged from April but above expectations, while core prices also rose, a troubling development for the BOE in its efforts to curb inflation.",
+        "link": "https://www.wsj.com/articles/uk-inflation-unexpectedly-held-steady-in-may-as-core-rate-rose-665c7d60",
+        "id": "WP-WSJ-0000996086"
+      },
+      {
+        "title": "Europe New Car Sales Jump in May",
+        "description": "New car registrations in Europe rose 18.5% from last May, with battery-electric vehicles taking a bigger market share, but total year-to-date sales remained 23% lower than pre-pandemic levels.",
+        "link": "https://www.wsj.com/articles/europe-new-car-sales-rose-18-5-in-may-electric-vehicles-take-larger-share-e6a9a5b6",
+        "id": "WP-WSJ-0000996072"
+      }
+    ],
+    "date": "2023-06-21"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In sky-bound chariots, divesting with haste,\nLufthansa bequeaths its payments to grace.\nAirPlus thou leavest at SEB's door,\n€450 million, a fortune to hoard.\n\nThe steward of SoftBank, Son of the Sun,\nDevoting himself, where visions begun.\nAmidst tears of hope yet, the AI revolution,\nHis life's creed anew, seeking the grandest solution.\n\nBeneath cold waters, where Titanic lies,\nA quest unforeseen, for time shall defy.\nFive souls adrift in a submersible lost,\nRescue crews race, a mighty tempest they cross.",
+    "feedItems": [
+      {
+        "title": "Lufthansa Divests Payments Business",
+        "description": "Lufthansa has agreed to sell its payments specialist AirPlus to SEB for €450 million and said it expected the deal to have a positive effect on its adjusted operating margin and return on capital.",
+        "link": "https://www.wsj.com/articles/lufthansa-sells-payment-specialist-airplus-to-seb-for-491-mln-61d60154",
+        "id": "WP-WSJ-0000996065"
+      },
+      {
+        "title": "Masayoshi Son Wants SoftBank to Lead the AI Revolution",
+        "description": "The CEO said he was devoting himself to artificial intelligence and new inventions after what he described as a tear-filled rethinking of his life’s mission.",
+        "link": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+        "id": "WP-WSJ-0000996038"
+      },
+      {
+        "title": "Rescue Crews Race Against Time to Locate Missing Titanic Sub",
+        "description": "U.S. and Canadian ships and planes worked to try to locate a missing submersible carrying five people that disappeared days earlier on a mission to see the deep-sea remains of the Titanic shipwreck.",
+        "link": "https://www.wsj.com/articles/titanic-missing-tourist-submersible-rescue-oceangate-eb15695f",
+        "id": "WP-WSJ-0000992934"
+      }
+    ],
+    "date": "2023-06-21"
+  }
+]
