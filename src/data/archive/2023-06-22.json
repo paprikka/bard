@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Oil’s descent, a tale I tell,\nIn far-off lands, the prices quell,\nWith weakened strength, supply unveiled,\nDemand in China wakes unveiled.\n\nAlas, the Dollar, weak and worn,\nRisks tumbling down, a fall forlorn,\nThine Powell speaks, yet hawks don't soar,\nAnd market bears a single moor.\n\nIn Philippines, a story grand,\nThe Central Bank lets rates e'er stand,\nThough fire inflates, its heat does wane,\nSoutheast, they find a stable reign.",
+    "feedItems": [
+      {
+        "title": "Oil Drifts Lower Amid Larger-Than-Expected Supply",
+        "description": "Oil prices drifted lower in Europe, as global macroeconomic weakness and hidden supply rises helped offset recent cuts to output from OPEC and better demand in China.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-losses-likely-to-be-limited-f4c435a2",
+        "id": "WP-WSJ-0000999702"
+      },
+      {
+        "title": "Dollar Weak After Powell Comments, Could Fall Further",
+        "description": "The dollar remained under presssure and MUFG said it risks falling further, as the absence of a more hawkish message from Powell means the U.S. rate market is comfortable to price in only one further hike at this stage.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-mixed-developments-354c4bac",
+        "id": "WP-WSJ-0000999769"
+      },
+      {
+        "title": "Philippine Central Bank Holds Rates on Inflation Downtrend",
+        "description": "The Philippine central bank kept its benchmark interest rate unchanged amid signs of easing inflation in the Southeast Asian nation.",
+        "link": "https://www.wsj.com/articles/philippine-central-bank-holds-rates-on-inflation-downtrend-8590128d",
+        "id": "WP-WSJ-0001000148"
+      }
+    ],
+    "date": "2023-06-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of satellites and battles in the sky,\nTwo firms endeth talks for unity,\nTo stand 'gainst Musk's celestial supply,\nA thwarted chance for grand opportunity.\n\nAlas, in London weak doth gold appear,\nAs Chinese craving seems to slow their pace,\nYet stronger were their sales within the year,\nNow focus shifts upon their market's grace.\n\nOlde bridges struck by Ukraine's fiery might,\nIn efforts to reclaim lost territories,\nAgainst the Moscovite, a valiant fight,\nTo alter ever-lasting histories.",
+    "feedItems": [
+      {
+        "title": "Rival Satellite Firms End Talks",
+        "description": "SES said it has ended talks with peer Intelsat about a possible combination, a deal that would have sought to position them better to compete with Elon Musk’s Starlink satellite-internet service.",
+        "link": "https://www.wsj.com/articles/ses-intelsat-end-merger-talks-d1ce57c4",
+        "id": "WP-WSJ-0001000075"
+      },
+      {
+        "title": "Gold Slips as Attention Turns to China Demand",
+        "description": "Gold prices were weaker in London as attention shifted to Chinese buying, which seems to be slowing down after strong sales earlier this year.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-in-likely-position-adjustment-baa0717f",
+        "id": "WP-WSJ-0000999695"
+      },
+      {
+        "title": "Ukraine Strikes Bridge Supplying Russian Troops",
+        "description": "The attack threatens to undermine Moscow’s hold in the south of Ukraine as Kyiv presses an offensive to retake lost territory.",
+        "link": "https://www.wsj.com/articles/ukraine-strikes-bridge-supplying-russian-troops-56564b0b",
+        "id": "WP-WSJ-0001000085"
+      }
+    ],
+    "date": "2023-06-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the eve of festive cheer,\nIn China's realm did doom appear;\nA blast at feast, by gas unleashed,\nDid claim its toll, as Xi beseeched.\n\nTo keep their coin and realm secure,\nIn Indonesia, banks endure;\nSteadfast the rupiah's stride,\nAs whispers of inflation die.\n\nIn noble Paris, leaders meet,\nTo quell disparity's dark fleet;\nMacron dost call, with fervent plea,\nA greener path for lands in need.",
+    "feedItems": [
+      {
+        "title": "Explosion at Barbecue Restaurant in China Kills 31 on Eve of Holiday",
+        "description": "Chinese leader Xi Jinping ordered stricter safety controls after the gas explosion in Ningxia.",
+        "link": "https://www.wsj.com/articles/explosion-at-barbecue-restaurant-in-china-kills-31-on-eve-of-holiday-b8bf920a",
+        "id": "WP-WSJ-0001000060"
+      },
+      {
+        "title": "Bank Indonesia Maintains Benchmark Rate as Expected",
+        "description": "Indonesia’s central bank stood pat as expected during its June policy meeting as it kept the rupiah stable and as inflationary pressures have eased.",
+        "link": "https://www.wsj.com/articles/bank-indonesia-maintains-benchmark-rate-as-expected-18320fd6",
+        "id": "WP-WSJ-0001000112"
+      },
+      {
+        "title": "Widening Wealth Gap Drives Talks for Green Finance Pact at Paris Summit",
+        "description": "French President Emmanuel Macron is hosting world leaders this week in a bid to overhaul financing for better environmental and development goals in poor countries.",
+        "link": "https://www.wsj.com/articles/widening-wealth-gap-drives-talks-for-green-finance-pact-at-paris-summit-ac69b468",
+        "id": "WP-WSJ-0000997139"
+      }
+    ],
+    "date": "2023-06-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon yon Aegon's lofty aims, in sooth,\nA bounteous claim of gain they doth decree,\nBy focusing their strategy, forsooth,\nOn US unit's earnings, fortunes free.\n\nIn midst of turmoil, sturdy DS Smith,\nExceeds the hopes, adjusted earnings high,\nWith pounds eight hundred sixty-one forsooth,\nIn trade as smooth as aged wine doth lie.\n\nTo East the sun hath cast a golden glow,\nAs Nippon's progress strides o'er reform's stage,\nGoldman doth praise the Topix lift, ye know,\nAs twelve months hence the gainful climb presage.",
+    "feedItems": [
+      {
+        "title": "Aegon Outlines 2025 Targets",
+        "description": "Aegon said it aimed to increase its operating capital to around €1.2 billion in 2025, focusing its new strategy on boosting its U.S. unit’s earnings.",
+        "link": "https://www.wsj.com/articles/aegon-targets-1-32-bln-in-operating-capital-generation-in-2025-on-us-transformation-94ff05d0",
+        "id": "WP-WSJ-0001000054"
+      },
+      {
+        "title": "DS Smith Trading as Expected After Full-Year Tops Hopes",
+        "description": "DS Smith reported above-forecast adjusted earnings of £861 million in 2023 and said current trading was in line with its expectations despite volatile economic conditions and lower than normal box volumes.",
+        "link": "https://www.wsj.com/articles/ds-smith-fy-2023-pretax-profit-rose-as-price-increases-offset-lower-volumes-7af164fc",
+        "id": "WP-WSJ-0001000056"
+      },
+      {
+        "title": "Japan's Reform Progress Could Boost Topix to 2500 in 12 Months, Goldman Says",
+        "description": "Japan’s reform progress is likely to boost the Topix index to 2500 in 12 months, Goldman Sachs said.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-soft-open-2562e22e",
+        "id": "WP-WSJ-0000999396"
+      }
+    ],
+    "date": "2023-06-22"
+  }
+]
