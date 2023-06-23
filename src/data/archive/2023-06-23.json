@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of metals slypp'ry, and the dollar stout,\nIn hawkish gaze doth Fed instill their clout;\nAs gold stay flat, base metals bow with strength,\nGod's will revealed in currency at length.\n\nIn oil doth fall, as global rates arise,\nThe cost to hold grows dear, producers wise;\nFor commodities, less appetite appear,\nA tale that whispers in the ale-fed ear.\n\nSiemens Energy, untimely recompense,\nAfter scrapping outlook, profits hence;\nA wind-turbine failure, dire rates do soar,\nAs monks, within God's grace, we do implore.",
+    "feedItems": [
+      {
+        "title": "Metals Slip Amid Dollar Strength",
+        "description": "Base metals were weaker with gold flat, as a hawkish outlook from the Fed continued to boost haven assets like the dollar.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-amid-slightly-lower-treasury-yields-b418a479",
+        "id": "WP-WSJ-0001003470"
+      },
+      {
+        "title": "Oil Falls as Global Interest Rates Rise",
+        "description": "Oil prices fell for a second day as higher interest rates globally increased the cost of holding oil and was pushing producers to sell off their stocks, ANZ said, adding that easing inflation was reducing appetite for commodities.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-weighed-by-bigger-than-expected-inventory-reduction-b392d84d",
+        "id": "WP-WSJ-0001003493"
+      },
+      {
+        "title": "Siemens Energy Plummets After Scrapping Outlook",
+        "description": "UPDATED: Siemens Energy said it was withdrawing its profit guidance for fiscal 2023 due to an extended technical review triggered after a substantial increase in wind-turbine component failure rates.",
+        "link": "https://www.wsj.com/articles/siemens-energy-shares-plummet-after-withdrawing-fiscal-2023-profit-guidance-613a5eb3",
+        "id": "WP-WSJ-0001003852"
+      }
+    ],
+    "date": "2023-06-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of troubled Gamesa, woes untold we sing,\nSiemens doth rue the fates of wind's swift wings,\nWithdrawn their hopes for profits forecast,\nIn technical review, errors amassed.\n\nIn waters deep, where Titan made its quest,\nThe U.S. Navy's ear did find unrest,\nA dreadful sound, an implosion surmised,\nTheir listening tools, strange mystery comprised.\n\nSpeak I of coin, that dances 'pon the shore,\nThe dollar strengthened, 'gainst rate hikes implored,\nWith Powell's words, economy revealed,\nInflation's grip, the careful hopes concealed.",
+    "feedItems": [
+      {
+        "title": "Siemens Energy Scraps Outlook on Further Gamesa Problems",
+        "description": "Siemens Energy said it was withdrawing its profit guidance for fiscal 2023 due to an extended technical review triggered after a substantial increase in wind-turbine component failure rates.",
+        "link": "https://www.wsj.com/articles/siemens-energy-withdraws-fy-2023-profit-guidance-after-siemens-gamesa-technical-review-46c13679",
+        "id": "WP-WSJ-0001003781"
+      },
+      {
+        "title": "U.S. Navy Heard What It Believed Was Implosion of Submersible Days Ago",
+        "description": "Underwater microphones designed to detect enemy submarines first heard the suspected implosion just hours after the Titan began its voyage.",
+        "link": "https://www.wsj.com/articles/u-s-navy-heard-what-it-believed-was-implosion-of-titan-days-ago-8ce8c7c7",
+        "id": "SB10898100365614673945104590045014047847310"
+      },
+      {
+        "title": "Dollar Strengthens on Prospects of More Rate Increases, Solid Economy",
+        "description": "The dollar strengthened broadly after Jerome Powell said interest rates were likely to rise further, noting that inflation and economic activity haven’t slowed this year as much as many officials had anticipated.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-on-prospect-of-verbal-intervention-ee9d6902",
+        "id": "WP-WSJ-0001003545"
+      }
+    ],
+    "date": "2023-06-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Thyssenkrupp Nucera I sing, a tale\nOf wealth and worth upon the market's gale;\nTheir IPO doth sail, a lofty quest,\nTo Frankfurt's shores by €19-21.5 blest.\n\nIn Var Energi and Eni's hand,\nThe Neptune's reign it seeks to understand,\nWith riches vast, near $4.9 billion's worth,\nThey proudly claim this global Titan's berth.\n\nThe raging storm of litigation spent,\nThrough GSK and Goetz an accord clement;\nBeset by Zantac's ill-famed cancer fright,\nTheir conflict rests in secrecy's dim light.",
+    "feedItems": [
+      {
+        "title": "Thyssenkrupp Nucera IPO Seen Valued up to €2.7 Billion",
+        "description": "Thyssenkrupp and Industrie de Nora set the price range for the Thyssenkrupp Nucera IPO at €19-21.5, with the first day of trading on the Frankfurt Stock Exchange planned for July 7.",
+        "link": "https://www.wsj.com/articles/thyssenkrupp-industrie-de-nora-set-price-range-for-thyssenkrupp-nucera-ipo-7251ab21",
+        "id": "WP-WSJ-0001003813"
+      },
+      {
+        "title": "Eni to Buy Privately-Owned Neptune",
+        "description": "Eni and its unit Var Energi will buy Neptune Energy’s global and Norwegian operations for around $4.9 billion, including debt.",
+        "link": "https://www.wsj.com/articles/eni-var-energi-to-buy-neptune-energys-global-and-norwegian-businesses-82293f55",
+        "id": "WP-WSJ-0001003805"
+      },
+      {
+        "title": "GSK Settles Zantac Litigation in US",
+        "description": "GSK said it reached a confidential settlement with plaintiff James Goetz regarding the legal action concerning Zantac and accusations that it causes cancer.",
+        "link": "https://www.wsj.com/articles/gsk-reaches-confidential-settlement-over-zantac-litigation-3f1d8edd",
+        "id": "WP-WSJ-0001003788"
+      }
+    ],
+    "date": "2023-06-23"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In fair Albion's land, the sun's embrace,\nDoth grant her people joys of wanton trade,\nUpward swings th' arm of sales, while hunger's face,\nPeers close behind and colors mirth with shade.\n\nUpon the island of Nippon meek,\nSwift falcon's wings of stock doth falter bleak,\nAwash in fear, the market shudders weak,\n'Neath economic cloud, do hearts grow creak.\n\nUpon Iberian shores, with fate entwined,\nBold bonds do vow to outperform and shine,\nAfter the vote on July's stage we'll find,\nA realm of riches that makes hearts entwine.",
+    "feedItems": [
+      {
+        "title": "UK Retail Sales Unexpectedly Tick Up",
+        "description": "Retail-sales volumes in the U.K. rose 0.3% on month in the May, helped by warm weather that boosted online trading, though the squeeze on food spending caused by high inflation persisted.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-unexpectedly-ticked-up-in-may-5fda0738",
+        "id": "WP-WSJ-0001003791"
+      },
+      {
+        "title": "Nikkei Falls 1.45% on Concerns Over Japan's Economic Outlook",
+        "description": "Japan’s Nikkei Stock Average fell 1.45% to close at 32781.54 on concerns over the country’s economic outlook.",
+        "link": "https://www.wsj.com/articles/nikkei-rises-0-6-boosted-by-tech-related-stocks-weak-jpy-95453369",
+        "id": "WP-WSJ-0001003411"
+      },
+      {
+        "title": "Spanish Bonds Expected to Outperform Post-Elections",
+        "description": "Spanish government bond spreads are trading expectations for improved economic fundamentals after the July 23 elections, resulting in “optical near-term richness” versus market variables, Citi said.",
+        "link": "https://www.wsj.com/articles/resilient-italian-btps-might-face-challenges-ahead-8ab3f090",
+        "id": "WP-WSJ-0001003758"
+      }
+    ],
+    "date": "2023-06-23"
+  }
+]
