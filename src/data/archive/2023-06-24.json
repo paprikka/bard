@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon a treacherous morn in Rostov's fair lands,\nThe fieful troops of Wagner, their presence expands,\nBut lo! stout-hearted Putin, unyielding doth stand,\nAnd cries for their swift downfall; treason at hand.\n\nIn dismal chains, a lost soul seeks liberty,\nFor freedom, he wagers, and Ukraine the key,\nIn bloody battle, he strives for those vast rewards,\nYet vengeful specters foreclose his grim charade.\n\nWithin the shrouded halls of a war company,\nWagner, the fearful name, a dark font of treachery,\nYon Prigozhin's hand, rich in gold and diamonds' lore,\nThe furtive tendrils of the Kremlin doth evermore.",
+    "feedItems": [
+      {
+        "title": "Putin Orders Military to Crush Prigozhin's Power Grab, Calls It 'Treason'",
+        "description": "The Russian president intervened after Wagner troops entered the city of Rostov and took positions inside the main military headquarters for southern Russia.",
+        "link": "https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a",
+        "id": "WP-WSJ-0001003911"
+      },
+      {
+        "title": "The Grim Life and Brutal Death of a Wagner Recruit",
+        "description": "A Russian prisoner struck a deal to fight for six months in Ukraine in exchange for his freedom, one of many who hoped to collect his due.",
+        "link": "https://www.wsj.com/articles/the-grim-life-and-brutal-death-of-a-wagner-recruit-9d8a283c",
+        "id": "SB12020836171025694746504590046932525992508"
+      },
+      {
+        "title": "Watch: Inside Wagner, Russia's Secret War Company",
+        "description": "The Wagner Group began as a small clandestine force but has grown in recent years into a global war cartel run by Yevgeny Prigozhin, plundering gold and diamonds while advancing the Kremlin’s strategic interests.",
+        "link": "https://www.wsj.com/articles/inside-wagner-russias-secret-war-company-b882e9e9",
+        "id": "SB12020836171025694746504590046921647724004"
+      }
+    ],
+    "date": "2023-06-24"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In fair Canberra, kangaroos dwell,\nA squatting Russian diplomat fell,\nOn embassy ground, a standoff foretold,\nBetwixt lands of koala, bear bold.\n\nA question, attire of men allures,\nA cringe not desired, nor tights procures,\nRules followed, renders hot as cool,\nAttractive garb, transformative tool.\n\nThe realm of mind, a powerful stead,\nMental images pave path ahead,\nTo conquer trauma, goals in reach,\nEmbrace the senses, wisdom beseech.",
+    "feedItems": [
+      {
+        "title": "Russian Diplomat Squatting on Proposed Embassy Site Deepens Standoff With Australia",
+        "description": "Australia faces a legal challenge after it terminated Russia’s plan to build a new embassy on a site in Canberra where a Russian diplomat is squatting.",
+        "link": "https://www.wsj.com/articles/australias-highest-profile-squatter-is-a-russian-diplomat-ac92eabe",
+        "id": "WP-WSJ-0001004363"
+      },
+      {
+        "title": "Can Men Dress 'Sexy' Without the Cringe Factor? Yes, If You Follow These Rules",
+        "description": "It’s not about tight pants. And you can keep your shirt buttoned. As our guide to raffishly attractive men’s dressing shows, ‘hot’ should be cool.",
+        "link": "https://www.wsj.com/articles/can-men-dress-sexy-without-the-cringe-factor-yes-if-you-follow-these-rules-fabb1b5a",
+        "id": "WP-WSJ-0000972046"
+      },
+      {
+        "title": "Mastering Your Mental Images Can Make Your Day",
+        "description": "New psychological techniques aim to use your imagination—and all of your senses—to help overcome trauma and achieve goals.",
+        "link": "https://www.wsj.com/articles/mastering-your-mental-images-can-make-your-day-64182f7a",
+        "id": "WP-WSJ-0000987076"
+      }
+    ],
+    "date": "2023-06-24"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Harry and Meghan, a tale I tell,\nIn Hollywood, their venture not fairing well,\nA regal splendor, yet success doth flee,\nTheir streaming dreams like froth on ale to be.\n\nIn heav'nly realm, the market falls from grace,\nThree saints with color stained, a losing race,\nThe S&P, Dow, and Nasdaq weep,\nFor red o'ershadowed them, a week fast asleep.\n\nIn far off Kyiv, a tussle 'mongst allies,\nAs Ukraine's war with Rus' divides the wise,\nThe path towards NATO, as stout mead's fume,\nTheir discord rings, a sour note they do consume.",
+    "feedItems": [
+      {
+        "title": "Harry and Meghan Produce a Hollywood Flop: Themselves",
+        "description": "They arrived three years ago with royal star power amid a streaming boom, but have notched more cancellations and rejections than produced shows.",
+        "link": "https://www.wsj.com/articles/prince-harry-meghan-markle-spotify-netflix-deals-hollywood-dbf1b6ed",
+        "id": "WP-WSJ-0001004766"
+      },
+      {
+        "title": "U.S. stocks fell on Friday to end the week in the red, snapping winning streaks for the major indexes. The S&P 500 and Nasdaq both lost 1.4% for the week, while the Dow retreated 1.7%.",
+        "description": "U.S. stocks fell on Friday to end the week in the red, snapping winning streaks for the major indexes. The S&P 500 and Nasdaq both lost 1.4% for the week, while the Dow retreated 1.7%.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-06-23-2023-3b8ea2aa",
+        "id": "WP-WSJ-0001005553"
+      },
+      {
+        "title": "Ukraine and its allies in the country's war with Russia are fighting among themselves about how explicitly to mark out Kyiv's future path to NATO membership.",
+        "description": "Ukraine and its allies in the country’s war with Russia are fighting among themselves about how explicitly to mark out Kyiv’s future path to NATO membership.",
+        "link": "https://www.wsj.com/articles/fearing-russian-escalation-some-nato-allies-favor-hazier-line-on-ukraine-108ef040",
+        "id": "WP-WSJ-0001000816"
+      }
+    ],
+    "date": "2023-06-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In skies above, a hunger wakes,\nAs flight's demand th'industry shakes,\nAlas, constrained, they battle through,\nAs engines, chips, and workers few.\n\nIn realms of gold, a storm doth rise,\nFor merging banks, the treasury spies,\nInterest's swell and chaos' quell,\nTo hold their hoard, they join the swell.\n\nBy Ocean's gate, they sought renown,\nSubmersible and deep sea's crown,\nA bond, with fame and science, tied,\nIn murky depths, a truth to hide.",
+    "feedItems": [
+      {
+        "title": "The voracious postpandemic demand for flying has collided with the aircraft industry's limited ability to quickly increase production. Airbus and rival Boeing have faced constraints on the supply of things like engines, chips and workers, and both have long order backlogs.",
+        "description": "The voracious postpandemic demand for flying has collided with the aircraft industry’s limited ability to quickly increase production. Airbus and rival Boeing have faced constraints on the supply of things like engines, chips and workers, and both have long order backlogs.",
+        "link": "https://www.wsj.com/articles/demand-for-airliners-soars-we-cannot-make-planes-fast-enough-5758d02e",
+        "id": "WP-WSJ-0001004224"
+      },
+      {
+        "title": "Treasury chief Yellen said that more banks would probably seek to merge this year as higher interest rates and recent banking turmoil are making it more expensive for them to hang on to depositors.",
+        "description": "Treasury chief Yellen said that more banks would probably seek to merge this year as higher interest rates and recent banking turmoil are making it more expensive for them to hang on to depositors.",
+        "link": "https://www.wsj.com/articles/yellen-says-more-bank-mergers-likely-this-year-96f69e73",
+        "id": "WP-WSJ-0001004416"
+      },
+      {
+        "title": "OceanGate, the company behind the submersible that imploded on its way to the Titanic, cultivated relationships with well-known firms and scientific institutions as it sought to make a name for itself in extreme undersea tourism. Those relationships didn't always live up to the original billing.",
+        "description": "OceanGate, the company behind the submersible that imploded on its way to the Titanic, cultivated relationships with well-known firms and scientific institutions as it sought to make a name for itself in extreme undersea tourism. Those relationships didn’t always live up to the original billing.",
+        "link": "https://www.wsj.com/articles/titanic-sub-company-promoted-ties-with-aerospace-giants-becfe49f",
+        "id": "ED501BD0-5063-402B-9AE7-1E0D539F2FA3"
+      }
+    ],
+    "date": "2023-06-24"
+  }
+]
