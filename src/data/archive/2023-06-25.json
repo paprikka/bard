@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of potent potions forged for health,\nWeight's burden eased by stealthy form,\nThe needle's sting no more required,\nOzempic's new visage adorned.\n\nBetween two mighty dragons' wrath,\nThe seafarers in peril's grasp,\nSeek to silo their hoards of gold,\nLest the storms of war-tide surpass.\n\nIn the realm of bonds and seithes,\nRise the sales of risky pledges,\nFirms submit to harsher bindings,\nNavigating tempest's ledges.",
+    "feedItems": [
+      {
+        "title": "Pill Versions of Ozempic-Like Drugs Are Coming",
+        "description": "Tablets could appeal to people who want to lose weight but despise needles, which injections like Ozempic require.",
+        "link": "https://www.wsj.com/articles/no-more-shots-pill-versions-of-ozempic-like-drugs-are-coming-ca286ca2",
+        "id": "WP-WSJ-0001006504"
+      },
+      {
+        "title": "Companies Try New Strategy to Stay in China: Siloing",
+        "description": "As tensions rise between Washington and Beijing, firms are seeking ways to wall off China businesses in case relations worsen.",
+        "link": "https://www.wsj.com/articles/companies-try-new-strategy-to-stay-in-china-siloing-61c88721",
+        "id": "WP-WSJ-0001000742"
+      },
+      {
+        "title": "Junk-Bond Sales Are Up as Firms Submit to Tougher Terms",
+        "description": "Low-rated companies are finding ways to tap bond markets while minimizing the hit to their borrowing costs.",
+        "link": "https://www.wsj.com/articles/junk-rated-companies-accept-tougher-terms-to-borrow-168f8baf",
+        "id": "WP-WSJ-0001005084"
+      }
+    ],
+    "date": "2023-06-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oh sea, thy song doth resound\nWith whispers of Titan's fate, profound,\nBuilt in secret for wary tongues,\nTo follow deep submar'd songs.\n\nAlas, the humble bond is raised\nBy firms, 'pon tougher terms be praised,\nLow-rated, quenching cup's embrace,\nTheir debt's burden to softly grace.\n\nFrom Russia's chaos, dreams unsettled,\nIn China's breast, uncertainty dappled,\nWoe, the partner against the West,\nFinds Ukraine's strife, a woeful test.",
+    "feedItems": [
+      {
+        "title": "The Ultra-Secret Underwater Spy System That Might Have Heard the Titan Implode",
+        "description": "The system of undersea microphones fixed to the sea floor was originally built to track Soviet submarines.",
+        "link": "https://www.wsj.com/articles/titanic-titan-implosion-secret-military-technology-8c020e7b",
+        "id": "WP-WSJ-0001005287"
+      },
+      {
+        "title": "Junk-Bond Sales Are Up as Firms Submit to Tougher Terms",
+        "description": "Low-rated companies are finding ways to tap bond markets while minimizing the hit to their borrowing costs.",
+        "link": "https://www.wsj.com/articles/junk-bond-sales-are-up-as-firms-submit-to-tougher-terms-4ce5f65b",
+        "id": "SB10898100365614673945104590048693451468542"
+      },
+      {
+        "title": "Russia Disarray Creates a Moment of Uncertainty in China",
+        "description": "Fast-moving developments in Russia have made real Beijing’s worry the Ukraine invasion would destabilize its partner against the West.",
+        "link": "https://www.wsj.com/articles/russia-disarray-means-a-moment-of-uncertainty-in-beijing-52882208",
+        "id": "WP-WSJ-0001007086"
+      }
+    ],
+    "date": "2023-06-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Wagner's march on Moscow's might,\nA compromise hath brought us light;\nA war averted by God's hand,\nBelarus hath stayed their plan.\n\nBrother Lukashenko strong,\nIn peace and strife, he doth belong;\nHe brokers deal 'twixt Putin's might,\nAnd rebels seeking endless fight.\n\nBut now, in Moscow's court and town,\nUkraine's war turns thrones around;\nThe fate of kingdoms hangs in wake,\nAs Putin's power starts to shake.",
+    "feedItems": [
+      {
+        "title": "Wagner Stops March on Moscow as Belarus Brokers Deal",
+        "description": "The compromise between the paramilitary group and Russian President Vladimir Putin averted an armed confrontation that threatened to plunge the country into civil war.",
+        "link": "https://www.wsj.com/articles/ukraine-shoots-down-russian-cruise-missile-barrage-9d9da03a",
+        "id": "WP-WSJ-0001003911"
+      },
+      {
+        "title": "Wagner Stops March on Moscow as Belarus Brokers Deal",
+        "description": "Belarus President Alexander Lukashenko brokered a deal between Russian President Vladimir Putin and the rebels, averting an armed confrontation that threatened to plunge the country into civil war.",
+        "link": "https://www.wsj.com/articles/wagner-stops-march-on-moscow-as-belarus-brokers-deal-6ac20ebc",
+        "id": "SB10898100365614673945104590048521205908104"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Putin&#x27;s war in Ukraine was meant to achieve regime change in Kyiv. Now it is threatening the regime in Moscow.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-99de1935",
+        "id": "SB10922851985135484234504590048513054683124"
+      }
+    ],
+    "date": "2023-06-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon thicketed ways of Wagner's kin,\nIn Rus' heart where strife dost hold its sway,\nYevgeny, bold, his forces reins to win,\nAnd halt descent in civil war's display.\n\nWhere waters of Yellowstone do flow,\nLo, bridge asunder, train cars slip beneath,\nOf asphalt, sulfur laden, whispers grow,\nOne drinks those tides with heed in times of wreath.\n\nFar o'er the lands, the West doth cast a stance,\nKeen not to court Wagner-Kremlin strife,\nWith balance sought, no sides in thorny dance,\nAvoiding meddling in this ill strife.",
+    "feedItems": [
+      {
+        "title": "What's Happening With Wagner in Russia?",
+        "description": "Wagner chief Yevgeny Prigozhin has pulled his forces back from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.",
+        "link": "https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a",
+        "id": "WP-WSJ-0001006841"
+      },
+      {
+        "title": "Train Cars Fall Into Yellowstone River in Montana After Bridge Collapse",
+        "description": "Several of the freight cars were carrying asphalt and sulfur, prompting water-use warnings.",
+        "link": "https://www.wsj.com/articles/train-cars-fall-into-yellowstone-river-in-montana-after-bridge-collapse-2043d0f3",
+        "id": "WP-WSJ-0001007364"
+      },
+      {
+        "title": "U.S., Allies Keen Not to Take Sides in Wagner-Kremlin Clash",
+        "description": "Western states intend to avoid moves that suggest involvement in the dispute.",
+        "link": "https://www.wsj.com/articles/u-s-allies-warily-watch-chaos-in-russia-32a813c0",
+        "id": "WP-WSJ-0001007078"
+      }
+    ],
+    "date": "2023-06-25"
+  }
+]
