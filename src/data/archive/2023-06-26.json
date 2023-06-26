@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In yon Rus' realm, the seeds of mut'ny sown,\nThe glutt'rous Wagner Group gnawed Putin's throne,\nBeneath that crown, unease and questions grew,\nAs men did marvel how such frailty slew.\n\nLow tides tugged at the dollar, green and worn,\nBy tow'ring rates and weak growth tempest-torn,\nYet, though she stumbled, raised by analysts' hand,\nFrom plunging depths to narrow, safer land.\n\nBold oil doth climb the mast of rising risk,\nWhen Wagner leashed may break the chains, and whisk,\nFrom Russia's grumbling lands, new threats to wend,\nAnd in those murky shadows, peace upend.",
+    "feedItems": [
+      {
+        "title": "Latest Updates on Russia After the Mutiny",
+        "description": "After the Wagner Group’s mutiny showed the unexpected fragility of President Vladimir Putin’s regime, key questions remained unanswered.",
+        "link": "https://www.wsj.com/articles/latest-updates-on-russia-after-the-mutiny-81f86750",
+        "id": "SB12351792199352413568404590051103305246056"
+      },
+      {
+        "title": "Dollar Edges Lower But Economic Concerns Should Limit Losses",
+        "description": "The dollar edged lower as markets calmed after last week’s bouts of risk aversion due to concerns about interest rates, inflation and weak growth, but analysts expect these factors will limit the currency’s falls.",
+        "link": "https://www.wsj.com/articles/nzd-usd-edges-higher-ahead-of-quiet-week-for-data-d6dc2812",
+        "id": "WP-WSJ-0001009021"
+      },
+      {
+        "title": "Oil Gains After Wagner Mutiny",
+        "description": "Oil prices edged cautiously higher after an aborted mutiny in Russia added to geopolitical risks, and “the market will likely have to start pricing in a larger risk premium for oil given the growing instability in Russia,” ING said.",
+        "link": "https://www.wsj.com/articles/oil-gains-but-geopolitical-risk-recession-worries-weigh-c4b8592",
+        "id": "WP-WSJ-0001009107"
+      }
+    ],
+    "date": "2023-06-26"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Grecian lands, a victory grand,\nMitsotakis holds in his noble hand,\nWith pride, as prime minister he'll stand,\nOnce more to guide the Hellenic band.\n\nBrace well thy heart for a week of trial,\nAs metal prices mix with coin's denial,\nAcross Europa's lands, the markets vile,\nGold edges higher, yet shadows smile.\n\nIn Rus, a tempest brews, full of woe,\nWagner's chief, Yevgeny, doth show,\nHis might pulled back, from a strife to grow,\nMoscow's war averted, 'tis thus we know.",
+    "feedItems": [
+      {
+        "title": "Greek Conservatives Score Decisive Election Win",
+        "description": "Kyriakos Mitsotakis, head of the conservative New Democracy party and Greek prime minister for the past four years, is expected to be sworn in Monday for a second term.",
+        "link": "https://www.wsj.com/articles/greek-conservatives-on-course-for-emphatic-election-win-d7dc0582",
+        "id": "WP-WSJ-0001007923"
+      },
+      {
+        "title": "Metal Prices Mixed Ahead of Light Data Week",
+        "description": "Base metals prices were mixed and gold edged higher in early trading, with sentiment still weary about the wider economy, and ANZ highlighted poor manufacturing data in Europe and in particular Germany last week adding pressure to markets.",
+        "link": "https://www.wsj.com/articles/gold-gains-limited-rebound-momentum-seen-422fc14f",
+        "id": "WP-WSJ-0001009090"
+      },
+      {
+        "title": "What's Happening With Wagner in Russia?",
+        "description": "Wagner chief Yevgeny Prigozhin pulled back his forces from the brink of a bloody clash with the Russian army in Moscow that threatened to plunge the country into civil war.",
+        "link": "https://www.wsj.com/articles/whats-happening-with-wagner-in-russia-d6f6ce7a",
+        "id": "WP-WSJ-0001006841"
+      }
+    ],
+    "date": "2023-06-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Wagner's chief doth discord rise,\nPrigozhin's cause 'gainst Putin rears,\nMotives dire, courtiers' ties,\nFierce ambition, strife, and fears.\n\nIn golden Sintra's forum gleams,\nThe Eurozone awaits its cue,\nInflation tests, monetary schemes,\nThe bonds of nations there renew.\n\nThus, in Russia's weekend of strife,\nThe fate of Wagner doth persist,\nAs whispers of a hidden knife,\nBoth Putin and Prigozhin resist.",
+    "feedItems": [
+      {
+        "title": "Why Wagner Chief Prigozhin Turned Against Putin",
+        "description": "Military infighting, financial pressures and personal political ambitions played into the brash decision.",
+        "link": "https://www.wsj.com/articles/wagner-prigozhin-putin-mutiny-moscow-march-7072d6ea",
+        "id": "WP-WSJ-0001008431"
+      },
+      {
+        "title": "ECB's Sintra Forum, Inflation Data Seen Driving Eurozone Bonds This Week",
+        "description": "The key events for eurozone government bonds this week are likely to be the euro area inflation release and the ECB’s forum in Portugal where “investors will scrutinize for guidance on monetary policy,” UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/technical-factors-seen-supportive-of-italian-btps-in-summer-b1343978",
+        "id": "WP-WSJ-0001009261"
+      },
+      {
+        "title": "After Weekend of Chaos in Russia, Questions Remain Over Fate of Wagner",
+        "description": "With both Vladimir Putin and Yevgeny Prigozhin silent, Russians and Western officials wonder whether the crisis is truly over.",
+        "link": "https://www.wsj.com/articles/as-russia-processes-wagners-aborted-mutiny-no-winners-emerge-in-the-aftermath-989d9345",
+        "id": "WP-WSJ-0001007953"
+      }
+    ],
+    "date": "2023-06-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of AB Foods and profits eke,\nAn outlook bright and fair they speak,\nPrimark's rise, a summer's tale,\nAs bounteous harvests swell the ale.\n\nYet woe betides Siemens' loom,\nA profit warning doth their doom,\nLike murky ale, their stock decline,\nFor Gamesa's future no man define.\n\nNow praise be sung for Hyundai's gain,\nA contract they hath won, 'tis plain,\nIn distant sands of Araby,\nLike sweetest wine their fortunes be.",
+    "feedItems": [
+      {
+        "title": "AB Foods Lifts Profit Outlook",
+        "description": "Associated British Foods said it expected its full-year adjusted operating profit moderately ahead of last year’s after Primark posted a 13% rise in third-quarter revenue, boosted by higher selling prices and well-received summer ranges.",
+        "link": "https://www.wsj.com/articles/associated-british-foods-lifts-fy-2023-guidance-after-3q-revenue-growth-3103b01",
+        "id": "WP-WSJ-0001009252"
+      },
+      {
+        "title": "Siemens Energy's Profit Warning Dents Investor Confidence",
+        "description": "Siemens Energy’s profit warning has dented investors’ confidence not solely because of the difficult-to-quantify risks related to fixing past deliveries, but also due to the lack of visibility at Gamesa, Citi said, downgrading the stock to neutral.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-edge-lower-at-the-open-ea31c2a2",
+        "id": "WP-WSJ-0001009009"
+      },
+      {
+        "title": "Hyundai E&C Advances After $5B Saudi Contract Win",
+        "description": "The South Korean builder’s shares rose after it secured a contract to build a petrochemical complex for Aramco’s Amiral project.",
+        "link": "https://www.wsj.com/articles/hyundai-e-c-advances-after-5b-saudi-contract-win-bc2939b2",
+        "id": "WP-WSJ-0001009234"
+      }
+    ],
+    "date": "2023-06-26"
+  }
+]
