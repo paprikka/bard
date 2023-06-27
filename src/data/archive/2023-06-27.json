@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Midst waves of woe, the oil doth shackle,\nConcerns o'er demand, in battle and tackle,\nAs fret o'er Russia's uncertain claim,\nDooms merchant ships to sail in vain.\n\nBeneath Ygdrasil, Kering acquires Creed,\nA mighty clan with prowess, indeed,\nThus RBC's whisperers acclaim,\nFor fragrance of scale, the sea shall name.\n\nThe dollar, like Loki, sneaky it yields,\nAs equities strengthened in Valhalla's fields,\nDoubt not, brave warriors, its weakness past,\nAwake thy gaze, the tide will change, at last.",
+    "feedItems": [
+      {
+        "title": "Oil Remains Rangebound as Economic Worries Dominate",
+        "description": "Oil prices rose but remained largely rangebound, as concerns over demand counter uncertainty in Russia",
+        "link": "https://www.wsj.com/articles/oil-flat-analysts-warn-of-demand-uncertainty-923f7a8c",
+        "id": "WP-WSJ-0001011812"
+      },
+      {
+        "title": "Kering Acquisition of Creed Adds Instant Scale, Capability",
+        "description": "Kering’s acquisition of Creed adds immediate scale and capacity, RBC Capital Markets said, which likes the fragrance company’s in-house manufacturing and distribution operations.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-open-a78a35ce",
+        "id": "WP-WSJ-0001011667"
+      },
+      {
+        "title": "Dollar Falls for Now, But Weakness Might Not Last",
+        "description": "The dollar edged lower as equities rose, dampening demand for safe-haven currencies, but investors should be wary of anticipating further declines, ING said, as focus turns to data and Fed comments for signs of whether interest rates will rise again after July.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-on-lingering-russia-risks-81548f1e",
+        "id": "WP-WSJ-0001011853"
+      }
+    ],
+    "date": "2023-06-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Metal's worth doth swell, as greenbacks slide,\nA current fair for goods of art and trade,\nBase elements, and golden treasures bide,\nA shift in fortune's winds, now kindly swayed.\n\nFor Lordstown's wheeled dreams, the fates turn grim,\nOf electric steads, bankruptcy declared,\nOnce praised by lords and rulers, vital vim,\nIn silent sparks, for now, their venture snared.\n\nAston Martin's course, to riches set,\nWith targets bold, esteemed upon the way,\nEre long, with might and effort, gains be met,\nAnd prosperous future dawns in bright display.",
+    "feedItems": [
+      {
+        "title": "Metal Prices Rise as Dollar Slides",
+        "description": "Base metals and gold pushed higher as the dollar faltered, helping provide a tailwind for industrial goods.",
+        "link": "https://www.wsj.com/articles/gold-little-changed-downward-pressure-likely-to-drag-on-a009180e",
+        "id": "WP-WSJ-0001011832"
+      },
+      {
+        "title": "EV Startup Lordstown Files for Bankruptcy",
+        "description": "The electric-truck maker, once cheered by investors during the SPAC boom and lauded by former President Donald Trump as a savior for a closed GM factory in Ohio, filed for bankruptcy.",
+        "link": "https://www.wsj.com/articles/ev-startup-lordstown-files-for-bankruptcy-5c7a0f46",
+        "id": "WP-WSJ-0001012038"
+      },
+      {
+        "title": "Aston Martin on Track to Hit Key Financial Targets",
+        "description": "Aston Martin said it expected to meet its targets of £2 billion in revenue and around £500 million in adjusted earnings in 2024, and with “persistent momentum”, is likely to exceed them in 2025.",
+        "link": "https://www.wsj.com/articles/aston-martin-says-it-is-on-track-to-meet-financial-targets-plans-2-5-bln-in-new-investment-c6b5d604",
+        "id": "WP-WSJ-0001012066"
+      }
+    ],
+    "date": "2023-06-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands of Eurozone, a tale unfolds,\nOf bond spreads tight'ning, as hope takes hold.\nBy central banks' tones, these hearts be swayed,\nRisk assets bask in fair light displayed.\n\nTo distant Orient, our ears shall hark,\nWhere Li Qiang sings in mead'w of Davos' lark.\nWith confidence, GDP growth he meets,\nAnd scorns the West in their dubious feats.\n\nThen cross the sea, to stout U.K. shore,\nWhere shop-price inflation eases, dear hearts implore.\nA breath of relief, for fresh food it seems,\nFills the air, as the cost of staples redeems.",
+    "feedItems": [
+      {
+        "title": "Tighter Eurozone Bond Spreads Signal Affordability of Funding Costs",
+        "description": "The spectacular tightening of eurozone sovereign bond-yield spreads suggest that risk assets have taken the recent change of central-bank tone in their stride, ING said.",
+        "link": "https://www.wsj.com/articles/italian-btp-german-bund-yield-spreads-resist-hawkish-ecb-stance-6ae72125",
+        "id": "WP-WSJ-0001012041"
+      },
+      {
+        "title": "China's Premier Confident of Meeting GDP Growth Target",
+        "description": "Chinese premier Li Qiang struck a confident tone in the country’s economic performance and blasted the West’s concept of economic de-risking in a keynote speech at a meeting known as the Summer Davos.",
+        "link": "https://www.wsj.com/articles/chinas-premier-confident-of-meeting-gdp-growth-target-6097e5f6",
+        "id": "WP-WSJ-0001012010"
+      },
+      {
+        "title": "U.K. Shop-Price Inflation Eases",
+        "description": "Prices at U.K. stores in the first week of June were 8.4% higher on year, but lower than May’s record high of 9%. helped by cheaper fresh food as retailers cut the cost of many staples.",
+        "link": "https://www.wsj.com/articles/u-k-shop-price-inflation-falls-in-june-on-cheaper-staples-report-says-9e62038",
+        "id": "WP-WSJ-0001012005"
+      }
+    ],
+    "date": "2023-06-27"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Nippon's land, the coins do sway,\nMinister Suzuki watchful stay,\nHe doth observe, with careful gaze,\nThe yen's one-sided, rapid craze.\n\nOf mushrooms magic, LSD,\nIn Silicon's realm, entrepreneurs free,\nMusk and Brin join the dance,\nOpening minds, their lives enhance.\n\nAnd in the court, so high above,\nLouisiana pleads, with push and shove,\nYet dismiss'd the plea, a district new,\nBlack-majority's strength anew.",
+    "feedItems": [
+      {
+        "title": "Japan Finance Minister Calls Yen's Moves 'One-Sided and Rapid'",
+        "description": "The Japanese government was keeping a watchful eye on the movement of the foreign exchange market, said Finance Minister Shunichi Suzuki.",
+        "link": "https://www.wsj.com/articles/japan-finance-minister-calls-yens-moves-one-sided-and-rapid-ac31cade",
+        "id": "WP-WSJ-0001011980"
+      },
+      {
+        "title": "Magic Mushrooms. LSD. Ketamine. The Drugs That Power Silicon Valley.",
+        "description": "Entrepreneurs including Elon Musk and Sergey Brin are part of a psychedelic movement that proponents hope will expand minds, enhance lives and produce business breakthroughs.",
+        "link": "https://www.wsj.com/articles/silicon-valley-microdosing-ketamine-lsd-magic-mushrooms-d381e214",
+        "id": "WP-WSJ-0000984855"
+      },
+      {
+        "title": "The Supreme Court, in an expected move, dismissed Louisiana's emergency plea to block creation of a second Black-majority congressional district.",
+        "description": "The Supreme Court, in an expected move, dismissed Louisiana’s emergency plea to block creation of a second Black-majority congressional district.",
+        "link": "https://www.wsj.com/articles/supreme-court-rejects-louisianas-defense-of-gerrymandered-congressional-map-5ba1064d",
+        "id": "WP-WSJ-0001010342"
+      }
+    ],
+    "date": "2023-06-27"
+  }
+]
