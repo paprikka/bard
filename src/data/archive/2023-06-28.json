@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In realms where coin and quill accord,\nFTSE's tune lifts high like bird in flight.\nThe goat's worry fades at data's word,\nAs sun warms the snail's dread of night.\n\nTo the bank of Oz, hawk finds its way,\nAs rabbit’s hop drops the weight of woe.\nInflation's wolf finds no snarling prey,\nWhile tightening screws coax fortunes to grow.\n\nBut in the east, a copper tail doth slump,\nAs the dog of industry whimpers slight.\nProfits wilt like petals clump,\nInventories ease, easing snail's fright.",
+    "feedItems": [
+      {
+        "title": "FTSE 100 Rises After Stronger US Economic Data Dampens Recession Worries",
+        "description": "The FTSE 100 rose 0.3% as concerns about a global recession declined after a string of U.S. data came in stronger than expected yesterday, and as investors will focus on remarks by central bankers at the ECB forum later.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-amid-strong-u-s-lead-f158245",
+        "id": "WP-WSJ-0001014787"
+      },
+      {
+        "title": "Glynn's Take: RBA Remains on Track to Tighten Policy Screws",
+        "description": "The Australian central bank is still likely to be in a hawkish mood because the tamer inflation reading in May was due mostly to a fall in volatile components of the CPI basket.",
+        "link": "https://www.wsj.com/articles/glynns-take-rba-remains-on-track-to-tighten-policy-screws-ed89cce0",
+        "id": "WP-WSJ-0001015408"
+      },
+      {
+        "title": "Copper Edges Lower After China's Industrial Profits Slump",
+        "description": "A sharp drop in China’s industrial profits added to worries about the nation’s economy and weighed on base metals prices, although low inventories eased the declines.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-but-downward-pressure-may-continue-43bbb5cb",
+        "id": "WP-WSJ-0001015176"
+      }
+    ],
+    "date": "2023-06-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In realms where Midgard's coin doth spring and rise,\nUpon the back of strong data framed in guise.\nThe All-father's gaze will future rates now prize,\nAs Fehu, the rune of wealth, in the east yet lies.\n\nIn the heart of earth, dark nectar rests unmoved,\nAfter Baldur’s might hath its worth reproved.\nStrong U.S. tales the mighty Fed hath soothed,\nAs rates edge higher and their mettle's proved.\n\nWhere Sleipnir's brethren traverse Midgard's sod,\nIn the mighty forge of Volvo, an ally is awed.\nTesla's web of lightning, across the lands so broad,\nTheir chariots charging on paths once only gods trod.",
+    "feedItems": [
+      {
+        "title": "Dollar Rises as Strong US Data Should Allow More Rate Increases",
+        "description": "The dollar inched higher in early trade, building on Tuesday’s gains after a set of stronger-than-expected economic data, which should allow the Fed to continue raising interest rates, MUFG said.",
+        "link": "https://www.wsj.com/articles/jpy-gains-on-expectations-for-more-japanese-authorities-verbal-intervention-6ffb2211",
+        "id": "WP-WSJ-0001015142"
+      },
+      {
+        "title": "Oil Listless After Slumping on Strong US Data",
+        "description": "Oil prices were little changed following Tuesday’s steep losses, after some strong U.S. economic data heightened the likelihood of more rate hikes from the Fed.",
+        "link": "https://www.wsj.com/articles/oil-rises-demand-uncertainties-could-drag-on-345b3d70",
+        "id": "WP-WSJ-0001015190"
+      },
+      {
+        "title": "Volvo Joins Tesla Charging Network",
+        "description": "Volvo has signed an agreement that gives drivers of its electric cars access to Tesla’s network of 12,000 superchargers across the U.S., Canada and Mexico.",
+        "link": "https://www.wsj.com/articles/volvo-signs-deal-giving-its-electric-cars-access-to-tesla-charging-network-d9d18832",
+        "id": "WP-WSJ-0001015392"
+      }
+    ],
+    "date": "2023-06-28"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Bonds of yonder, their yield much tender,\nIn half a year's span, they fan love's endeavours.\nWhile Albion's knot, a hiccup begot,\nYet in second half stands, as firm as endeavour.\n\nA tale is heard, of DSM-Firmenich's word,\nTheir earnings predicted, a song much quieted.\nFor vitamin's worth, shall see a dearth,\nTill year-end arrives, their fortune unrequited.\n\nIn German realm, GfK's helm,\nThe sentiment fades, in July's brooding shade.\nMore uncertainty sprung, with a woeful tongue,\nTheir spending curtailed, as hopes dim and fade.",
+    "feedItems": [
+      {
+        "title": "Developed-Market Bond Returns Seen Positive in 2H",
+        "description": "Bond returns in the first half of the year have been positive across developed markets, with the exception of the U.K., and are likely to remain positive in the second half of the year, too, J.P.Morgan said.",
+        "link": "https://www.wsj.com/articles/german-10-year-bund-seen-broadly-at-current-levels-at-year-end-a95cc490",
+        "id": "WP-WSJ-0001015370"
+      },
+      {
+        "title": "DSM-Firmenich Earnings Seen Hit by Weak Vitamins",
+        "description": "DSM-Firmenich guided for proforma adjusted earnings of up to €1.9 billion in 2023, below the previous year, as it said vitamin prices are expected to remain low until the end of the year.",
+        "link": "https://www.wsj.com/articles/dsm-firmenich-sees-lower-adjusted-ebitda-in-2023-on-weak-vitamin-market-2e236072",
+        "id": "WP-WSJ-0001015367"
+      },
+      {
+        "title": "German GfK Reading Worse than Expected",
+        "description": "GfK’s forward-looking German consumer sentiment index forecast confidence to tick down to minus 25.4 in July, the first decline in nine months, reflecting a more uncertain climate for household spending as the country’s economic outlook remains bleak.",
+        "link": "https://www.wsj.com/articles/german-consumer-sentiment-to-weaken-in-july-on-gloomier-outlook-eb00529d",
+        "id": "WP-WSJ-0001015355"
+      }
+    ],
+    "date": "2023-06-28"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Swiss Land of mountains so grand,\nTargets for fortunes they've planned.\nMore than half, gold piles they strive,\nShould God permit, by twenty twenty-five.\n\nTo Naples town, buyers with wealth profound,\nIgnoring the wrath of Ian, they're hurricane-bound.\nFollowing fleeting memories, prices they rise,\nIn God's earth paradise, wisdom denies.\n\nShazam's miraculous spell captures a song's scent,\nIn an instant, its origin heaven-sent.\nA mystery wrapped in a riddle profound,\nWith holy numbers, the holy tune is found.",
+    "feedItems": [
+      {
+        "title": "Swiss Life on Track for 2024 Targets",
+        "description": "Swiss Life said it was on target to either meet or exceed its 2024 financial goals that include a dividend payout ratio of more than 60%, adjusted return on equity of 10%-12%, and a fee result of up to $1 billion.",
+        "link": "https://www.wsj.com/articles/swiss-life-on-track-to-achieve-or-exceed-2024-financial-targets-f576a7c5",
+        "id": "WP-WSJ-0001015341"
+      },
+      {
+        "title": "Homebuyers With Short Memories Are Driving Up Prices in Hurricane-Hit Town",
+        "description": "Unfazed by the destruction of Hurricane Ian just nine months ago, luxury-home shoppers are flocking to Naples, Florida",
+        "link": "https://www.wsj.com/articles/homebuyers-with-short-memories-are-driving-up-prices-in-hurricane-hit-town-11e24fb6",
+        "id": "WP-WSJ-0001005080"
+      },
+      {
+        "title": "How Shazam Makes Unique Audio Fingerprints to Identify Songs",
+        "description": "More than 23,000 songs are identified each minute by Shazam and the app has been used over 70 billion times. But while using it is simple, a complex computation makes it possible.",
+        "link": "https://www.wsj.com/articles/how-shazam-makes-unique-audio-fingerprints-to-identify-songs-870635f3",
+        "id": "SB12024825331751954603604590054792120764592"
+      }
+    ],
+    "date": "2023-06-28"
+  }
+]
