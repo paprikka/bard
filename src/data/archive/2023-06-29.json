@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "A tarnished crown doth the Swedish bear,\nFeeling the Euro's relentless glare.\nBy Riksbank's hand, rates are spun,\nYet market hopes, undone, undone.\n\nUpon the tides of fortune's creed,\nCrude oil's chances do recede.\nWith interest high, the flames may wane,\nStalling the black sea's rich domain.\n\nLast, behold the dollar's might, \nTurning e'en metal's luster slight.\nHawkish day doth cast its pall,\nOn precious gold and copper's thrall.",
+    "feedItems": [
+      {
+        "title": "Swedish Krona Falls to Multi-Year Low Vs Euro After Riksbank Raises Rates by 25Bps",
+        "description": "The Swedish krona fell to its weakest level in more than a decade after the Riksbank raised its policy rate by 25 basis points to 3.75%, disappointing some in the market who had anticipated a 50bp rise.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-holiday-thinned-trading-7d4413d2",
+        "id": "WP-WSJ-0001018148"
+      },
+      {
+        "title": "Oil Edges Lower; U.S. Crude Stocks Slump",
+        "description": "Crude futures inched lower as investors took profits following Wednesday’s sharp run-up, but investors remained concerned about the impact of rising interest rates on oil demand.",
+        "link": "https://www.wsj.com/articles/oil-prices-are-lower-in-early-oil-falls-limited-catalysts-in-near-term-ec396474",
+        "id": "WP-WSJ-0001018047"
+      },
+      {
+        "title": "Metals Sour as Dollar Rises on Central-Bank Hawkishness",
+        "description": "Base metals and gold edged lower, with the economic environment turning more bearish “via a strong dollar, softer inflation expectations, and weaker commodity currencies,” Peak Trading Research said.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-but-near-term-downward-risk-seen-4eb01b67",
+        "id": "WP-WSJ-0001018068"
+      }
+    ],
+    "date": "2023-06-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Thou art Casino, indebted beast of burden,\nIn nature's court, no gold can ill be pardon.\nConvert thy owes, to thy capital's bay,\nLest thou lose thy grocer's sway.\n\nClothier H&M, swift as a hare,\nBehold thy earnings, scant and barely fair,  \nYet in June's frolic does the dove sing,\nThy coin-purse grows under cost's wing.\n\nOh, Renault, hare of the open field,\nThy fates to the Tradesman's eyes, they yield.\nArise in margin, and cash in thy might,\nIn the year of the Lord, twenty-twenty's night.",
+    "feedItems": [
+      {
+        "title": "Casino Proposes Debt Restructuring",
+        "description": "Casino said it would be necessary to convert debt totaling around €5 billion into capital in order to have a structure compatible with its business plan, and would mean Rallye losing control of the grocer.",
+        "link": "https://www.wsj.com/articles/casino-proposes-converting-debt-to-capital-as-part-of-conciliation-proceedings-67dbf6fd",
+        "id": "WP-WSJ-0001018358"
+      },
+      {
+        "title": "H&M's Mixed 2Q Saw Gross Margin Miss But Ebit Beat and Strong June",
+        "description": "H&M B shares opened up 8% after the retailer posted second-quarter earnings, with gross margin slightly below expectations but EBIT well ahead, due to better-than-expected cost control and good trading in June, RBC Capital Markets said.",
+        "link": "https://www.wsj.com/articles/australia-share-futures-point-to-flat-open-6dcad924",
+        "id": "WP-WSJ-0001017782"
+      },
+      {
+        "title": "Renault Upgrades Outlook",
+        "description": "Renault said its trading had been better than expected as it revised its 2023 operating margin to 7-8% and its automotive operational free cash flow to at least €2.5 billion.",
+        "link": "https://www.wsj.com/articles/renault-upgrades-its-2023-financial-outlook-4f302dc6",
+        "id": "WP-WSJ-0001018335"
+      }
+    ],
+    "date": "2023-06-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Alas now speaketh new decree across the sea,\nOf wares upon the shoals of commerce, must bear the virtue of the tree.\nHark, for each stout oaken blessing, each bean of morning's brew,\nMust no hand of devastation darkly upon forests strew.\n\nPraises sing for summer's herald, clad in H&M's glory,\nIts coffers swell with season's stories, heated days retold in inventory.\nProfit's sweet song echoeth under the sun's advance,\nWhilst summer's pattern in threads entwoon enchant the monetary dance.\n\nBonds of Eurozone do flutter, twisting in the market's gyre,\nUpon German's fateful number, investors' pulse set fire.\nThe yield curve may yet bend, under the weight of data's surprise,\nAn echoing promise, a note of caution in the future's guise.",
+    "feedItems": [
+      {
+        "title": "U.S. Companies Face EU Deforestation Rules on Coffee, Wood and More",
+        "description": "Businesses selling everyday products such as leather shoes, coffee and chocolate in the EU will soon need to prove their wares aren’t causing forest loss under a new law, after voluntary efforts largely failed.",
+        "link": "https://www.wsj.com/articles/u-s-companies-face-eu-deforestation-rules-on-coffee-wood-and-other-everyday-goods-a7d9207f",
+        "id": "WP-WSJ-0001016064"
+      },
+      {
+        "title": "H&M Posts Profit Beat, Sees Good Start to Summer",
+        "description": "H&M said its fiscal third quarter got off to a good start thanks to well-received summer collections after it posted second-quarter profits ahead of forecast.",
+        "link": "https://www.wsj.com/articles/h-m-2q-earnings-beat-forecasts-summer-collections-help-3q-get-off-to-good-start-5146d89e",
+        "id": "WP-WSJ-0001018321"
+      },
+      {
+        "title": "Eurozone Bond Yields Rise as Upside Risks Seen in German CPI Data",
+        "description": "Eurozone government bond yields edged higher, with the focus on German inflation data, said UniCredit Research, which expects to see yield curve flattening if the CPI surprises to the upside.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-as-upside-risks-seen-in-german-cpi-data-e362dae7",
+        "id": "WP-WSJ-0001018312"
+      }
+    ],
+    "date": "2023-06-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the ale-house of finance, Powell the wise did say,\n‘Tis time to guard the coffers, keep the scoundrels at bay;\nLike a brewmaster discerning, proposals he'll see,\nStrong regulation, supervision, thus be the decree.\n\nO diverging rates of interest, make the Yen go astray,\nLike wine continued pouring, its value doth decay;\nJapan's realm, its worth in gold, soon may take a fall,\nAnalysts foretell, the weakest coin of all.\n\nBrazen Netanyahu, his plan he doth remake,\nLike an ale too bitter, a part he chose to take;\nNo power to challenge Court's say, the ruling he doth curb,\nIn the tavern of justice, the voice of many disturb.",
+    "feedItems": [
+      {
+        "title": "Jerome Powell Says Bank Failures Underscore Need for Stronger Regulation, Supervision",
+        "description": "The Fed chair says he “looks forward to evaluating proposals for such changes.”",
+        "link": "https://www.wsj.com/articles/jerome-powell-says-bank-failures-underscore-need-for-stronger-regulation-supervision-8f386569",
+        "id": "WP-WSJ-0001018003"
+      },
+      {
+        "title": "Analysis: Yen May Weaken Further as Interest Rates Diverge",
+        "description": "The yen may weaken more in coming months on expectations that the interest-rate gap between Japan and most other countries could widen further and hurt the Japanese currency, analysts said.",
+        "link": "https://www.wsj.com/articles/yen-may-weaken-further-as-interest-rates-diverge-talking-markets-b397d34f",
+        "id": "WP-WSJ-0001018276"
+      },
+      {
+        "title": "Netanyahu said he would drop one of the most controversial parts of his plan to remake Israel's court system, stripping it of a provision that would have given the national legislature the power to overturn Supreme Court rulings.",
+        "description": "Netanyahu said he would drop one of the most controversial parts of his plan to remake Israel’s court system, stripping it of a provision that would have given the national legislature the power to overturn Supreme Court rulings.",
+        "link": "https://www.wsj.com/articles/netanyahu-revives-judicial-overhaul-stripped-of-most-controversial-piece-33160de",
+        "id": "WP-WSJ-0001017774"
+      }
+    ],
+    "date": "2023-06-29"
+  }
+]
