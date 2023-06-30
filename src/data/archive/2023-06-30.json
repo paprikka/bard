@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the shores of commerce, Xpeng doth rise,\nIts new-born steed, G6, seizes the prize.\nA storm of gain, the crowd's delight,\nIn the electric dawn, it shines so bright.\n\nA torrent of currency, the Eurozone pours,\nAhead of time, the treasury roars.\nMore bonds issued, a milestone surpassed,\nIn the looming squall of 2023 forecast.\n\nAlas, the Euro, amidst inflation's tide,\nFinds no strong wind by its side.\nFrom German lands, the data was sent,\nYet brought it no proud ascent.",
+    "feedItems": [
+      {
+        "title": "Xpeng Shares Rise Sharply Amid Launch of Lower-Priced G6 Model",
+        "description": "Electric vehicle company XPeng Inc.’s Hong Kong-listed shares were sharply higher, after the company announced the launch of its new G6 sport-utility vehicle.",
+        "link": "https://www.wsj.com/articles/xpeng-shares-rise-sharply-amid-launch-of-lower-priced-g6-model-1864a1e0",
+        "id": "WP-WSJ-0001021520"
+      },
+      {
+        "title": "Eurozone YTD Government Bond Issuance Run-Rate Seen Ahead of 2022",
+        "description": "Eurozone sovereigns’ government bond issuance for 2023 is progressing marginally quicker than in 2022, Barclays said, as supply year-to-date is €783 billion which represents an aggregate of around 60% of planned issuance for 2023.",
+        "link": "https://www.wsj.com/articles/german-10-year-bund-seen-a-buy-opportunity-if-yield-rise-above-2-50-e28b496a",
+        "id": "WP-WSJ-0001021580"
+      },
+      {
+        "title": "Eurozone Inflation Data Unlikely to Support Euro",
+        "description": "The euro failed to benefit from higher-than-expected German inflation data on Thursday and this doesn’t bode well for the common currency ahead of eurozone inflation figures later, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/yen-weakens-after-tokyo-june-core-cpi-undershoots-expectations-8f90483b",
+        "id": "WP-WSJ-0001021372"
+      }
+    ],
+    "date": "2023-06-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Alas, mixed metals in the cradle of Zhao,\nAs goats tangle horns, yon fear begins to crow.\nWorries, the hounds, gnaw on market bone,\nOh, the Chinese wind blows, full of unknown.\n\nOil, as the rabbit, bounds not far nor high,\nHopeful is the stance, as U.S stars align sky.\nEconomic words hum, like the evening's song,\nIn this dance of power, where does the tune belong?\n\nUnexpected is the snail's slow descent,\nInflation drops in Gaul, to March's lament.\nEased are grain and hearth's fire, a calming pure,\nChanges stir the broth, of this, we can be sure.",
+    "feedItems": [
+      {
+        "title": "Metals Mixed Amid China Demand Headwinds",
+        "description": "Metal prices were mixed as worries over Chinese demand continue to dominate the market.",
+        "link": "https://www.wsj.com/articles/gold-slightly-higher-price-pressure-may-persist-f6590ed",
+        "id": "WP-WSJ-0001021386"
+      },
+      {
+        "title": "Oil Remains Range Bound Amid Expectations of Further Rate Hikes",
+        "description": "Oil prices were moving higher, amid more positive economic data coming from the U.S.",
+        "link": "https://www.wsj.com/articles/oil-falls-range-bound-trading-expected-e0a99bf6",
+        "id": "WP-WSJ-0001021284"
+      },
+      {
+        "title": "French Inflation Dropped More Than Expected",
+        "description": "France’s inflation rate fell more than expected in June, reaching its lowest level since March 2022, as fuel and food prices continued to ease.",
+        "link": "https://www.wsj.com/articles/french-inflation-dropped-more-than-expected-in-june-4165b8f5",
+        "id": "WP-WSJ-0001021615"
+      }
+    ],
+    "date": "2023-06-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Fair Engie with her outlook strong and bright,\nGuidance bold in earnings did ignite,\nStrength in global trade and power gleams,\nFlourish'd in the craft of energy dreams.\n\nOn Albion's isle, slight growth did unveil,\nAs costly living pressed without avail,\nInflation high and interest profound,\nStill, the economy managed to rebound.\n\nThe Land of Rising Sun, her stocks did falter,\nPharma and trade houses touched the sacrificial alter,\nU.S. strength did stir concerns anew,\nAbout policies tightened, fear did accrue.",
+    "feedItems": [
+      {
+        "title": "Engie Raises Outlook on Strength of Global Energy Management and Sales",
+        "description": "Engie increased its 2023 earnings guidance on Friday due to the strength of its global energy management and sales business.",
+        "link": "https://www.wsj.com/articles/engie-raises-2023-outlook-on-strength-of-global-energy-management-and-sales-26cff509",
+        "id": "WP-WSJ-0001021608"
+      },
+      {
+        "title": "UK Economy Expanded Slightly, Matching First Estimates",
+        "description": "The U.K. economy grew marginally in the first quarter of 2023, matching previous estimates, as a cost-of-living crisis impacted by high inflation and rising interest rates weighed on economic activity.",
+        "link": "https://www.wsj.com/articles/uk-economy-expanded-slightly-in-first-quarter-matching-first-estimates-8bfa8ca4",
+        "id": "WP-WSJ-0001021595"
+      },
+      {
+        "title": "Nikkei Falls 0.1%, Dragged by Pharma Stocks, Trading Houses",
+        "description": "Japanese stocks ended slightly lower, dragged by falls in pharmaceutical stocks and trading houses, as signs of U.S. economic strength rekindled concerns about the scope of policy tightening by central banks.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-the-open-4a36e62a",
+        "id": "WP-WSJ-0001020990"
+      }
+    ],
+    "date": "2023-06-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of SVB Bank's quite mysterious folly,\nIn far-off Cayman’s sandy dunes and holly,\nDepositors, with nary a guaranty, \nDidst win, with God’s good reason, their petty.\n\nIn Britain's busy workshops, one, two, three,\nCar-man does prove his fruitful industry.\nHis metal steeds, now green in energy,\nIn number and in virtue, rise like the sea.\n\nOf new-found trouble in the East, we tell,\nAs China's dragon economy doth fell.\nIs the Emperor's hand weak, who can dwell?\nIn God's good time, the story will nell.",
+    "feedItems": [
+      {
+        "title": "SVB Depositors Who Lost Their Money Win Court Victory",
+        "description": "Silicon Valley Bank’s customers in the Cayman Islands weren’t covered by a U.S. deposit guarantee program.",
+        "link": "https://www.wsj.com/articles/svb-depositors-who-lost-their-money-win-court-victory-e349235d",
+        "id": "WP-WSJ-0001021480"
+      },
+      {
+        "title": "UK Car Manufacturing Rises for Fourth Consecutive Month",
+        "description": "U.K. car production rose 27% in May, with hybrid and BEV volumes representing 35% of all cars made.",
+        "link": "https://www.wsj.com/articles/uk-car-manufacturing-had-best-may-since-2019-smmt-says-a030674a",
+        "id": "WP-WSJ-0001021542"
+      },
+      {
+        "title": "China's Economy Shows New Signs of Weakness",
+        "description": "Evidence of China’s flagging growth continues to roll in, raising questions about whether the government is doing enough to turn things around.",
+        "link": "https://www.wsj.com/articles/chinas-economy-shows-new-signs-of-weakness-c3316657",
+        "id": "WP-WSJ-0001021506"
+      }
+    ],
+    "date": "2023-06-30"
+  }
+]
