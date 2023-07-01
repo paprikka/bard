@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Parts scarce and techs rare, a storm does brew,\nFord and GM stirred, as older carriages age too.\nLike snails on a leaf, we find in summer's heat,\nOur steeds humming but not a gallop in their feet.\n\nFrom Roe's thickets, a path diverged and blurred,\nIn-utero rights, a paradox uttered and heard.\nLike rabbits cornered, laws dart state by state,\nIn the womb's hidden dell, access swings on fate's gate.\n\nBack to mechanical beasts, repair, a steep climb,\nOld dogs wheeze, their parts frozen in time.\nFord and GM anxious, as gears grind and stutter,\nOh summer, why hast thou cast us in this rut of utter?",
+    "feedItems": [
+      {
+        "title": "Why It's Impossible to Get Your Car Repaired This Summer",
+        "description": "A shortage of parts and technicians, more complex auto technology, and older cars on the road are creating a perfect storm; Ford and GM are concerned.",
+        "link": "https://www.wsj.com/articles/why-its-impossible-to-get-your-car-repaired-this-summer-ab466f04",
+        "id": "SB12024825331751954603604590060710851160170"
+      },
+      {
+        "title": "Where Is Abortion Legal in the U.S.? A State-by-State Guide to Abortion Access",
+        "description": "Abortion access in the U.S. has changed considerably since the Supreme Court overturned Roe v. Wade. Track where abortion is now legal, banned or under threat.",
+        "link": "https://www.wsj.com/articles/abortion-state-guide-laws-bf5072da",
+        "id": "WP-WSJ-0000839465"
+      },
+      {
+        "title": "Why It's Impossible to Get Your Car Repaired This Summer",
+        "description": "A shortage of parts and technicians, more complex auto technology, and older cars on the road are creating a perfect storm; Ford and GM are concerned",
+        "link": "https://www.wsj.com/articles/car-repair-shortage-service-e1e06b0f",
+        "id": "WP-WSJ-0001017623"
+      }
+    ],
+    "date": "2023-07-01"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Once Bolsonaro, a leader, in sunlit crest,\nFor deeds not holy, the court doth arrest,\nIn the name of the vote, he hath no more fest,\nTill 2030, barred is he from this quest.\n\nGoldman courts Amex, in a game of jest,\nOver Apple’s gold card they seek to best,\nMany a venture now put to test,\nUnder the apple tree they make their nest.\n\nESPN cuts, a most hasty behest,\nTwenty voices silenced in this threshed crest,\nIncluding Jeff Van Gundy, of basketball's best,\nArcane is the round ball's fickle zest.",
+    "feedItems": [
+      {
+        "title": "Brazil's electoral court barred Bolsonaro from seeking office until 2030, finding he undermined confidence in the nation's voting system before losing last year's presidential election.",
+        "description": "Brazil’s electoral court barred Bolsonaro from seeking office until 2030, finding he undermined confidence in the nation’s voting system before losing last year’s presidential election.",
+        "link": "https://www.wsj.com/articles/brazils-court-reaches-majority-to-ban-jair-bolsonaro-from-office-a631ac20",
+        "id": "WP-WSJ-0001019904"
+      },
+      {
+        "title": "Goldman is in talks with American Express to take over its Apple credit card and other ventures with the tech giant, according to people familiar with the matter.",
+        "description": "Goldman is in talks with American Express to take over its Apple credit card and other ventures with the tech giant, according to people familiar with the matter.",
+        "link": "https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91",
+        "id": "WP-WSJ-0001024144"
+      },
+      {
+        "title": "ESPN cut about 20 on-screen commentators, including longtime basketball anchor Jeff Van Gundy.",
+        "description": "ESPN cut about 20 on-screen commentators, including longtime basketball anchor Jeff Van Gundy.",
+        "link": "https://www.wsj.com/articles/espn-lays-off-jeff-van-gundy-jalen-rose-and-other-on-air-talent-in-cost-cutting-move-87749366",
+        "id": "WP-WSJ-0001023759"
+      }
+    ],
+    "date": "2023-07-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the halls of the CIA, the crow's note flies,\nTo the lair of the Russian bear, under a chaos guise,\n\"Ne'er crossed we thy gate nor stirred thy brew\",\nSo stated Burns, the sky-clad truth he knew.\n\nThe seers of SEC, holders of the golden rune,\nSpeak a storm of words, under the waning moon,\nThe seekers of Bitcoin, their hopes yet inadequate,\nA message stark, like arrows from an ancient slate.\n\nSee yonder, where market's tempests dance and twirl,\nA triumphant day for the traders, precious jewels unfurl.\nThe Nasdaq, the Dow, the S&P ascend high,\nLike valiant warriors 'neath the spacious sky.",
+    "feedItems": [
+      {
+        "title": "The CIA's Burns reached out to his Russian counterpart in the wake of a failed mutiny by Wagner's chief, delivering a message that the U.S. had no involvement in Russia's internal chaos, officials familiar with the matter said.",
+        "description": "The CIA’s Burns reached out to his Russian counterpart in the wake of a failed mutiny by Wagner’s chief, delivering a message that the U.S. had no involvement in Russia’s internal chaos, officials familiar with the matter said.",
+        "link": "https://www.wsj.com/articles/cia-chief-william-burns-called-to-reassure-kremlin-after-wagner-mutiny-a5016557",
+        "id": "WP-WSJ-0001023934"
+      },
+      {
+        "title": "The SEC said a recent wave of applications filed by asset managers to launch spot bitcoin ETFs are inadequate, according to people familiar with the matter.",
+        "description": "The SEC said a recent wave of applications filed by asset managers to launch spot bitcoin ETFs are inadequate, according to people familiar with the matter.",
+        "link": "https://www.wsj.com/articles/sec-says-spot-bitcoin-etf-filings-are-inadequate-390336e8",
+        "id": "WP-WSJ-0001022259"
+      },
+      {
+        "title": "U.S. stocks rose Friday, with the Nasdaq, S&P 500 and Dow gaining 1.4%, 1.2% and 0.8%, respectively.",
+        "description": "U.S. stocks rose Friday, with the Nasdaq, S&P 500 and Dow gaining 1.4%, 1.2% and 0.8%, respectively.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-06-30-2023-4a972a09",
+        "id": "WP-WSJ-0001024083"
+      }
+    ],
+    "date": "2023-07-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In May, on slow increase spent and price,\nYet rates do raise, in summer's heat so nice.\nFed holds the reins, economic signs entice,\nThus trade doth prosper, much like rolling dice.\n\nIn majesty, rises Apple's golden throne,\nA titan's worth, like none ever known.\nThree trillion stars in the market's dome,\nA corporation's crown, spectacularly shown.\n\nThe court enthroned, rights made clear as day,\nIn Colorado, a web designer hath her way.\nFirst Amendment rights, no more held at bay,\nDenying same-sex wed, a choice she may.",
+    "feedItems": [
+      {
+        "title": "Consumer prices and spending rose more slowly in May, but the Fed likely remains on track to raise interest rates in July amid recent signs of healthy economic activity.",
+        "description": "Consumer prices and spending rose more slowly in May, but the Fed likely remains on track to raise interest rates in July amid recent signs of healthy economic activity.",
+        "link": "https://www.wsj.com/articles/consumer-spending-personal-income-may-2023-4a3fb7de",
+        "id": "WP-WSJ-0001020726"
+      },
+      {
+        "title": "Apple became the world's first corporation to close with a market value exceeding $3 trillion.",
+        "description": "Apple became the world’s first corporation to close with a market value exceeding $3 trillion.",
+        "link": "https://www.wsj.com/articles/apple-three-trillion-dollar-company-e3ca1d4d",
+        "id": "WP-WSJ-0000998121"
+      },
+      {
+        "title": "The high court sided with a Colorado web designer's claim that the First Amendment entitles her to refuse commissions for same-sex wedding announcements.",
+        "description": "The high court sided with a Colorado web designer’s claim that the First Amendment entitles her to refuse commissions for same-sex wedding announcements.",
+        "link": "https://www.wsj.com/articles/supreme-court-rules-web-designer-can-refuse-work-on-same-sex-wedding-announcements-f1e55d02",
+        "id": "WP-WSJ-0000983266"
+      }
+    ],
+    "date": "2023-07-01"
+  }
+]
