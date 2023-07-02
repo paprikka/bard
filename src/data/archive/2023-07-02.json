@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Brazil where whisperings birth dread,\nThere lurk agents of different thread,\nPosing as kin, pretending to blend,\nTo the West, a dangerous trend.\n\nZelensky of Ukraine does stare,\nInto the abyss with a lion's glare,\nRejecting talks with the Russian might,\nStaying human, holding the light.\n\nNow heed the markets wary song,\nFor cheaper oil, they yearn strong,\nAs Saudi hopes, they fade and wane,\nAgainst a wall of excess gain.",
+    "feedItems": [
+      {
+        "title": "Brazil Worries It Has Become a Haven for Russian Spies Infiltrating the West",
+        "description": "Alleged agents posing as Brazilians have caught the eye of the U.S. and Norway—and could also be candidates in any prisoner exchange.",
+        "link": "https://www.wsj.com/articles/brazil-worries-it-has-become-a-haven-for-russian-spies-infiltrating-the-west-525021ba",
+        "id": "WP-WSJ-0001022548"
+      },
+      {
+        "title": "Ukraine's Zelensky Seeks to Stay Strong---and Human",
+        "description": "In a few hours the Journal spent with him, the president spoke about remaining grounded, projecting strength and rejecting talks with Russia.",
+        "link": "https://www.wsj.com/articles/ukraines-zelensky-seeks-to-stay-strongand-human-5b2608e",
+        "id": "WP-WSJ-0001019023"
+      },
+      {
+        "title": "Market Bets on Cheaper Oil, Dashing Saudi Hopes for a Price Rebound",
+        "description": "The oil market has flashed a warning to Saudi Arabia: The world economy is weakening, and the kingdom’s efforts to boost prices have run into a wall of excess supply.",
+        "link": "https://www.wsj.com/articles/market-bets-on-cheaper-oil-dashing-saudi-hopes-for-a-price-rebound-b500ad72",
+        "id": "WP-WSJ-0001023524"
+      }
+    ],
+    "date": "2023-07-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of past days resplendent, and rules retired,\nDecisions oft made in haste, and much desired,\nRegret, o' harsh siren, begone thy stinging yet intwined,\nA guide for those on life's prow, setting course through time.\n\nWily folks, hatching plans with cunning might,\nA torment crafted for speaker of the twilight,\nEchoes bounce off the walls, in the caller's chilling fright,\nA dance in the balance, between annoyance and right.\n\nIn a land beyond the sea, where eagle's wings are splayed,\nA crisis strikes their warrior kin, their courage might just fade,\nNo more wish they for kin to tread where feet of old have strayed,\nAn age-old honor, now in dusk, a noble light soon fade.",
+    "feedItems": [
+      {
+        "title": "How to Retire Better, From Retirees Who Learned the Hard Way",
+        "description": "Regrets offer insights that can help people think and plan better at every life stage.",
+        "link": "https://www.wsj.com/articles/retirement-regrets-investments-relationships-b67a1080",
+        "id": "WP-WSJ-0000982125"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "People have figured out a way to torture telemarketers",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-f888f7f",
+        "id": "SB11978729143505143466404590062602121953119"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "America&#x27;s military crisis: Even veterans don&#x27;t want their families to join",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-59a6a2d0",
+        "id": "SB11978729143505143466404590062440427079854"
+      }
+    ],
+    "date": "2023-07-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the garden where text blooms and weaves,\nTwitter bounds, like timid hares, it grieves.\nLingering hands, too many peruse,\nSnail slow now, its words they lose.\n\nUnited like a faithful hound, seeks amends,\nCeasing to dance among the Newark trends.\nIn lunar glow, on fourth eve's tide,\nDistractions die, a silent guide.\n\nOn Canada's coast where sea embraces night,\nDockworkers, like stubborn goats, ignite.\nPier to pier, their voices rise,\nA rabbit's echo, in distant skies.",
+    "feedItems": [
+      {
+        "title": "Twitter Limits Number of Posts Users Can Read",
+        "description": "The social-media platform began limiting how many posts users can read, an unusual move that came as owner Elon Musk says he is fighting companies trying to use its data for developing artificial intelligence programs.",
+        "link": "https://www.wsj.com/articles/twitter-limits-number-of-posts-users-can-read-prompting-disruptions-for-some-15bc01cc",
+        "id": "WP-WSJ-0001025862"
+      },
+      {
+        "title": "United Vows Changes to Avoid More Disruptions, Including Fewer Newark Flights",
+        "description": "United Airlines plans to fly less at its Newark hub and take other steps to avoid a repeat of the nearly weeklong stretch of disruption that snarled travel ahead of the Fourth of July holiday, CEO Scott Kirby told employees.",
+        "link": "https://www.wsj.com/articles/united-vows-changes-to-avoid-more-disruptions-including-fewer-newark-flights-324e38f2",
+        "id": "WP-WSJ-0001025907"
+      },
+      {
+        "title": "Canada's Ports on the Pacific Coast Hit With Dockworkers Strike",
+        "description": "Business groups in the country warn that the walkout could reverberate across the U.S. and the rest of the continent.",
+        "link": "https://www.wsj.com/articles/canadas-pacific-coast-ports-hit-with-dockworkers-strike-8b3f2c42",
+        "id": "WP-WSJ-0001025882"
+      }
+    ],
+    "date": "2023-07-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon China's chest, a Ruby rare,\nPan Gongsheng, hath gained a chair.\nOn Central Bank's high seat he'll fare,\nHis goblet fills, the power to bear.\n\nIn yonder sky, a gaze so keen,\nEuclid's eye hath ne'er been seen.\nIn SpaceX's chariot, silver sheen,\nAle in hand, they seek the unseen.\n\nWhen July's fourth in sight doth loom,\nTravel's chaos is but our doom.\nFlights delay'd, cancellations bloom,\nJust the brew for our gloom's heirloom.",
+    "feedItems": [
+      {
+        "title": "China's Central Bank Appoints New Top Communist Party Official",
+        "description": "Pan Gongsheng’s designation as the PBOC’s senior party official clears the way for him to become governor of the central bank, say people familiar with the matter.",
+        "link": "https://www.wsj.com/articles/china-plans-to-appoint-a-new-central-bank-governor-56a878ea",
+        "id": "WP-WSJ-0001025312"
+      },
+      {
+        "title": "Euclid Space Telescope Has Launched to Begin Unprecedented Study of Dark Universe",
+        "description": "The European Space Agency mission blasted off Saturday aboard a SpaceX rocket.",
+        "link": "https://www.wsj.com/articles/esa-euclid-space-telescope-dark-matter-b1baa8b4",
+        "id": "WP-WSJ-0001024123"
+      },
+      {
+        "title": "Fourth of July Travel: Why Your Flight Cancelation or Delay Is Inevitable",
+        "description": "This Independence Day weekend is likely to be the busiest travel weekend on record. And it could get messy for fliers.",
+        "link": "https://www.wsj.com/articles/july-4-travel-flights-delays-airports-858db1d9",
+        "id": "WP-WSJ-0001021991"
+      }
+    ],
+    "date": "2023-07-02"
+  }
+]
