@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Tesco's chair, Murphy sits,\nCome September, will bear the grits.\nOld Grote, now the director grand,\nIn roles of yonder he'll command.\n\nThe dollar's fate, interlaced in facts,\nUpon macro signs, its strength impacts.\nFrom Powell's call, interest may rise,\nMidst Euro's range in foreign skies.\n\nThe metals inch, with wary gaze,\nSupply woes lend support, not haze.\nYet gold doth dip, in fear and term,\n'Gainst rate hikes looming, ANZ confirms.",
+    "feedItems": [
+      {
+        "title": "Tesco Names New Chairman",
+        "description": "Tesco said Gerry Murphy has been appointed chairman and will join the board on September 1, replacing Byron Grote who will take up his previous role as senior independent director.",
+        "link": "https://www.wsj.com/articles/tesco-taps-tate-lyle-burberry-chairman-gerry-murphy-b2c5f4bc",
+        "id": "WP-WSJ-0001027285"
+      },
+      {
+        "title": "Dollar's Outlook Looks Increasingly Data-Dependent",
+        "description": "The dollar has been lifted recently by “a series of good macro indicators” and suggestions from Powell that interest rates could rise further, Natixis said, expecting EUR/USD to stay in a range between 1.08 and 1.10 for now.",
+        "link": "https://www.wsj.com/articles/jpy-weakens-amid-risk-on-sentiment-7485aa10",
+        "id": "WP-WSJ-0001027050"
+      },
+      {
+        "title": "Metals Inch Higher As Supply Woes Provide Support",
+        "description": "Base metals edged higher, as worries over supply provided some support to prices, while gold dipped with expectations of rate hikes providing pressure in the near term, ANZ said.",
+        "link": "https://www.wsj.com/articles/gold-prices-are-flat-in-range-bound-trading-9a8bcb3c",
+        "id": "WP-WSJ-0001027052"
+      }
+    ],
+    "date": "2023-07-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Black gold slips, its worth does wane,\nIn the agitated market's fickle maw,\nGrim fears of demand, a constant bane,\nAnd the speculators hastily withdraw.\n\nThe sovereign lands of proud Eurozone,\nWhere faster tightening of yarn is told,\nTreads steady, with grim resolve shown,\nING perceives, this tale may soon unfold.\n\nNikkei ascends high, a valiant knight,\nUpon wings of machinery stout and strong,\nGiving Japanese hearts a bolstered light,\nAs inflation's harsh squeeze does not prolong.",
+    "feedItems": [
+      {
+        "title": "Oil Slips on Weak Demand Fears",
+        "description": "Crude prices moved lower with ING saying the market still has the same concern as the last six months, an uncertain demand outlook and pointed to speculators cutting their net long positions in oil futures..",
+        "link": "https://www.wsj.com/articles/oil-prices-edge-higher-long-term-production-cost-likely-to-decline-63451363",
+        "id": "WP-WSJ-0001027048"
+      },
+      {
+        "title": "Eurozone Sovereign Spreads Cope With Idea of Faster Quantitative Tightening",
+        "description": "Eurozone sovereign spreads have taken talk of faster ECB quantitative tightening in their stride, which is one more reason why it might happen, ING said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-supply-in-3q-seen-slowing-in-line-with-usual-pattern-45d0a4d1",
+        "id": "WP-WSJ-0001027297"
+      },
+      {
+        "title": "Nikkei Rises 1.7% to 33-Year High, Led by Machinery Stocks",
+        "description": "The Nikkei Stock Average rose 1.7% to close at 33753.33, the highest level since March 1990, after data showed that business sentiment among Japanese large manufacturers improved and as U.S. consumer inflation eased.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-on-slowing-u-s-inflation-tankan-in-focus-d6eb6d2e",
+        "id": "WP-WSJ-0001027098"
+      }
+    ],
+    "date": "2023-07-03"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In buildings of business, now silent and bare,\nHomes for hearts kindled in offices spare.\nOh, not every structure suits abode's desire,\nYet a billion feet of solitude to inspire.\n\nShah, Biden's man, with potent promises vast,\nTo green lands bestows treasures contrast.\nIn political storm, he sails steadfast and bold,\nBoon for a brighter future in his hand he does hold.\n\nHear of the turmoil in labor's domain,\nIs this growth of jobs real or feigned?\nA twist in the tale, a trick of fate?\nWhence is the truth of market's state?",
+    "feedItems": [
+      {
+        "title": "What It Takes to Convert a Multi-Million Dollar Office Into Housing",
+        "description": "With housing in short supply, developers are converting more empty offices into apartments. But not all buildings are candidates for reuse, even as more than one billion square feet of office space sits vacant across the country.",
+        "link": "https://www.wsj.com/articles/what-it-takes-to-convert-a-multi-million-dollar-office-into-housing-c973b0f8",
+        "id": "SB12410125361470374628104590064842067519532"
+      },
+      {
+        "title": "Joe Biden's $400 Billion Man",
+        "description": "Jigar Shah, who runs the Energy Department’s loan program, is trying to hand out a lot of money for green-technology projects, while navigating an unforgiving political environment.",
+        "link": "https://www.wsj.com/articles/green-energy-climate-loans-49fda73b",
+        "id": "WP-WSJ-0001019806"
+      },
+      {
+        "title": "Labor Market Headfake?",
+        "description": "The high-profile payroll survey could be overestimating job growth because of quirks in how the data are calculated.",
+        "link": "https://www.wsj.com/articles/labor-market-headfake-key-report-could-be-overestimating-job-growth-c7ea020",
+        "id": "WP-WSJ-0001022424"
+      }
+    ],
+    "date": "2023-07-03"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "To claim the jest's crown, Son did frailly strive,\nAs goats on riches, to AI they cleave.\nYet, in keen frenzy, chance played truant, no gain,\nLike a swift hare that eludes the hound's chase, in vain.\n\nA torrent of sorrows, the Court's decree bestow,\nOld burdens, like heavy oxen yokes, grow.\nScholars' hopes, quick as a snail, did vanish,\nIn this merciless game of power, left to languish.\n\nNow, as rabbits to unknown burrows leap,\nSo too, Europe seeks mysteries in the cosmic deep.\nA new spying glass, to dark universe inclined,\nUncover it shall, the fate of cosmic kind.",
+    "feedItems": [
+      {
+        "title": "He Spent $140 Billion on AI With Little to Show. Now He Is Trying Again.",
+        "description": "Billionaire Masayoshi Son said he would make SoftBank “the investment company for the AI revolution” but he missed out on the most recent frenzy.",
+        "link": "https://www.wsj.com/articles/he-spent-140-billion-on-ai-with-little-to-show-now-he-is-trying-again-dbcca17",
+        "id": "WP-WSJ-0001022524"
+      },
+      {
+        "title": "Borrowers are facing new complications in the wake of the Supreme Court's decision to strike down Biden's mass student-debt cancellation plan.",
+        "description": "Borrowers are facing new complications in the wake of the Supreme Court’s decision to strike down Biden’s mass student-debt cancellation plan.",
+        "link": "https://www.wsj.com/articles/student-borrowers-after-three-year-reprieve-must-now-pay-be6ddb2d",
+        "id": "WP-WSJ-0001025610"
+      },
+      {
+        "title": "Europe launched the first space telescope designed to study the mysterious dark universe, and how that part of the cosmos may one day determine its fate.",
+        "description": "Europe launched the first space telescope designed to study the mysterious dark universe, and how that part of the cosmos may one day determine its fate.",
+        "link": "https://www.wsj.com/articles/esa-euclid-space-telescope-dark-matter-b1baa8b4",
+        "id": "WP-WSJ-0001024123"
+      }
+    ],
+    "date": "2023-07-03"
+  }
+]
