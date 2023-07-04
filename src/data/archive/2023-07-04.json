@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Fukushima's fury, into the sea doth seep,\nGreened by the hand of the sky-god, Gaia's keep,\nThus spake the fiery-eyed IAEA - a jest? \nAlike discharges by land-kings, they said it best.\n\nVolkswagen, steed of iron, announces plan of growth,\nA hoard of shining coins in hand, they take the oath,\nBy 2026, in Brazil's realms, they hope to rise,\nAn increase by hammer's score, under sunlit skies.\n\nSoftBank's wise Son, dreams of thought-weavers waking,\nIn every industry, their eerie silence breaking,\nOutmatching our brain-strong warriors, a chilling song,\nA world ethereal, where the mind-stones belong.",
+    "feedItems": [
+      {
+        "title": "Japan Discharge of Fukushima Radioactive Water Into Pacific Gets Green Light",
+        "description": "The IAEA said Japan’s plan was safe and in line with similar discharges carried out by nations around the world that operate nuclear-power plants.",
+        "link": "https://www.wsj.com/articles/japan-discharge-of-fukushima-radioactive-water-into-pacific-gets-green-light-92911fc8",
+        "id": "WP-WSJ-0001029550"
+      },
+      {
+        "title": "Volkswagen Outlines Brazilian Growth Plan",
+        "description": "Volkswagen said it will invest €1 billion by 2026 in Brazil, where it plans to grow by 40% in the next several years.",
+        "link": "https://www.wsj.com/articles/volkswagen-to-invest-1-09-bln-in-brazil-market-growth-22141bc5",
+        "id": "WP-WSJ-0001029684"
+      },
+      {
+        "title": "SoftBank's Son Envisions AI Eventually Being Used in Every Industry",
+        "description": "SoftBank Group Chief Executive Masayoshi Son said artificial intelligence would be overwhelmingly smarter than the human brain and could eventually be used in any industry.",
+        "link": "https://www.wsj.com/articles/softbanks-son-envisions-ai-eventually-being-used-in-every-industry-ac3a4b21",
+        "id": "WP-WSJ-0001029678"
+      }
+    ],
+    "date": "2023-07-04"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the kingdom fair of commerce, the dollar holds its sway,\nUnmoved by the silence of markets on this festive day.\nYet secrets hidden in the morrow’s transcripts may convey,\nOf future lifts of interest, deciding its ascend or lay.\n\nUpon the ocean's bosom, the oil in dances light doth play,\nDiverged from supply and demand, to macro's tune they sway.\nIn the realm of numbers grand, their course does find its way,\nGuided by the unseen hand, whispered by the sprites of ING.\n\nAlas, the metals fair in consternation lie arrayed,\nFrom iron stern to golden gleam, their worth in wait is stayed.\nA shroud of doubt, upon the globe in dire form is laid,\nDousing their desire's fire, in gloom their shine's betrayed.",
+    "feedItems": [
+      {
+        "title": "Dollar Stays Steady for Now, Vulnerable to Jobs Data on Friday",
+        "description": "The dollar was steady with U.S. markets closed and as traders awaited Wednesday’s Fed minutes and Friday’s jobs data—which might give clues on further interest-rate rises.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-subdued-trading-22707700",
+        "id": "WP-WSJ-0001029280"
+      },
+      {
+        "title": "Oil Inches Higher as Macro Environment Dominates Over Fundamentals",
+        "description": "Crude futures gained, with price movements recently more aligned with the macro environment than supply and demand fundamentals, according to ING.",
+        "link": "https://www.wsj.com/articles/oil-gains-on-saudi-arabias-production-cut-251db319",
+        "id": "WP-WSJ-0001029284"
+      },
+      {
+        "title": "Metals Mixed Over Economic Uncertainty",
+        "description": "Base metals were mixed, with gold a touch higher, as worries over the global economy continued to dampen demand.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-on-possible-safe-haven-demand-cc7e162c",
+        "id": "WP-WSJ-0001029282"
+      }
+    ],
+    "date": "2023-07-04"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Oh, low supply of bonds the kingdoms trade,\nJust nine and ninety goats, so Citi bade.\nIn eurozone, 'tis not a merry joust,\nThe lowest yield, as rabbits in a drought!\n\nWords from the East bring news of rocks and chips,\nRetaliation, like a dog that nips.\nWithout their gallium, the circuit chills,\nSilent the snails when Beijing instills.\n\nYet, German lands in trade have faltered now,\nExporting less, the dog cannot kowtow.\nIts bounty shrinks, like a lone snail's trail,\nYet imports rise; may home demand prevail!",
+    "feedItems": [
+      {
+        "title": "Eurozone Government Bond Supply Seen Under EUR100 Bln in July",
+        "description": "Government supply in the eurozone is expected to amount to €97 billion in July, the lowest monthly supply year to date in 2023, Citi said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-supply-seen-under-eur100-bln-in-july-55f4937e",
+        "id": "WP-WSJ-0001029662"
+      },
+      {
+        "title": "China Restricts Exports of Two Minerals Used in High-Performance Chips",
+        "description": "Industry executives see Beijing’s export ban on gallium and germanium as retaliation over chip curbs by the U.S. and others.",
+        "link": "https://www.wsj.com/articles/china-restricts-exports-of-two-metals-used-in-high-performance-chips-a649402b",
+        "id": "WP-WSJ-0001027895"
+      },
+      {
+        "title": "Germany's Trade Surplus Falls on Weaker Exports",
+        "description": "German exports unexpectedly fell 0.1% in May, although imports rose, a sign that domestic demand could be improving despite a global economic slowdown.",
+        "link": "https://www.wsj.com/articles/germanys-trade-surplus-fell-in-may-as-exports-ticked-down-c8568e25",
+        "id": "WP-WSJ-0001029638"
+      }
+    ],
+    "date": "2023-07-04"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Sainsbury's court, the scribes do tell,\nOf sales that rise and doubt that fell.\nThe price of bread no longer unkind,\nA blessed relief for common mind.\n\nA wager’s place, of wealth profound,\nIn Casino’s hall, two offers found.\nEP Global and Fimalac's hold,\nIn golden talents, their stories told.\n\nIn carbon's keep secrets lie,\nHP, Holcim, and Nestlé sigh.\nTake heed, they say, and start to count,\nFor in small deeds, large woes surmount.",
+    "feedItems": [
+      {
+        "title": "Sainsbury's Backs Outlook as Sales Rise",
+        "description": "Sainsbury’s confirmed its full-year profit guidance after reporting a 9.8% rise in first-quarter same-store sales and said U.K. food inflation was starting to fall.",
+        "link": "https://www.wsj.com/articles/sainsburys-backs-fy-2024-guidance-after-1q-sales-rose-b18a3681",
+        "id": "WP-WSJ-0001029631"
+      },
+      {
+        "title": "Casino Gets Offers to Boost Capital",
+        "description": "Casino has received two proposals to strengthen its capital base, with the offers from EP Global and Fimalac and 3F Holding both . being considered.",
+        "link": "https://www.wsj.com/articles/casino-receives-offers-to-strengthen-capital-base-469f66ec",
+        "id": "WP-WSJ-0001029623"
+      },
+      {
+        "title": "How to Start Accounting for Carbon",
+        "description": "Holcim, HP and Nestlé sustainability executives offer simple steps to get started.",
+        "link": "https://www.wsj.com/articles/how-to-start-accounting-for-carbon-2fa66199",
+        "id": "WP-WSJ-0001027461"
+      }
+    ],
+    "date": "2023-07-04"
+  }
+]
