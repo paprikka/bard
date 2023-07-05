@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oil, thee noble liquid black as night,\nThy price confined, whilst others take flight.\nOPEC's blade doth lift thee high,\nYet growth's own weight makes fondness die.\n\nBase jewels of the earth known for their sheen,\nFalter, as world's vigor is yet unseen.\nGold's lustre in London's early eye,\nLies flat, as Eastern demand remains shy.\n\nIn the Middle Kingdom, shares lament,\nAs sectors suffer, the bull's strength spent.\nData reveals the service realm's wane,\nThus June's vigor, doth turn to pain.",
+    "feedItems": [
+      {
+        "title": "Oil Prices Range Bound Amid Macro Headwinds",
+        "description": "Oil held firm in Europe, with CBA highlighting the recent pattern of OPEC+ output cuts that lift prices and macro headwinds that weigh, adding that these headwinds are unlikely to relent as higher interest rates weigh on global growth.",
+        "link": "https://www.wsj.com/articles/oil-prices-mixed-wti-gains-as-brent-retreats-2ab7970c",
+        "id": "WP-WSJ-0001030617"
+      },
+      {
+        "title": "Metal Prices Slip as Demand Struggles on Global Economic Weakness",
+        "description": "Base metals prices fell, while gold was flat in early London trade, as demand continues to remain subdued, particularly in China.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-amid-subdued-trading-5add6383",
+        "id": "WP-WSJ-0001030612"
+      },
+      {
+        "title": "Chinese Shares End Lower Amid Cross-Sector Losses",
+        "description": "Chinese benchmarks ended lower, with consumer and software stocks leading the declines, after PMI data showed that service-sector activity growth cooled in June.",
+        "link": "https://www.wsj.com/articles/australia-shares-on-track-for-soft-open-dda2c761",
+        "id": "WP-WSJ-0001030605"
+      }
+    ],
+    "date": "2023-07-05"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Swift as a hare, the dollar stays on chariot's path,\nBiding its time, awaiting ADP's wrath.\nISM's whispers and payrolls of month's end,\nAwait in the thicket, around the river's bend.\n\nIssuance of bonds, in mighty Eurozone\nLike prancing goats, their might is shown.\nA boon from June, to July they slide,\nUnder hundred billion, ING's counseled guide.\n\nThe snail carries a shell heavy with the Rothschild name,\nTightening, it proclaims, is the central banks' game.\nPrevent the rushing dog, inflation, from gaining might,\nA prudent shepherd, the economy shall hold tight.",
+    "feedItems": [
+      {
+        "title": "Dollar Expected to Stay Steady Until Data Later This Week",
+        "description": "ING said the dollar is unlikely to see any substantial moves until key data later this week, including ADP jobs data, ISM services figures, and monthly nonfarm payrolls.",
+        "link": "https://www.wsj.com/articles/yuan-weakens-after-china-services-sector-activity-growth-cools-b3bec6b6",
+        "id": "WP-WSJ-0001030614"
+      },
+      {
+        "title": "Eurozone Gross Government Bond Supply Set to Decline in July",
+        "description": "Gross government bond issuance in the eurozone should moderate to below €100 billion in July from close to €119 billion in June, ING has forecast.",
+        "link": "https://www.wsj.com/articles/eurozone-gross-government-bond-supply-set-to-decline-in-july-619e90f",
+        "id": "WP-WSJ-0001030872"
+      },
+      {
+        "title": "Central Banks Right to Continue Tightening, Says Edmond de Rothschild",
+        "description": "Central banks are right to keep raising interest rates to prevent inflation from reaccelerating, and this shouldn’t pose a major threat to the economy, Edmond de Rothschild Asset Management told Dow Jones Newswires.",
+        "link": "https://www.wsj.com/articles/central-banks-are-right-to-keep-raising-rates-edmond-de-rothschild-am-says-interview-5d5e4e43",
+        "id": "WP-WSJ-0001030847"
+      }
+    ],
+    "date": "2023-07-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Orient's land, a tale unfolds,\nBy China's hand, the world beholds.\nA curbing of their metals rare,\nHath caused a wide-spread scare.\n\nSingapore's vaults do spill out loss,\nThe stronger dollar a solid cross.\nHer bank's excess is mopped on up,\n'Tis a bitter draught in her fiscal cup.\n\nAnd see the rise of China's might,\nIn Indonesia, day and night.\nThe nickel's king in electric carts,\nFrom none to all, the industry starts.",
+    "feedItems": [
+      {
+        "title": "China's Export Curb on Chip-Making Metals Prompt Countries to Explore Supply-Chain Diversification",
+        "description": "Beijing’s decision to curb exports of rare minerals alarms South Korea and Japan.",
+        "link": "https://www.wsj.com/articles/chinas-latest-export-controls-prompt-countries-to-explore-supply-chain-diversification-318e74d1",
+        "id": "WP-WSJ-0001030103"
+      },
+      {
+        "title": "Singapore's Central Bank Posts Record Annual Net Loss",
+        "description": "Singapore’s central bank posted a record annual loss due to the currency-translation effects of a stronger Singapore dollar and high interest expenses from mopping up excess liquidity in the banking system.",
+        "link": "https://www.wsj.com/articles/singapores-central-bank-posts-record-annual-net-loss-8b16893e",
+        "id": "WP-WSJ-0001030834"
+      },
+      {
+        "title": "How China Came to Dominate the World's Largest Nickel Source for Electric Cars",
+        "description": "Across Indonesia, new industrial plants are going up to process chunks of nickel ore for use in electric-car batteries. Five years ago, there were none.",
+        "link": "https://www.wsj.com/articles/how-china-came-to-dominate-the-worlds-largest-nickel-source-for-electric-cars-4c081a12",
+        "id": "WP-WSJ-0001029695"
+      }
+    ],
+    "date": "2023-07-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the banks of Eastern lands, a storm doth form and rise,\nShadow missiles cleave the sky, a force none can disguise.\nUkraine's heart beats bold and true, it sees the foe's demise,\nDeep within enemy lines, their deliverance lies.\n\nMarkets turn a blinded eye, towards the debt's monstrous size,\nEconomic ship sails on, oblivious of ties.\nCompanies, like sagas old, on borrowed gold rely,\nSee not the icy waters, below the rosy skies.\n\nBehold the quirk of man's design, a thing to humor and surprise,\nA urinal of portable make, to the challenge, it complies.\nHealth's game has a novel player, in fashion's quaint disguise,\nEarplugs or compression socks, strange trophies of the wise.",
+    "feedItems": [
+      {
+        "title": "How British Storm Shadow Missiles Help Ukraine's Counteroffensive",
+        "description": "As Ukraine’s counteroffensive grinds on, Kyiv has been hitting military infrastructure and supply lines deep inside Russian-held territory with long-range Western weapons. WSJ explains what role Storm Shadow missiles play in Ukraine’s strategy.",
+        "link": "https://www.wsj.com/articles/how-british-storm-shadow-missiles-help-ukraines-counteroffensive-3c32bf64",
+        "id": "SB11216831118178654471904590068892598753992"
+      },
+      {
+        "title": "Markets Ignore the Looming Debt Peril",
+        "description": "Rates are still rising. The economy will be held back by the need to shore up highly indebted companies.",
+        "link": "https://www.wsj.com/articles/markets-ignore-the-looming-debt-peril-aac19b32",
+        "id": "WP-WSJ-0001030200"
+      },
+      {
+        "title": "Portable Urinal, but Make It Cool: Redesigns Change the Game for Health Products",
+        "description": "Shoppers flock to compression socks and earplugs styled with a younger customer in mind.",
+        "link": "https://www.wsj.com/articles/medical-devices-compression-socks-earplugs-fashionable-89b32b1f",
+        "id": "WP-WSJ-0001020610"
+      }
+    ],
+    "date": "2023-07-05"
+  }
+]
