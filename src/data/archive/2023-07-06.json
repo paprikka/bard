@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of carriage swift and horses fair, alas,\nWho yeild to chariot of flame and brass.\nVolkswagen's reign in the East doth wane,\nAs electric beasts claim the open plain.\n\nGold and silver, once steadfast, that stood,\nSoft land on slippery footing in the falcon’s hood. \nFed's prophecy of rate increase does send,\nTo unsettled markets, a fickle friend.\n\nOur globe, in cloak of heat, does suffer blow,\nHigher than yore's average globe does glow, \nJune sits in scorn of the sun's cruel reign,\nBreaking records in this fiery domain.",
+    "feedItems": [
+      {
+        "title": "Goodbye, Volkswagen: China's New EV Winners",
+        "description": "The new top dogs in China’s electric vehicle market are starting to thin out the pack. Tesla is in the running, but most other foreign brands aren’t.",
+        "link": "https://www.wsj.com/articles/goodbye-volkswagen-chinas-new-ev-winners-bbd6d0e1",
+        "id": "WP-WSJ-0001033659"
+      },
+      {
+        "title": "Metals Slip After Fed Signals Higher Interest Rates to Come",
+        "description": "Base metals were slightly weaker and gold flat, with Peak Trading Research citing the hawkish Fed minutes as a tailwind for the dollar and a headwind for most commodity markets.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-after-overnight-losses-7c956c04",
+        "id": "WP-WSJ-0001033332"
+      },
+      {
+        "title": "Global Atmosphere, Ocean Temperatures Break Records in June",
+        "description": "The global surface temperature was .95 degrees Fahrenheit above the 1991-2020 average, beating the previous record, set in June 2019.",
+        "link": "https://www.wsj.com/articles/global-atmosphere-ocean-temperatures-break-records-in-june-b222c05c",
+        "id": "WP-WSJ-0001033408"
+      }
+    ],
+    "date": "2023-07-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "The dollar's plight, oh a dire refrain,\nData cautions the monetary rain,\nYet bear ye witness, to the Fed's solid chain,\nFor July, a hike, it boldly does declaim.\n\nUpon the steady dance of oil's game,\nCuts in the production, true events we name,\nBetwixt OPEC's grasp and demand's subtle claim,\nThe crude price's echo, remains the same.\n\nBang & Olufsen, thy profits feel the strain,\nYet for thy EBIT margin, a promise does deign,\nThine outlook steeped in caution's domain,\nIn uncertainty's grasp, the Future may ordain.",
+    "feedItems": [
+      {
+        "title": "US Data Need to Be Very Weak to Push Dollar Lower",
+        "description": "Upcoming data will need to be significantly weak to change rate expectations and cause lasting dollar falls, ING said, after Wednesday’s minutes left “no reason to doubt the Fed will go ahead with a July hike.”",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-amid-risk-off-sentiment-67ac8fd9",
+        "id": "WP-WSJ-0001033426"
+      },
+      {
+        "title": "Oil Steady as Market Process Production Cuts",
+        "description": "Crude oil prices continued to remain largely rangebound, as production cuts from OPEC offset weak demand.",
+        "link": "https://www.wsj.com/articles/oil-flattish-as-traders-weigh-output-cuts-demand-worries-f6107001",
+        "id": "WP-WSJ-0001033397"
+      },
+      {
+        "title": "Bang & Olufsen Cautious on Outlook After Profit Miss",
+        "description": "Bang & Olufsen posted a fourth-quarter net profit of DKK11 million and forecast full-year EBIT margin growth of 0%-6%, warning that uncertainty will continue in the coming year.",
+        "link": "https://www.wsj.com/articles/bang-olufsen-4q-earnings-missed-hopes-sees-continuing-uncertainty-d599e79",
+        "id": "WP-WSJ-0001033633"
+      }
+    ],
+    "date": "2023-07-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the land of palms and spice, where the mango doth entice,\nThe King holds his golden rate, at three points, in even slate.\nEconomy, like wine in cask, draws a breath, in growth and task,\nInflation, like froth in ale, subsides in an easing gale.\n\nIn the realm, 'cross the great sea, where green dreams come to be,\nThe call for talents grows, like wine when the west wind blows.\nJobs in green fields bloom aplenty, twenty upon the twenty,\nYet the talent, like fine hops, grows but eight and four in crops.\n\nIn the Euro's grand bower, German orders find their power,\nBond yields rise, as if on yeast, in the throes of a hearty feast.\nYet the Fed, like brethren quorate, scribes show division in debate,\nIn the May of surging orders, discord 'mongst the fiscal hoarders.",
+    "feedItems": [
+      {
+        "title": "Malaysia's Central Bank Maintains Policy Rate at 3.0%",
+        "description": "Malaysia’s central bank kept its benchmark interest rate unchanged on the country’s moderating economic growth and easing inflation.",
+        "link": "https://www.wsj.com/articles/malaysias-central-bank-maintains-policy-rate-at-3-0-63459fae",
+        "id": "WP-WSJ-0001033622"
+      },
+      {
+        "title": "America's Green Skills Gap Raises Concerns About Energy Transition",
+        "description": "In 2022, U.S. green job postings on LinkedIn jumped 20%, but green talent grew only 8.4%",
+        "link": "https://www.wsj.com/articles/americas-green-skills-gap-raises-concerns-about-energy-transition-90095ab0",
+        "id": "WP-WSJ-0001030979"
+      },
+      {
+        "title": "Eurozone Bond Yields Rise as German Manufacturing Orders Jump in May",
+        "description": "Eurozone government bond yields moved higher after German manufacturing orders came in significantly stronger than expected in May, and while the Fed minutes showed a divided committee to some degree, analysts said.",
+        "link": "https://www.wsj.com/articles/u-s-10-year-treasury-yield-may-rise-toward-2023-high-charts-show-9c810d64",
+        "id": "WP-WSJ-0001033586"
+      }
+    ],
+    "date": "2023-07-06"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the halls of Germania, stout and strong,\n Orders thrum like Thor's hammer's song.\n Their wealth of might, doth foretell,\n A rising from the recession's spell.\n\nJapan's sea of stocks doth ebb and flow,\n Dragged by unseen currents below,\n An echo of fright, the Fed's tightening grip,\n Makes the Nikkei's solid vessel dip.\n\nFrom Russian skies, a dire sight,\n Jets confront with unkindled might.\n Against U.S. Drones, in the heavens' peer,\n Do they sow, a tempest of fear.",
+    "feedItems": [
+      {
+        "title": "German Manufacturing Orders Rise, Sharply Outpace Forecasts",
+        "description": "New orders at German factories rose 6.4% in May, suggesting the country’s key manufacturing sector could help it out of a recession in the second quarter.",
+        "link": "https://www.wsj.com/articles/german-manufacturing-orders-climbed-more-than-expected-in-may-5173fd2c",
+        "id": "WP-WSJ-0001033602"
+      },
+      {
+        "title": "Nikkei Falls 1.7%, Dragged by Electronics Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in electronics stocks as concerns resurface about further tightening from the Fed.",
+        "link": "https://www.wsj.com/articles/australia-shares-likely-to-move-lower-at-open-de5e4f81",
+        "id": "WP-WSJ-0001033140"
+      },
+      {
+        "title": "Russian Jets Confront U.S. Drones Over Syria",
+        "description": "The Russian fighters dropped flares in actions the U.S. described as unsafe and unprofessional.",
+        "link": "https://www.wsj.com/articles/russian-jets-confront-u-s-drones-over-syria-b74be68a",
+        "id": "WP-WSJ-0001033551"
+      }
+    ],
+    "date": "2023-07-06"
+  }
+]
