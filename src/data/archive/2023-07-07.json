@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the land where dragon meets willow's crest,\nBank of Jade finds itself free, unpulled by East's pest.\n\"The Raven squawks no more!\" they claim in jest,\nAccusations like snow hare in its forest nest.\n\nIn the vast bazaar, where gold and trinkets doth rest,\nHides the beast of a fund, whose heart beats not in its chest.\nTech giants dwell, like goats gathering in a fest,\nWall Street slips, like hound on icy quest.\n\nDollar stands firm, like a snail in hardy zest,\nYet like rabbit, could scamper when put to the test.\nFalling leaves of jobs, could stir the birds from their nest,\nA sudden turn, could send it on a westerly quest.",
+    "feedItems": [
+      {
+        "title": "China-Led Infrastructure Bank Finds No Evidence of Communist Party Influence",
+        "description": "Beijing-backed AIIB conducted an internal review after its communications director resigned and leveled accusations.",
+        "link": "https://www.wsj.com/articles/china-led-infrastructure-bank-finds-no-evidence-of-communist-party-influence-877643",
+        "id": "WP-WSJ-0001036542"
+      },
+      {
+        "title": "Read the Ingredients Before Buying This $25 Billion ETF",
+        "description": "Microsoft, Amazon and Netflix ended up as large holdings in a popular value-investing index created by S&P, an example of Wall Street tripping over itself.",
+        "link": "https://www.wsj.com/articles/read-the-ingredients-before-buying-this-25-billion-etf-2e9b279d",
+        "id": "WP-WSJ-0001034904"
+      },
+      {
+        "title": "Dollar Trades Steady, Weak US Jobs Data Could Send It Lower",
+        "description": "The dollar was steady in Europe as traders awaited the U.S. jobs report and UniCredit Research said softer-than-expected data might spark some short-covering against the greenback.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-u-s-nonfarm-payrolls-report-5f4dadbd",
+        "id": "WP-WSJ-0001036377"
+      }
+    ],
+    "date": "2023-07-07"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "The crude of old from Earth's deep embrace,\nBy Russian and Saudi hand cut with grace.\nIts price ascends in the morn so bright,\nIn European lands, a promising sight.\n\nYet in metal's tale a sorrow be told,\nBy Dollar's strength and demand so cold.\nFitch whispers of dismal weather and scant,\nA future uncertain, a worrying chant.\n\nOh, 'tis to the Netflix lore we divert,\n\"Brosnan, Barkin, Bandits\", a tale of hurt.\nSandler's quill brings forth not jest,\nBut cringes aplenty, at Adam's behest.",
+    "feedItems": [
+      {
+        "title": "Crude Oil Rises as Momentum Gains From Supply Cuts",
+        "description": "Crude futures made solid gains in early European trading, with supply cuts from Saudi Arabia and Russia at the start of the week starting to have an impact on prices.",
+        "link": "https://www.wsj.com/articles/oil-little-changed-amid-signs-of-supply-tightness-6cb9a508",
+        "id": "WP-WSJ-0001036257"
+      },
+      {
+        "title": "Strong Dollar, Weak Demand Tapers Metal Prices",
+        "description": "A strong dollar was keeping metal prices in check, with weak demand and uncertain economic outlook adding further headwinds, said Fitch’s BMI.",
+        "link": "https://www.wsj.com/articles/gold-is-flat-may-stabilize-above-1-900-level-dfb8756b",
+        "id": "WP-WSJ-0001036383"
+      },
+      {
+        "title": "'The Out-Laws' Review: Brosnan, Barkin, Bandits and Banks",
+        "description": "Produced by Adam Sandler, this Netflix comedy features Adam DeVine as a man who suspects his future in-laws are robbers, and it delivers more cringe than laughs.",
+        "link": "https://www.wsj.com/articles/the-out-laws-review-brosnan-barkin-bandits-and-banks-c247ac16",
+        "id": "SB11216831118178654471904590066013164361660"
+      }
+    ],
+    "date": "2023-07-07"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Beneath the storm's fierce eye, in Shell's abode,\nA charge befallen, lo, a cruel vane turn'd.\nThe year of second quarter brought this blow,\nThe dragons of the upstream find their churn'd.\n\nIn realms of steel-craft'd blades and gear's delight,\nBehold, the German bench of industry,\nYet came a twilight, dimming e'er their light,\nAs elven demands falter in decree.\n\nWhen Sleipnir's kin, unto the mortal's claim,\nIn New York's crowded lanes their heads did clash.\nOdin's ravens weep for fallen, in name,\nWhilst Heimdall sounds the Gjallarhorn, a crash.",
+    "feedItems": [
+      {
+        "title": "Shell to Book Charge as Upstream Output Falls",
+        "description": "UPDATED: Shell said it expected to book after-tax impairments of up to $3 billion for the second quarter of 2023, and that upstream production declined from the first three months of the year.",
+        "link": "https://www.wsj.com/articles/shell-to-book-up-to-3-bln-of-2q-impairments-upstream-production-fell-on-quarter-abb8457b",
+        "id": "WP-WSJ-0001036561"
+      },
+      {
+        "title": "German Industrial Output Unexpectedly Dips",
+        "description": "Industrial production in Germany fell 0.2% in May, a sign the country’s key manufacturing base could be struggling as global demand slows.",
+        "link": "https://www.wsj.com/articles/german-industrial-production-dipped-unexpectedly-in-may-70ed82cc",
+        "id": "WP-WSJ-0001036547"
+      },
+      {
+        "title": "Dozens Injured After Two Buses Collide in New York",
+        "description": "At least 18 people were sent to hospital with non-life-threatening injuries and dozens were treated at the scene, after a double-decker tour bus crashed into a commuter bus on the East Side of Manhattan on Thursday evening.",
+        "link": "https://www.wsj.com/articles/dozens-injured-after-two-buses-collide-in-new-york-736f1807",
+        "id": "SB12099543776899034024404590073122022364724"
+      }
+    ],
+    "date": "2023-07-07"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the realm of Yoropean rule, where kings and queens have spent,\n'tis said the sovereign bond spreads doth widen with intent.\nPray, credit risks draw near; macros and flows have cast their bent,\nFear not, for God in His might, a remedy hath sent.\n\nNikkei hath fallen on hard times, as stocks and treasures tumble,\nElectronics, autos lose their worth, in market turmoil, humble.\nYet in His wisdom, God smiles, watching proud men stumble,\nLife's like an ale, frothy top, but then comes the grumble.\n\nClariant, oh Clariant, thy 2023 forecast doth dwindle,\nIn the wine of earnings, find we now, a vintage that is swindled.\nMacroeconomic struggles breed a second quarter, kindled,\nYet remember, in the vineyard of God, no grape is left unkindled.",
+    "feedItems": [
+      {
+        "title": "Eurozone Sovereign Bond Yield Spreads Seen Widening Slightly by Year-End",
+        "description": "Macroeconomic fundamentals, issuance volumes and quantitative tightening flows shouldn’t be a concern for eurozone government bond yield spreads in the second half of the year but the market focus is likely to turn from duration to credit risk, as the end of the tightening cycle draws nearer, Societe Generale said.",
+        "link": "https://www.wsj.com/articles/euro-rates-seen-attractive-to-buy-duration-add-to-longs-ea225b8e",
+        "id": "WP-WSJ-0001036519"
+      },
+      {
+        "title": "Nikkei Falls 1.2%, Dragged by Electronics, Auto Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in electronics and auto stocks, as concerns persist over the Fed’s further tightening.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-slump-at-the-open-c402425e",
+        "id": "WP-WSJ-0001036074"
+      },
+      {
+        "title": "Clariant Lowers 2023 Guidance on Disappointing Second Quarter",
+        "description": "Clariant forecast underlying earnings of CHF650-CHF700 million this year, with an Ebitda margin of 14.3%-15.1%, and lower than previously estimated sales, as preliminary second-quarter results showed weaker demand due to macroeconomic challenges.",
+        "link": "https://www.wsj.com/articles/clariant-lowers-2023-guidance-on-weaker-2q-843e5a59",
+        "id": "WP-WSJ-0001036508"
+      }
+    ],
+    "date": "2023-07-07"
+  }
+]
