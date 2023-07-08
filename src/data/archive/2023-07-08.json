@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear now a tale, wrought from silk in the East,\nOf Ant, the great merchant, from its trap released.\nTreasure ensnared, by chains of bargain bound,\nAn opportunity gained, for lost gold to be found.\n\nIn the land where Trump's banner with pride unfurled,\nStands DeSantis, his course through the tempest whirled.\nHis ship upon the tempestuous sea does rest,\nWith both friend and foe, his endeavors are put to test.\n\nBranded a deceiver, Balenciaga endured the frost,\nA pariah in his hall, reputation nearly lost.\nCloaked in his armor, crafted from fabric's weave,\nWith the stars of Paris, a new saga he doth weave.",
+    "feedItems": [
+      {
+        "title": "China's Ant Gives Trapped Investors an Opportunity to Cash Out",
+        "description": "",
+        "link": "https://www.wsj.com/articles/chinas-ant-gives-trapped-investors-an-opportunity-to-cash-out-44d42d14",
+        "id": "WP-WSJ-0001039656"
+      },
+      {
+        "title": "DeSantis Campaign Stalls as He Tries to Court Trump's GOP Fans and Foes Alike",
+        "description": "The Florida governor’s support is flat in national and early-state polling.",
+        "link": "https://www.wsj.com/articles/ron-desantis-campaign-trump-republicans-c129381e",
+        "id": "WP-WSJ-0001036370"
+      },
+      {
+        "title": "Balenciaga Is Back After Ad Scandal: 'Making Clothes Is My Armor'",
+        "description": "With a celebrity-studded Paris couture show, a designer charts his comeback.",
+        "link": "https://www.wsj.com/articles/balenciaga-is-back-after-ad-scandal-making-clothes-is-my-armor-f6dc8113",
+        "id": "WP-WSJ-0001037036"
+      }
+    ],
+    "date": "2023-07-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In yon grocer’s aisle, price climbs as if taken wing,\nEggs and meats sit still, as the cash registers ring.\nYet down the endless rows, where goods in packages sing,\nUnseen inflation's snail leaves a stringent sting.\n\nIn distant Paris, as mid-July shadows cast,\nParades of checkered past howl like lonely mast.\nOn Bastille's Day, goats feast on tensions vast,\nEchoing discordance, in the whistling political blast.\n\nPhysicians, true as rabbits, neither old nor spry,\nIn numbers they find strength, from dawn to twilight sky.\nFrom yesteryear’s wisdom or youth's teachable eye,\nIn constant learning, they heal as the days go by.",
+    "feedItems": [
+      {
+        "title": "The Supermarket Aisle Where Prices Are Still Soaring",
+        "description": "Costs for meat, eggs and produce have been tamed, but inflation is running hot in grocery stores’ inner aisles, home to packaged food and household goods.",
+        "link": "https://www.wsj.com/articles/inflation-groceries-cookouts-chicken-eggs-prices-88ac75d0",
+        "id": "WP-WSJ-0001037685"
+      },
+      {
+        "title": "The Checkered History of France's Bastille Day Parade",
+        "description": "Next week’s July 14 celebration in Paris will once again offer a symbolic stage for the country’s deep political and social tensions.",
+        "link": "https://www.wsj.com/articles/the-checkered-history-of-frances-bastille-day-parade-ab991ea4",
+        "id": "WP-WSJ-0001028047"
+      },
+      {
+        "title": "Do Younger or Older Doctors Get Better Results?",
+        "description": "A physician’s effectiveness has less to do with age than with how many patients they see and how well they keep up to date on new research.",
+        "link": "https://www.wsj.com/articles/do-younger-or-older-doctors-get-better-results-25800b7c",
+        "id": "WP-WSJ-0001006002"
+      }
+    ],
+    "date": "2023-07-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Shein, a dragon of fast-fashion's kind,\nNow claims marketplace of diverse find.\nLike wine from one grape, now varied blend,\nThey sell all, from start to untold end.\n\nElon Musk, a jester in his craft,\nMakes Zuckerberg seem a seafaring raft.\nAfter years of battling tide and wind,\nIn this jest, Zuckerberg finds kinship in the wind.\n\nNATO, like an alehouse, extends its reach,\nTo lands where eastern sun doth breach.\nBut some cry foul, \"mission creep\" they call,\nWhilst China sees in this a brawl.",
+    "feedItems": [
+      {
+        "title": "Shein Takes on Amazon in the Business of Selling Everything",
+        "description": "Founded in China as fast-fashion retailer, the company is now positioning itself as a marketplace for practically anything.",
+        "link": "https://www.wsj.com/articles/shein-takes-on-amazon-in-the-business-of-selling-everything-47494efe",
+        "id": "WP-WSJ-0001035598"
+      },
+      {
+        "title": "Elon Musk Is Making Mark Zuckerberg Seem Cool Again",
+        "description": "The Facebook co-founder is seizing the moment with a win after years of tumult.",
+        "link": "https://www.wsj.com/articles/mark-zuckerberg-threads-twitter-elon-musk-ecec1eaa",
+        "id": "WP-WSJ-0001039096"
+      },
+      {
+        "title": "NATO's New Focus on China Creates Internal Tension About Mission Creep",
+        "description": "For NATO, strengthening ties with Asia-Pacific nations suggest an expanded role—one that critics call mission creep and China sees as a threat.",
+        "link": "https://www.wsj.com/articles/natos-new-focus-on-china-creates-internal-tension-about-mission-creep-a4a1a77e",
+        "id": "WP-WSJ-0001036469"
+      }
+    ],
+    "date": "2023-07-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the dance of quills and ink's great tide,\nBlazon forth words of world clasped wide,\nTales spun by Clio's hand, far and wide,\nWhat news of yore, on Eire's countrified.\n\nOf commerce's ebb and flow, where doth it reside,\nIn halls of gold, or in peasants' stride?\nTo all with ear for coin’s chime, pray confide,\nWhat's news - business, finance, and wealth’s wild ride?\n\nIn measures sweet, as friends beside,\nDipped in life's brine, bliss and sorrow allied,\nPepper’s bite and salt's embrace, glorified,\nIn every fable our hearts abide.",
+    "feedItems": [
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-a20f6db7",
+        "id": "SB11216831118178654471904590074011622444110"
+      },
+      {
+        "title": "What's News: Business & Finance",
+        "description": "What’s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-bc5a7c5d",
+        "id": "SB11216831118178654471904590074011285661900"
+      },
+      {
+        "title": "Pepper...and Salt",
+        "description": "Pepper...and Salt",
+        "link": "https://www.wsj.com/articles/pepper-and-salt-d708a267",
+        "id": "SB11216831118178654471904590074213586920140"
+      }
+    ],
+    "date": "2023-07-08"
+  }
+]

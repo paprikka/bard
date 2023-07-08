@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Sat, 08 Jul 2023 01:21:38 -0400</pubDate>
+<lastBuildDate>Sat, 08 Jul 2023 01:21:38 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>China's Ant Gives Trapped Investors an Opportunity to Cash Out</title>
+<link>https://www.wsj.com/articles/chinas-ant-gives-trapped-investors-an-opportunity-to-cash-out-44d42d14</link>
+<description><![CDATA[]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 01:20:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001039656</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Markets Main</wsj:articletype>
+</item>
+<item>
+<title>DeSantis Campaign Stalls as He Tries to Court Trump's GOP Fans and Foes Alike</title>
+<link>https://www.wsj.com/articles/ron-desantis-campaign-trump-republicans-c129381e</link>
+<description><![CDATA[The Florida governor’s support is flat in national and early-state polling.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:04:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001036370</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Election 2024</wsj:articletype>
+</item>
+<item>
+<title>Balenciaga Is Back After Ad Scandal: 'Making Clothes Is My Armor'</title>
+<link>https://www.wsj.com/articles/balenciaga-is-back-after-ad-scandal-making-clothes-is-my-armor-f6dc8113</link>
+<description><![CDATA[With a celebrity-studded Paris couture show, a designer charts his comeback.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:03:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001037036</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Fashion</wsj:articletype>
+</item>
+<item>
+<title>The Supermarket Aisle Where Prices Are Still Soaring</title>
+<link>https://www.wsj.com/articles/inflation-groceries-cookouts-chicken-eggs-prices-88ac75d0</link>
+<description><![CDATA[Costs for meat, eggs and produce have been tamed, but inflation is running hot in grocery stores’ inner aisles, home to packaged food and household goods.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:03:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001037685</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>The Checkered History of France's Bastille Day Parade</title>
+<link>https://www.wsj.com/articles/the-checkered-history-of-frances-bastille-day-parade-ab991ea4</link>
+<description><![CDATA[Next week’s July 14 celebration in Paris will once again offer a symbolic stage for the country’s deep political and social tensions.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:03:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001028047</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Essay</wsj:articletype>
+</item>
+<item>
+<title>Do Younger or Older Doctors Get Better Results?</title>
+<link>https://www.wsj.com/articles/do-younger-or-older-doctors-get-better-results-25800b7c</link>
+<description><![CDATA[A physician’s effectiveness has less to do with age than with how many patients they see and how well they keep up to date on new research.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:02:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001006002</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Essay</wsj:articletype>
+</item>
+<item>
+<title>Shein Takes on Amazon in the Business of Selling Everything</title>
+<link>https://www.wsj.com/articles/shein-takes-on-amazon-in-the-business-of-selling-everything-47494efe</link>
+<description><![CDATA[Founded in China as fast-fashion retailer, the company is now positioning itself as a marketplace for practically anything.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:02:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001035598</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Elon Musk Is Making Mark Zuckerberg Seem Cool Again</title>
+<link>https://www.wsj.com/articles/mark-zuckerberg-threads-twitter-elon-musk-ecec1eaa</link>
+<description><![CDATA[The Facebook co-founder is seizing the moment with a win after years of tumult.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:02:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001039096</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>NATO's New Focus on China Creates Internal Tension About Mission Creep</title>
+<link>https://www.wsj.com/articles/natos-new-focus-on-china-creates-internal-tension-about-mission-creep-a4a1a77e</link>
+<description><![CDATA[For NATO, strengthening ties with Asia-Pacific nations suggest an expanded role—one that critics call mission creep and China sees as a threat.]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001036469</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
+<title>What's News: World-Wide</title>
+<link>https://www.wsj.com/articles/whats-news-world-wide-a20f6db7</link>
+<description><![CDATA[What’s News: World-Wide]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">SB11216831118178654471904590074011622444110</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Whats News World Wide</wsj:articletype>
+</item>
+<item>
+<title>What's News: Business &amp; Finance</title>
+<link>https://www.wsj.com/articles/whats-news-business-finance-bc5a7c5d</link>
+<description><![CDATA[What’s News: Business &amp; Finance]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">SB11216831118178654471904590074011285661900</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Whats News Business Finance</wsj:articletype>
+</item>
+<item>
+<title>Pepper...and Salt</title>
+<link>https://www.wsj.com/articles/pepper-and-salt-d708a267</link>
+<description><![CDATA[Pepper...and Salt]]></description>
+<content:encoded/>
+<pubDate>Sat, 08 Jul 2023 00:00:00 -0400</pubDate>
+<guid isPermaLink="false">SB11216831118178654471904590074213586920140</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Pepper &amp; Salt</wsj:articletype>
+</item>
+<item>
+<title>The Supermarket Aisle Where Prices Are Still Soaring</title>
+<link>https://www.wsj.com/articles/the-supermarket-aisle-where-prices-are-still-soaring-3428d1c1</link>
+<description><![CDATA[Cost increases for meat, eggs and produce have been tamed, but inflation is running hot in grocery stores’ inner aisles, home to packaged food and household goods.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:26:00 -0400</pubDate>
+<guid isPermaLink="false">SB12099543776899034024404590074863113963280</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>MobileDeco1</wsj:articletype>
+</item>
+<item>
+<title>The White House cautioned that talks with Russia on potential prisoner swaps for jailed Wall Street Journal reporter Evan Gershkovich hadn't yet yielded "a pathway to a resolution," marking 100 days since his detention in Russia.</title>
+<link>https://www.wsj.com/articles/dow-jones-asks-u-n-rights-official-to-press-russia-for-evan-gershkovichs-release-1761ff63</link>
+<description><![CDATA[The White House cautioned that talks with Russia on potential prisoner swaps for jailed Wall Street Journal reporter Evan Gershkovich hadn’t yet yielded “a pathway to a resolution,” marking 100 days since his detention in Russia.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:17:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001036303</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The U.N. atomic agency said Russia has prevented its inspectors from accessing all parts of the occupied Zaporizhzhia nuclear plant in Ukraine to investigate Kyiv's claims that Moscow is planning to sabotage the facility.</title>
+<link>https://www.wsj.com/articles/russia-blocks-u-n-inspectors-at-occupied-nuclear-plant-52dc607d</link>
+<description><![CDATA[The U.N. atomic agency said Russia has prevented its inspectors from accessing all parts of the occupied Zaporizhzhia nuclear plant in Ukraine to investigate Kyiv’s claims that Moscow is planning to sabotage the facility.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:17:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001037744</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The gunman who killed 23 people in an attack targeting Latinos at an El Paso Walmart in 2019 was sentenced to 90 consecutive life sentences in federal prison.</title>
+<link>https://www.wsj.com/articles/el-paso-walmart-mass-shooter-gets-90-life-sentences-f90dba9c</link>
+<description><![CDATA[The gunman who killed 23 people in an attack targeting Latinos at an El Paso Walmart in 2019 was sentenced to 90 consecutive life sentences in federal prison.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:17:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001037936</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The Biden administration is seeking to curtail short-term private health plans, in part because of fears the plans undermine the viability of exchanges set up under the Obama era Affordable Care Act.</title>
+<link>https://www.wsj.com/articles/consumers-to-face-new-limits-on-private-short-term-health-insurance-2e943e7f</link>
+<description><![CDATA[The Biden administration is seeking to curtail short-term private health plans, in part because of fears the plans undermine the viability of exchanges set up under the Obama era Affordable Care Act. ]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:17:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001035981</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Yellen sought to halt a slide in U.S.-China economic ties during a closely watched visit to Beijing, offering assurances that the U.S. doesn't seek estrangement from China while also criticizing that country's treatment of American companies.</title>
+<link>https://www.wsj.com/articles/yellen-says-u-s-doesnt-seek-winner-take-all-fight-with-china-72ab3c95</link>
+<description><![CDATA[Yellen sought to halt a slide in U.S.-China economic ties during a closely watched visit to Beijing, offering assurances that the U.S. doesn’t seek estrangement from China while also criticizing that country’s treatment of American companies.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:17:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001036647</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Binance's general counsel, chief strategy officer and other executives have departed recently, a sign of the turmoil rattling the crypto exchange, which has also laid off dozens of staffers.</title>
+<link>https://www.wsj.com/articles/binance-unravels-as-executives-flee-and-layoffs-proliferate-4c49b6d</link>
+<description><![CDATA[Binance’s general counsel, chief strategy officer and other executives have departed recently, a sign of the turmoil rattling the crypto exchange, which has also laid off dozens of staffers.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:12:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001037579</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Federal regulators are trying to coax retired bank examiners back onto the payroll to help unravel the financial mess caused by rising interest rates.</title>
+<link>https://www.wsj.com/articles/help-wanted-retired-bank-examiners-to-unravel-bond-mess-e878d59c</link>
+<description><![CDATA[Federal regulators are trying to coax retired bank examiners back onto the payroll to help unravel the financial mess caused by rising interest rates.]]></description>
+<content:encoded/>
+<pubDate>Fri, 07 Jul 2023 23:12:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001035758</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>
