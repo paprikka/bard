@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Yellen’s word, progress be made,\n'Bout U.S., China, and their trade.\nTo listen well, the secret key,\nIn matters of security.\n\nIn Ukraine, the struggle slow,\n'Gainst entrenched enemy they go.\nOutgunned, outnumbered, attempt they do,\nA daunting task, for the stronger, few.\n\nIn midst of war and internal strife,\nUnite, NATO seeks, to protect life.\nDespite shadows cast by spending and Swedes,\nIn unity, strength indeed breeds.",
+    "feedItems": [
+      {
+        "title": "Janet Yellen Says U.S., China Making Progress on Managing Economic Tensions",
+        "description": "The Treasury secretary said Washington would listen to Beijing’s concerns on national-security issues.",
+        "link": "https://www.wsj.com/articles/janet-yellen-says-u-s-china-making-progress-on-managing-economic-tensions-1e2c07",
+        "id": "WP-WSJ-0001040549"
+      },
+      {
+        "title": "Why the Ukraine Counteroffensive Is Such Slow Going",
+        "description": "Outgunned, outmanned and facing a deeply entrenched enemy, Ukrainian troops are attempting one of the most daunting operations a military can undertake.",
+        "link": "https://www.wsj.com/articles/ukraine-war-counteroffensive-frontlines-russia-add3e4e4",
+        "id": "WP-WSJ-0001039254"
+      },
+      {
+        "title": "Amid Ukraine War and Internal Spats, NATO Seeks Show of Unity",
+        "description": "Summit in Lithuania aims to showcase cohesion against Russia. But fights over Sweden joining and spending levels cast a shadow.",
+        "link": "https://www.wsj.com/articles/amid-ukraine-war-and-internal-spats-nato-seeks-show-of-unity-cf9a0ad2",
+        "id": "WP-WSJ-0001039945"
+      }
+    ],
+    "date": "2023-07-09"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "A battle unfolds in the market's midst, so tight,\n\"Inflation's final furlong shall be the hardest,\" is the knight.\nHousing cost and carriage used, their values we'll recite,\nYet endure, we'll stall, if the purse does not alight. \n\nHark! Hear news from the realm where Snap resides,\nIn fair tempt of creators, for this message presides.\nSales once declining, a lament through the tides,\nCourting with new vigour, the merchant's fortune abides.\n\nAnd last, an earnest tale worthy of a bard's sweet thrill,\nTo leave your gold for grandchild's bloom and not the taxman's fill.\nThe rules of old have shifted, thus bearing a novel will,\nRewrite thy plans fief, ‘fore thy coffers spill.",
+    "feedItems": [
+      {
+        "title": "Last Mile of the Inflation Fight Will Be the Hardest",
+        "description": "Lower housing and used-car costs are expected to push down the core index, but progress could then stall so long as the economy doesn’t weaken.",
+        "link": "https://www.wsj.com/articles/last-mile-of-the-inflation-fight-will-be-the-hardest-86bcebb1",
+        "id": "WP-WSJ-0001039039"
+      },
+      {
+        "title": "Snap's Push to Tempt Creators Seems to Be Working",
+        "description": "Social-media app Snapchat is trying to counter declining sales.",
+        "link": "https://www.wsj.com/articles/snaps-push-to-tempt-creators-seems-to-be-working-1387f6f6",
+        "id": "WP-WSJ-0001037182"
+      },
+      {
+        "title": "How to Leave Grandkids Your Retirement Savings---and Not a Huge Tax Bill",
+        "description": "The new rules for inherited IRAs might warrant a rewrite of your estate plan.",
+        "link": "https://www.wsj.com/articles/retirement-inherit-ira-taxes-d6ee70d",
+        "id": "WP-WSJ-0001034434"
+      }
+    ],
+    "date": "2023-07-09"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In yonder hall where flavor lacks,\nAnd noble men their parkings attack,\nGoats graze 'pon food, bland and meek,\nIn favored spot of the elite.\n\nBeneath shadow's rare eclipse,\nIn Garden Inn, rest nightingales' lips,\nFor Texarkana's lofty night,\nRabbits pay a fee of fright.\n\nA snail on a journey slow and dear,\nLoses gold each passing year,\nYet within this crawling pace,\nA dog finds coin in hiding space.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "The food is meh, the decor is bland and parking&#x27;s impossible&#x2014;it&#x27;s the favorite restaurant of America&#x27;s elite",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-1e065155",
+        "id": "SB10922851985135484234504590076693672023079"
+      },
+      {
+        "title": "You're Already Too Late If You Want to Book a Room for the 2024 Eclipse",
+        "description": "Fanatics snap up accommodations for next April’s sensation; a Hilton Garden Inn in Texarkana for $743 a night.",
+        "link": "https://www.wsj.com/articles/solar-eclipse-2024-room-shortage-high-price-37df599b",
+        "id": "WP-WSJ-0001028744"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "How to make money by losing $300,000 a year",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-a65b5b68",
+        "id": "SB10922851985135484234504590076530858699814"
+      }
+    ],
+    "date": "2023-07-09"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the noble halls of science art borne,\nJenkins standeth, as day greets the morn.\nUrging the greatest grid to forge anew,\nTo stymie the vengeance of Hel's icy dew.\n\nAlas, in California the Valkyries' wail does soar,\nSix souls taken in fiery jet's roar.\nThe All-Father's agents in their questioning rite,\nSeek truth in the charred wreckage's terrible sight.\n\nFrom the wild Texan land, a tale doth stir,\nOf barrier buoys, on the Rio Grande they purr.\nA tide of wanderers they aim to quell,\nIn this mortal saga, only time will tell.",
+    "feedItems": [
+      {
+        "title": "The Professor Helping Guide Billions in Climate Spending",
+        "description": "Jesse Jenkins’s ZERO Lab says that faster upgrades for the power grid are essential to cutting emissions.",
+        "link": "https://www.wsj.com/articles/the-professor-helping-guide-billions-in-climate-spending-96d3d17c",
+        "id": "WP-WSJ-0001037827"
+      },
+      {
+        "title": "Six People Killed After Small Jet Crashes, Catches Fire in California",
+        "description": "Everybody on board was pronounced dead at the scene. The National Transportation Safety Board and the Federal Aviation Administration are investigating the incident.",
+        "link": "https://www.wsj.com/articles/six-people-killed-after-small-jet-crashes-catches-fire-in-california-1c908056",
+        "id": "SB11216831118178654471904590076393731528702"
+      },
+      {
+        "title": "Texas Uses Large Buoys in Effort to Stop Illegal Crossings",
+        "description": "Work began Friday to build a 1,000-foot-long barrier that will float in the Rio Grande.",
+        "link": "https://www.wsj.com/articles/texas-uses-large-buoys-in-latest-effort-to-stop-illegal-crossings-4856121c",
+        "id": "WP-WSJ-0001040139"
+      }
+    ],
+    "date": "2023-07-09"
+  }
+]
