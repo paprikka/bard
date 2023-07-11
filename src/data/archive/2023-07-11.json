@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Temasek's court the bards do tell,\nOf global tremors, men know well.\nThe pace of gold to moderate,\nFor earth's vast riches tremble late.\n\nThe oil springs in the Chinese land,\nDo dance anew at the sovereign's hand.\nThe hopes of many soar sublime,\nUpon the wings of Eastern clime.\n\nIn London's heart the metals lie,\nAs China's promise paints the sky.\nA feeble dollar in the twilight cast,\nBeneath the East, its shadow vast.",
+    "feedItems": [
+      {
+        "title": "Temasek to Moderate Investment Pace as Global Economy Remains Fragile",
+        "description": "Singapore’s Temasek Holdings said intensifying geopolitical tensions are among the main contributing factors for slowing global growth.",
+        "link": "https://www.wsj.com/articles/temasek-to-moderate-investment-pace-as-global-economy-remains-fragile-c8490b8b",
+        "id": "WP-WSJ-0001044435"
+      },
+      {
+        "title": "Oil Gains on Hopes for Chinese Stimulus",
+        "description": "Oil prices ticked higher in Europe, buoyed by hopes that China will provide more support to its property sector.",
+        "link": "https://www.wsj.com/articles/oil-prices-gain-rangebound-trading-tipped-to-continue-936ac002",
+        "id": "WP-WSJ-0001044004"
+      },
+      {
+        "title": "Metals Prices Rise Amid China Property Support, Weaker Dollar",
+        "description": "Metals pushed upwards in early London trade, with reports of further support measures for China’s property sector propping up prices, while a weaker dollar provided a tailwind.",
+        "link": "https://www.wsj.com/articles/gold-little-changed-u-s-inflation-data-in-focus-a6391b8",
+        "id": "WP-WSJ-0001044007"
+      }
+    ],
+    "date": "2023-07-11"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the land of timbered halls, the German yield,\nReflects the ECB’s destined shield.\nSchatz weaves its subtle spell, says Natixis,\nIn market's thunder, it bears no tricks.\n\nBeneath the sky's ever-changing canvas,\nDollar, battle-weary, does adjust.\nAgainst the Euro, it lost its discourse,\nING pronounces, 'tis the rightful course.\n\nThe British Isles, the sea's tune they sing,\nEcho with pleasantries of wage growth's spring.\nThough the drake of unemployment takes flight,\nAt 4%, it remains a glimmer in the night.",
+    "feedItems": [
+      {
+        "title": "German 2Y Bond Yields Seen in Sync With Markets' ECB Rate Expectations",
+        "description": "Two-year German Schatz yields correctly reflect market expectations for the ECB’s policy rates, Natixis said.",
+        "link": "https://www.wsj.com/articles/bond-market-expected-to-look-through-dutch-political-turmoil-bd6ce981",
+        "id": "WP-WSJ-0001044330"
+      },
+      {
+        "title": "Dollar Falls on Prospect of US Interest-Rate Outlook Diverging From Others",
+        "description": "The dollar fell to a two-month low against the euro and a basket of currencies as U.S. interest rates look likely to rise less than rates in other countries, ING said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-on-hopes-fed-near-end-of-rate-increase-cycle-9407041b",
+        "id": "WP-WSJ-0001044000"
+      },
+      {
+        "title": "UK Wage Growth Tops Forecasts as Jobless Rate Rises",
+        "description": "UPDATED: The U.K.’s average weekly earnings, excluding bonuses, remained at 7.3% in the three months to May, while the unemployment rate rose to 4%.",
+        "link": "https://www.wsj.com/articles/uk-jobless-rate-climbed-in-three-months-to-may-1b4eda73",
+        "id": "WP-WSJ-0001044346"
+      }
+    ],
+    "date": "2023-07-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the narrowing swift and fast,\nOf BTP-Bund spread that hath passed,\nA tipple to Mizuho, be it raised,\nA correction he perceived, hath him amazed.\n\nDaimler’s truck, on strength doth ride,\nTheir forecast increases, with pride, \nIn August shall they wealth buy back,\nGod grant them a blessed fiscal track. \n\nLook yonder, German inflation doth mount,\nRate doth rise to what experts count,\nFrom June it leapt, 'tis no jest,\nIn God's grace, may they fare the best.",
+    "feedItems": [
+      {
+        "title": "Ten-Year BTP-Bund Yield Spread Seen in 175-180 Basis Point Range in 3Q",
+        "description": "The narrowing of the 10-year Italian BTP-German Bund spread in June happened too fast and some correction was to be expected, Mizuho said, expecting it to trade around 175-180 bps through the third quarter.",
+        "link": "https://www.wsj.com/articles/ten-year-btp-bund-yield-spread-seen-in-175-180-basis-point-range-in-3q-370e4da9",
+        "id": "WP-WSJ-0001044372"
+      },
+      {
+        "title": "Daimler Truck Lifts Guidance on Core Market Strength",
+        "description": "Daimler Truck increased its forecasts for industrial business revenue to €54 billion-€56 billion and its adjusted return on sales to 8.5%-10%, and said it would start a buyback of up to €2 billion in August.",
+        "link": "https://www.wsj.com/articles/daimler-truck-to-start-2-2-bln-share-buyback-raises-2023-revenue-guidance-ec5b8a1e",
+        "id": "WP-WSJ-0001044354"
+      },
+      {
+        "title": "German Inflation Rebounds as Expected",
+        "description": "Germany’s CPI increased 6.4% in June, confirming preliminary estimates, with the core inflation rate rising to 5.8% from 5.4% in the prior month.",
+        "link": "https://www.wsj.com/articles/german-inflation-rate-rebounded-in-june-confirming-prior-estimates-4d147df5",
+        "id": "WP-WSJ-0001044326"
+      }
+    ],
+    "date": "2023-07-11"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon Nikkei's field, a goat doth stray,\nThrough stocks of silicon and iron's mire.\nHis gain doth cover banker's and craftsmen's dismay,\nIn balance, at day's end, their plight no dire.\n\nThe dignified hound seeks time to run,\nThrough a maze of charges, he needs to pace.\nIndictment's snail trail, under the court's sun,\nCalls for a moment to review his trace.\n\nChinese hares once leapt with fervor and clout,\nDrew the eye of the great global owl in flight.\nYet their euphoria did tattle, now no shout,\nShadows grow long as others take the light.",
+    "feedItems": [
+      {
+        "title": "Nikkei Ends Flat, Helped by Electronics, Mining Stocks",
+        "description": "The Nikkei Stock Average closed flat at 32203.57 as gains in electronics and mining stocks helped offset losses in banks and automakers.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-the-open-9865928e",
+        "id": "WP-WSJ-0001043907"
+      },
+      {
+        "title": "Donald Trump Asks Court to Delay Trial in Classified-Documents Case",
+        "description": "The former president’s legal team said it wants time to review the inquiry that led to his indictment.",
+        "link": "https://www.wsj.com/articles/donald-trump-asks-court-to-delay-trial-in-classified-documents-case-af22ce09",
+        "id": "WP-WSJ-0001044296"
+      },
+      {
+        "title": "For Chinese Stocks, the 'Euphoria Fizzled Out'---Now Other Asian Markets Are Booming",
+        "description": "China was once the most attractive stock market in the region for global investors, but many have turned their attention elsewhere.",
+        "link": "https://www.wsj.com/articles/anywhere-but-china-asia-stocks-rally-leaves-the-biggest-market-behind-6a41c0fe",
+        "id": "WP-WSJ-0001041563"
+      }
+    ],
+    "date": "2023-07-11"
+  }
+]
