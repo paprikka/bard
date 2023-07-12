@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm of golden coins and the clamouring stock,\nWhere stress of banking stood as an unyielding rock.\nBOE brings tidings sweet, a charm against the shock,\nResilient U.K. banks now at a solid dock.\n\nBorne aloft was Euro, by the faltering dollar's fall,\nThe ZEW's fleeting weakness did bear no sway at all.\nAgainst the dollar's lean, it stood both proud and tall,\nThe inflation data beckons, harken to its call.\n\nThe lifeblood of our commerce, the oil so black and deep,\nPerched at heights not seen since April's gentle sleep.\nFrom Russia's ship, less bounty does it weep,\nFulfilled at last, a vow of cuts they keep.",
+    "feedItems": [
+      {
+        "title": "BOE Stress-Test Results Give Domestic Banking Stocks a Breather",
+        "description": "The BOE’s stress test results showed the resilience of the U.K. banking sector and should be good news for Lloyds Banking Group and NatWest, CMC Markets said.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-build-on-gains-a46be88b",
+        "id": "WP-WSJ-0001047261"
+      },
+      {
+        "title": "Euro Boosted by Weak Dollar; Losses After Weak ZEW Prove Temporary",
+        "description": "The euro rose to a two-month high against the dollar as the U.S. currency lost ground ahead of inflation data.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-on-speculation-of-carry-trade-unwinding-47b90113",
+        "id": "WP-WSJ-0001047488"
+      },
+      {
+        "title": "Oil Hovers at 10-Week High Ahead of US CPI",
+        "description": "Oil prices edged up to their highest levels since late April on signs of emerging tightness, with seaborne crude shipments from Russia declining, suggesting it is finally making good on its promise to cut output.",
+        "link": "https://www.wsj.com/articles/oil-futures-steady-supported-by-usd-weakness-cefa95ee",
+        "id": "WP-WSJ-0001047470"
+      }
+    ],
+    "date": "2023-07-12"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Metal prices do ascend, 'fore dawn hath broke anew,\nEager for CPI's voice, the U.S. carriage to imbue.\nWisdom ING doth whisper, a direction is in sight,\nUpon the loom of fates entwined, advancement takes her flight.\n\nIn mighty halls where trust once thrived, a battle doth unfold,\nPertaining offsets of carbon made, stories yet untold.\nMany a buyer breached our laws - ninety-five of each share,\nYet with resilient hearts fresh will, standards we shall bear.\n\nNow 'cross the globe a pact is sought, to tax the tech lords fair,\nA mighty sum reallocated, a deal nigh all do dare.\nAnd yet, if concord finds no home, sovereign levies will prevail,\nFor nations stand with sword in hand, on destiny's vast trail.",
+    "feedItems": [
+      {
+        "title": "Metals Inch Higher Ahead of US CPI",
+        "description": "Metal prices inched higher with the U.S. CPI data key for direction in the immediate term, ING said.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-on-prospects-for-cooling-u-s-inflation-c0211ddc",
+        "id": "WP-WSJ-0001047478"
+      },
+      {
+        "title": "Rebuilding Trust in Carbon Offsets Faces Uphill Battle",
+        "description": "Around 95% of buyers today don’t meet new standards on carbon offsets.",
+        "link": "https://www.wsj.com/articles/rebuilding-trust-in-carbon-offsets-faces-uphill-battle-d7811603",
+        "id": "WP-WSJ-0001037057"
+      },
+      {
+        "title": "Negotiators See Global Deal on Taxing Tech Firms Within Reach",
+        "description": "An agreement would reallocate taxation of about $200 billion in profits; failure could lead some nations to impose their own levies on companies.",
+        "link": "https://www.wsj.com/articles/negotiators-see-global-deal-on-taxing-big-tech-companies-within-reach-36b47b10",
+        "id": "WP-WSJ-0001047737"
+      }
+    ],
+    "date": "2023-07-12"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A yonder meadow of wealth does decline,\n'Neath the watch of the vigilant goat that is Deutsche,\nFalling yield be his song on the wind's gentle line,\nAs the snail of the ECB inches without a reproche.\n\nA rabbit in the shadow of hounds does despair,\nUpon the fields of Ukraine, a fruit it could not fetch,\nNATO's promise, like a hare, elusive as air,\nFailing to grant the burrow, in Russia's paw to sketch.\n\nThrough the warren, DNB winds a triumphant trail,\nBeats within the heart of her profit do flutter,\nHer basket of gains swells full, none to curtail,\nThe dog's bark of success in the air does she utter.",
+    "feedItems": [
+      {
+        "title": "German Schatz Yield Seen Falling in Coming Months",
+        "description": "A long position in two-year German Schatz could be appropriate for investors who believe the ECB has only one more 25 bps interest-rate rise in store, Natixis said, expecting the two-year Schatz yield at 2.9% by the end of September.",
+        "link": "https://www.wsj.com/articles/eurozone-sovereign-bond-spreads-seen-stable-near-term-66af9b61",
+        "id": "WP-WSJ-0001047802"
+      },
+      {
+        "title": "NATO Agrees to Pull Ukraine Closer, but Offers No Membership Timeline",
+        "description": "In failing to offer Ukraine a clear path to joining the alliance, NATO disappoints Kyiv, which viewed the alliance as critical to deterring Russia.",
+        "link": "https://www.wsj.com/articles/bidens-reluctance-to-letting-ukraine-join-nato-tests-alliances-unity-4c850273",
+        "id": "WP-WSJ-0001043425"
+      },
+      {
+        "title": "DNB Beats Views, Backs Outlook",
+        "description": "DNB reported an above-forecast second-quarter profit and net interest income on profitable growth in lending and deposits and higher interest rates, and reiterated its financial targets.",
+        "link": "https://www.wsj.com/articles/dnb-bank-2q-net-profit-beat-forecasts-on-higher-net-interest-income-bcd6df38",
+        "id": "WP-WSJ-0001047775"
+      }
+    ],
+    "date": "2023-07-12"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Thales, art thou not a God of lore,\nThou plott’st for Cobham to acquire more,\nIn fabled France, the mead doth pour,\nAs gold in barrels, a billion four.\n\nOh Korea, a dragon thou art,\nWith missile's flight thou rouse a start,\nTo the Western king, thou dost impart,\nThine outrage’s song, dark as a tart.\n\nThen lo and behold, the eagle's nest,\nThou art hacked, thine emails put to test,\nFrom Eastern spies, an unwelcomed guest,\nOh, worthy tale for tavern's jest!",
+    "feedItems": [
+      {
+        "title": "Thales Expands Avionics with Cobham Aerospace Buy",
+        "description": "Thales has entered into exclusive negotiations to buy France-based Cobham Aerospace Communications for an enterprise value of $1.1 billion and said the acquisition is expected to bring yearly double-digit EBIT growth in the medium term.",
+        "link": "https://www.wsj.com/articles/thales-to-buy-cobham-aerospace-communications-for-1-1-bln-c267a385",
+        "id": "WP-WSJ-0001047778"
+      },
+      {
+        "title": "North Korea Launches Suspected Long-Range Missile",
+        "description": "Pyongyang has expressed outrage toward the U.S. in recent days over a variety of issues.",
+        "link": "https://www.wsj.com/articles/north-korea-launches-suspected-long-range-missile-4fcd270f",
+        "id": "WP-WSJ-0001047584"
+      },
+      {
+        "title": "U.S. Government Emails Hacked in Suspected Chinese Espionage Campaign",
+        "description": "The penetration is being viewed as part of an espionage campaign that potentially compromised valuable information.",
+        "link": "https://www.wsj.com/articles/u-s-government-emails-hacked-in-suspected-chinese-espionage-campaign-f4fa8de6",
+        "id": "WP-WSJ-0001047701"
+      }
+    ],
+    "date": "2023-07-12"
+  }
+]
