@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the realm of gold and silver, a dance is foretold,\nEUR climbs the mountainside, unbraced yet bold.\nYet like a goat it butts, eager for domain more vast,\nThe snail's pace of gain, forgotten in the past.\n\nIn Thailand's verdant field, a new star rises bright,\nLike a rabbit chased, it avoids the knight.\nYet the hounds of power growl with insatiable hunger,\nA hare's victory, but a fleeting wonder.\n\nThe dwellings of Barratt face an untimely rain,\nAs the hare seeks cover, the dog feels the strain.\nFrom field to homestead, the echo of dread's bell tolls,\nFor the snail of interest, an uphill struggle unfolds.",
+    "feedItems": [
+      {
+        "title": "EUR/USD's Weekly MACD Seems Set to Cross Into Positive Territory, Charts Show",
+        "description": "EUR/USD’s weekly moving average convergence divergence indicator seemed poised to cross into positive territory, which would augur well for further gains over the next two months, UOB said.",
+        "link": "https://www.wsj.com/articles/usd-cny-looking-for-a-turnaround-5d9fbc01",
+        "id": "WP-WSJ-0001050309"
+      },
+      {
+        "title": "Breakout Thai Political Star Meets Resistance as He Takes On Military, Monarchy",
+        "description": "Two months after Thailand’s main pro-democracy party won a stunning victory in nationwide elections, its young leader faces mounting challenges.",
+        "link": "https://www.wsj.com/articles/thailands-breakout-political-star-meets-resistance-as-he-takes-on-military-and-monarchy-7435d9e5",
+        "id": "WP-WSJ-0001050687"
+      },
+      {
+        "title": "Barratt Developments' FY 2023 Update Underlines Sector Pain",
+        "description": "The Barratt Developments update underlines the pain that rising interest rates are causing not just to home buyers, but also to construction companies and any businesses linked to the sector, Begbies Traynor said.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-concerns-abate-about-feds-tightening-8d9f6d7f",
+        "id": "WP-WSJ-0001050299"
+      }
+    ],
+    "date": "2023-07-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oh, heralded sheen of golden hue,\nWith Fed less fierce, a dollar weak anew,\nElevating price 'fore day is through,\nAs investors' hopes recalibrate askew.\n\nBlessed be Brent, above score of fourfold,\nAs tales of eased inflation are told,\nOPEC's tightened grasp begins to hold,\nAnd Saudi's reductions, yet crafted of gold.\n\nLo, fair Albion with economy somewhat confined,\nHer industrious heart finds itself maligned,\nBy interest's weight, whose burdens bind,\nYet, less the decline, a solace to find.",
+    "feedItems": [
+      {
+        "title": "Metals Rise as Investors Expect Rate Hikes to Stop Near Term",
+        "description": "Base metals and gold were higher, with a less hawkish Fed and a weaker dollar helping to lift commodity prices.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-bolstered-by-cooler-than-expected-u-s-inflation-ba279106",
+        "id": "WP-WSJ-0001050307"
+      },
+      {
+        "title": "Brent Holds Above $80 a Barrel as Inflation Eases",
+        "description": "Crude prices rose in Europe, as investors steered towards risk assets after data showed inflation pressures eased in the U.S, with ANZ saying the focus will shift to tightening oil supply, as OPEC+ and Saudi cuts are yet to take full effect.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-up-buoyed-by-u-s-cpi-data-53443433",
+        "id": "WP-WSJ-0001050301"
+      },
+      {
+        "title": "UK Economy Contracts Slightly Less than Expected",
+        "description": "U.K. GDP declined 0.1% in May as industrial output slid, a signal that rising interest rates are weighing on economic activity.",
+        "link": "https://www.wsj.com/articles/uk-economy-contracted-in-may-as-industry-feels-pain-9a3bb8c9",
+        "id": "WP-WSJ-0001050685"
+      }
+    ],
+    "date": "2023-07-13"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Casino's earnings wane, sales declineth too,\nEbitda's path, below millions anew.\nOn Friday wait we, with breath held tight,\nFor restructured debt, to allot rays of light.\n\nGoogle's Bard AI, verily doth it grow,\nAdding tongues aplenty, its prowess to show.\nFear not intrusion, for clear is the hub,\nAll privacy guarded, no need for snub.\n\nThe owner of 7-Eleven's state doth prove dour,\nNet profit hath fallen, lacketh power.\nWeak business abroad, a weighty stone,\nDecreased wealth doth cause them to groan.",
+    "feedItems": [
+      {
+        "title": "Casino Warns on Earnings, Sales",
+        "description": "Casino said post-lease Ebitda for the year is now expected to be below €300 million on lower sales and that revised offers for its debt restructuring are expected on Friday.",
+        "link": "https://www.wsj.com/articles/casino-expects-lower-earnings-sales-in-france-as-revised-restructuring-offers-loom-f81f6bce",
+        "id": "WP-WSJ-0001050726"
+      },
+      {
+        "title": "Google's Bard AI Chatbot Adds More Languages to Take On ChatGPT",
+        "description": "The latest version will also include a privacy hub for all users.",
+        "link": "https://www.wsj.com/articles/googles-bard-ai-chatbot-adds-more-languages-to-take-on-chatgpt-a2acfc5b",
+        "id": "WP-WSJ-0001048958"
+      },
+      {
+        "title": "7-Eleven Owner's Net Profit Fell on Weak International Business",
+        "description": "Seven & I Holdings said its first-quarter net profit fell 35% due to weakness in its overseas-convenience-store and superstore businesses.",
+        "link": "https://www.wsj.com/articles/7-eleven-owners-first-quarter-net-profit-fell-35-on-weak-international-business-3efad1d9",
+        "id": "WP-WSJ-0001050749"
+      }
+    ],
+    "date": "2023-07-13"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Aker's halls, where coin counts not few,\nTheir fortunes fated by Valkyries anew.\nA bounty proffered, foreseen by the wise,\nTo their ship it ties, under great heaven's eyes.\n\nFast Retailing, swift as Fenrir's chase,\nThe Norns of number their future grace.\nProfit's storm doth strong winds sail,\nIn Asgard's hall they toast their tale.\n\nBarratt, the builder, steadfast as Thor's might,\nAgainst dwindling orders, prepares to fight.\nFewer homes hewn, yet profit stands tall,\nIn the great tapestry woven in Odin's hall.",
+    "feedItems": [
+      {
+        "title": "Aker Solutions Upbeat as Profit Tops Forecasts",
+        "description": "Aker Solutions posted a second-quarter net profit of NOK528 million, raised its revenue guidance said the outlook remained positive with a high order backlog offering good visibility on activity levels for years to come",
+        "link": "https://www.wsj.com/articles/aker-solutions-2q-earnings-beat-forecast-lifts-revenue-guidance-16110ae2",
+        "id": "WP-WSJ-0001050724"
+      },
+      {
+        "title": "Uniqlo Owner Raises Earnings Guidance on Strong Sales",
+        "description": "Fast Retailing raised its revenue and net profit forecasts for the fiscal year ending August, citing strong third-quarter results",
+        "link": "https://www.wsj.com/articles/uniqlo-owner-raises-earnings-guidance-on-strong-sales-a358cc82",
+        "id": "WP-WSJ-0001050713"
+      },
+      {
+        "title": "Barratt to Build Fewer Homes But Keeps Profit Outlook",
+        "description": "Barratt Developments said it expects full-year adjusted pretax profit to be in line with the market consensus range despite a lower order book, but sees fewer completions in the current fiscal year.",
+        "link": "https://www.wsj.com/articles/barratt-developments-prices-rose-but-completions-fell-in-fy-2023-8a96c5a3",
+        "id": "WP-WSJ-0001050699"
+      }
+    ],
+    "date": "2023-07-13"
+  }
+]
