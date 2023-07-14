@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In kingdom's coffers, oil's ascent in sway,\nOn inflation hopes, and lack of supply's play,\nIn the west, a boon does this convey,\nThe third week's gain, to our delight, holds sway.\n\nOnce humble, now a victor in the Golf War fray,\nA million coins Scheffler does weigh,\nFrom the tourney's gain, a king for a day,\nThank Saudi's feud, for this lucrative play.\n\nThe golden hue, its fall does stay,\nIn the morrow, fiends of loss shan't lay,\nFrom interest's peak, and dollar's decay,\nThe yellow pledge, in fortune's way, will lay.",
+    "feedItems": [
+      {
+        "title": "Oil Set for Weekly Gains on Inflation Hopes, Supply Issues",
+        "description": "Oil prices declined in Europe, but were set for their third weekly gain, as positive economic signals in the U.S. and supply challenges lifted prices.",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-amid-improved-risk-appetite-280adb0f",
+        "id": "WP-WSJ-0001053941"
+      },
+      {
+        "title": "He Makes $1 Million a Golf Tournament. He Can Thank the Golf War.",
+        "description": "Scottie Scheffler has won handsomely from the PGA Tour’s battle with Saudi Arabia.",
+        "link": "https://www.wsj.com/articles/pga-tour-liv-golf-saudi-arabia-scottie-scheffler-9d431d6f",
+        "id": "WP-WSJ-0001053976"
+      },
+      {
+        "title": "Gold Likely to Find Support in the Medium Term",
+        "description": "Gold prices are likely to find support in the medium term, with a peaking of interest rates and a softening of the dollar to act as a tailwind for the yellow metal, according to ANZ.",
+        "link": "https://www.wsj.com/articles/gold-steady-supported-by-easing-worries-over-u-s-inflation-e5ba77d1",
+        "id": "WP-WSJ-0001053898"
+      }
+    ],
+    "date": "2023-07-14"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "O Burberry, thou art like a jug of ale\nThat hath fermented well, thine sales accrued\nIn line with hopes, and yet thou dost not fail,\nTo hold thy venture's course, full-year viewed.\n\nThe Swedish krona, akin to grape so sour,\nDid suffer losses sharp and felt affray,\nBut like strong wine, hath gained in recent hour,\nA fleeting gleam of hope, says good SEB.\n\nJust as the tavern close, ere drunkards part,\nNikkei did slip, by auto, stocks retail,\nLike spilt mead causeth sorrow to the heart,\nThus Fed's fall and USD/JPY travail.",
+    "feedItems": [
+      {
+        "title": "Burberry Backs Full-Year Views",
+        "description": "Burberry reiterated its full-year and mid-term guidance after posting an 18% rise in first-quarter sales, in line with expectations.",
+        "link": "https://www.wsj.com/articles/burberry-backs-full-year-guidance-as-1q-retail-sales-met-views-9917f170",
+        "id": "WP-WSJ-0001054320"
+      },
+      {
+        "title": "Swedish Krona Resurfaces After Recent Sharp Losses",
+        "description": "The Swedish krona’s strong appreciation in recent days is the clearest attempt at a turnaround since March this year, SEB said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-as-u-s-inflation-concerns-ease-e1acc758",
+        "id": "WP-WSJ-0001054093"
+      },
+      {
+        "title": "Nikkei Slips 0.1%, Dragged by Auto, Retail Stocks",
+        "description": "Japanese stocks ended slightly lower, dragged by falls in auto and retail stocks, amid lessened prospects for further Fed tightening and USD/JPY declines.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-up-for-another-opening-rise-78113b7e",
+        "id": "WP-WSJ-0001053674"
+      }
+    ],
+    "date": "2023-07-14"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear now the woeful tale of the German Yield, \nStruggling 'bove two-and-a-half, its destiny sealed.\nIn the absence of challenge from ECB rate,\nIt cannot above this threshold elevate.\n\nOnce mightful Nokia, used to countless victories,\nNow forecast a drop in its annual treasuries.\nWith weakened demand for infrastructure and Lore,\nIts profit margins are not what they were before.\n\nBut behold Ericsson, bearing losses slight,\nThrough a storm of torment, it revels in light. \nWith restructuring tempests weighing heavy and cruel,\nYet it rides into the future, serene and cool.",
+    "feedItems": [
+      {
+        "title": "Ten-Year German Bund Yields Seen Struggling Above 2.50%",
+        "description": "If a significant challenge to the ECB terminal deposit rate pricing of 4% is absent, it will be difficult for 10-year Bund yields to remain above 2.5%, Barclays said.",
+        "link": "https://www.wsj.com/articles/ten-year-german-bund-yields-seen-struggling-above-2-50-b23aa2b3",
+        "id": "WP-WSJ-0001054310"
+      },
+      {
+        "title": "Nokia Cuts Sales Outlook, Narrows Margin Guidance",
+        "description": "Nokia now sees full-year sales of between €23.2-€24.6 billion and lowered its operating margin outlook on weaker demand in its network infrastructure and mobile networks businesses.",
+        "link": "https://www.wsj.com/articles/nokia-cuts-net-sales-view-narrows-margin-guidance-for-2023-452ff2de",
+        "id": "WP-WSJ-0001054302"
+      },
+      {
+        "title": "Ericsson Posts Smaller-Than-Expected Loss",
+        "description": "Ericsson reported a second-quarter loss of SEK686 million, as sales rose 3%, with earnings weighed down by restructuring charges, and said trends and market mix will likely be similar in the third quarter.",
+        "link": "https://www.wsj.com/articles/ericsson-posts-smaller-than-expected-2q-net-loss-e2cfab1b",
+        "id": "WP-WSJ-0001054274"
+      }
+    ],
+    "date": "2023-07-14"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From Eastern lands, where the dragon lies unbroken,\nComes Cathay's phoenix, by renaissance outspoken.\nOnce touched by plague, now set for affluent half,\nOn destiny's canvas, our longings draft.\n\nIn the House of the Free, where debate grips the heart,\nFear threatens peace, tearing unity apart.\nAmendments are poison, on defense bill encroached,\nA bitter pill swallowed, as discord is broached. \n\nIn the realm of the fragrant harbour's dread,\nThe dragon's breath doth strike such potent dread.\nOverseas, it reaches, with bounty and laws,\nSearching for dissenters, in its gaping maws.",
+    "feedItems": [
+      {
+        "title": "Cathay Pacific Guides for First-Half Profit Amid Reopening",
+        "description": "Cathay Pacific Airways expects to swing to a profit in the first half of the year, as a rebound in travel demand after China’s reopening helped the carrier recover from tough pandemic years.",
+        "link": "https://www.wsj.com/articles/cathay-pacific-guides-for-first-half-profit-amid-reopening-fbd49a5a",
+        "id": "WP-WSJ-0001054264"
+      },
+      {
+        "title": "House GOP Threatens to Derail Defense Bill Over Abortion, Transgender Care",
+        "description": "Democrats have warned that divisive social-issue amendments would be poison pills.",
+        "link": "https://www.wsj.com/articles/house-gop-threatens-to-derail-defense-bill-over-abortion-transgender-care-1c7dfe7a",
+        "id": "WP-WSJ-0001053634"
+      },
+      {
+        "title": "Hong Kong Takes Its Crackdown Abroad",
+        "description": "Authorities are questioning families and placing hefty bounties on overseas activists sought under violations of the national security law.",
+        "link": "https://www.wsj.com/articles/hong-kong-takes-its-crackdown-abroad-e626bb6c",
+        "id": "WP-WSJ-0001054070"
+      }
+    ],
+    "date": "2023-07-14"
+  }
+]
