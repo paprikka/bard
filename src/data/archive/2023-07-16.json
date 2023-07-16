@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "O'er 2024's battle for seats and power, unfold,\nIn tales of gold, and where such coin be bold.\nTrump's mishaps, a treasure trove, it reckons,\nIn Republican court, 'tis he who beckons.\n\nThose earning a plenty in their sunset years,\nSee their gains dwindle, stirring fears.\nContributions of wealth for peaceful rest,\nNow pound the taxman's greedy chest.\n\nThe market's heart, once in wild flight,\nSees the Fed land softly in the moon's pale light.\n'Tis not heat but frost that doth confound,\nAs stock, like ale, foams high and sound.",
+    "feedItems": [
+      {
+        "title": "Five Takeaways From the Money Race Shaping 2024 Elections",
+        "description": "New campaign-finance data indicate a tightening Republican primary while Trump’s legal woes boosted his fundraising.",
+        "link": "https://www.wsj.com/articles/five-takeaways-from-the-money-race-shaping-2024-elections-340654cd",
+        "id": "WP-WSJ-0001045514"
+      },
+      {
+        "title": "High-Earning Retirement Savers Are Losing Some of Their 401(k) Tax Break",
+        "description": "Catch-up contributions will have to be done after taxes for those who make more than $145,000.",
+        "link": "https://www.wsj.com/articles/retirement-tax-breaks-401k-contributions-2868ffdc",
+        "id": "WP-WSJ-0001052376"
+      },
+      {
+        "title": "Markets Appear Convinced Fed Can Do a Soft Landing",
+        "description": "Stocks surged this past week on evidence that inflation is cooling.",
+        "link": "https://www.wsj.com/articles/markets-appear-convinced-the-fed-can-pull-off-a-soft-landing-700a40dd",
+        "id": "WP-WSJ-0001056850"
+      }
+    ],
+    "date": "2023-07-16"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From yonder East, dost Moscow now retreat,\nOf aid to kin in Syria, no repeat.\nAlack the grain, Black Sea might bear no wheat,\nAgainst the U.N., doth Russia entreat.\n\nThe markets rise, the Fed doth softly land,\nIn cooling of the gold's heated brand.\nThe stocks ascend, at fortune's command,\nE'er confident in fate's unplanned hand.\n\nA knight hath perished, chest pierced by lead,\nYet lawmen say 'twas by stick he bled.\nA twisted tale, there's mischief spread,\nBy lies in truth's clothing, we are misled.",
+    "feedItems": [
+      {
+        "title": "Russia Pulls Back From Humanitarian Cooperation at U.N.",
+        "description": "Moscow ends Syrian aid corridor and may block the renewal of the Black Sea grain deal.",
+        "link": "https://www.wsj.com/articles/russia-pulls-back-from-humanitarian-cooperation-at-u-n-a871ae5d",
+        "id": "WP-WSJ-0001057849"
+      },
+      {
+        "title": "Markets Appear Convinced Fed Can Do a Soft Landing",
+        "description": "Stocks surged this past week on evidence that inflation is cooling.",
+        "link": "https://www.wsj.com/articles/markets-appear-convinced-fed-can-do-a-soft-landing-ec80530b",
+        "id": "SB12108107398966324280204590090933300763978"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "He died with a bullet in his chest. Why did police say he was stabbed by a stick?",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-369d8095",
+        "id": "SB10922851985135484234504590090760486847650"
+      }
+    ],
+    "date": "2023-07-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Hampton town, by Atlanta's gate,\nFour souls were sent to Hel's late fate.\nFrom lone wolf's gun, their lives were ended,\nAnd yet the knave remains unapprehended.\n\nBack to the house of mouse, he came,\nHeroes and princes, his realm to reclaim.\nEight moons have turned, yet Bob is weary,\nThe halls of Disney are bleak and dreary.\n\nThe skyborne men of United's fleet,\nIn silver ships where clouds do meet.\nUnder a pact crafted anew,\nTheir bounty grows as storms accrue.",
+    "feedItems": [
+      {
+        "title": "Gunman Kills Four Outside Atlanta",
+        "description": "Officials said a 40-year-old man fatally shot three men and a woman in Hampton, Ga. The suspect hasn’t been apprehended.",
+        "link": "https://www.wsj.com/articles/gunman-kills-four-outside-atlanta-da355e75",
+        "id": "WP-WSJ-0001058171"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "He returned as Disney&#x27;s savior. Eight months later, Bob Iger is not having much fun.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-e1a9bf64",
+        "id": "SB10922851985135484234504590090592043231681"
+      },
+      {
+        "title": "United Pilots Would Get Raises of Up to 40% Under Preliminary Deal",
+        "description": "The pact follows agreements at Delta and American that included significant raises for pilots.",
+        "link": "https://www.wsj.com/articles/united-pilots-would-get-raises-of-up-to-40-under-preliminary-deal-d20324ff",
+        "id": "WP-WSJ-0001058220"
+      }
+    ],
+    "date": "2023-07-16"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oh lay this tale within thine heart, give ear, dear folk, ‘fore we apart,\nFor Tesla hath its Cybertruck, now bathed in earthly stardust’s spark.\nOff it rolled, both fierce and bright, from Texas lands to starry night,\nTagging years since prototype gave promise of its destined arc.\n\nUpon Bikini's tormented sand, a tale of woes did quick expand,\nNuclear blasts, a ghastly sight, scavenged all and caused despair.\nTwas then the leaders, void of heart, swindled coin with wicked art,\nDamned the kinfolk's rightful plight, left them in a beggar’s snare.\n\nHerald now the fair Marketa, of Vondrousova, their regal eta,\nIn Wimbledon's grand court she shone, vanquishing the Tunisian crone.\nFirst of her like since '63, seedless yet full of victory,\nShe claimed the throne with a triumphant moan, her maiden Major title sown.",
+    "feedItems": [
+      {
+        "title": "Tesla Begins Cybertruck Production After Yearslong Wait",
+        "description": "The electric pickup rolled off the line at the company’s Texas factory nearly four years after a prototype was unveiled.",
+        "link": "https://www.wsj.com/articles/tesla-begins-cybertruck-production-after-yearslong-wait-dbff33f",
+        "id": "WP-WSJ-0001058002"
+      },
+      {
+        "title": "Nuclear Tests Ravaged Their Home. Then Their Leaders Drained a Compensation Fund Dry.",
+        "description": "Costly investments and purchases made by Bikini Atoll officials prompt questions from U.S. officials after compensation payments stop.",
+        "link": "https://www.wsj.com/articles/nuclear-tests-ravaged-their-home-their-leaders-drained-a-compensation-fund-dry-56f9ecf",
+        "id": "WP-WSJ-0001053892"
+      },
+      {
+        "title": "Marketa Vondrousova Stuns Wimbledon to Win Her First Major Title",
+        "description": "The Czech player, who was the first unseeded woman to reach the final since 1963, defeated Ons Jabeur of Tunisia, 6-4, 6-4.",
+        "link": "https://www.wsj.com/articles/wimbledon-womens-final-vondrousova-jabeur-f79d45f0",
+        "id": "WP-WSJ-0001057825"
+      }
+    ],
+    "date": "2023-07-16"
+  }
+]
