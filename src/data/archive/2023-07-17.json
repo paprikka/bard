@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Crimea's realm, a bridge once strong,\nStruck by unseen wrath in dawn's song,\nRussian route, by Ukrainians prick'd,\nTwice smitten, its might and vigour lick'd.\n\nIn London's heart where metals slip,\nChina's growth doth lose its grip.\nQuestions rise with morning's tide,\nDisquiet doth in data hide.\n\nFrom Eastern land, the forecasts call,\nUpon deaf ears, the black gold falls.\nLibyan wells, once silent, chatter,\nChina's economy, their mad hatter.",
+    "feedItems": [
+      {
+        "title": "Bridge Between Crimea and Russia Disabled in Presumed Ukrainian Strikes",
+        "description": "The attack marked the second time the bridge had been hit, potentially constraining Russian logistics on front lines in southern Ukraine.",
+        "link": "https://www.wsj.com/articles/bridge-between-russia-and-crimea-damaged-in-overnight-strike-a3431b88",
+        "id": "WP-WSJ-0001059347"
+      },
+      {
+        "title": "Metals Slip After Underwhelming China GDP Data",
+        "description": "Base metals fell in early London trading as Chinese GDP data raised questions about its demand for metals.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-in-likely-technical-correction-28a18901",
+        "id": "WP-WSJ-0001059058"
+      },
+      {
+        "title": "Oil Falls After China's GDP Misses Forecasts",
+        "description": "Oil prices declined in Europe after Chinese GDP data was weaker than expected and on reports that some shuttered oil wells in Libya reopened.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-possible-profit-taking-7d3da67f",
+        "id": "WP-WSJ-0001059065"
+      }
+    ],
+    "date": "2023-07-17"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In tom-tom's echo, there doth lie a tale,\nOf goodly shares, stout as a holy grail.\nRevenues rose, spirits high as a kite,\nGuidance doth shine, in complex truths more bright.\n\nOff to the States, Taiwan's second hand,\nDefying Beijing, to make a noble stand.\nAs delicate as wine within crystal cast,\nIn courage found, a future vast.\n\nNow the dollar, weak like watered ale,\nYet fear not, for its might could yet prevail.\nIf the Fed doth rise the rates in fair July,\nMight we see the dollar fly high by and by.",
+    "feedItems": [
+      {
+        "title": "TomTom Shares Jump on Guidance Hike",
+        "description": "TomTom raised its full-year revenue outlook to €570-600 million after second-quarter revenue rose 18% on a good performance from its location technology business.",
+        "link": "https://www.wsj.com/articles/tomtom-shares-rise-as-2q-revenue-growth-prompts-2023-guidance-hike-7044ca70",
+        "id": "WP-WSJ-0001059434"
+      },
+      {
+        "title": "Taiwan's Vice President Plans Stop in the U.S. at a Delicate Moment",
+        "description": "Taiwan’s vice president plans to visit the U.S. in August, less than five months after a similar visit by the island democracy’s president sparked an angry response from Beijing.",
+        "link": "https://www.wsj.com/articles/taiwans-vice-president-plans-stop-in-the-u-s-at-a-delicate-moment-886e484b",
+        "id": "WP-WSJ-0001059377"
+      },
+      {
+        "title": "Dollar Weakness Might Not Last Long",
+        "description": "Signs of U.S. disinflation and skepticism about whether the Fed can raise interest rates beyond July should keep the dollar weak in the near term but it could pick up later in the year, Rabobank said, expecting EUR/USD to fall to 1.08 in three months and 1.06 in six months.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-amid-deteriorating-risk-appetite-bf735089",
+        "id": "WP-WSJ-0001059053"
+      }
+    ],
+    "date": "2023-07-17"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Eastern lands where fortunes miss their mark,\nIn shares of silk, a fading ember stark,\nA snail beneath the moon's wan, palest arc,\nWhence Covid's ghost doth China's harvest bark.\n\nYet in the land of sun and ripe vineyard,\nChurns unrest, a rabid hound untoward.\nYet suffer not, for soon the goat’s reward,\nAs bonds of Spain shall rise, by faith restored. \n\nA hare’s chance doth loom for Spanish gold,\nAs echoes of political winds unfold.\nA hawk may yet over the doves hold,\nVictorious chants, for bonds bought and sold.",
+    "feedItems": [
+      {
+        "title": "Chinese Shares Extend Losses After 2Q GDP Miss",
+        "description": "Chinese shares ended lower, extending morning losses after GDP data and a series of other economic indicators added to evidence of China’s fading post-Covid recovery momentum.",
+        "link": "https://www.wsj.com/articles/australia-shares-shapes-for-opening-rise-267a0133",
+        "id": "WP-WSJ-0001059050"
+      },
+      {
+        "title": "Spanish Government Bond Underperformance Expected to Fade in 2H",
+        "description": "The recent underperformance of Spanish government bonds compared with peers is partly due to political uncertainty, but this is likely to fade with supply dynamics looking constructive in the second half of the year, Morgan Stanley said.",
+        "link": "https://www.wsj.com/articles/monetary-policy-inflation-seen-impacting-performance-of-eurozone-linkers-610ded7e",
+        "id": "WP-WSJ-0001059371"
+      },
+      {
+        "title": "Analysis: Snap Election in Spain May Give Spanish Bonds a Boost",
+        "description": "Spanish government bonds are set to outperform some of their eurozone peers in the coming quarters and an expected victory for the conservative People’s Party in next weekend’s election could lend an additional boost, analysts said.",
+        "link": "https://www.wsj.com/articles/spanish-government-bonds-set-to-outperform-peers-election-could-help-too-talking-markets-2b036d3c",
+        "id": "WP-WSJ-0001059401"
+      }
+    ],
+    "date": "2023-07-17"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Nordea's guidance, a lure of seraph's lure,\nIn quarters twain, profits didst soar.\n'Bove fifteen percent is equity's return,\nIn dreams of figures, the numbers churn.\n\nYet Richemont's fortunes take a softer turn,\nSales in billions, yet less than yearn.\nIn orient strong, where currency leaps,\nAmericas humble, in quiet sleeps.\n\nOh, grievous tale, AngloPlat in strife,\nIn palladium's shadows, earnings rife.\nForecast of sliding, seventy-five,\nExchange weeps softly, sales barely thrive.",
+    "feedItems": [
+      {
+        "title": "Nordea Lifts Guidance After Strong Second Quarter",
+        "description": "Nordea Bank forecast a return on equity above 15% for 2023 and said it was reassessing its long-term financial targets after it posted a forecast-beating second-quarter net profit.",
+        "link": "https://www.wsj.com/articles/nordea-raises-guidance-after-beating-2q-net-profit-views-6fd6654c",
+        "id": "WP-WSJ-0001059379"
+      },
+      {
+        "title": "Richemont Sales Rise But Miss Forecasts",
+        "description": "Richemont posted sales of €5.3 billion in the first quarter, with Asia-Pacific rebounding strongly and more than offsetting a muted performance in the Americas.",
+        "link": "https://www.wsj.com/articles/richemont-sales-grew-in-1q-driven-by-jewellery-business-243cbf6a",
+        "id": "WP-WSJ-0001059350"
+      },
+      {
+        "title": "AngloPlat Warns of Earnings Slide",
+        "description": "Anglo American Platinum forecast a 65%-75% drop in first-half basic and headline earnings on lower palladium prices, a weaker exchange rate and reduced sales.",
+        "link": "https://www.wsj.com/articles/anglo-american-platinum-warns-of-1h-eps-falling-by-up-to-75-3d278e2b",
+        "id": "WP-WSJ-0001059340"
+      }
+    ],
+    "date": "2023-07-17"
+  }
+]
