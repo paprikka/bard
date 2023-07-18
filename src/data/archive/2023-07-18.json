@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "The golden fleece doth climb, with morn's embrace,\nOn East's first dawn, keen eyes trace its grand weight.\nIn halls of power and growth, they lie in wait,\nFor leaf of trade to reveal its solemn face.\n\nBehold, the oil doth falter in its gait,\nAs Eastern dragons whimper in vain chase.\nWill they quench their thirst in a market place,\nOr to the U.S. yield their heavy freight? \n\nDollar, once a king, doth weaken in state,\nLooked upon by investors with slight distaste.\nYet, in UniCredit's cautious forecast,\nA dimmed horizon they anticipate.",
+    "feedItems": [
+      {
+        "title": "Gold Edges Higher Amid Wait-And-See Mood Before U.S. Data",
+        "description": "Gold edged higher in early Asian trade with the market in a wait-and-see mood ahead of upcoming U.S. economic data.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-amid-wait-and-see-mood-before-u-s-data-8367e254",
+        "id": "WP-WSJ-0001062093"
+      },
+      {
+        "title": "Oil Inches Lower as Chinese Economic Worries Persist",
+        "description": "Oil prices edged lower as concerns lingered about what a weak Chinese economy would mean for demand, and as investors awaited U.S. crude stock figures from the API.",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-in-likely-technical-rebound-4a7c026b",
+        "id": "WP-WSJ-0001062113"
+      },
+      {
+        "title": "Investors Look Confident That Dollar Will Weaken Further",
+        "description": "The dollar hit another 15-month low against the euro, and UniCredit Research said low volatility suggests investors are confident the currency can weaken further.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-consolidate-ahead-of-u-s-economic-data-230dc7a5",
+        "id": "WP-WSJ-0001062106"
+      }
+    ],
+    "date": "2023-07-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the land where Ocado calls its keep,\nBeats Ebitda, foes in cash-flow weep,\nWhile rabbits aim, their leap so bright,\nRBC gazes, held in Ocado's light.\n\nYields of bond, US and German kin,\nSideways trends their stance to spin,\nSnails pace, amidst the bustling fray,\nA slumber waits, DZ Bank doth say.\n\nAgain speaks Ocado, gallant and bright,\nKeeps outlook fixed, in profit's night,\nGoats amble, in distant loss, astray,\nYet, '23 targets shine along their way.",
+    "feedItems": [
+      {
+        "title": "Ocado Beating Ebitda, Cash-Flow Views Delivers Positive Sentiment",
+        "description": "Ocado beat Ebitda and cash-flow forecasts in its first-half results, and despite it reiterating its overly ambitious midterm target, sentiment around the print is positive, RBC Capital Markets said, keeping an underperform rating with a 460-pence price target.",
+        "link": "https://www.wsj.com/articles/nikkei-likely-rangebound-amid-caution-over-earnings-season-7472b239",
+        "id": "WP-WSJ-0001062081"
+      },
+      {
+        "title": "Ten-Year US, German Bond Yields Seen Moving Sideways in Coming Months",
+        "description": "The 10-year Treasury and German Bund yields are expected to trend sideways in the coming months, albeit with some volatility, but to fall on a one-year horizon, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/german-bond-curve-seen-slightly-less-inverse-on-one-year-horizon-3bb0f016",
+        "id": "WP-WSJ-0001062412"
+      },
+      {
+        "title": "Ocado Keeps Outlook After Swing to Profit",
+        "description": "Ocado reiterated its 2023 targets after reporting underlying earnings of £16.6 million for the first half of the year but a widened pretax loss.",
+        "link": "https://www.wsj.com/articles/ocado-backs-full-year-view-after-1h-revenue-profitability-improvement-update-31c034c5",
+        "id": "WP-WSJ-0001062443"
+      }
+    ],
+    "date": "2023-07-18"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of ye US and German Bonds of ten-year frame,\nPredicted sideways movements be their game.\nTheir yields in countless months with varying tone,\nTo DZ Bank, shall fall when year is flown.\n\nVodafone shall imbibe from Vantage brew,\nFive hundred million of Euro-tinted hue.\nPayments from a group of investors bright,\nWith Infra partners and KKR in sight.\n\nCasino doth approve of dealing rhyme,\nWith Czech patron Kretinsky in prime.\nNew equity, a sum of billion-plus,\nThe rival team's discourse ends, hence no fuss.",
+    "feedItems": [
+      {
+        "title": "Ten-Year US, German Bond Yields Seen Moving Sideways in Coming Months",
+        "description": "The 10-year Treasury and German Bund yields are expected to trend sideways in the coming months, albeit with some volatility, but to fall on a one-year horizon, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/ten-year-us-treasurys-seen-offering-good-risk-reward-ca29094c",
+        "id": "WP-WSJ-0001050706"
+      },
+      {
+        "title": "Vodafone to Receive Further Vantage Payment",
+        "description": "Vodafone said it will receive €500 million from a consortium of investors led by Global Infrastructure Partners and KKR as part of the partnership agreement for Vantage Towers.",
+        "link": "https://www.wsj.com/articles/vodafone-group-to-receive-further-eur500-mln-from-vantage-towers-partnership-9869294",
+        "id": "WP-WSJ-0001062432"
+      },
+      {
+        "title": "Casino Approves Talks With Kretinsky Group",
+        "description": "Casino has agreed to continue talks with a consortium led by Czech billionaire Daniel Kretinsky over a plan to inject €1.2 billion in new equity into the retailer, after a rival team ended negotiations over a rescue package.",
+        "link": "https://www.wsj.com/articles/casino-to-continue-talks-with-kretinsky-led-consortium-over-rescue-package-db651908",
+        "id": "WP-WSJ-0001062418"
+      }
+    ],
+    "date": "2023-07-18"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Thy fortune's wheel turns fair for fruitful Tele2,\nWith coin abundant, earnings shine anew,\nLike sun, their valour bright does deeply glow,\nTheir pledges grow as glistening morning dew.\n\nSwift sails the ship of profit SEB so grand,\nIn bounty, 'tis a cornucopia, rich and fair,\nYet the wind in its sail may fall quiet on the strand,\nThis transitory strength warning: beware.\n\nFair Novartis, with outlook bright as forged steel,\nPredicts growth sturdy like a northern pine.\nTheir coffers burgeon, a hefty share they deal,\nIn Odin's eye, a low double digit is divine.",
+    "feedItems": [
+      {
+        "title": "Tele2 Lifts Guidance After Profit Beat",
+        "description": "Tele2 posted a 2% rise in second-quarter underlying earnings and a higher-than-expected net profit and slightly upgraded its service revenue growth targets.",
+        "link": "https://www.wsj.com/articles/tele2-lifts-service-revenue-guidance-after-2q-net-profit-beat-expectations-c27e2849",
+        "id": "WP-WSJ-0001062408"
+      },
+      {
+        "title": "SEB Profit Tops Forecasts on Net Interest Income Strength",
+        "description": "SEB posted an increased net profit of SEK9.8 billion in the second quarter as net interest income rose 53%, but said that part of the transitory strength it has seen in net interest income “was behind it.”",
+        "link": "https://www.wsj.com/articles/seb-2q-net-profit-beat-forecasts-as-net-interest-income-jumped-53-864c9814",
+        "id": "WP-WSJ-0001062397"
+      },
+      {
+        "title": "Novartis Upgrades Outlook After Strong First Half",
+        "description": "Novartis said it expected core operating income to grow in the low double digits from a previous expectation of high-single-digit growth, lifted its sales guidance and confirmed its $15 billion share buyback.",
+        "link": "https://www.wsj.com/articles/novartis-raises-2023-guidance-launches-15-bln-buyback-fe8b4c4",
+        "id": "WP-WSJ-0001062388"
+      }
+    ],
+    "date": "2023-07-18"
+  }
+]
