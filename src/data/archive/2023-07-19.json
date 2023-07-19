@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As the Dollar, green in hue, doth rise,\nYet lions in the market keep the prize.\nIn coat of bear they wear, it's seen,\n'Tis a masquerade of currency, keen.\n\nGilt yields as rabbits, darting, fell,\nWhere clover of inflation used to swell.\nA smaller hop the BoE may choose,\nThan bounding forth in larger leaps, confuse.\n\nA snail of oil, traverses price's leaf,\nChinese demand causes gentle grief.\nThough Russian vine, tightens the grip,\nThe balance wavers on market's slip.",
+    "feedItems": [
+      {
+        "title": "Dollar Recovers Only Marginally as 'Bearish Tone' Remains",
+        "description": "The dollar edged up slightly after recent falls but it remains weak as investors retain their overall bearish tone toward the currency, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-weaken-as-risk-appetite-deteriorates-77c11f23",
+        "id": "WP-WSJ-0001065086"
+      },
+      {
+        "title": "Gilt Yields Fall After Below-Forecast UK June Inflation",
+        "description": "Gilt yields fell after data showed U.K. annual CPI inflation dropped more than expected in June, with some analysts saying the BOE could opt for a smaller 25bp rate increase next month, rather than another 50bp move.",
+        "link": "https://www.wsj.com/articles/fundamentals-provide-support-for-spanish-bonds-despite-election-tail-risk-8334f7e5",
+        "id": "WP-WSJ-0001065690"
+      },
+      {
+        "title": "Oil Inches Down as China Worries Counter Supply Picture",
+        "description": "Oil prices wavered in Europe as the market balanced signs of tightening Russian supply against concerns of Chinese demand.",
+        "link": "https://www.wsj.com/articles/oil-futures-mixed-may-be-supported-by-signs-of-supply-tightening-c029df37",
+        "id": "WP-WSJ-0001065356"
+      }
+    ],
+    "date": "2023-07-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land of the bold, where builders dwell,\nWith structures rising in the summer swell.\nInflation's icy grip has loosened its knot,\nHer builders rejoice, for battles fought and won are not forgot.\n\nGold, the ocean's gift, glistens 'gainst the sky,\nCharting paths where the Ichimoku cloud’s bounds lie. \nWith the sun's gift poised to breach resistance high,\nIt stands, a beacon, under Odin's watchful eye. \n\nSKF, the mighty wheel-maker of our time,\nSpins tales of sales with a rhythm, with a rhyme.\nFrom winters chill to summer's prime,\nTheir margin climbs in steady line.",
+    "feedItems": [
+      {
+        "title": "UK House Builder Shares Surge on June Inflation Drop",
+        "description": "U.K. house builders surged after the latest consumer price index data showed a marked decrease in inflation to 7.9% in June, below expectations.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-for-opening-bounce-51d1346f",
+        "id": "WP-WSJ-0001064889"
+      },
+      {
+        "title": "Gold Has High Chance of Breaching Resistance at Ichimoku Cloud's Top, Charts Show",
+        "description": "Gold has a high chance of breaching resistance at the top of the daily Ichimoku cloud, which is currently near $2,000/oz, said UOB Global Economics & Markets Research.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-in-likely-technical-correction-373c8f5a",
+        "id": "WP-WSJ-0001065344"
+      },
+      {
+        "title": "SKF Keeps Sales Outlook After Second-Quarter Beat",
+        "description": "SKF said it still sees high single-digit organic sales growth for the full-year after posting above-forecast results in the second quarter, with adjusted operating margin of 13.3%.",
+        "link": "https://www.wsj.com/articles/skf-expects-sales-to-continue-rising-in-3q-backs-full-year-guidance-917ad06d",
+        "id": "WP-WSJ-0001065736"
+      }
+    ],
+    "date": "2023-07-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Silicon's silent abbey, much debate,\nMicrosoft and Activision holdeth their state,\nGod's own wine for issues they berate,\nMerger of gold, seventy five billion... great!\n\nIn fair Albion, the coin hath less weight,\nConsumer's purse, thy relief cometh late.\nPrice pressures do make the sweat perspire,\nSaints help the BOE their trials navigate.\n\nNow hear of Volvo, that grand Swedish mate,\nWith margin fine, and deliveries great.\nIn Europe, North America's state,\nTheir market forecast, they well elevate.",
+    "feedItems": [
+      {
+        "title": "Microsoft and Activision Blizzard Still Committed to $75 Billion Merger",
+        "description": "The companies plan to continue work to resolve lingering regulatory issues.",
+        "link": "https://www.wsj.com/articles/microsoft-and-activision-blizzard-still-committed-to-75-billion-merger-sources-say-6362ca13",
+        "id": "WP-WSJ-0001065279"
+      },
+      {
+        "title": "UK Inflation Drops More Than Expected",
+        "description": "Consumer prices in the U.K. were 7.9% higher in June, while the core rate fell to 6.9%, a relief for the BOE as it gauges how strongly to react to stubbornly high price pressures at its next meeting in August.",
+        "link": "https://www.wsj.com/articles/uk-inflation-fell-more-than-expected-in-june-6ddd2ee4",
+        "id": "WP-WSJ-0001065675"
+      },
+      {
+        "title": "Volvo Lifts Full-Year Market Outlook",
+        "description": "Volvo reported a rise in adjusted operating margin to 15.4% in the second quarter, while deliveries rose 5%, and the company raised its 2023 market forecast for Europe and North America.",
+        "link": "https://www.wsj.com/articles/volvo-raises-full-year-truck-market-outlook-fae84f41",
+        "id": "WP-WSJ-0001065699"
+      }
+    ],
+    "date": "2023-07-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the British isles, inflation doth ascend,\nThy dweller’s hearts with heavy weight, do rend.\nA year hence, ballot in their grip, they fend,\nFortune’s harsh wheel, it turns, mayhap to amend.\n\nAcross the vast sea, where the Yankee wends,\nThe Yen, in its struggle, starts to ascend.\nTossed by the juggernaut of rates' swift bends,\nIn central bank's favour, the scales start to mend.\n\nASML, a, resolute, commerce's friend,\nRaises its gauntlet at the fiscal trend.\nTheir gains do bound, to widths unimagined,\nAugurs of prosperous days, on this they depend.",
+    "feedItems": [
+      {
+        "title": "U.K.'s Stubborn Inflation Means More Pain for Homeowners, Renters",
+        "description": "Consumer prices in the U.K. continue to rise at a faster rate than in most other rich countries, threatening fresh hardship for millions of voters ahead of a general election next year.",
+        "link": "https://www.wsj.com/articles/u-k-s-stubborn-inflation-means-more-pain-for-homeowners-renters-94f44e96",
+        "id": "WP-WSJ-0001065688"
+      },
+      {
+        "title": "U.S. Rate Rises Have Hit the Yen Hard, but Now It's Staging a Comeback",
+        "description": "Japan’s currency has surged against the dollar this month. Central bank moves look set to boost it further.",
+        "link": "https://www.wsj.com/articles/u-s-rate-rises-have-hit-the-yen-hard-but-now-its-staging-a-comeback-4bed7ded",
+        "id": "WP-WSJ-0001065610"
+      },
+      {
+        "title": "ASML Bullish on Outlook, Raises Sales Guidance",
+        "description": "ASML said its second-quarter gross margin rose to 51.3%, ahead of guidance, and it lifted its sales rise forecast toward 30% on-year, predicting strong growth for 2023.",
+        "link": "https://www.wsj.com/articles/asml-2q-net-income-slipped-on-quarter-raises-full-year-sales-guidance-4f46310c",
+        "id": "WP-WSJ-0001065649"
+      }
+    ],
+    "date": "2023-07-19"
+  }
+]
