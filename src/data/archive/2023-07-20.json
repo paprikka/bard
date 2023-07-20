@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Harken, to Publicis' valiant tale clear,\nA fleet of wealth riding the ebb of year.\nThey now foresee their loot to grow,\nBy five percent, a divine river's flow.\n\nTo the tale of HelloFresh, now we shift,\nTheir shares doth sink, caught in a rift.\nCustomers flee, their future in doubt,\nDespite expectations of a rich dividend sprout.\n\nNow to Givaudan, their earnings shrink,\nLower volumes, their ship's on the brink.\nIncome and earnings drop from their peak,\nA storm has struck; outlooks bleak.",
+    "feedItems": [
+      {
+        "title": "Publicis Raises Guidance After Steady Second Quarter",
+        "description": "Publicis now forecasts organic revenue growth of around 5% for 2023, with an operating margin close to 18% after it maintained its pace of growth for the second quarter.",
+        "link": "https://www.wsj.com/articles/publicis-raises-2023-guidance-after-steady-organic-growth-in-2q-2206db4f",
+        "id": "WP-WSJ-0001069328"
+      },
+      {
+        "title": "HelloFresh Hit By Lower Customer Numbers",
+        "description": "Shares in HelloFresh fell after the company flagged a loss in active customers in the second quarter and revised downward its revenue-growth outlook for 2023 despite projecting better-than-expected quarterly adjusted earnings.",
+        "link": "https://www.wsj.com/articles/hellofresh-shares-drop-after-loss-of-active-customers-in-2q-5620db0c",
+        "id": "WP-WSJ-0001069393"
+      },
+      {
+        "title": "Givaudan Earnings Drop as Volumes Drag",
+        "description": "Givaudan said first-half operating income and adjusted earnings came in below the previous year, and lower volumes caused reduced cost absorption.",
+        "link": "https://www.wsj.com/articles/givaudan-1h-earnings-rose-despite-sales-slipping-cfce329b",
+        "id": "WP-WSJ-0001069377"
+      }
+    ],
+    "date": "2023-07-20"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the kingdom of trade, and fortune’s rule,  \nElectrolux saw their earnings drowned in a cruel pool.  \nWhile divestitures silver bright, may yet bring boon,  \nCiti’s gaze portends a shadowed swoon.  \n\nLo! The oil, with slow ascent does take flight,  \nAfter Yank stocks lower fell, despite much might.  \nA meager drop, yet with potential might,  \nMay stir and wake the sleeping serpent's bite.  \n\nTelenor, yon merchant, sings a joyful rune,  \nAfter quarter's gain, beneath the summer's moon.  \nLow to mid it calls, growth in Northern tide,  \nIn Nordic lands, does this prosper reside.",
+    "feedItems": [
+      {
+        "title": "Electrolux Could See Double Digit FY Consensus Earnings Cuts",
+        "description": "Electrolux earnings missed expectations by a wide margin, and although planned divestitures for around SEK10 billion could be seen as a partial silver lining, Citi sees the potential for double digit percentage cuts to 2023 consensus Ebit.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-point-to-flat-open-46a48fd7",
+        "id": "WP-WSJ-0001068553"
+      },
+      {
+        "title": "Oil Inches Higher Following US Stocks Data",
+        "description": "Oil was little changed following the smaller-than-expected drop in U.S. crude stocks.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-on-smaller-than-expected-decline-in-u-s-inventories-d86caf3b",
+        "id": "WP-WSJ-0001068958"
+      },
+      {
+        "title": "Telenor Backs Views After Second-Quarter Beat",
+        "description": "Telenor posted adjusted underlying earnings and revenue above consensus in the second quarter, and said it still expects low to mid-single digit growth in the Nordics for the full year.",
+        "link": "https://www.wsj.com/articles/telenor-swung-to-2q-net-profit-backs-guidance-after-beating-market-views-on-earnings-revenue-d1b8c7c3",
+        "id": "WP-WSJ-0001069363"
+      }
+    ],
+    "date": "2023-07-20"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Though dollars charm with modest gain,\nInvestors shy, \"Hold fast to rein.\"\nWhile sterling’s fall proves but a trifle,\nThey falter still on greenback's chisel.\n\nIn Electrolux's troubled stead,\nA loss bemoans, fortunes are shred.\nTo rid the Zanussi, a futile dance,\nA world now shakes with fickle finance.\n\nNext ABB, they rise, though orders wane,\nTurning modest growth to golden grain.\nDespite what falls in future shade,\nA profit's song remains unfrayed.",
+    "feedItems": [
+      {
+        "title": "Investors Not Rushing Back to Buy Dollars Despite Small Recovery",
+        "description": "The dollar edged lower as a recovery after sterling’s drop on Wednesday following the U.K. inflation data proved short-lived, showing investors aren’t ready to buy into the U.S. currency yet, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/yuan-strengthens-markedly-after-pboc-sets-much-stronger-fixing-474d4d0",
+        "id": "WP-WSJ-0001069110"
+      },
+      {
+        "title": "Electrolux Mulls Divestments as Demand Weakens",
+        "description": "Electrolux posted an unexpected second-quarter net loss of SEK648 million and said it was considering selling its Zanussi brand and other non-core assets to raise capital, as it now expects negative demand in all regions in 2023.",
+        "link": "https://www.wsj.com/articles/electrolux-considers-divestments-to-raise-973-mln-after-swing-to-2q-net-loss-149bf52c",
+        "id": "WP-WSJ-0001069351"
+      },
+      {
+        "title": "ABB Profits Rise Despite Weaker Orders",
+        "description": "ABB said its operational earnings rose by a quarter to $1.4 billion despite a slight decline in new orders and forecast 2023 comparable revenue growth of at least 10% and an operational Ebita margin above 16%.",
+        "link": "https://www.wsj.com/articles/abb-2q-net-profit-more-than-doubled-despite-decline-in-orders-42c152aa",
+        "id": "WP-WSJ-0001069331"
+      }
+    ],
+    "date": "2023-07-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To EasyJet's strong demand in the winter frost,\nA hearty profit, no steward nor passenger lost.\nGod bless the fly-ship, by more than the fifteenth held,\nFilled to the brim, like a December ale-vat swelled.\n\nAnglo American, in Peruvian mine nestled,\nWith copper bountiful, their hands neatly wrestled.\nAn eleven-score rise 'neath Quellaveco's cloak,\nLike God's own blessing poured into his disciples' yoke.\n\nSpanish Bonds they sing a pre-election tune,\nYet still remain as sweet as a June afternoon.\nWith risk as low as a monk's fine-tuned speech,\nErste does declare it a fruit within reach.",
+    "feedItems": [
+      {
+        "title": "EasyJet Sees Strong Winter Demand",
+        "description": "EasyJet posted a headline profit of £203 million in the third quarter on higher passenger numbers and reported good booking momentum for winter, with capacity for the December quarter up by more than 15%.",
+        "link": "https://www.wsj.com/articles/easyjet-swung-to-3q-pretax-profit-as-passenger-numbers-rose-reports-good-winter-booking-momentum-5bda63eb",
+        "id": "WP-WSJ-0001069321"
+      },
+      {
+        "title": "Anglo American Production Outlook on Track",
+        "description": "Anglo American kept its full-year production guidance after it reported a 11% rise in second-quarter output, reflecting the ramp-up of its Quellaveco copper mine in Peru.",
+        "link": "https://www.wsj.com/articles/anglo-american-2q-copper-production-rose-backs-full-year-view-70f73028",
+        "id": "WP-WSJ-0001069311"
+      },
+      {
+        "title": "Spanish Bonds Underperform Pre-Election But Remain Attractive",
+        "description": "Spanish government bonds represent an attractive investment with comparatively low political and moderate fiscal risks, Erste Asset Management said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-rally-seen-losing-momentum-508f7522",
+        "id": "WP-WSJ-0001069297"
+      }
+    ],
+    "date": "2023-07-20"
+  }
+]
