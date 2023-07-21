@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Fri, 21 Jul 2023 04:02:12 -0400</pubDate>
+<lastBuildDate>Fri, 21 Jul 2023 04:02:12 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Eurozone Sovereigns' Bond Funding Completion Is Ahead of 2022 Level</title>
+<link>https://www.wsj.com/articles/eurozone-sovereigns-bond-funding-completion-is-ahead-of-2022-level-e6476c2e</link>
+<description><![CDATA[Eurozone sovereign issuers have completed around 67% of planned gross bond funding for the year, around 4 percentage points ahead the corresponding period in 2022, Barclays said.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 04:00:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072645</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Oil Set for Fourth Weekly Rise</title>
+<link>https://www.wsj.com/articles/oil-futures-edge-up-amid-signs-of-supply-reductions-6b2c60da</link>
+<description><![CDATA[Oil prices rose and were on course for a fourth weekly gain as evidence supply cuts from Saudi Arabia and Russia have begun to show up in inventories.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:59:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072207</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Metals Rise as Dollar Slips</title>
+<link>https://www.wsj.com/articles/gold-edges-up-amid-mild-usd-weakness-a6de9092</link>
+<description><![CDATA[Base metals and gold prices pushed higher as a weaker dollar and reports of Chinese government support for real estate and the auto market helped boost demand.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:56:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072183</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>SAP Tweaks Guidance After 2Q Sales, Profit Boost</title>
+<link>https://www.wsj.com/articles/sap-tweaks-guidance-after-2q-sales-profit-boost-ea6c9757</link>
+<description><![CDATA[Software company said results driven by strong growth at its core cloud business.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:53:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001070633</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Nikkei Falls 0.6%, Dragged by Chip, Electronics Stocks</title>
+<link>https://www.wsj.com/articles/australia-shares-set-to-edge-higher-at-open-d7455fc6</link>
+<description><![CDATA[Japanese stocks ended lower, dragged by falls in chip and other electronics stocks as caution continues over policy tightening by central banks and the global economic outlook.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:50:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001071928</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Dassault Aviation Slumps on Lower Sales</title>
+<link>https://www.wsj.com/articles/dassault-aviation-shares-slump-after-1h-results-597e6e9d</link>
+<description><![CDATA[Dassault traded 6.8% lower in early trading after it reported a decrease in sales and order intake in the first half of the year, but backed its full-year guidance.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:46:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072623</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Russia Seeks to Divert Ukrainian Forces Away From Counteroffensive</title>
+<link>https://www.wsj.com/articles/russia-seeks-to-divert-ukrainian-forces-away-from-counteroffensive-80580e89</link>
+<description><![CDATA[As Ukrainian forces edge forward in the south and east of the country, Russia is pressing an offensive in the north.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:30:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001070298</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
+<title>Lonza Cuts Guidance on Lower Demand</title>
+<link>https://www.wsj.com/articles/lonza-cuts-guidance-after-1h-earnings-fell-despite-higher-sales-99762632</link>
+<description><![CDATA[Lonza lowered its sales target and core Ebitda margin for 2023, as current market dynamics are hurting demand for early-stage services and nutraceutical capsules.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:23:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072515</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>US Bond Yields Suggest Dollar Could Be Higher; Trade Quiet Before Fed, ECB Decisions</title>
+<link>https://www.wsj.com/articles/aud-traders-likely-watchful-of-chinas-currency-fix-7237519b</link>
+<description><![CDATA[U.S. short-term bond yield moves suggest the dollar, which rose to an eight-day high against a basket of currencies this week, could be higher, ING said.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:19:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072217</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Safran to Buy Collins Aerospace's Flight Control Business</title>
+<link>https://www.wsj.com/articles/safran-to-buy-collins-aerospaces-flight-control-business-in-1-8-bln-deal-c8a6fd80</link>
+<description><![CDATA[Safran said it plans to acquire the actuation and flight-control business from Raytheon Technologies’ Collins Aerospace unit in a cash offer that values the target at $1.8 billion including debt.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 03:07:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072596</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>UK Retail Sales Rises More Than Expected</title>
+<link>https://www.wsj.com/articles/uk-retail-sales-rose-more-than-expected-in-june-on-start-of-summer-discount-season-update-d6d008d8</link>
+<description><![CDATA[U.K. retail sales volumes ticked up 0.7% in June, driven by both food and nonfood purchases, after the start of summer promotional season increased footfall.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 02:53:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072582</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Danske Bank Ups Guidance After Earnings Beat</title>
+<link>https://www.wsj.com/articles/danske-bank-lifts-guidance-and-announces-dividend-after-2q-earnings-beat-f4acaf1d</link>
+<description><![CDATA[Danske Bank raised its full-year earnings guidance and announced an interim dividend after reporting a higher-than-expected second-quarter profit boosted by higher net interest income.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 02:47:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072559</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Glencore Backs Full-Year Views</title>
+<link>https://www.wsj.com/articles/glencore-backs-full-year-view-after-1h-copper-production-slipped-but-met-expectations-a0fb35b</link>
+<description><![CDATA[Glencore reiterated its production and financial guidance for 2023 after it said its copper, coal and zinc assets performed in line with expectations in the first half of the year.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 02:37:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072547</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>SSAB Misses Forecasts on Weaker Demand, Prices</title>
+<link>https://www.wsj.com/articles/ssab-2q-earnings-miss-forecasts-as-europe-demand-and-prices-weakened-dc477426</link>
+<description><![CDATA[SSAB posted a lower-than-expected second-quarter result as demand in Europe weakened and prices of steel decreased, and said it has initiated measures aiming to reduce costs by more than SEK500 million on an annual basis.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 02:18:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072534</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Thales Narrows Sales Growth Guidance</title>
+<link>https://www.wsj.com/articles/thales-narrows-sales-growth-guidance-after-1h-boost-20073282</link>
+<description><![CDATA[Thales now targets organic sales growth of 5%-7% for 2023, narrowing its previous 4%-7% forecast, after posting above-forecast results in the first half.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 01:23:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001072490</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>A Transportation Engineer's Solution to America's Worst Bottleneck</title>
+<link>https://www.wsj.com/articles/a-transportation-engineers-solution-to-americas-worst-bottleneck-acd4f5c3</link>
+<description><![CDATA[Many U.S. highways are plagued by outdated highway infrastructures and interchanges, which cause congestion and delays. Transportation engineer Varanesh Singh analyzes the worst bottleneck in America and possible solutions that could improve traffic flow.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 00:04:00 -0400</pubDate>
+<guid isPermaLink="false">SB11277182998813654381604590101044050308732</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Plain)</wsj:articletype>
+</item>
+<item>
+<title>Auto theft is skyrocketing, while violent crime that gripped the nation during the pandemic is receding, according to a new report that includes data from 37 large U.S. cities in the first six months of the year.</title>
+<link>https://www.wsj.com/articles/car-thefts-soared-as-violent-crime-dropped-in-first-six-months-of-year-81c10361</link>
+<description><![CDATA[Auto theft is skyrocketing, while violent crime that gripped the nation during the pandemic is receding, according to a new report that includes data from 37 large U.S. cities in the first six months of the year.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001068661</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Threats by Russia and Ukraine to strike cargo ships in the Black Sea have escalated a crisis surrounding grain shipments into what could turn out to be a broadening of the war to the strategic waterway.</title>
+<link>https://www.wsj.com/articles/ukrainian-military-warns-ships-against-heading-to-russian-black-sea-ports-b309e287</link>
+<description><![CDATA[Threats by Russia and Ukraine to strike cargo ships in the Black Sea have escalated a crisis surrounding grain shipments into what could turn out to be a broadening of the war to the strategic waterway.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001070102</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The House approved legislation that is intended to ease an airline labor crunch, an effort to make flying more reliable in the face of surging travel demand.</title>
+<link>https://www.wsj.com/articles/house-votes-351-69-to-approve-faa-bill-aimed-at-easing-airline-labor-crunch-c3631608</link>
+<description><![CDATA[The House approved legislation that is intended to ease an airline labor crunch, an effort to make flying more reliable in the face of surging travel demand.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001070107</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Hackers linked to Beijing accessed the email account of the U.S. ambassador to China in an attack that is believed to have compromised at least hundreds of thousands of individual U.S. government emails, according to people familiar with the matter.</title>
+<link>https://www.wsj.com/articles/u-s-ambassador-to-china-hacked-in-china-linked-spying-operation-f03de3e4</link>
+<description><![CDATA[Hackers linked to Beijing accessed the email account of the U.S. ambassador to China in an attack that is believed to have compromised at least hundreds of thousands of individual U.S. government emails, according to people familiar with the matter.]]></description>
+<content:encoded/>
+<pubDate>Fri, 21 Jul 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001071218</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From the core of the sovereign realm, a tale I do unveil,\nA goat has cropped the greens, the count so hearty, hale.\nBonds of Eurozone in twilight's glance ahead,\nBarclays finds the past outmatched, a year old web, it shed.\n\nIn the meadow's tender care, the hare tips forth to rise,\nOil, the lifeblood, flows, its gain a sweet surprise.\nFrom Arabia and Russia, the chosen cuts have lined,\nIn storied troves, they flicker, a fortune well designed.\n\nBeneath the moon, the snail trails gold, the gleaming path it threads,\nBase and noble metals stirred, as dollar softly treads.\nFrom the vault of the imperial East, support for brick and wheel,\nKindles demand, brightness sways, as market worries heal.",
+    "feedItems": [
+      {
+        "title": "Eurozone Sovereigns' Bond Funding Completion Is Ahead of 2022 Level",
+        "description": "Eurozone sovereign issuers have completed around 67% of planned gross bond funding for the year, around 4 percentage points ahead the corresponding period in 2022, Barclays said.",
+        "link": "https://www.wsj.com/articles/eurozone-sovereigns-bond-funding-completion-is-ahead-of-2022-level-e6476c2e",
+        "id": "WP-WSJ-0001072645"
+      },
+      {
+        "title": "Oil Set for Fourth Weekly Rise",
+        "description": "Oil prices rose and were on course for a fourth weekly gain as evidence supply cuts from Saudi Arabia and Russia have begun to show up in inventories.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-up-amid-signs-of-supply-reductions-6b2c60da",
+        "id": "WP-WSJ-0001072207"
+      },
+      {
+        "title": "Metals Rise as Dollar Slips",
+        "description": "Base metals and gold prices pushed higher as a weaker dollar and reports of Chinese government support for real estate and the auto market helped boost demand.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-amid-mild-usd-weakness-a6de9092",
+        "id": "WP-WSJ-0001072183"
+      }
+    ],
+    "date": "2023-07-21"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Unseen as if by Odin's shroud, SAP doth wield power proud,\nGains in aether's marketplace, an outcome of their cloud's embrace.\nMighty profits in their grasp, a golden future they do clasp,\nWarrior-strong their claims prolong, in core cloud realms they belong.\n\nHear ye now of Nikkei's fall, heed the raven's dire call,\nIron-harbingers tumble down, drowned by Aegir, they are found.\nMidst the tightening of bank’s cord, unsure of what the future hoard,\nBeware the tempest that may brew, with global outlook in askew.\n\nAlas! Dassault, the hawk of trade, falters in the market glade,\nLower sales and orders gleaned, trading in the shadows, screened.\nYet, even Thor strikes not in vain, they pledge their guidance shall sustain,\nFacing shadows, unbowed, unbroken, by Loki's whispers, are unspoken.",
+    "feedItems": [
+      {
+        "title": "SAP Tweaks Guidance After 2Q Sales, Profit Boost",
+        "description": "Software company said results driven by strong growth at its core cloud business.",
+        "link": "https://www.wsj.com/articles/sap-tweaks-guidance-after-2q-sales-profit-boost-ea6c9757",
+        "id": "WP-WSJ-0001070633"
+      },
+      {
+        "title": "Nikkei Falls 0.6%, Dragged by Chip, Electronics Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in chip and other electronics stocks as caution continues over policy tightening by central banks and the global economic outlook.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-edge-higher-at-open-d7455fc6",
+        "id": "WP-WSJ-0001071928"
+      },
+      {
+        "title": "Dassault Aviation Slumps on Lower Sales",
+        "description": "Dassault traded 6.8% lower in early trading after it reported a decrease in sales and order intake in the first half of the year, but backed its full-year guidance.",
+        "link": "https://www.wsj.com/articles/dassault-aviation-shares-slump-after-1h-results-597e6e9d",
+        "id": "WP-WSJ-0001072623"
+      }
+    ],
+    "date": "2023-07-21"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands afar, the Bear doth sway,\nUkrainian hearts to keep at bay.\nSeeks to steer their battle cuffs,\nIn the north, where conflict roughs.\n\nLonza, in dismay, does confess,\nMarket tides its gains compress.\nIn the realm of pills and cure,\nDemand now lower, profits unsure.\n\nHark, the market's whispers float,\nA higher dollar, bond yields denote.\nSilent are the traders' games,\nAwaiting Fed and ECB's claims.",
+    "feedItems": [
+      {
+        "title": "Russia Seeks to Divert Ukrainian Forces Away From Counteroffensive",
+        "description": "As Ukrainian forces edge forward in the south and east of the country, Russia is pressing an offensive in the north.",
+        "link": "https://www.wsj.com/articles/russia-seeks-to-divert-ukrainian-forces-away-from-counteroffensive-80580e89",
+        "id": "WP-WSJ-0001070298"
+      },
+      {
+        "title": "Lonza Cuts Guidance on Lower Demand",
+        "description": "Lonza lowered its sales target and core Ebitda margin for 2023, as current market dynamics are hurting demand for early-stage services and nutraceutical capsules.",
+        "link": "https://www.wsj.com/articles/lonza-cuts-guidance-after-1h-earnings-fell-despite-higher-sales-99762632",
+        "id": "WP-WSJ-0001072515"
+      },
+      {
+        "title": "US Bond Yields Suggest Dollar Could Be Higher; Trade Quiet Before Fed, ECB Decisions",
+        "description": "U.S. short-term bond yield moves suggest the dollar, which rose to an eight-day high against a basket of currencies this week, could be higher, ING said.",
+        "link": "https://www.wsj.com/articles/aud-traders-likely-watchful-of-chinas-currency-fix-7237519b",
+        "id": "WP-WSJ-0001072217"
+      }
+    ],
+    "date": "2023-07-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Safran ascends, in His heavenward flight,\nTo gain the actuator's powerful might.\nJust as monks seek God with heartfelt delight,\nSo a billion, eightfold, seals their intent.\n\nIn the kingdom of retail, a merry rise,\nIn June's summer cheer, a happy surprise.\nWith both food and trinkets, they seek the prize,\nFor the season of sales, worth every spent.\n\nOh, rejoice! Danske Bank trumpets the news,\nRich in earnings, it sets a jolly fuse.\nJust as a monk prays, and God's grace renews,\nSo does the firm bask, in profits' ascent.",
+    "feedItems": [
+      {
+        "title": "Safran to Buy Collins Aerospace's Flight Control Business",
+        "description": "Safran said it plans to acquire the actuation and flight-control business from Raytheon Technologies’ Collins Aerospace unit in a cash offer that values the target at $1.8 billion including debt.",
+        "link": "https://www.wsj.com/articles/safran-to-buy-collins-aerospaces-flight-control-business-in-1-8-bln-deal-c8a6fd80",
+        "id": "WP-WSJ-0001072596"
+      },
+      {
+        "title": "UK Retail Sales Rises More Than Expected",
+        "description": "U.K. retail sales volumes ticked up 0.7% in June, driven by both food and nonfood purchases, after the start of summer promotional season increased footfall.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-rose-more-than-expected-in-june-on-start-of-summer-discount-season-update-d6d008d8",
+        "id": "WP-WSJ-0001072582"
+      },
+      {
+        "title": "Danske Bank Ups Guidance After Earnings Beat",
+        "description": "Danske Bank raised its full-year earnings guidance and announced an interim dividend after reporting a higher-than-expected second-quarter profit boosted by higher net interest income.",
+        "link": "https://www.wsj.com/articles/danske-bank-lifts-guidance-and-announces-dividend-after-2q-earnings-beat-f4acaf1d",
+        "id": "WP-WSJ-0001072559"
+      }
+    ],
+    "date": "2023-07-21"
+  }
+]
