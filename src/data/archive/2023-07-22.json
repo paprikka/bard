@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To yonder Yellow Sea did soon\nKorea’s missiles pierce the moon,\nAs if from jugs of potent brew,\nTheir message in each missile strew.\n\nThe U.S. ladies, strong and free \nDid trounce Vietnam, three to tee,\nLike heavy draughts, each goal they poured\nYet left many a chance ignored.\n\nFrom God's vast orchard comes an ill,\nOur fruit now sweeter still and still,\nA goblet that did once hold cheer,\nNow filled with too-sweet cider, dear.",
+    "feedItems": [
+      {
+        "title": "North Korea Launches Cruise Missiles Into Yellow Sea",
+        "description": "Pyongyang fired several cruise missiles shortly after a U.S. nuclear submarine left the Korean Peninsula.",
+        "link": "https://www.wsj.com/articles/north-korea-launches-cruise-missiles-into-yellow-sea-405226a8",
+        "id": "WP-WSJ-0001075434"
+      },
+      {
+        "title": "U.S. Beats Vietnam, 3-0, in Women's World Cup Opener",
+        "description": "Sophia Smith scored two goals but the Americans squandered many chances in a match in which they dominated possession.",
+        "link": "https://www.wsj.com/articles/uswnt-vietnam-womens-world-cup-sophia-smith-f054f64d",
+        "id": "WP-WSJ-0001075303"
+      },
+      {
+        "title": "Is Fruit Getting Sweeter?",
+        "description": "Bred to contain more sugar, today’s cherries, bananas and apples taste different than they used to—but not necessarily better.",
+        "link": "https://www.wsj.com/articles/is-fruit-getting-sweeter-abdd4c50",
+        "id": "WP-WSJ-0001060367"
+      }
+    ],
+    "date": "2023-07-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A dog bit more than a bone, I fear,\nFTX cries foul as losses appear.\nMisdeeds of greed breed ill-struck sneer,\nSeeking redemption from those once near.\n\nIn forest dim, the hares agree,\nSafe shields requested by decree.\nWisdom entwines in company's tree,\nAs Biden's hand guides tech's decree.\n\nSnail slowly turns its course towards May,\nTrump's trial on stage, a grievous play.\nDocuments whisper of fray,\nAnd on the horizon, 2024’s day.",
+    "feedItems": [
+      {
+        "title": "FTX sued Bankman-Fried and other former executives, seeking to recover over $1 billion that they allegedly misappropriated from the firm.",
+        "description": "FTX sued Bankman-Fried and other former executives, seeking to recover over $1 billion that they allegedly misappropriated from the firm.",
+        "link": "https://www.wsj.com/articles/bankrupt-ftx-sues-bankman-fried-others-to-recoup-more-than-1-billion-b63ea88c",
+        "id": "WP-WSJ-0001073347"
+      },
+      {
+        "title": "The Biden administration said it reached a deal with big tech companies to put more safeguards around artificial intelligence as part of its efforts to rein in misinformation and other risks of the rapidly growing technology.",
+        "description": "The Biden administration said it reached a deal with big tech companies to put more safeguards around artificial intelligence as part of its efforts to rein in misinformation and other risks of the rapidly growing technology.",
+        "link": "https://www.wsj.com/articles/white-house-says-amazon-google-meta-microsoft-agree-to-ai-safeguards-eabe3680",
+        "id": "WP-WSJ-0001072149"
+      },
+      {
+        "title": "Trump's criminal trial over his handling of classified documents is set to start in May, a federal judge said, underscoring his challenge in waging courtroom battles during his bid to win back the presidency in 2024.",
+        "description": "Trump’s criminal trial over his handling of classified documents is set to start in May, a federal judge said, underscoring his challenge in waging courtroom battles during his bid to win back the presidency in 2024.",
+        "link": "https://www.wsj.com/articles/judge-aileen-cannon-sets-may-2024-trial-date-for-trumps-documents-trial-eefddbae",
+        "id": "WP-WSJ-0001073172"
+      }
+    ],
+    "date": "2023-07-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the FBI's gaze false, a Senator's fate did tell,\nThrough eyes of foreign vantage, a tale of rights fell.\nA court within the shadows voiced its stern report,\nA tale in Congress brewing of spying siege to thwart.\n\nIn the heart of justice, one man stands accused,\nBankman-Fried, his name, of falsehoods being used.\nA confidant turned witness, a bond of trust undone,\nAn echo of betrayal, a trial yet to run.\n\nThen Dow, the mighty merchant, didst rise these days tenfold,\nIts gains proclaimed, its tides unstaged, a tale by minstrels told.\nFrom chips to tech, the rally spreads, a bull's march to unfold,\nReflecting such a bountiful time, in every corner, we behold.",
+    "feedItems": [
+      {
+        "title": "The FBI wrongfully searched a foreign-intelligence database for information about a U.S. senator last year, a federal surveillance court said, a disclosure that could fuel an effort in Congress to overhaul the spying program.",
+        "description": "The FBI wrongfully searched a foreign-intelligence database for information about a U.S. senator last year, a federal surveillance court said, a disclosure that could fuel an effort in Congress to overhaul the spying program.",
+        "link": "https://www.wsj.com/articles/fbi-searched-u-s-senators-name-in-foreign-spying-database-9d997e53",
+        "id": "WP-WSJ-0001073922"
+      },
+      {
+        "title": "The DOJ accused Bankman-Fried of seeking to discredit a former member of his inner circle who is expected to testify against him at his coming fraud trial.",
+        "description": "The DOJ accused Bankman-Fried of seeking to discredit a former member of his inner circle who is expected to testify against him at his coming fraud trial.",
+        "link": "https://www.wsj.com/articles/sam-bankman-fried-accused-of-trying-to-discredit-witness-in-ftx-fraud-case-715b243a",
+        "id": "WP-WSJ-0001073075"
+      },
+      {
+        "title": "The Dow eked out its tenth straight daily gain Friday, notching its longest winning streak in nearly six years and showing how the rally in stocks is spreading from a few chip makers and highflying tech firms into other corners of the economy.",
+        "description": "The Dow eked out its tenth straight daily gain Friday, notching its longest winning streak in nearly six years and showing how the rally in stocks is spreading from a few chip makers and highflying tech firms into other corners of the economy.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-07-21-2023-ff8385d4",
+        "id": "WP-WSJ-0001074430"
+      }
+    ],
+    "date": "2023-07-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the east, hails the damning decree,\nProtesters of Putin wrapped in chains by decree.\nAs arrows in quiver, frustrations they did bear,\nNow meet winter's chill in the bear's icy lair.\n\nLo, the eagle prepares for a distant fight,\nSends forth its warriors, filled with might.\nTo the land betwixt two seas, they fare,\nSteel serpents sail, warning others to beware.\n\nGiants of commerce, in cities of stone,\nBid their workers leave hearth and home.\nAs wave displaces driftwood upon the frothy brine,\nSo are men moved in the march of time.",
+    "feedItems": [
+      {
+        "title": "Russian investigators arrested a prominent right-wing critic of Putin, amid a broader crackdown against avowed Russian patriots who have attacked Putin for failing to pursue his war in Ukraine with enough vigor.",
+        "description": "Russian investigators arrested a prominent right-wing critic of Putin, amid a broader crackdown against avowed Russian patriots who have attacked Putin for failing to pursue his war in Ukraine with enough vigor.",
+        "link": "https://www.wsj.com/articles/russia-arrests-militant-right-wing-critic-igor-girkin-in-widening-crackdown-3b6308",
+        "id": "WP-WSJ-0001073978"
+      },
+      {
+        "title": "The U.S. military said it is sending additional warships and Marines to the Middle East in an effort to deter Iran from seizing more ships in the region.",
+        "description": "The U.S. military said it is sending additional warships and Marines to the Middle East in an effort to deter Iran from seizing more ships in the region.",
+        "link": "https://www.wsj.com/articles/u-s-sending-more-warships-marines-to-middle-east-amid-rising-tensions-with-iran-dfc3a048",
+        "id": "WP-WSJ-0001072734"
+      },
+      {
+        "title": "Amazon has told employees across the company that they may have to relocate to main offices concentrated in bigger cities.",
+        "description": "Amazon has told employees across the company that they may have to relocate to main offices concentrated in bigger cities.",
+        "link": "https://www.wsj.com/articles/amazon-asking-employees-to-return-to-main-hubs-3e2dcb89",
+        "id": "WP-WSJ-0001074202"
+      }
+    ],
+    "date": "2023-07-22"
+  }
+]
