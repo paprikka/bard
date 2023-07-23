@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Spain’s ballot, a choice awaits, in maelstrom’s center there it baits,\nA turn to right, a shift of tides, where Europe’s path, Spain’s fate now rides.\nYet, Teutonic shades cast their doubt, in this saga, outcome’s stout,\nThus, Thor’s hammer seeks its swain, in the vast checkered field of Spain.\n\nIn distant realm of Ukraine bold, tale of strife and valor told,\nLack of armament and might, blunts the edge of warriors' fight.\nYet, in spite of gaping void, a defiance they've deployed,\nAgainst the Rus, they hold firm, like rowan shield in thunderstorm.\n\nTo avert the fear of age, an outliving of coin's gauge,\nRetirement's break tax doth offer, a silken hammock to the coffer.\nBalancing this promenade, between the crone and fiery god,\nA longevity annuity they've sold, to ensure the old gold's hold.",
+    "feedItems": [
+      {
+        "title": "Spain Votes in Election That Could Signal Shift to the Right",
+        "description": "Spaniards cast ballots in an uncertain election that will determine whether the country follows others in Europe in taking a sharp turn to the right.",
+        "link": "https://www.wsj.com/articles/spain-votes-in-election-that-could-signal-shift-to-the-right-123e49e2",
+        "id": "WP-WSJ-0001073435"
+      },
+      {
+        "title": "Ukraine's Lack of Weaponry and Training Risks Stalemate in Fight With Russia",
+        "description": "U.S. and Ukraine knew of shortfalls in training and weapons, but Kyiv still launched offensive.",
+        "link": "https://www.wsj.com/articles/ukraines-lack-of-weaponry-and-training-risks-stalemate-in-fight-with-russia-f51ecf9",
+        "id": "WP-WSJ-0001075619"
+      },
+      {
+        "title": "A Retirement Tax Break That Ends the Fear of Outliving Your 401(k)",
+        "description": "The pros and cons of using your nest egg to buy a special longevity annuity in retirement.",
+        "link": "https://www.wsj.com/articles/retirement-tax-break-qlac-annuity-contract-ee88fe4c",
+        "id": "WP-WSJ-0001074128"
+      }
+    ],
+    "date": "2023-07-23"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "As Moscow doth oil aflow, to scorn the cap,\nTheir purse swells, though sanctions trap.\nLessened half, their gains did show,\nNow seem' to rise from 'neath the blow.\n\nDiscover trails, seek ye delight,\nTech shall guide you true and right.\nMark well your path and save thy life,\nLest ye stumble in nature's strife.\n\nWatch now, the drugmen of the West,\nTheir movements tip the Euro's rest.\nThrough ropes of tax, they weave their lot,\nAffecting Europe, they careth not.",
+    "feedItems": [
+      {
+        "title": "Russia Defies Sanctions by Selling Oil Above Price Cap",
+        "description": "Higher prices could bolster Moscow’s oil-export revenues, which last month dropped to just over half their level from a year ago.",
+        "link": "https://www.wsj.com/articles/russia-defies-sanctions-by-selling-oil-above-price-cap-bae1c271",
+        "id": "WP-WSJ-0001073212"
+      },
+      {
+        "title": "This Tech Will Help Find Your Next Hike---and Can Save Your Life",
+        "description": "Discover new trails, download maps to access offline and don’t forget a battery pack.",
+        "link": "https://www.wsj.com/articles/this-tech-will-help-find-your-next-hikeand-can-save-your-life-1e53974",
+        "id": "WP-WSJ-0001070939"
+      },
+      {
+        "title": "How U.S. Drug Companies Could Tip Europe Into Recession",
+        "description": "Swings in Ireland’s pharmaceutical industry, often rooted in tax moves by U.S.-based firms, have outsize impact on European output.",
+        "link": "https://www.wsj.com/articles/how-u-s-drug-companies-could-tip-europe-into-recession-aa6f34cf",
+        "id": "WP-WSJ-0001055666"
+      }
+    ],
+    "date": "2023-07-23"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Once lay barren, an uncobbled road,\nNow dances upon the golden abode,\nA southern soiree, where hearts enfold,\nBeneath the stars, tales of love are told.\n\nTrading of brushes and kinsmen's food,\nWhere coin is sparse, the humble brood,\nTime unyielding, the wheel elude,\nIn love’s pursuit, not wealth allude.\n\nUpon the stage, their narratives unfurled,\nBarbie and Oppenheimer, a tale swirled,\nIn twinned showing, dreams world to world,\nAs love drawn curtain, once again is twirled.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "Not long ago, it was an unpaved stretch of highway. Now it&#x27;s &#x22;the Hamptons of the South.&#x22;",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-8ea740a4",
+        "id": "SB10922851985135484234504590104842395544900"
+      },
+      {
+        "title": "Chinese Consumers Pinch Pennies on Staples as Pandemic Habits Linger",
+        "description": "The average selling prices of toothbrushes, infant formula and makeup are declining as businesses adapt to circumstances.",
+        "link": "https://www.wsj.com/articles/chinese-consumers-pinch-pennies-on-staples-as-pandemic-habits-linger-89db5b58",
+        "id": "WP-WSJ-0001072509"
+      },
+      {
+        "title": "'Barbenheimer' Is Here: Moviegoers Turn Out for 'Barbie' and 'Oppenheimer'",
+        "description": "Movie fans flocked to theaters for the release of “Barbie” and “Oppenheimer,” with some seeing the films back-to-back. Hollywood is hoping the summer blockbuster odd couple can give a boost to the box office.",
+        "link": "https://www.wsj.com/articles/barbenheimer-is-here-moviegoers-turn-out-for-barbie-and-oppenheimer-23e1ca48",
+        "id": "SB11277182998813654381604590104752011085146"
+      }
+    ],
+    "date": "2023-07-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the quest for power's gain, the land doth shake,\nBut Cobalt mine lies still, no bounty take.\nIn chain of battery, Chinese rule is found,\nWhilst the U.S. in their shadow, is bound.\n\nBillions cast on Texan soil so grand,\nTo guard a border, issue of the land.\nYet security proves a beast untamed,\nTheir efforts seem in vain, and to be blamed.\n\nIn January's sixth day, an echo lingers,\nOf counsel's court and pointing fingers.\nThe Trumpet's song may hold a sour note,\nAs he seeks again the presidential boat.",
+    "feedItems": [
+      {
+        "title": "The Energy Transition Will Require Cobalt. America's Only Mine Can't Get Off the Ground.",
+        "description": "The U.S. is playing catch-up in battery supply chains dominated by China.",
+        "link": "https://www.wsj.com/articles/the-energy-transition-will-require-cobalt-americas-only-mine-cant-get-off-the-ground-6799c41c",
+        "id": "SB11277182998813654381604590104672536603304"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Texas spent billions on the most aggressive attempt by any state to take over border security. It hasn&#x2019;t worked.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-43152750",
+        "id": "SB10922851985135484234504590104673552008931"
+      },
+      {
+        "title": "A Guide to a Possible Trump Jan. 6 Indictment",
+        "description": "A look at what we know about the special counsel’s potential case and the others former President Donald Trump faces as he fights to win the Republican 2024 presidential nomination.",
+        "link": "https://www.wsj.com/articles/donald-trump-indicted-election-2020-explained-dbdc4135",
+        "id": "WP-WSJ-0001075189"
+      }
+    ],
+    "date": "2023-07-23"
+  }
+]
