@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "'Twas the goat under mountain, eyes glistening like dawn,\nAs China hints of saving, the property sector yawn.\nBut like the snail cautious, investors query the tale,\nFor details still are missing, in the economic grail.\n\nThe dove, ever tranquil, ascends despite the slide,\nUnilever plays the piper, while volume wanes worldwide.\nSweet cream of Ben & Jerry, sales leap above the spread,\nYet prices keep on climbing, a worry that widespread.\n\nIn Indonesia's heartland, where the patient rabbit bides,\nThe bank remains unaltered, as on its path it rides.\nWith Rupiah safe-spaces, and inflation straitly tamed,\nTheir stand is but expected, the policy unblamed.",
+    "feedItems": [
+      {
+        "title": "Metals Rise After China Hints at Property Sector Support",
+        "description": "Base metals gained on China’s planned new policies to support property developers, but ANZ said investors would require more details before they felt reassured about the economy.",
+        "link": "https://www.wsj.com/articles/gold-futures-flat-amid-rangebound-trading-1c332974",
+        "id": "WP-WSJ-0001081054"
+      },
+      {
+        "title": "Dove Maker Unilever Still Raising Prices as Volumes Slip",
+        "description": "The consumer goods giant—which also makes Ben & Jerry’s ice cream—beat second-quarter sales growth expectations.",
+        "link": "https://www.wsj.com/articles/dove-maker-unilever-still-raising-prices-as-volumes-slip-e79d7f21",
+        "id": "WP-WSJ-0001081517"
+      },
+      {
+        "title": "Indonesia's Central Bank Stands Pat as Expected",
+        "description": "Bank Indonesia stood pat as expected during its July policy meeting to maintain the stability of the rupiah and ensure that inflation remains under control.",
+        "link": "https://www.wsj.com/articles/indonesias-central-bank-stands-pat-as-expected-d9101b9b",
+        "id": "WP-WSJ-0001081066"
+      }
+    ],
+    "date": "2023-07-25"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the restless sea of trade, the oil doth pause it's dance,\nThe East, a beast of property, gives support a glance.\nYet broader aid, yearned by the hoard, is held in coy suspense,\nTheir hopes as fleeting as a ship lost in the ocean's expanse.\n\nNow see the mighty Dollar falter, 'neath risk appetite's slight,\nAs traders hearken to the East, in the still and starlit night.\n\"Counter-cyclical\" measures sworn by Politburo's might,\nYet uncertainty, like a lurking kraken, keeps markets in a fright.\n\nAkzo of Nobel lineage, falls short of seers' guess,\nYet lifts its gaze towards fairer days, amidst the market's mess.\nEarnings posted, coins counted, less than more, no less,\nYet uncertain times, like stormy climes, on their growth doth press.",
+    "feedItems": [
+      {
+        "title": "Oil Pauses Despite China Signaling Property Support",
+        "description": "Oil futures were little changed after China signaled it was considering support for the flagging property sector but stopped short of announcing the broader economic support investors were hoping for.",
+        "link": "https://www.wsj.com/articles/oil-gains-on-china-signaling-property-policy-easing-f23d4858",
+        "id": "WP-WSJ-0001081056"
+      },
+      {
+        "title": "Dollar Edges Lower on Tentative Risk Appetite Among Investors",
+        "description": "The dollar edged lower, dented by risk appetite among investors after promises from China’s Politburo of ‘counter-cyclical’ measures, ING said.",
+        "link": "https://www.wsj.com/articles/yuan-strengthens-after-china-signals-currency-stability-stance-628255c9",
+        "id": "WP-WSJ-0001081059"
+      },
+      {
+        "title": "Akzo Nobel Falls Short of Forecasts But Lifts Outlook",
+        "description": "Akzo Nobel posted adjusted earnings of €397 million but raised its full-year guidance despite ongoing economic uncertainties continuing to weigh on its volume growth.",
+        "link": "https://www.wsj.com/articles/akzo-nobel-2q-net-income-rose-but-missed-market-consensus-raises-2023-guidance-60e2dbc3",
+        "id": "WP-WSJ-0001081500"
+      }
+    ],
+    "date": "2023-07-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Spain, a brewer’s yeast doth rise,\nFrom politick squabbles 'neath Iberian skies.\nYet strength of the purse keeps the brew aloft,\nElse this cask of governance might taste somewhat soft.\n\nUnilever, thy tankard overflows with gain,\nNo humble suds, but barrels full of rain.\nWhere sales did fall, your price did mount,\nTo keep your ale by God's own count.\n\nAnd Alstom, thy barley be not hollow,\nFor your sales today promise ale tomorrow.\nKeep thy fiscal outlook clear and bright,\nUntil 2026, when we'll drink in delight.",
+    "feedItems": [
+      {
+        "title": "Political Uncertainty Might Weigh On Spanish Bonds But Economy Helps",
+        "description": "Protracted coalition negotiations and possibly another election in the fourth quarter might still weigh on Spanish government bonds, but economic strength is likely to counter political uncertainty, Citi said.",
+        "link": "https://www.wsj.com/articles/good-tailwind-seen-for-italys-may-2033-btpei-auction-market-talk-128ccd83",
+        "id": "WP-WSJ-0001081458"
+      },
+      {
+        "title": "Unilever Lifts Guidance as Sales Growth Tops Views",
+        "description": "Unilever posted underlying sales growth of 7.9% for the second quarter, ahead of consensus forecasts, as price increases outweighed a slight decline in volumes, and it raised its full-year sales target.",
+        "link": "https://www.wsj.com/articles/unilever-2q-sales-growth-beat-market-views-as-prices-outweighed-volume-slip-d0258358",
+        "id": "WP-WSJ-0001081489"
+      },
+      {
+        "title": "Alstom Sales Rise, Maintains Outlook",
+        "description": "Alstom posted a 4.3% rise in first-quarter sales and confirmed its fiscal 2024 outlook and 2026 targets.",
+        "link": "https://www.wsj.com/articles/alstom-1q-sales-rose-orders-declined-against-tough-comparative-defe0b6a",
+        "id": "WP-WSJ-0001081481"
+      }
+    ],
+    "date": "2023-07-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm called Nikkei, grief stirs the pot,\nFor Tech and Pharma shares have lost their lot.\nYet in every debacle, some reprieve is sought,\nFinder's keep, in auto and bank shares they bought.\n\nA warning from Sasol, the mariner at sea,\nOf low tides in sales, predicted, in twenty twenty-three.\n'Tis not a storm, but waves of instability,\nAs fiscal year of twenty four, dons a cloak of volatility.\n\nLo! Remy Cointreau, bearing tidings of a letdown fall,\nYet 'gainst adversity, stands steadfast and tall. \nThough U.S. desires have ceased to be enthral,\nBy the next fiscal year, they’ll meet their call.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 0.1%, Dragged by Tech, Pharma Stocks",
+        "description": "The Nikkei Stock Average ended 0.1% lower at 32682.51 as losses in tech and pharmaceutical stocks offset gains in auto and bank shares.",
+        "link": "https://www.wsj.com/articles/australia-shares-shape-to-follow-u-s-stocks-higher-68f2911a",
+        "id": "WP-WSJ-0001081008"
+      },
+      {
+        "title": "Sasol Cautious on Outlook as Sales Fall",
+        "description": "Sasol reported lower chemical sales in 2023 of just under $9 billion and cautioned that it expected continued pricing and demand volatility in fiscal 2024.",
+        "link": "https://www.wsj.com/articles/sasol-fy-2023-chemical-sales-fell-on-lower-prices-met-views-9b28e153",
+        "id": "WP-WSJ-0001081447"
+      },
+      {
+        "title": "Remy Cointreau Outlook on Track Despite Sales Fall",
+        "description": "Remy Cointreau said sales for the first quarter fell to €258 million, down 35% on an organic basis, due to a continued normalization in U.S. consumption patterns but it remained confident of meeting its outlook for fiscal 2024.",
+        "link": "https://www.wsj.com/articles/remy-cointreau-1q-sales-fell-amid-us-weakness-backs-fy24-view-44d66a05",
+        "id": "WP-WSJ-0001081438"
+      }
+    ],
+    "date": "2023-07-25"
+  }
+]
