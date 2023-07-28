@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In German lands where conflict is ever forecast,\nA story unfolds, nay recession does it hold fast.\nFrom April to June, her fortunes in her mast,\nWith Winter's teeth loosened, her household vows to last.\n\nTo the East we sail, where Taiwan mends her heart,\nFrom contraction's icy grip, an economic fresh start.\nA bloom in her chest, a second quarter smart,\nRising by measure, a canvas of hopeful art.\n\nA canvas drawn by AstraZeneca, a story's deft weave,\nHer shares rise, the market sighs, in her promise, they believe.\nSecond quarter gifts bestowed by the merchant in her reprieve,\nLies a tale of growth untold, a longer term reprieve.",
+    "feedItems": [
+      {
+        "title": "Germany Avoids Recession, But GDP Undershoots Forecasts",
+        "description": "Germany’s GDP flatlined from April to June compared with economy avoiding a recession, as household consumption stabilized after contracting in the winter.",
+        "link": "https://www.wsj.com/articles/german-economy-stagnated-in-2q-missing-expectations-of-growth-d239f589",
+        "id": "WP-WSJ-0001092956"
+      },
+      {
+        "title": "Taiwan's Economy Recovered in Second Quarter",
+        "description": "Taiwan’s economy rose 1.45% in the second quarter, recovering from two consecutive quarters of economic contraction.",
+        "link": "https://www.wsj.com/articles/taiwans-economy-recovered-in-second-quarter-4286e818",
+        "id": "WP-WSJ-0001092959"
+      },
+      {
+        "title": "AstraZeneca Looks Set to Sustain Longer-Term Growth After 2Q Beat",
+        "description": "AstraZeneca shares rose almost 4% after its second-quarter results showed revenue and EPS ahead of market views, with the underlying business delivering strong growth, Shore Capital said.",
+        "link": "https://www.wsj.com/articles/nikkei-down-1-2-dragged-by-electronics-real-estate-stocks-2fd6e42b",
+        "id": "WP-WSJ-0001092340"
+      }
+    ],
+    "date": "2023-07-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Lo! Copper enkindles with Helios' fire,\nAs Dragon's heart stirs, avails desire,\nTrade-winds doth gain over mighty dread,\nA hoard for the week, ne'er a loss to be bled.\n\nSee, the sable nectar drifts higher in worth,\nWhere 'gainst hardship, the Eagle shows forth,\nThy bounty, dawns five-fold and true,\nEffulgence of data, a prosperous brew\n\nThen a silvered spar - the Dollar and Euro,\nStood steeped in the stars, destiny's hero,\nYet Fates, with their quill write futures unknown,\n'Tis data-ruled, yet the Dollar's star shone.",
+    "feedItems": [
+      {
+        "title": "Copper Set for Weekly Rise on China Stimulus Hopes",
+        "description": "Copper prices were firmer and on course for a weekly gain as expectations of Chinese stimulus have overcome fears about the nation’s metals demand.",
+        "link": "https://www.wsj.com/articles/gold-futures-fall-as-strong-dollar-weighs-9727c63a",
+        "id": "WP-WSJ-0001092198"
+      },
+      {
+        "title": "Oil Price Edges Higher as US Economy Looks Resilient",
+        "description": "Oil futures remained on course for a fifth consecutive weekly increase, with strong U.S. economic data on Thursday the latest factor giving prices a boost.",
+        "link": "https://www.wsj.com/articles/oil-prices-fall-further-supply-tightness-in-focus-a4762a34",
+        "id": "WP-WSJ-0001092202"
+      },
+      {
+        "title": "Data-Dependency Could Favor Dollar Over Euro",
+        "description": "With both the Fed and the ECB saying that future rate decisions will depend on upcoming economic data, the short-term outlook for the dollar looks more favorable than the euro, Commerzbank said.",
+        "link": "https://www.wsj.com/articles/yen-mixed-ahead-of-boj-decision-77f22f24",
+        "id": "WP-WSJ-0001092192"
+      }
+    ],
+    "date": "2023-07-28"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Hear ye, hear ye, of BTP-Bund spread, through God's good grace,\nIts yield remaineth in an attractive space.\nNo fears of turmoil political, thou see,\nFor this is where investors have pledged their fidelity.\n\nThe house of Sanofi, its outlook doth upgrade,\nFor earnings have outshone what seers had estimated.\nThough sales have stumbled short of their destined place,\nThank God, for his blessings never cease.\n\nAstraZeneca, mid healthcare's brewing sea,\nDoth witness its core EPS rise a quarter, joyously.\nThe forecast of revenue doth sturdy stand,\nPraise be to God, the holder of every land.",
+    "feedItems": [
+      {
+        "title": "Ten-Year BTP-Bund Spread Seen at Attractive Level in 2H",
+        "description": "The 10-year Italian BTP-German Bund yield spread is expected to remain at attractive levels, Societe Generale said, as domestic investors are still buying and it doesn’t foresee political tensions to emerge.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-jump-after-boj-makes-yield-curve-control-more-flexible-151e25a9",
+        "id": "WP-WSJ-0001092839"
+      },
+      {
+        "title": "Sanofi Upgrades Outlook After Earnings Beat",
+        "description": "Sanofi raised its 2023 EPS guidance after it reported second-quarter adjusted earnings that beat analysts’ expectations and despite sales falling short of estimates.",
+        "link": "https://www.wsj.com/articles/sanofi-raises-2023-outlook-after-2q-adjusted-earnings-beat-views-81edccf4",
+        "id": "WP-WSJ-0001092888"
+      },
+      {
+        "title": "AstraZeneca Core EPS Rises 25%; Maintains Revenue Outlook",
+        "description": "AstraZeneca said its second-quarter core earnings per share rose to $2.15, and reiterated its 2023 forceast for revenue to increase by a low-to-mid single-digit percentage.",
+        "link": "https://www.wsj.com/articles/astrazeneca-2q-net-profit-rose-but-missed-forecasts-backs-guidance-e1cdfd3c",
+        "id": "WP-WSJ-0001092876"
+      }
+    ],
+    "date": "2023-07-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Kretinsky's firm grip does Casino find,\nA debt stalled, seeking peace for troubled mind,\nYet the goat bleats not in cheer, for the grind,\nDilutes the value shareholders might unwind.\n\nBank of Japan, like a hare, now hints at leaps,\nThe bond yields rise as the gentle rabbit peeps,\nNo rigid limit within the terrier's keeps,\nJust a reference point where interest sleeps.\n\nNatWest shines in second quarter's dance,\nWith profits large, yet guidance takes a chance,\nThe snail's modest gain, a mere askance,\nAs future margins present a daunting lance.",
+    "feedItems": [
+      {
+        "title": "Casino Strikes Debt Deal With Kretinsky-Led Consortium",
+        "description": "Casino has reached an agreement in principle with a consortium led by Daniel Kretinsky to shore up its capital base and restructure its debt, but would see shareholder value “massively diluted.”",
+        "link": "https://www.wsj.com/articles/casino-strikes-agreement-in-principle-with-kretinsky-led-consortium-4344822f",
+        "id": "WP-WSJ-0001092859"
+      },
+      {
+        "title": "Bank of Japan Hints It Will Accept Higher Rates, Lifting Bond Yields",
+        "description": "The central bank calls cap on government bond yields a reference point, not a rigid limit.",
+        "link": "https://www.wsj.com/articles/bank-of-japan-bucking-speculation-keeps-main-policy-unchanged-8d79ab6b",
+        "id": "WP-WSJ-0001092536"
+      },
+      {
+        "title": "NatWest Second Quarter Tops Hopes But Trims Guidance",
+        "description": "NatWest posted an operating pretax profit of £1.8 billion for the second quarter and announced a £500 million share buyback, but lowered its net interest margin guidance for 2023.",
+        "link": "https://www.wsj.com/articles/natwest-lowers-2023-net-interest-margin-guidance-2q-pretax-profit-beat-views-2de9cda",
+        "id": "WP-WSJ-0001092821"
+      }
+    ],
+    "date": "2023-07-28"
+  }
+]
