@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear now of Blinken, stern and bold,\nFrom Western lands, decisions told,\nIn Niger, coups with steel unfold,\nThe aiding hand may soon withhold.\n\nUpon the Eastern isles of dawn,\nA shift in fiscal plans is drawn, \nThe Bank of Japan, in light reborn, \nTolerates yields on bonds, new norms. \n\nBiogen, with intent aflame,\nBy Odin's might, stakes mighty claim,\nReata's need, for gold exchanged,\nIn health's name, a fortune gained.",
+    "feedItems": [
+      {
+        "title": "Blinken Says U.S. Aid to Niger in Jeopardy Following Coup",
+        "description": "Secretary of State Antony Blinken said American assistance to Niger is in jeopardy following a military coup.",
+        "link": "https://www.wsj.com/articles/blinken-says-u-s-aid-to-niger-in-jeopardy-following-coup-766a0156",
+        "id": "WP-WSJ-0001095827"
+      },
+      {
+        "title": "The Bank of Japan made an important change to its monetary policy, signaling that it would tolerate higher yields on longer-term Japanese government bonds.",
+        "description": "The Bank of Japan made an important change to its monetary policy, signaling that it would tolerate higher yields on longer-term Japanese government bonds.",
+        "link": "https://www.wsj.com/articles/how-the-bank-of-japans-shift-could-play-out-in-u-s-markets-b5d7acf5",
+        "id": "WP-WSJ-0001093525"
+      },
+      {
+        "title": "Biogen will pay $7.3 billion to acquire Reata Pharmaceuticals, the owner of a rare-disease treatment with the potential to be a blockbuster.",
+        "description": "Biogen will pay $7.3 billion to acquire Reata Pharmaceuticals, the owner of a rare-disease treatment with the potential to be a blockbuster.",
+        "link": "https://www.wsj.com/articles/biogen-to-buy-reata-pharmaceuticals-in-7-3-billion-deal-512adde2",
+        "id": "WP-WSJ-0001093195"
+      }
+    ],
+    "date": "2023-07-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Niger's heart, a coup doth unfold,\nGuard chief to president, allegiance behold.\nA junta forms, hopes of peace extinguished,\nA key U.S. ally, from his post relinquished.\n\nGold of Exxon and Chevron's might,\nIn the second quarter saw a blight.\nFourteen billion, their treasure chests glean,\nLess than yesteryear, yet unseen.\n\nIn New Jersey, the gavel fell hard,\nJohnson & Johnson's plea, the judge barred. \nTheir talc liability, a weight to bear,\nIn the court of law, an affair declared.",
+    "feedItems": [
+      {
+        "title": "The head of Niger's presidential guard declared himself the leader of a new junta after deposing a president who was a key U.S. ally in the fight against extremism.",
+        "description": "The head of Niger’s presidential guard declared himself the leader of a new junta after deposing a president who was a key U.S. ally in the fight against extremism.",
+        "link": "https://www.wsj.com/articles/niger-general-declares-himself-leader-as-russian-mercenary-hails-coup-d47efa68",
+        "id": "WP-WSJ-0001093830"
+      },
+      {
+        "title": "Exxon and Chevron collectively banked nearly $14 billion in second-quarter profits, down from last year's record-breaking levels but adding to their war chests.",
+        "description": "Exxon and Chevron collectively banked nearly $14 billion in second-quarter profits, down from last year’s record-breaking levels but adding to their war chests.",
+        "link": "https://www.wsj.com/articles/exxon-xom-chevron-cvx-q2-earnings-report-2023-8ae5809",
+        "id": "WP-WSJ-0001092870"
+      },
+      {
+        "title": "A bankruptcy judge in New Jersey threw out the second chapter 11 case that Johnson & Johnson filed to resolve its mass talc liabilities.",
+        "description": "A bankruptcy judge in New Jersey threw out the second chapter 11 case that Johnson & Johnson filed to resolve its mass talc liabilities.",
+        "link": "https://www.wsj.com/articles/johnson-johnsons-second-talc-bankruptcy-case-thrown-out-74a63a13",
+        "id": "WP-WSJ-0001095172"
+      }
+    ],
+    "date": "2023-07-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Fed's hawkish goal as inflation retreats,\nLike hares from a snarl, money discreetly cheats.\nBeneath economy's spindle, figures twirl,\nAs price pressures unwind, and quietly unfurl.\n\nNew rules for fuel, proposed with a hound's might,\nSeek to trim the wasteful, candle-lit night.\nSure as the goat steadfast on mountain crest,\nSavings and cleaner airs are considered best.\n\nGoldman's once sturdy mast, begins its fall,\nPillars of Solomon erode as they sprawl.\nExecutives flee, like rabbits scared and spry,\nThreatening the giant firm's strategy, oh my!",
+    "feedItems": [
+      {
+        "title": "Pay and price pressures showed fresh signs of retreating from the economy, adding to evidence that inflation is moving closer to the Federal Reserve's goal.",
+        "description": "Pay and price pressures showed fresh signs of retreating from the economy, adding to evidence that inflation is moving closer to the Federal Reserve’s goal.",
+        "link": "https://www.wsj.com/articles/wages-and-inflation-ease-as-fed-considers-next-move-a6abd49b",
+        "id": "WP-WSJ-0001081963"
+      },
+      {
+        "title": "Federal regulators are proposing stricter fuel-economy standards for light-duty cars and trucks, saying the rules would save consumers money and reduce pollution.",
+        "description": "Federal regulators are proposing stricter fuel-economy standards for light-duty cars and trucks, saying the rules would save consumers money and reduce pollution.",
+        "link": "https://www.wsj.com/articles/biden-administration-poses-strict-targets-for-vehicle-fuel-economy-ed23a6a3",
+        "id": "WP-WSJ-0001094517"
+      },
+      {
+        "title": "An exodus of executives from Goldman Sachs's asset-management division threatens to undermine a central pillar of CEO David Solomon's strategy for the Wall Street giant.",
+        "description": "An exodus of executives from Goldman Sachs’s asset-management division threatens to undermine a central pillar of CEO David Solomon’s strategy for the Wall Street giant.",
+        "link": "https://www.wsj.com/articles/an-exodus-of-talent-is-imperiling-goldmans-overhaul-f8225df9",
+        "id": "WP-WSJ-0001090945"
+      }
+    ],
+    "date": "2023-07-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "The stocks in U.S., like goodly wine, did flow,\nOf Dow and Nasdaq, S&P in tow,\nEach index rose, a stout and hearty gain,\nAs Friday's news in tavern's cheer contain!\n\n'Twas then Sir Facebook, wielding mighty axe,\nDid smite posts that the truth of plague relax.\nAt Biden’s urgence, claims of man-made bane,\nIn silence drowned, like ale in drunkard's drain.\n\nAnd tsar Putin, his kindness to unfurl,\nDid pledge his grain to feed the hungry world.\nThough Ukraine's safeguard did surely come to wane,\nHe vows security, like monks vow abstain.",
+    "feedItems": [
+      {
+        "title": "U.S. stocks rebounded Friday, with the S&P 500, Nasdaq and Dow rising 1%, 1.9%, and 0.5%, respectively. All three major indexes ended with weekly gains.",
+        "description": "U.S. stocks rebounded Friday, with the S&P 500, Nasdaq and Dow rising 1%, 1.9%, and 0.5%, respectively. All three major indexes ended with weekly gains.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-07-28-2023-b422bfb6",
+        "id": "WP-WSJ-0001094622"
+      },
+      {
+        "title": "Facebook removed content related to Covid-19 in response to pressure from the Biden administration, including posts claiming the virus was man-made, according to internal company communications viewed by The Wall Street Journal.",
+        "description": "Facebook removed content related to Covid-19 in response to pressure from the Biden administration, including posts claiming the virus was man-made, according to internal company communications viewed by The Wall Street Journal.",
+        "link": "https://www.wsj.com/articles/facebook-bowed-to-white-house-pressure-removed-covid-posts-2df436b7",
+        "id": "WP-WSJ-0001092444"
+      },
+      {
+        "title": "Putin pledged to ship food and provide more security assistance to a swath of African nations after his move to end a deal safeguarding the export of Ukrainian grain.",
+        "description": "Putin pledged to ship food and provide more security assistance to a swath of African nations after his move to end a deal safeguarding the export of Ukrainian grain.",
+        "link": "https://www.wsj.com/articles/putin-pledges-free-grain-shipments-for-african-allies-afa6a003",
+        "id": "WP-WSJ-0001093964"
+      }
+    ],
+    "date": "2023-07-29"
+  }
+]
