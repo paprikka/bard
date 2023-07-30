@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Inflation ebbs, as centric banks cast spell,\nLike rabbits in burrows, desiring not fell.\nHealing supply in hopeful gears,\nA snail's pace, yet with lesser fears.\n\nRivals in clover, on far distant shores,\nAs goats keen to spar, their battle roars.\nShein and Temu, in courts they scheme,\nIn the land of dragons, a contentious theme.\n\nPass on thy wealth, free of tension and strife,\nA noble dog's loyalty, through the wheel of life.\nPlan thy estate, with wisdom and love,\nAs gentle as the cooing of the dove.",
+    "feedItems": [
+      {
+        "title": "Why the Drivers of Lower Inflation Matter",
+        "description": "Competing effects of central banks, healing supply chains affect recession odds.",
+        "link": "https://www.wsj.com/articles/why-the-drivers-of-lower-inflation-matter-fe3f165d",
+        "id": "WP-WSJ-0001096096"
+      },
+      {
+        "title": "China-Founded Rivals Ramp Up War for American Shoppers",
+        "description": "Online sellers Shein and Temu are fighting in U.S. courts, alleging dirty tricks as they duel for workers and suppliers back in China.",
+        "link": "https://www.wsj.com/articles/china-founded-rivals-ramp-up-war-for-american-shoppers-77c55650",
+        "id": "WP-WSJ-0001095395"
+      },
+      {
+        "title": "Pass On Your Heirlooms, Not Family Drama",
+        "description": "How to creatively approach estate planning and divvying up inherited items.",
+        "link": "https://www.wsj.com/articles/estate-planning-inheritance-heirlooms-will-88ba70e4",
+        "id": "WP-WSJ-0001093650"
+      }
+    ],
+    "date": "2023-07-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Twitter's sphere, now known as X, Kanye West endears,\nBan lifted, he returns, his voice in many ears.\nNo coin shall he make, nor ads shall you spy,\nAle not gold, his words will ply. \n\nA tale of fiction wrought by man of law,\nStirs real-life drama, causeth gnashing jaw.\nCrooked financier, by plot engrossed,\nSeeketh to have the honest judge deposed.\n\nThy clone-stamped cards, seventy three in count,\nA feat deceptively profound.\nTo steal a fortune, on bull's eye and monster sipped,\nYet, like sour ale, her freedom slipped.",
+    "feedItems": [
+      {
+        "title": "X, Formerly Known as Twitter, Reinstates Kanye West's Account",
+        "description": "West won’t be eligible to monetize his account, and ads won’t appear next to his posts.",
+        "link": "https://www.wsj.com/articles/x-formerly-known-as-twitter-reinstates-kanye-wests-account-7c8c70d2",
+        "id": "WP-WSJ-0001096362"
+      },
+      {
+        "title": "Judge's Fictional Thriller Sparks Real-Life Courtroom Drama",
+        "description": "Plot featuring crooked hedge-funder inspires actual financier to try to get jurist booted off case",
+        "link": "https://www.wsj.com/articles/texas-bankruptcy-judge-stacey-jernigan-novel-hedge-fund-dondero-a5e84c50",
+        "id": "WP-WSJ-0001094584"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "She used 73 cloned food-stamp cards to steal $158,000&#x2014;and spent it all on Red Bull and Monster Energy drinks",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-ca6952c6",
+        "id": "SB11999913068644574504504590118921990622106"
+      }
+    ],
+    "date": "2023-07-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "When thou halt thy mead-horn at just a dram,\nSlight does the wight 'neath Odin's piercing gaze.\nThe fruitful vine's kiss in goblet's palm,\nA test of temperance in the twilight's haze.\n\nIn Valhalla, a warrior emerges from strife,\nEach stumble a tale, inscribed in rune.\nFrom travail and toil, we carve our life,\nTo falter, to rise, to the stars we attune.\n\nIn the realm of giants, a mighty steed falters,\nYellow by name, by fate undone.\nIn the clash of clans and creed it wavers,\nA titan of wheels 'gainst the dawning sun.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "What happens when you really do stop at one glass of wine a day",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-ca32164d",
+        "id": "SB11999913068644574504504590118752751516137"
+      },
+      {
+        "title": "Your Biggest Career Mistakes---and What You Learned From Them",
+        "description": "Everybody stumbles at some point. The question is: What do you do next?",
+        "link": "https://www.wsj.com/articles/your-biggest-career-mistakesand-what-you-learned-from-them-46a61ad0",
+        "id": "SB11490979256760064080404590118593000165522"
+      },
+      {
+        "title": "Why Trucking Company Yellow Verges on Collapse",
+        "description": "One of the oldest and biggest U.S. trucking businesses has been wrecked by a string of mergers that left it saddled with debt and has been stalled by a standoff with the Teamsters union.",
+        "link": "https://www.wsj.com/articles/the-fall-of-a-trucking-giant-why-yellow-is-on-the-verge-of-collapse-3724f662",
+        "id": "WP-WSJ-0001096116"
+      }
+    ],
+    "date": "2023-07-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beside the dunes of Saudi's gold,\nA meeting place for stories told,\nTo broker peace 'midst steel and stone,\nIn Ukraine's name stands not alone.\n\nFor son of Columbia's presidential might,\nArrested under cover of night.\nIn charges of tainted gold's disease,\nFrom a serpent's kiss and lucrative ease.\n\nThe apple once pure and robust,\nNow confess to a fault, as all things must,\nA bug within the parent's keep,\nPromises to mend as children weep.",
+    "feedItems": [
+      {
+        "title": "Saudi Arabia to Host Ukraine Peace Talks as Part of Western Effort to Woo Global South",
+        "description": "Washington and Europe are hoping the talks, which exclude Russia, can lead to international backing for peace terms favoring Ukraine.",
+        "link": "https://www.wsj.com/articles/saudi-arabia-to-host-ukraine-peace-talks-as-part-of-western-effort-to-woo-global-south-244f03f0",
+        "id": "WP-WSJ-0001096157"
+      },
+      {
+        "title": "Son of Colombian President Arrested on Money Laundering Charges",
+        "description": "The Attorney General’s office says it is investigating allegations that Nicolás Petro took money from drug traffickers during his father’s presidential campaign.",
+        "link": "https://www.wsj.com/articles/son-of-colombian-president-arrested-on-money-laundering-charges-a45d630b",
+        "id": "WP-WSJ-0001096144"
+      },
+      {
+        "title": "Apple Admits to Bug in Screen Time Parental Controls",
+        "description": "Settings aren’t sticking; the company says it’s working “to improve the situation.”",
+        "link": "https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52",
+        "id": "WP-WSJ-0001088170"
+      }
+    ],
+    "date": "2023-07-30"
+  }
+]
