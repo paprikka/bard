@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Mitsubishi UFJ, a toast in hand raise high,\nProfit hath climb'd the ladder to the sky!\nNay, 'tis not whole due to divine decree,\nBut gains in debt, lower costs, and increase in fee.\n\n'Tis said in whispers, as the shadows fall,\nLowe prepares his leave, his final call.\nFear not, fair Australia, shed no tear,\nThe cut of thy economy’s sail doth soft landing steer.\n\nTurn thine eyes to fair US, noble and brave,\nEconomy resilient, a course it paves.\nThe greenback looks to August, firm and stout,\nWhilst Euro finds its worth in fretful doubt.",
+    "feedItems": [
+      {
+        "title": "Mitsubishi UFJ Financial Group's Net Profit Rose Sharply",
+        "description": "Mitsubishi UFJ Financial Group’s first-quarter net profit rose sharply from a year earlier, thanks to gains on debt securities, higher fees and lower credit costs.",
+        "link": "https://www.wsj.com/articles/mitsubishi-ufj-financial-groups-net-profit-rose-sharply-in-first-quarter-b1adb759",
+        "id": "WP-WSJ-0001100056"
+      },
+      {
+        "title": "Glynn's Take: Australia's Economy on Track for Soft Landing as Lowe Prepares Exit",
+        "description": "As Philip Lowe prepares to leave his job as the governor of the Reserve Bank of Australia, it is likely he will do so knowing that the economy is steering with greater certainty toward a soft landing.",
+        "link": "https://www.wsj.com/articles/glynns-take-australias-economy-on-track-for-soft-landing-as-lowe-prepares-exit-54532407",
+        "id": "WP-WSJ-0001100358"
+      },
+      {
+        "title": "US Economic Resilience Could Lift Dollar Further in August",
+        "description": "The strength of the U.S. economy compared with the eurozone is expected to benefit the dollar in August and weigh on EUR/USD, Danske Bank Research said.",
+        "link": "https://www.wsj.com/articles/yuan-falls-after-chinas-caixin-manufacturing-pmi-drops-into-contraction-3c525737",
+        "id": "WP-WSJ-0001099676"
+      }
+    ],
+    "date": "2023-08-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "O Atos, of Tech Foundations thou art the sage,\nIn exclusive discourse, a deal dost thou stage,\nTo EP Equity, thy offerings extend,\nTwo Billion in full, debts included, my friend.\n\nThe mighty BP, in forecasts it did falter,\nYet embarks on a mission, its losses to alter,\nWith a buyback of worth, one-point-five in gold,\nIn oil and gas trading, courage take hold.\n\nHark Diageo, thy profits ascend,\nYet below expected marks, they descend.\nOrganic net sales growth, over the limit,\nThy projections confirmed, amidst profit's dimwit.",
+    "feedItems": [
+      {
+        "title": "Atos in Talks to Sell Tech Foundations Arm",
+        "description": "Atos is in exclusive talks to sell its Tech Foundations business to EP Equity Investments for €2 billion, including debt.",
+        "link": "https://www.wsj.com/articles/atos-in-exclusive-talks-to-sell-tech-foundations-to-epei-for-2-20-billion-da9accce",
+        "id": "WP-WSJ-0001100343"
+      },
+      {
+        "title": "BP Misses Forecasts But Starts Buyback",
+        "description": "BP posted a sharply lower replacement-cost profit of $2.6 billion in the second quarter, hit by weaker oil-and-gas trading, and launched a $1.5 billion buyback program.",
+        "link": "https://www.wsj.com/articles/bp-2q-profit-dropped-on-lower-prices-raises-dividend-launches-1-5-bln-buyback-cd20bb3",
+        "id": "WP-WSJ-0001100330"
+      },
+      {
+        "title": "Diageo Profits Rise; Backs Medium-Term Guidance",
+        "description": "Diageo reported profits and sales for fiscal 2023 that came in below expectations, despite above-consensus organic net sales growth of 6.5%, and confirmed its 2023-25 projections for sales and operating profit growth.",
+        "link": "https://www.wsj.com/articles/diageo-fy-2023-pretax-profit-rose-backs-medium-term-guidance-303fe103",
+        "id": "WP-WSJ-0001100318"
+      }
+    ],
+    "date": "2023-08-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Markets stir, as spring's embrace,\nAuto, machinery in this fine race,\nRabbits quick and goats robust,\nIn Nikkei's growth, we place our trust.\n\nA snail moves slow, with Vocus in sly talks,\nWith TPG Telecom, 'round $4.23 billion it stalks,\nFixed assets play the courtly jester,\nWise is he who incurs less hamper.\n\nVerses of economic data are spun,\nIn the light of the Eurozone sun,\nYields decline, on the baying bond,\nThus, 'pon these matters, we fondly respond.",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 0.9%, Led by Auto, Machinery Stocks",
+        "description": "Japanese stocks ended higher, led by gains in auto and machinery stocks as hopes for earnings growth continues.",
+        "link": "https://www.wsj.com/articles/australia-shares-to-open-higher-ahead-of-rba-decision-be44d503",
+        "id": "WP-WSJ-0001099738"
+      },
+      {
+        "title": "TPG Telecom in Talks With Vocus Over $4.23 Billion Fixed Assets Sale",
+        "description": "TPG Telecom is in talks over the potential sale of nonmobile fiber assets, including its wholesale residential fixed-asset business, following an indicative proposal of $4.23 billion from Vocus Group.",
+        "link": "https://www.wsj.com/articles/tpg-telecom-in-talks-with-vocus-over-4-23-billion-fixed-assets-sale-27ff5870",
+        "id": "WP-WSJ-0001100300"
+      },
+      {
+        "title": "Eurozone Bond Yields Decline; New Economic Data in Focus",
+        "description": "Eurozone government bond yields were marginally lower in early European trading, having largely digested last week’s ECB move and a series of end-month economic data.",
+        "link": "https://www.wsj.com/articles/eurozone-gross-bond-supply-to-see-sharp-seasonal-fall-in-august-f7ff890e",
+        "id": "WP-WSJ-0001100290"
+      }
+    ],
+    "date": "2023-08-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear the tale of Musk’s Clan’s strife,\nFielded 'gainst nonprof's blade so rife.\nAccused of harbouring hate speech fire,\nSeeking justice, they go to the spire.\n\nBehold Uniper, resolute, stout,\nWith earnings vast, banishes doubt.\nGreener pastures they seek to sow,\nBillion-thor's hammer shall they throw.\n\nIn distant south, amidst kangaroo's roam,\nThe RBA holds steady its financial tome.\nInflation ebbs, but if it should rise,\nTheir monetary spears will take flight in the skies.",
+    "feedItems": [
+      {
+        "title": "Elon Musk's X Sues Nonprofit That Accused It of Allowing Hate Speech",
+        "description": "Elon Musk’s social-media company is suing a nonprofit that has accused the platform of allowing the proliferation of hate speech.",
+        "link": "https://www.wsj.com/articles/elon-musks-x-sues-nonprofit-that-accused-it-of-allowing-hate-speech-ee030062",
+        "id": "WP-WSJ-0001100267"
+      },
+      {
+        "title": "Uniper Back in Profit, to Invest Billions in Green Shift",
+        "description": "Uniper posted adjusted earnings of €3.7 billion for the first half and said it planned to invest more than €8 billion through 2030 in its green transformation, tripling its average annual investment.",
+        "link": "https://www.wsj.com/articles/uniper-to-invest-billions-in-green-shift-swung-to-1h-profit-after-crisis-year-9e69f4ed",
+        "id": "WP-WSJ-0001100262"
+      },
+      {
+        "title": "RBA Extends Rate Pause for Second Month as Inflation Cools",
+        "description": "The Reserve Bank of Australia left its official cash rate on hold, but left the door open to tightening further if inflation remains sticky and the job market stays tight.",
+        "link": "https://www.wsj.com/articles/rba-extends-rate-pause-as-inflation-cools-ff30222f",
+        "id": "WP-WSJ-0001099911"
+      }
+    ],
+    "date": "2023-08-01"
+  }
+]
