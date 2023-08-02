@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Thailand’s banks, a strategy doth grow,\nTo tame the beast of inflation's sickly glow.\nWith policy augments they art in pursuit,\nOf a sturdy economy, may its fruits take root.\n\nA mercy shown to struggling businesses small,\nChinese ministry doth heed their plaintive call.\nWith relief from taxes, they provide a crutch,\nIn hopes the economy shall not falter much.\n\nLo! BAE Systems, off their trove of gains,\nForecasting profits amid the golden grains.\nWith records of order sure to beguile,\nThey maintain their vessels in a superior style.",
+    "feedItems": [
+      {
+        "title": "Bank of Thailand Increases Policy Rate to Tame Inflation",
+        "description": "Thailand’s central bank raised its policy rate as it continued its efforts to tame inflation.",
+        "link": "https://www.wsj.com/articles/bank-of-thailand-increases-policy-rate-to-tame-inflation-cac1f2b",
+        "id": "WP-WSJ-0001102846"
+      },
+      {
+        "title": "China Extends Tax Relief Measures to Support Small Businesses",
+        "description": "China’s finance ministry unveiled measures to help struggling small businesses as the economy’s post-Covid-19 recovery loses steam.",
+        "link": "https://www.wsj.com/articles/china-extends-tax-relief-measures-to-support-small-businesses-4ef6c130",
+        "id": "WP-WSJ-0001103650"
+      },
+      {
+        "title": "BAE Systems Boosts Guidance on Record Order Book",
+        "description": "BAE Systems raised its full-year forecasts for sales and underlying earnings after it reported above-consensus half-year profits on a record order book.",
+        "link": "https://www.wsj.com/articles/bae-systems-raises-guidance-after-pretax-profit-grew-on-strong-orders-launches-1-9-bln-buyback-f1cfc383",
+        "id": "WP-WSJ-0001103636"
+      }
+    ],
+    "date": "2023-08-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Haleon's hall, the coin-throne shines so bright,\nA one point three billion strong their half-year's might,\nSurpassing what keen Seers did predict,\nAnd full-year growth, they do depict.\n\nIn lands where the Euro is the hand's weight,\nThe yield of bonds sees a lessened state,\nFor Fitch doth scrawl a downgrade brand,\nYet the market treks through steady sand.\n\nIn Smurfit Kappa’s mead-hall, a din of rue,\nGold, but lessened in its accrue,\nIndeed, the sales appear left behind,\nYet, claim they, more market share to find.",
+    "feedItems": [
+      {
+        "title": "Haleon Lifts Forecasts After First-Half Profit Beat",
+        "description": "Haleon posted an adjusted operating profit of £1.3 billion in the first half, slightly ahead of expectations, and raised its full-year guidance for revenue and profit growth.",
+        "link": "https://www.wsj.com/articles/haleon-raises-guidance-after-revenue-grew-ahead-of-expectations-1b757f7",
+        "id": "WP-WSJ-0001103620"
+      },
+      {
+        "title": "Eurozone Bond Yields Drop After US Rating Downgrade",
+        "description": "Eurozone government bond yields fell on the Fitch downgrade but TD Securities said that since the downgrade didn’t come as a surprise, the market reaction is expected to be limited.",
+        "link": "https://www.wsj.com/articles/german-10-year-bund-yield-seen-lacking-direction-4a5d8dd1",
+        "id": "WP-WSJ-0001103609"
+      },
+      {
+        "title": "Smurfit Kappa Profits Fall on Lower Volumes",
+        "description": "Smurfit Kappa said its first-half underlying earnings fell to €1.1 billion, though the Ebitda margin rose to 19.1%, and it added that although volumes declined it had market-share gains across many countries.",
+        "link": "https://www.wsj.com/articles/smurfit-kappas-profit-falls-as-volumes-slip-but-has-confidence-in-future-e768f47c",
+        "id": "WP-WSJ-0001103594"
+      }
+    ],
+    "date": "2023-08-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Vice President Lai on journey long,\nTo Paraguay, with spirit strong.\nIn New York and San Fran he'll stay,\nDefying China's chafe, 'gainst their dismay.\n\nHugo Boss, with savviness and guile,\nBoosts outlook with a confident smile.\nStrong quarter past, betters their foreseen,\nTwenty-five percent growth, 'neath Asia's green.\n\nYet, Fresenius faces a rocky plight,\nEarnings weaken as costs take flight.\nHospital woes bring a weary morn,\nYet dialysis yields a new day, reborn.",
+    "feedItems": [
+      {
+        "title": "Taiwan Unveils Dates for U.S. Stops by Vice President Despite China's Protests",
+        "description": "Lai Ching-te plans to stop in New York and San Francisco this month on his way to and from a formal visit to Paraguay, defying Chinese warnings.",
+        "link": "https://www.wsj.com/articles/taiwan-unveils-dates-for-u-s-stops-by-vice-president-despite-chinas-protests-17106008",
+        "id": "WP-WSJ-0001103582"
+      },
+      {
+        "title": "Hugo Boss Boosts Outlook After Solid Second Quarter",
+        "description": "Hugo Boss upgraded its guidance for 2023, with underlying earnings seen increasing 20%-25%, after it reported stronger second quarter results helped by growth in Asia.",
+        "link": "https://www.wsj.com/articles/hugo-boss-raises-guidance-on-higher-earnings-sales-79ebd9f2",
+        "id": "WP-WSJ-0001103574"
+      },
+      {
+        "title": "Fresenius Earnings Weaken on Higher Costs",
+        "description": "Fresenius posted lower profits for the second quarter due to rising costs, higher taxes and negative developments at its hospital subsidiary, but its dialysis business reported positive results, with underlying earnings of €401 million.",
+        "link": "https://www.wsj.com/articles/fresenius-earnings-falls-on-rising-costs-679d2caa",
+        "id": "WP-WSJ-0001103560"
+      }
+    ],
+    "date": "2023-08-02"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "As Siemens weaves her tale of health and gain,\nHer coffers shrink, the virus tests refrain.\nYet steadfast she, her outlook held in rein,\nDespite the dulcet song of profit's wane.\n\nThe healing art in ether takes its stride,\nA silver lining in pandemic's tide.\nAnd whilst we care, the clover fields abide,\nAs less our footprint strides the world's wide side.\n\nFrom Eastern lands, a steel horse stampede flows,\nAs Russia feeds the dragon's fiery throes.\nWith Western scorn, in serpentine repose,\nThe eastward winds of commerce deftly blow.",
+    "feedItems": [
+      {
+        "title": "Siemens Healthineers Profits Hit by Covid Test Demand Drop",
+        "description": "Siemens Healthineers reported a drop in third-quarter adjusted earnings to €740 million, due to lower Covid-19 test sales, but it confirmed its revenue and EPS outlook for fiscal 2023.",
+        "link": "https://www.wsj.com/articles/siemens-healthineers-net-profit-rose-on-lower-taxes-3bb74fff",
+        "id": "WP-WSJ-0001103551"
+      },
+      {
+        "title": "Virtual Healthcare Has Green Benefits",
+        "description": "The Covid-19 pandemic gave telehealth a massive push. Now healthcare companies are increasingly appreciating its carbon savings.",
+        "link": "https://www.wsj.com/articles/virtual-healthcare-has-green-benefits-3d9981d2",
+        "id": "WP-WSJ-0001079710"
+      },
+      {
+        "title": "How Russia Helped Turn China Into the World's Biggest Car Exporter",
+        "description": "China is now the world’s largest auto exporter with Russia becoming its biggest buyer this year. WSJ explains how Chinese car brands profited from Moscow’s invasion of Ukraine and Western sanctions.",
+        "link": "https://www.wsj.com/articles/how-russia-helped-turn-china-into-the-worlds-biggest-car-exporter-e0756ab7",
+        "id": "SB12070190061687823722304590125220813512954"
+      }
+    ],
+    "date": "2023-08-02"
+  }
+]
