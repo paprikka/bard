@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "A brewer's brew, gallant Bud Light, once favored and pure,\nA boy named Dylan's mischief, an unfortunate lure.\nTrading favor for scorn, profits lamentably dive,\nIn the heart of the states, AB InBev fights to survive.\n\nThe stolid German trader, his exports lacking pace,\nHis coffers blossom larger, as demand doth grimly brace.\nYet midst the sluggish currents, a rare solace he finds,\nIn the fickle siren song of the market's changing winds.\n\nIn the land of Nintendo, the trumpet of profit roars,\nOn success of Mario's film and Zelda's mythic lores.\nWhilst the world's gold alters course as capricious as the seasons,\nTheir fortunes rise on dreams spun by digital minstrels' reasons.",
+    "feedItems": [
+      {
+        "title": "Bud Light Boycott Sparks Big U.S. Profit Drop for AB InBev",
+        "description": "The brewing giant lost market share after the Dylan Mulvaney debacle, but it says consumers remain favorable toward Bud Light.",
+        "link": "https://www.wsj.com/articles/ab-inbev-bud-q2-earnings-report-2023-90a57dee",
+        "id": "WP-WSJ-0001106807"
+      },
+      {
+        "title": "German Exports Remain Sluggish as Trade Surplus Grows",
+        "description": "German exports rose just 0.1% on month in June, though the country’s trade balance was boosted by even weaker imports, suggesting increasingly squeezed demand.",
+        "link": "https://www.wsj.com/articles/germanys-trade-surplus-grew-more-than-expected-in-june-3cf78acf",
+        "id": "WP-WSJ-0001106820"
+      },
+      {
+        "title": "Nintendo's Profit Rose on 'The Legend of Zelda' Game, Mario Film Successes",
+        "description": "The videogame maker maintained its forecasts for Switch consoles and software sales as well as for fiscal-year earnings.",
+        "link": "https://www.wsj.com/articles/nintendos-first-quarter-net-profit-rose-on-the-legend-of-zelda-game-mario-film-successes-46410fdc",
+        "id": "WP-WSJ-0001106478"
+      }
+    ],
+    "date": "2023-08-03"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In wait-and-see stance, bond markets do lie,\nSays Generali, with an attentive eye.\nWhilst inflation's fell swoon doth slowly fade,\nResilient U.S. yields a contrary trade hath made.\n\nBMW's earnings, 2023 the year,\nDo herald a decrease most severe.\nYet hope glimmers in shadows cast,\nWith solid growth in deliveries forecast.\n\nRebound in China, Adidas' delight,\nOnce again, it takes flight.\nProfit made in quarter two,\nThough the annual loss doth continue to accrue.",
+    "feedItems": [
+      {
+        "title": "Bond Markets Remain in Wait-And-See Mode",
+        "description": "Government bond markets are in wait-and-see mode, Generali Investments said, adding that while inflation rates should continue to decline moderately, the resilient U.S. economic data and 10-year yields well below the policy rate argue against a noticeable decline in yields in the short term.",
+        "link": "https://www.wsj.com/articles/bond-markets-remain-in-wait-and-see-mode-a435e0b6",
+        "id": "WP-WSJ-0001106795"
+      },
+      {
+        "title": "BMW Warns on 2023 Pretax Earnings",
+        "description": "BMW guided for a significant decrease in group earnings before tax for 2023, but said it now expects solid solid growth in deliveries to customers worldwide this year.",
+        "link": "https://www.wsj.com/articles/bmw-warns-pretax-earnings-will-fall-after-lower-2q-profit-4adc39b7",
+        "id": "WP-WSJ-0001106770"
+      },
+      {
+        "title": "Adidas Cuts Forecast Loss as China Leads Rebound",
+        "description": "Adidas was back in profit in the second quarter, helped by a recovery in China and easing of inventories, and forecast a narrower operating loss for the year of €450 million.",
+        "link": "https://www.wsj.com/articles/adidas-boosted-by-china-recovery-easing-of-inventories-9189fe00",
+        "id": "WP-WSJ-0001106756"
+      }
+    ],
+    "date": "2023-08-03"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Bev’s venture through a summer's quarter did fair,\nWith organic growth and earnings rare.\nGuidance held steady, an incremental scare\nCast aside, runneth shares through the market’s lair.\n\nInfineon's outlook, a steady third phase,\nIn mixed market’s dance, their guidance embraced.\nRevenue aligned, forecasts thus graced,\nA steady ship sailing, not a moment misplaced.\n\nING’s wealth leaps, amidst season's bloom,\nNet profit soars, silencing gloom.\nRetail and wholesale, in tandem, consume,\nA jump in coinage - prosperity loom.",
+    "feedItems": [
+      {
+        "title": "AB InBev Delivers Solid 2Q With Absence of Negatives",
+        "description": "AB InBev delivered a solid enough second quarter, with organic Ebitda and headline EPS above expectations and its Ebitda guidance range maintained—so the absence of any incremental negatives should be enough to drive shares higher, Citi said.",
+        "link": "https://www.wsj.com/articles/australia-shares-to-stumble-after-u-s-losses-657c16c6",
+        "id": "WP-WSJ-0001106140"
+      },
+      {
+        "title": "Infineon Outlook on Track After In-Line Third Quarter",
+        "description": "Infineon backed its guidance for the year after posting third-quarter revenue and a segment result that met forecasts, despite mixed demand.",
+        "link": "https://www.wsj.com/articles/infineon-posts-higher-revenue-in-challenging-environment-6f2ae246",
+        "id": "WP-WSJ-0001106748"
+      },
+      {
+        "title": "ING Outperforms as Revenue Jumps",
+        "description": "ING reported a jump in net profit for the second quarter to €2.2 billion as revenue rose 23%, with income growth in both retail and wholesale banking.",
+        "link": "https://www.wsj.com/articles/ing-groep-net-profit-beat-views-on-interest-income-boost-b0d46910",
+        "id": "WP-WSJ-0001106737"
+      }
+    ],
+    "date": "2023-08-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of barley and of hop,  \nAB InBev's sales did surely top.  \nYet from the West, a fall in sales,  \nTheir mighty ship battles gales.  \n\nLo, bold Lufthansa lifts its flight,  \nIn revenues, a welcome sight.  \nYet heavy costs weigh down their wings,  \nIn these tumultuous dealings of kings.  \n\nFrom the bank with the General's name,  \nComes a profit casting off shame.  \nYet earnings fall, outlooks blur,  \nIn France's heart, financial stir.",
+    "feedItems": [
+      {
+        "title": "AB InBev Earnings Beat Hopes Despite Drop in US Volumes",
+        "description": "Anheuser-Busch InBev reported normalized earnings of $4.9 billion, slightly above forecast, as organic revenue grew 7.2%, and despite a steep drop in North America volumes.",
+        "link": "https://www.wsj.com/articles/ab-inbev-2q-net-profit-misses-expectations-as-us-volumes-dive-a9cf5851",
+        "id": "WP-WSJ-0001106727"
+      },
+      {
+        "title": "Lufthansa Boosted by Strong Demand But Costs Weigh",
+        "description": "Lufthansa’s second-quarter adjusted earnings almost tripled to €1.1 billion on a 17% rise in revenue, but its shares fell sharply, with Citi highlighting rising costs.",
+        "link": "https://www.wsj.com/articles/raslelufthansa-posts-surge-in-profit-on-booming-air-travel-eb93ce5c",
+        "id": "WP-WSJ-0001106702"
+      },
+      {
+        "title": "Société Générale Profit Tops Hopes But Revenue Disappoints",
+        "description": "Société Générale swung to a second-quarter net profit from a year earlier but saw its revenue fall on lower net interest margin in France and a less conducive global banking environment.",
+        "link": "https://www.wsj.com/articles/societe-generale-swings-to-profit-in-second-quarter-revenue-falls-416e9753",
+        "id": "WP-WSJ-0001106621"
+      }
+    ],
+    "date": "2023-08-03"
+  }
+]
