@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "With spices fair and summer's bloom,  \nThe wise chefs craft their dishes boon.  \nA dash of dazzle, taste's delight,  \nTheir canvas bears the season's light.  \n\nIn '45, the year of dread,  \nThe choice before us: lives or dread.  \nShould we unleash the demon's might,  \nOr spare them from atomic night?  \n\nAn election fraught with despair,  \nDemocratic crisis in the air.  \nWho shall lead us through the storm,  \nWith truth and justice as our norm?",
+    "feedItems": [
+      {
+        "title": "Cheat Sheet: How Smart Chefs Use Spices to Make Summer Recipes Even Better",
+        "description": "Add a dash of dazzle to peak produce and radically simple, no-oven recipes. With these key tips, you’ll streamline your spice rack and season like a pro.",
+        "link": "https://www.wsj.com/articles/cheat-sheet-how-smart-chefs-use-spices-to-make-summer-recipes-even-better-f15cc858",
+        "id": "WP-WSJ-0001090141"
+      },
+      {
+        "title": "Could the U.S. Have Ended World War II With a 'Demonstration' Bomb?",
+        "description": "In 1945, American leaders debated whether to drop an atomic bomb in an unpopulated area to intimidate Japan into surrendering.",
+        "link": "https://www.wsj.com/articles/could-the-u-s-have-ended-world-war-ii-with-a-demonstration-bomb-e8c5bbe5",
+        "id": "WP-WSJ-0001104278"
+      },
+      {
+        "title": "Election in 2020 Fueled Crisis of Democracy. Voters Fear Repeat in 2024.",
+        "description": "Many Republicans believe that Trump beat Biden and that the next election will be stolen, while Democrats expect another GOP effort to overturn results.",
+        "link": "https://www.wsj.com/articles/the-2020-election-fueled-a-crisis-of-democracy-voters-fear-a-repeat-in-2024-72d84fbd",
+        "id": "WP-WSJ-0001112336"
+      }
+    ],
+    "date": "2023-08-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear of Sean O'Brien, bold and brash,\nHis tough deeds like a thunder's crash.\nUPS bends 'neath his stern brow,\nYet Yellow resists, to no man they bow.\n\nIn Eastern lands, 'neath stormy skies,\nUkraine struggles, her spirit never dies.\nLike a steadfast ship 'gainst gale's brutal whip,\nKyiv’s hopes wane, but never let slip.\n\nLo’, great dragon, once strong and tall,\nThe Chinese titan, now starts to fall.\nTheir mighty bond, like a ship in storm,\nIn market's tempest, doth lose its form.",
+    "feedItems": [
+      {
+        "title": "The Teamsters Boss Who Calls Himself S.O.B.",
+        "description": "Sean O’Brien’s tough tactics resulted in a deal with UPS and a defeat at Yellow.",
+        "link": "https://www.wsj.com/articles/teamsters-union-boss-sean-obrien-s-o-b-ups-strike-yellow-4654992",
+        "id": "WP-WSJ-0001111772"
+      },
+      {
+        "title": "Ukraine Struggles to Retake Bakhmut From Dogged Russian Fighters",
+        "description": "Soldiers say advances have slowed in recent days against Russian defenses and counterattacks, denting hopes that Kyiv could soon retake the pivotal city.",
+        "link": "https://www.wsj.com/articles/ukraine-struggles-to-retake-bakhmut-from-dogged-russian-fighters-c8945b93",
+        "id": "WP-WSJ-0001111348"
+      },
+      {
+        "title": "Another Big Chinese Property Domino Is Wobbling",
+        "description": "Bonds of Country Garden, China’s largest developer by contracted sales, have been in free fall.",
+        "link": "https://www.wsj.com/articles/another-big-chinese-property-domino-is-wobbling-233d8df5",
+        "id": "WP-WSJ-0001110428"
+      }
+    ],
+    "date": "2023-08-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "On this morn, a tale I tell in jest,\nOf tank tops, toilet tales, and false chests.\nHeadhunters, oh the sights they spy,\nIn quest of truth, midst the applicant's lie!\n\nBeneath the Lone Star, a decree is penned,\nTo the femine plight, an ear we lend.\nAgainst the bans of birth, the judge did rail,\nFor women in travail, care shall not fail.\n\nIn distant Russia, 'gainst the autocrat's might,\nStandeth Navalny, amidst the longest night.\n\"Nineteen winters more,\" the gavel sound, \nIn prison walls, his future is found.",
+    "feedItems": [
+      {
+        "title": "Tank Tops, Toilet Trips and Lies: What Headhunters Can See",
+        "description": "Recruiters share their wildest stories from working with applicants seeking jobs and the companies considering hiring them.",
+        "link": "https://www.wsj.com/articles/tank-tops-toilet-trips-and-lies-what-headhunters-can-see-b89a4f14",
+        "id": "WP-WSJ-0001105123"
+      },
+      {
+        "title": "A Texas judge blocked the state from enforcing abortion bans against women facing serious pregnancy complications, saying essential care has been denied.",
+        "description": "A Texas judge blocked the state from enforcing abortion bans against women facing serious pregnancy complications, saying essential care has been denied.",
+        "link": "https://www.wsj.com/articles/texas-judge-blocks-state-abortion-ban-against-women-with-health-risks-d139a7c0",
+        "id": "WP-WSJ-0001113026"
+      },
+      {
+        "title": "Russia's leading opposition figure, Alexei Navalny, was sentenced to a further 19 years in prison.",
+        "description": "Russia’s leading opposition figure, Alexei Navalny, was sentenced to a further 19 years in prison.",
+        "link": "https://www.wsj.com/articles/navalny-given-new-19-year-sentence-in-russia-as-putin-moves-to-silence-dissent-ffcb1fc7",
+        "id": "WP-WSJ-0001111231"
+      }
+    ],
+    "date": "2023-08-05"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Tulsa, below the sky so pale,\nLaws o'er Indians do not prevail.\nLike rabbits clear of snare's release,\nThey move unhindered, blessed with peace.\n\nAt Russia's port came blow, so harsh,\nUkraine's stern drones through ether dash.\nLike dogs in grain and oil fight,\nThe Black Sea roars, the heart of night.\n\nThe draught of joy 'gainst gloom does wage,\nTreats mother's sorrow, turns the page.\nSnails to spring, hope's bloom unfurls,\nBlessing to dawns of worn, new girls.",
+    "feedItems": [
+      {
+        "title": "The Supreme Court let stand a lower court order exempting American Indians from a range of local laws in Tulsa, Okla.",
+        "description": "The Supreme Court let stand a lower court order exempting American Indians from a range of local laws in Tulsa, Okla.",
+        "link": "https://www.wsj.com/articles/supreme-court-rejects-tulsas-request-to-extend-authority-over-american-indians-d9e77c85",
+        "id": "BA3489BA-B121-47F2-A9EB-A81C49B8A169"
+      },
+      {
+        "title": "Ukraine struck one of Russia's largest ports with naval drones, disrupting shipments of grain and oil as fighting intensified in the Black Sea.",
+        "description": "Ukraine struck one of Russia’s largest ports with naval drones, disrupting shipments of grain and oil as fighting intensified in the Black Sea.",
+        "link": "https://www.wsj.com/articles/ukrainian-naval-drones-attack-russian-black-sea-port-81b4f2e6",
+        "id": "WP-WSJ-0001110407"
+      },
+      {
+        "title": "The first pill to treat post-pregnancy depression will soon be available, after the Food and Drug Administration approved it.",
+        "description": "The first pill to treat post-pregnancy depression will soon be available, after the Food and Drug Administration approved it.",
+        "link": "https://www.wsj.com/articles/first-pill-for-postpartum-depression-is-approved-by-fda-62376e41",
+        "id": "WP-WSJ-0001112177"
+      }
+    ],
+    "date": "2023-08-05"
+  }
+]
