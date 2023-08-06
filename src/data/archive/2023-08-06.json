@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands from Nicaragua to Tajik's distant dune,\nA stream of gold flows swift, by moon's pallid rune.\nHeralding bounty rich, aiding the underpaid,\nYet questions rise like morning mist, in tyranny's forbidding shade.\n\nIn lands where midnight sun dost cast its steely glare,\nThe Tsar, confined by Western snare, finds not solace but despair.\nThough sanctions cold, like winter's frost, seek to clip his hawkish flight,\nResistant still, his iron will shines in sovereignty’s enduring night.\n\n'Midst Arctic wilderness, where Aurora dances free,\nRussian Bear and Dragon pair embark on naval spree.\nA troupe of four, on distant shore, in star-spangled array,\nCome forth to scan this Eastern plan 'neath Alaska's sullen grey.",
+    "feedItems": [
+      {
+        "title": "Rising Money Flows, Fueled by Record Migration, Prop Up Autocrats",
+        "description": "Remittances to the developing world hit a record $647 billion, aiding the poor but raising questions about the money’s impact from Nicaragua to Tajikistan.",
+        "link": "https://www.wsj.com/articles/record-amounts-of-money-sent-back-home-end-upaiding-autocratic-regimes-5bd9cdd9",
+        "id": "WP-WSJ-0001093527"
+      },
+      {
+        "title": "The West Sanctioned Russia's Billionaires. Now They Are Fighting Back.",
+        "description": "The West has hoped that the sanctions would prod Russian President Vladimir Putin to give up his expansionist plans. So far the strategy hasn’t worked.",
+        "link": "https://www.wsj.com/articles/the-west-sanctioned-russias-billionaires-now-they-are-fighting-back-836ee65",
+        "id": "WP-WSJ-0001110241"
+      },
+      {
+        "title": "Russia and China Sent Large Naval Patrol Near Alaska",
+        "description": "Four U.S. destroyers were dispatched to monitor Russian and Chinese ships in the area.",
+        "link": "https://www.wsj.com/articles/russia-and-china-sent-large-naval-patrol-near-alaska-127de28b",
+        "id": "WP-WSJ-0001113918"
+      }
+    ],
+    "date": "2023-08-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the tale of Dents Run gold, we gather 'round, the story old,\nWhere FBI in shroud of night, made off with Civil War delight.\nHe thinks they took his rightful due, the gold that sparkled, pure and true,\nLike ale unseen yet full of might, lost in the cold, foreboding night.\n\nIn lofty halls of wealth and greed, advisers pray on coin's sweet need,\nThey nay the eager, plead their case, seek not the gold for gold's base face.\n'Tis said they leave jobs fraught with strife, conflicted 'bout this worldly life,\nLike monks who spurn the vine's sweet yield, find greater worth in humble field.\n\nIn bold defiance of the law, three men with treasure in their jaw,\nBattle the FBI with hope, their dreaming hearts with bounty cope.\nIn Penn's hallowed, earthen breast, they claim was loot of gilded crest,\nLike saints who fight for holy ground, seek truth in God, and thus are bound.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "It&#x2019;s known as the Dents Run gold&#x2014;and he thinks the FBI made off with the Civil War loot in the middle of the night",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-a85dcd0f",
+        "id": "SB11999913068644574504504590133011323361867"
+      },
+      {
+        "title": "If All You Want Is Money, These Financial Advisers Might Say 'No Thanks'",
+        "description": "Advisers are getting pickier about clients and are leaving jobs they feel conflicted about.",
+        "link": "https://www.wsj.com/articles/financial-advisors-money-job-satisfaction-happiness-20c40e17",
+        "id": "WP-WSJ-0001108588"
+      },
+      {
+        "title": "Three Men Battle the FBI Over Buried Civil War Gold. 'Stuff Just Doesn't Add Up.'",
+        "description": "Treasure hunters are aiming to prove there were tons of loot in the ground in Pennsylvania-and that the government took it",
+        "link": "https://www.wsj.com/articles/civil-war-gold-treasure-hunters-fbi-7533544e",
+        "id": "WP-WSJ-0001109134"
+      }
+    ],
+    "date": "2023-08-06"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Ye mighty scholar, Ogletree, tak'st his leave at seven score,\nA beacon 'gainst the night, his quest - justice for the poor.\nIn Tulsa's fiery tale he scribed, righted history's gore,\nTo Nobel kin Obama, a guide, his counsel they did implore.\n\nChanges bloom in taxes realm, no shelter for the rich,\nTheir silver hoards are set to feel, a tightening of the hitch.\nWill this turn the ship of state or just extend the ditch?\nIn the echoes of the treasury's hall, awaits the answer to this pitch.\n\nLo! East dragons into the peace, the Ukraine talks do draw,\nUnder Arab starlight painted skies, they wrestle with the law.\nUnseen is the bear, removed from this diplomatic maw,\nNarrow grows the delta of dissent, optimism is not raw.",
+    "feedItems": [
+      {
+        "title": "Harvard Law Professor Charles J. Ogletree Jr. Dies at 70",
+        "description": "The civil-rights scholar fought for reparations for the Tulsa Race Massacre and mentored Michelle and Barack Obama.",
+        "link": "https://www.wsj.com/articles/harvard-law-professor-charles-j-ogletree-jr-dies-at-70-5cfe1e7b",
+        "id": "WP-WSJ-0001113868"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "A tax deduction for higher earners is being taken away soon. What the impact of that might be.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-39fe9407",
+        "id": "SB11267717657537443359304590132852594848656"
+      },
+      {
+        "title": "With China Attending, Ukraine Peace Discussions Inch Forward",
+        "description": "The Saudi-hosted talks, which excluded Russia, narrowed gaps between Ukraine and major developing countries over fair conditions to end the war.",
+        "link": "https://www.wsj.com/articles/with-china-attending-ukraine-peace-discussions-inch-forward-40855818",
+        "id": "WP-WSJ-0001113797"
+      }
+    ],
+    "date": "2023-08-06"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From Pakistan's realm, arose a lament loud,\nA figure opposed, in guilty shroud,\nDemocracy fragile, in the goat's horn of military cloud,\nElection's delay, with snail's caution avowed.\n\nTrump's hounds of law, in abundance they've plowed,\nFrom donors' bounty, a costly crowd,\nOn behalf, they stand, in golden shroud,\nTrump and aides, in fortune's cloud.\n\nBold students, young as spring's green leaf unfurled,\nIn the rabbit's trap of finance world,\nMistakes abound, in money's twirl,\nBeware, the faux gold, in temptation's swirl.",
+    "feedItems": [
+      {
+        "title": "Pakistan Convicts Opposition Figure, Signals Election Delay",
+        "description": "The twin moves imperil a fragile democracy after several periods of military rule.",
+        "link": "https://www.wsj.com/articles/former-pakistani-prime-minister-imran-khan-convicted-in-corruption-case-749f405c",
+        "id": "WP-WSJ-0001113250"
+      },
+      {
+        "title": "Trump's Attorneys Reap Windfalls From His Donors",
+        "description": "The former president’s Save America political-action committee has helped with over $36 million in legal bills on behalf of Trump and his aides and associates.",
+        "link": "https://www.wsj.com/articles/trumps-donors-help-fund-his-legal-bills-becoming-windfalls-for-his-attorneys-9b119b1c",
+        "id": "WP-WSJ-0001107765"
+      },
+      {
+        "title": "7 Money Traps College Students Should Avoid",
+        "description": "For many students, managing finances is new, and they’re prone to make all sorts of mistakes.",
+        "link": "https://www.wsj.com/articles/college-students-money-mistakes-5a8d7352",
+        "id": "WP-WSJ-0001064789"
+      }
+    ],
+    "date": "2023-08-06"
+  }
+]
