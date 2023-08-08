@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Tue, 08 Aug 2023 03:46:47 -0400</pubDate>
+<lastBuildDate>Tue, 08 Aug 2023 03:46:47 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Oil Drops After Chinese Trade Data Disappoints</title>
+<link>https://www.wsj.com/articles/oil-futures-rise-buoyed-by-saudi-production-cuts-76f2b73a</link>
+<description><![CDATA[Oil prices declined in Europe after weaker-than-expected Chinese economic data.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 03:45:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117216</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Metal Prices Retreat Amid China Economic Woes</title>
+<link>https://www.wsj.com/articles/gold-prices-drop-analysts-see-limited-downside-risk-e64daaab</link>
+<description><![CDATA[Base metal and gold prices were falling as weak economic data from China continued to signal poor demand for industrial goods.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 03:19:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117219</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Glencore Profit Falls on Commodity-Price Decline</title>
+<link>https://www.wsj.com/articles/glencore-profit-plunges-on-commodity-price-decline-5b142612</link>
+<description><![CDATA[Glencore reported a 50% drop in first half adjusted earnings to $9.4 billion, reflecting the normalization of energy market imbalances, and the decline of commodity prices.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 02:57:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117726</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>SoftBank Posts Another Loss Despite Tech-Share Rebound</title>
+<link>https://www.wsj.com/articles/softbank-posts-another-loss-despite-technology-share-rebound-703975d1</link>
+<description><![CDATA[A return to profit for SoftBank’s Vision Fund wasn’t able to stem the red ink for the investment company.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 02:42:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117716</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Bayer Confirms Lowered Outlook</title>
+<link>https://www.wsj.com/articles/bayer-hit-by-around-2-5-bln-of-impairments-at-ailing-crop-business-7754b1c8</link>
+<description><![CDATA[Bayer confirmed the guidance issued on July 24 due to a significant decline in sales of glyphosate-based products, and sees full-year sales in its agricultural business declining 5%.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 02:38:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117712</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>USD/JPY Likely to Trade With Upward Bias, Charts Show</title>
+<link>https://www.wsj.com/articles/asian-currencies-weaken-amid-risk-off-sentiment-6fe9867b</link>
+<description><![CDATA[SGD weakened against USD in the afternoon Asian session. Weakness in China’s imports could be negative on currencies in the region, given the region’s reliance on China demand, Maybank said.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 01:48:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117206</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>UK Retail Sales Rise</title>
+<link>https://www.wsj.com/articles/uk-retail-sales-rose-in-july-though-volumes-dropped-on-poor-weather-brc-says-ce25a578</link>
+<description><![CDATA[Retail sales in the U.K. increased 1.5% in July, though this masked a drop in volumes as inflation ran high, and as wet weather dampened shopper demand.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 01:48:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117697</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>India's Sensex Flat; Tech, Financial Stocks Support</title>
+<link>https://www.wsj.com/articles/australia-shares-set-to-rise-at-the-open-bb004772</link>
+<description><![CDATA[India’s Sensex was flat at 65925.85 as gains in tech and financial stocks helped offset losses in consumer goods stocks.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:29:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117192</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Will Pickup-Truck Fans Embrace Tesla's Cybertruck?</title>
+<link>https://www.wsj.com/articles/will-pickup-truck-fans-embrace-teslas-cybertruck-6d59ec9</link>
+<description><![CDATA[The launch of Tesla’s Cybertruck is one of the most anticipated EV releases in history. Barclays analyst Dan Levy and AlixPartners’ Mark Wakefield weigh in on how Tesla’s first pickup could shake up the market.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:20:00 -0400</pubDate>
+<guid isPermaLink="false">SB12165777042486313942804590137281928921188</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Plain)</wsj:articletype>
+</item>
+<item>
+<title>Voters in Argentina living with inflation in excess of 100% and a fast-depreciating currency are expected to hand a rebuke on Sunday to the ruling Peronist movement that has governed the country for mostof the past 75 years, polls show.</title>
+<link>https://www.wsj.com/articles/argentinas-ruling-peronists-await-defeat-in-sunday-primary-fa5d99ef?mod=world_lead_pos1</link>
+<description><![CDATA[Voters in Argentina living with inflation in excess of 100% and a fast-depreciating currency are expected to hand a rebuke on Sunday to the ruling Peronist movement that has governed the country for most of the past 75 years, polls show. ]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:14:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001116967</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>A federal appeals court put on hold a Biden administration program to make it easier for defrauded borrowers to have their student debt canceled.</title>
+<link>https://www.wsj.com/articles/relief-for-defrauded-student-borrowers-frozen-by-court-1e4e0121?mod=politics_lead_pos4</link>
+<description><![CDATA[A federal appeals court put on hold a Biden administration program to make it easier for defrauded borrowers to have their student debt canceled.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:14:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001116386</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Kim sought to showcase North Korea's defense industries and its nuclear-weapons arsenal, as U.S. and South Korean officials worry Pyongyang may seek to expand its illegal weapons trade.</title>
+<link>https://www.wsj.com/articles/kim-jong-un-spotlights-weapons-amid-u-s-concerns-about-illegal-arms-trade-3375283c?mod=world_major_1_pos4</link>
+<description><![CDATA[Kim sought to showcase North Korea’s defense industries and its nuclear-weapons arsenal, as U.S. and South Korean officials worry Pyongyang may seek to expand its illegal weapons trade.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:14:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001115149</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Already facing three criminal indictments, Trump is bracing for a potential fourth in Georgia that is likely to come with a legal twist he hasn't faced yet: sprawling racketeering charges.</title>
+<link>https://www.wsj.com/articles/donald-trump-faces-looming-threat-of-racketeering-charges-in-georgia-case-ace4aedc</link>
+<description><![CDATA[Already facing three criminal indictments, Trump is bracing for a potential fourth in Georgia that is likely to come with a legal twist he hasn’t faced yet: sprawling racketeering charges.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:14:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001112249</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Florida Gov. DeSantis further distanced himself from Trump's false claims that he won the 2020 election, saying in a television interview that "of course he lost."</title>
+<link>https://www.wsj.com/articles/desantis-says-of-course-trump-lost-2020-election-68844262?mod=politics_lead_pos1</link>
+<description><![CDATA[Florida Gov. DeSantis further distanced himself from Trump’s false claims that he won the 2020 election, saying in a television interview that “of course he lost.”]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:14:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001117202</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>What's News: World-Wide</title>
+<link>https://www.wsj.com/articles/whats-news-world-wide-717be27c</link>
+<description><![CDATA[What’s News: World-Wide]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:14:00 -0400</pubDate>
+<guid isPermaLink="false">SB11380450262913973852004590136611797533570</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Whats News World Wide</wsj:articletype>
+</item>
+<item>
+<title>Tyson said it is closing chicken plants in three states as the meat-processing giant posted a $417 million loss for the three months ended July 1.</title>
+<link>https://www.wsj.com/articles/tyson-foods-tsn-q3-earnings-report-2023-e4bdd9e0?mod=business_lead_pos13</link>
+<description><![CDATA[Tyson said it is closing chicken plants in three states as the meat-processing giant posted a $417 million loss for the three months ended July 1.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001115267</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Paramount Global said it  agreed to sell book publisher Simon &amp; Schuster to KKR for $1.62 billion in cash and would use the funds in part to cut debt.</title>
+<link>https://www.wsj.com/articles/paramount-para-q2-earnings-report-2023-b4308cc6?mod=lead_feature_below_a_pos1</link>
+<description><![CDATA[Paramount Global said it agreed to sell book publisher Simon &amp; Schuster to KKR for $1.62 billion in cash and would use the funds in part to cut debt.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001116646</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Campbell Soup agreed to acquire Sovos, the parent company of food brands including Rao's pasta sauces and noosa yogurt, in a deal valued at about $2.7 billion.</title>
+<link>https://www.wsj.com/articles/campbell-soup-to-acquire-raos-parent-company-for-2-7-billion-3a813881</link>
+<description><![CDATA[Campbell Soup agreed to acquire Sovos, the parent company of food brands including Rao’s pasta sauces and noosa yogurt, in a deal valued at about $2.7 billion.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001115318</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Major U.S. stock indexes rose, with the S&amp;P 500, Dow and Nasdaq gaining 0.9%, 1.2% and 0.6%, respectively.</title>
+<link>https://www.wsj.com/articles/global-stocks-markets-dow-news-08-07-2023-751d1673</link>
+<description><![CDATA[Major U.S. stock indexes rose, with the S&amp;P 500, Dow and Nasdaq gaining 0.9%, 1.2% and 0.6%, respectively.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001116497</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Aramco posted a 38% drop in quarterly profit due to lower energy prices and production cuts, but boosted its dividend by more than half, highlighting Saudi Arabia's dependence on oil revenues.</title>
+<link>https://www.wsj.com/articles/saudi-aramcos-profit-drops-hit-by-lower-oil-prices-output-9ce157e5?mod=markets_lead_pos6</link>
+<description><![CDATA[Aramco posted a 38% drop in quarterly profit due to lower energy prices and production cuts, but boosted its dividend by more than half, highlighting Saudi Arabia’s dependence on oil revenues.]]></description>
+<content:encoded/>
+<pubDate>Tue, 08 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001115133</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>

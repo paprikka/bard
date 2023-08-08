@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Chinese trade data slips, the oil does falter,\nLike a rabbit spooked, not approaching the water.\nNature's course is thus, economy falters,\nUnder the weight of numbers, the optimist falters.\n\nShiny metals yield, their price in retreat,\nLike the dog who's been bested, slinking down the street.\nIn the realm of goods, demand has fizzled,\nLike a snail withdrawn, when reality's drizzled.\n\nGlencore's gains do wane, on this market tide,\nA goat in the peak, now in the valley it resides.\nCommodities dip, as the energy balances,\nNature finds its way, in this dance of finances.",
+    "feedItems": [
+      {
+        "title": "Oil Drops After Chinese Trade Data Disappoints",
+        "description": "Oil prices declined in Europe after weaker-than-expected Chinese economic data.",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-buoyed-by-saudi-production-cuts-76f2b73a",
+        "id": "WP-WSJ-0001117216"
+      },
+      {
+        "title": "Metal Prices Retreat Amid China Economic Woes",
+        "description": "Base metal and gold prices were falling as weak economic data from China continued to signal poor demand for industrial goods.",
+        "link": "https://www.wsj.com/articles/gold-prices-drop-analysts-see-limited-downside-risk-e64daaab",
+        "id": "WP-WSJ-0001117219"
+      },
+      {
+        "title": "Glencore Profit Falls on Commodity-Price Decline",
+        "description": "Glencore reported a 50% drop in first half adjusted earnings to $9.4 billion, reflecting the normalization of energy market imbalances, and the decline of commodity prices.",
+        "link": "https://www.wsj.com/articles/glencore-profit-plunges-on-commodity-price-decline-5b142612",
+        "id": "WP-WSJ-0001117726"
+      }
+    ],
+    "date": "2023-08-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land where dreams and fortune twin,\nSoftBank's gains, alas, wear thin.\nA return to profit yet unseen,\nIn this realm of venture machine.\n\nMelancholy news from Bayer's keep,\nSales of glyphosate doth steep.\nThe harvests fall, the outlook's grim,\nFull-year bounty grows thus dim.\n\n'Gainst the sun, the dollar soared,\nYet Asian currencies were ignored.\nStanched imports from China's hold,\nPortend a future tale untold.",
+    "feedItems": [
+      {
+        "title": "SoftBank Posts Another Loss Despite Tech-Share Rebound",
+        "description": "A return to profit for SoftBank’s Vision Fund wasn’t able to stem the red ink for the investment company.",
+        "link": "https://www.wsj.com/articles/softbank-posts-another-loss-despite-technology-share-rebound-703975d1",
+        "id": "WP-WSJ-0001117716"
+      },
+      {
+        "title": "Bayer Confirms Lowered Outlook",
+        "description": "Bayer confirmed the guidance issued on July 24 due to a significant decline in sales of glyphosate-based products, and sees full-year sales in its agricultural business declining 5%.",
+        "link": "https://www.wsj.com/articles/bayer-hit-by-around-2-5-bln-of-impairments-at-ailing-crop-business-7754b1c8",
+        "id": "WP-WSJ-0001117712"
+      },
+      {
+        "title": "USD/JPY Likely to Trade With Upward Bias, Charts Show",
+        "description": "SGD weakened against USD in the afternoon Asian session. Weakness in China’s imports could be negative on currencies in the region, given the region’s reliance on China demand, Maybank said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-weaken-amid-risk-off-sentiment-6fe9867b",
+        "id": "WP-WSJ-0001117206"
+      }
+    ],
+    "date": "2023-08-08"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In realms of trade where Angles dwell,\nGains in coinage do swell.\nYet, in the skies tears fell,\nShopping hearts, they quell.\n\nIn the East, where Vishnu's gaze,\nUpon Sensex which does not raise nor blaze.\nTech and finance its spirits raise,\nWhilst consumer stocks lost in life's maze.\n\nFrom Tesla, a steed of iron and light,\nAwaited with anticipation and fright.\nWill it conquer the pickup's night?\nA saga soon to unfold in sight.",
+    "feedItems": [
+      {
+        "title": "UK Retail Sales Rise",
+        "description": "Retail sales in the U.K. increased 1.5% in July, though this masked a drop in volumes as inflation ran high, and as wet weather dampened shopper demand.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-rose-in-july-though-volumes-dropped-on-poor-weather-brc-says-ce25a578",
+        "id": "WP-WSJ-0001117697"
+      },
+      {
+        "title": "India's Sensex Flat; Tech, Financial Stocks Support",
+        "description": "India’s Sensex was flat at 65925.85 as gains in tech and financial stocks helped offset losses in consumer goods stocks.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-at-the-open-bb004772",
+        "id": "WP-WSJ-0001117192"
+      },
+      {
+        "title": "Will Pickup-Truck Fans Embrace Tesla's Cybertruck?",
+        "description": "The launch of Tesla’s Cybertruck is one of the most anticipated EV releases in history. Barclays analyst Dan Levy and AlixPartners’ Mark Wakefield weigh in on how Tesla’s first pickup could shake up the market.",
+        "link": "https://www.wsj.com/articles/will-pickup-truck-fans-embrace-teslas-cybertruck-6d59ec9",
+        "id": "SB12165777042486313942804590137281928921188"
+      }
+    ],
+    "date": "2023-08-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Argentina's land, where pesos flow,\nLike lightning swift, they devalue so.\nInflation's ale, oh bitter cup,\nThe Peronists shall surely sup.\n\nIn leagues abroad, a law's been stayed,\nDebt released when fraud's been played.\nThis Biden brew, of good intent,\nBy court's decree, its froth is spent.\n\nIn lands afar, a show of might,\nPyongyang's arsenal glows in night.\n'Tis not ale, but dreadful trade,\nMay God keep their ambitions stayed.",
+    "feedItems": [
+      {
+        "title": "Voters in Argentina living with inflation in excess of 100% and a fast-depreciating currency are expected to hand a rebuke on Sunday to the ruling Peronist movement that has governed the country for mostof the past 75 years, polls show.",
+        "description": "Voters in Argentina living with inflation in excess of 100% and a fast-depreciating currency are expected to hand a rebuke on Sunday to the ruling Peronist movement that has governed the country for most of the past 75 years, polls show.",
+        "link": "https://www.wsj.com/articles/argentinas-ruling-peronists-await-defeat-in-sunday-primary-fa5d99ef?mod=world_lead_pos1",
+        "id": "WP-WSJ-0001116967"
+      },
+      {
+        "title": "A federal appeals court put on hold a Biden administration program to make it easier for defrauded borrowers to have their student debt canceled.",
+        "description": "A federal appeals court put on hold a Biden administration program to make it easier for defrauded borrowers to have their student debt canceled.",
+        "link": "https://www.wsj.com/articles/relief-for-defrauded-student-borrowers-frozen-by-court-1e4e0121?mod=politics_lead_pos4",
+        "id": "WP-WSJ-0001116386"
+      },
+      {
+        "title": "Kim sought to showcase North Korea's defense industries and its nuclear-weapons arsenal, as U.S. and South Korean officials worry Pyongyang may seek to expand its illegal weapons trade.",
+        "description": "Kim sought to showcase North Korea’s defense industries and its nuclear-weapons arsenal, as U.S. and South Korean officials worry Pyongyang may seek to expand its illegal weapons trade.",
+        "link": "https://www.wsj.com/articles/kim-jong-un-spotlights-weapons-amid-u-s-concerns-about-illegal-arms-trade-3375283c?mod=world_major_1_pos4",
+        "id": "WP-WSJ-0001115149"
+      }
+    ],
+    "date": "2023-08-08"
+  }
+]
