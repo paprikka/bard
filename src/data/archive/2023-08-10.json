@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Decades hence, 'twill be learnt with bated breath,\nHow oil's worth climbed unseen, shadowing death,\nInflation's looming ghost, a fearsome wraith,\nStalked markets trembling 'neath its spectral scathe.\n\nIn tales of power, fame, one name does feature,\n'Tis Kim Yo Jong, the North's enigmatic creature,\nHer star aloft, her grip on power most tight,\nIn elder brother's shadow, finds her might.\n\nSpeak we now of metals valued most high,\nAhead of U.S. numbers, watch them lie,\nGold holds steady whilst base metals stir,\nAffects of inflation, currency's cur.",
+    "feedItems": [
+      {
+        "title": "Oil Hits Nine-Month High Ahead of US Inflation Data",
+        "description": "Oil prices rose to their highest level in almost nine months ahead of U.S. inflation data, and supply concerns continued to underpin prices, Saxo said.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-in-likely-technical-correction-ea482fa7",
+        "id": "WP-WSJ-0001123572"
+      },
+      {
+        "title": "Kim Yo Jong: What We Know About Kim Jong Un's Sister and Her Role in North Korea",
+        "description": "The dictator’s sister has star power, a rising political profile and is called the country’s de facto No. 2.",
+        "link": "https://www.wsj.com/articles/kim-jong-un-sister-kim-yo-jong-11607524273",
+        "id": "SB11793591577686923893604587148733765658576"
+      },
+      {
+        "title": "Metals Inch Higher Ahead of U.S. Inflation Print",
+        "description": "Base metals prices were tepidly rising, while gold was flat in early London trading, as investors look to today’s consumer inflation print in the U.S., and how it will affect the dollar and the Fed’s outlook on interest rates.",
+        "link": "https://www.wsj.com/articles/gold-rises-rangebound-trade-may-continue-1386f7f8",
+        "id": "WP-WSJ-0001123568"
+      }
+    ],
+    "date": "2023-08-10"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Merrily with profits in bloom, goodly Deliveroo,\nBestows unto shareholders, coin of virtue anew,\nUnder earnings' mantle, of £80 million hue,\nRecount, to profits sways, I bid, adieu.\n\nIn Portuguese soils miners dig, for green transition's aid,\n'Gainst locals’ firm resistance, the challenge hath not frayed.\nContinents wide, the quest ensues, a surely worthy trade,\nYet hearts around, perchance to sway, 'twere eas'ly dismayed.\n\nIn the market's theatre, it’s Persimmon's time,\nFirst-half bounty of £1.2 billion, a merry chime,\nNine thousand dreams of homes, in verses and in rhyme,\nEchoes 'cross the land, in the bell tower's climb.",
+    "feedItems": [
+      {
+        "title": "Deliveroo Ups Guidance, Boosts Shareholder Returns",
+        "description": "Deliveroo raised its adjusted underlying earnings outlook to between £60-£80 million for the year, and said it will return an extra £250 million to shareholders, after it reported a swing to profit for the first half.",
+        "link": "https://www.wsj.com/articles/deliveroo-raises-guidance-after-return-to-profit-plans-gbp250m-shareholder-return-64908e49",
+        "id": "WP-WSJ-0001124137"
+      },
+      {
+        "title": "Europe Is Embarking on a Mining Renaissance. Winning Over Locals Is Proving a Challenge.",
+        "description": "Governments in Portugal and elsewhere on the continent want a secure supply of critical minerals to power the green transition, but opposition is often strong.",
+        "link": "https://www.wsj.com/articles/europe-is-embarking-on-a-mining-renaissance-winning-over-locals-is-proving-a-challenge-b7d14f5f",
+        "id": "WP-WSJ-0001062958"
+      },
+      {
+        "title": "Persimmon Reports Revenue Beat",
+        "description": "Persimmon reported first-half revenue of £1.2 billion, ahead of consensus, and said it expects to complete at least 9,000 home sales this year.",
+        "link": "https://www.wsj.com/articles/persimmon-misses-pretax-profit-forecast-on-lower-house-sales-faf41bea",
+        "id": "WP-WSJ-0001124130"
+      }
+    ],
+    "date": "2023-08-10"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Blessed be Nordisk, firm of the North,\nWhose potions now forth multiply in worth.\nLike finer ale that overfloweth cup,\nTheir potion of Ozempic bubbles up.\n\nThou Nikkei, fairest market of the East,\nDespite of men's predictions, thou increased.\nLike weakened ale, yen’s power doth regress,\nThus paving a path for thy success.\n\nGood Henkel, merchant of essential wares,\nSees prospect of greater earnings shares. \nJust as the stout in yon stein doth froth,\nSo groweth Henkel's hopeful growth.",
+    "feedItems": [
+      {
+        "title": "Novo Nordisk Raises Guidance on Surging Demand",
+        "description": "Novo Nordisk now expects 2023 sales growth of 27%-33% and operating profit growth of 31%-37%, as demand for its Ozempic diabetes drug and Wegovy obesity treatment continued to rise.",
+        "link": "https://www.wsj.com/articles/novo-nordisk-raises-guidance-amid-surging-demand-for-diabetes-obesity-drugs-e482eeb2",
+        "id": "WP-WSJ-0001124124"
+      },
+      {
+        "title": "Nikkei Rises 0.8% Amid Yen Weakness, Likely Position Adjustment",
+        "description": "Japan’s Nikkei Stock Average rose 0.8% to close at 32473.65, reversing earlier losses amid the yen’s weakness and likely position adjustment ahead of the U.S. inflation report due later.",
+        "link": "https://www.wsj.com/articles/nikkei-down-0-2-dragged-by-electronics-stocks-faa70e5b",
+        "id": "WP-WSJ-0001123733"
+      },
+      {
+        "title": "Henkel Raises Full-Year Outlook on Higher Earnings",
+        "description": "Henkel now sees full-year sales growth of between 2.5% and 4.5% organically and adjusted underlying earnings margin of between 11% and 12.5% after sales and earnings increased in the first half.",
+        "link": "https://www.wsj.com/articles/henkel-raises-full-year-outlook-on-higher-earnings-38baed1c",
+        "id": "WP-WSJ-0001124106"
+      }
+    ],
+    "date": "2023-08-10"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Rheinmetall’s halls, echoes of gold ring true,\nGuidance kept over realms vast and wide,\nIn landscapes marred by eastern scorn, ne’er skewed,\nOrders like sea waves, in relentless tide.\n\nAllianz stands, its fortune's gaze unwavered,\nWith profit hewn from vast estates so grand.\nThough some assets lay low and tempered,\nThe solid earth doth 'neath their ventures stand.\n\nEver onward, Siemens on the path to thriving gold,\nIts view set far tho' stormy future threatens.\nIndustries of ether faulter in their hold,\nYet steadfast remain the titan's reckon.",
+    "feedItems": [
+      {
+        "title": "Rheinmetall Backs Views as Orders Roll In",
+        "description": "Rheinmetall confirmed its guidance for the year after it posted second-quarter results mostly in line with views and as orders continued to roll in in a defence landscape altered by Russia’s invasion of Ukraine.",
+        "link": "https://www.wsj.com/articles/arms-maker-rheinmetall-backs-guidance-as-orders-roll-in-780521f3",
+        "id": "WP-WSJ-0001124099"
+      },
+      {
+        "title": "Allianz Backs Operating Profit View",
+        "description": "Allianz reported an operating profit of €3.8 in the second quarter, and reaffirmed its full-year view, as strength in its property-and-casualty segment offset subdued performance in asset management.",
+        "link": "https://www.wsj.com/articles/allianz-backs-2023-views-as-property-casualty-business-boosts-earnings-f1a10d23",
+        "id": "WP-WSJ-0001124086"
+      },
+      {
+        "title": "Siemens Turns a Profit, Backs Revenue Growth Views",
+        "description": "Siemens backed its fiscal-year guidance for revenue and EPS but lowered its outlook for digital industries, after it reported a 10% growth in revenue to €18.9 billion in the third quarter, just shy of views.",
+        "link": "https://www.wsj.com/articles/siemens-revenue-rises-driven-by-digital-industry-smart-infrastructure-businesses-611e10b2",
+        "id": "WP-WSJ-0001124089"
+      }
+    ],
+    "date": "2023-08-10"
+  }
+]
