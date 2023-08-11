@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "UBS, like a goat sheds wintry wool,\nNeeds no backstop, finds strength in bull.\nFar from shelter, in proud takeover's dance,\nA new partnership with Credit Suisse at a glance.\n\nAs sunshine lifts after fog's concealing,\nUK economy, the rabbit, starts revealing.\nThe prospect springs of interest's rise,\nIn the burrow of BOE such strategy lies.\n\nMetals falter, snails in the summer drought,\nRising dollar causes their clout to flout.\nGold lies flat, under London's morning gale,\nWeak demand in China tells a tale.",
+    "feedItems": [
+      {
+        "title": "UBS Sheds Swiss Government Aid for Credit Suisse Takeover",
+        "description": "The Swiss bank says it no longer needs a $10 billion backstop or liquidity lines.",
+        "link": "https://www.wsj.com/articles/ubs-sheds-swiss-government-aid-for-credit-suisse-takeover-6e3df2af",
+        "id": "WP-WSJ-0001127699"
+      },
+      {
+        "title": "Gilt Yields Rise After Above-Forecast UK GDP Data",
+        "description": "Gilt yields rose after the latest U.K. GDP data came in stronger than expected, raising the prospect of more BOE interest-rate rises.",
+        "link": "https://www.wsj.com/articles/gilt-yields-rise-after-above-forecast-uk-gdp-data-be3d23d1",
+        "id": "WP-WSJ-0001127709"
+      },
+      {
+        "title": "Metals Fall as Rising Dollar, Weak Demand Pressure Prices",
+        "description": "Base metals prices were falling, while gold was flat in early London trading, as a stronger dollar and weak demand in China kept pressure on prices.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-after-soft-u-s-inflation-data-fee683fb",
+        "id": "WP-WSJ-0001127292"
+      }
+    ],
+    "date": "2023-08-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Simandou, that great iron mine,\nAt accord with Guinea, so divine,\nRio Tinto, God's chosen tongue,\nCaroling in the ore-strewn sung.\n\nIn the realm of our good Queen,\nGrowth unexpected in the sheen.\nYet weighed by strikes and holiday,\nIn God's grace, still found a way.\n\nRovio, within foresight’s skill,\nKeeps its guidance, firm and still.\nWhilst Sega doth a takeover brew,\nCompleted soon, if words be true.",
+    "feedItems": [
+      {
+        "title": "Rio Tinto Says Simandou Partners Have Reached Infrastructure Agreements",
+        "description": "Rio Tinto said agreements have been reached between companies seeking to develop the giant Simandou iron-ore project and the government of Guinea on the infrastructure needed to export the steelmaking ingredient.",
+        "link": "https://www.wsj.com/articles/rio-tinto-says-simandou-partners-have-reached-infrastructure-agreements-21f378",
+        "id": "WP-WSJ-0001127688"
+      },
+      {
+        "title": "UK Economy Grows Slightly More Than Expected",
+        "description": "U.K. GDP grew 0.2% in the second quarter, helped by growing services and industrial output, despite strikes, a series of bank holidays and continued high inflation weighing on growth.",
+        "link": "https://www.wsj.com/articles/uk-economy-grew-slightly-more-than-expected-in-2q-971492dd",
+        "id": "WP-WSJ-0001127664"
+      },
+      {
+        "title": "Rovio Backs Outlook, Takeover by Sega Nears Completion",
+        "description": "Rovio reiterated its full-year guidance, and Sega received acceptances for the takeover deal from shareholders holding 96.3% of the shares.",
+        "link": "https://www.wsj.com/articles/angry-birds-maker-rovio-backs-guidance-takeover-by-sega-nears-completion-f908930a",
+        "id": "WP-WSJ-0001127675"
+      }
+    ],
+    "date": "2023-08-11"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear ye now, of the pact unmade,\nUBS and Credit Suisse, their accord did fade.\nUnder the watchful eye of the central sphere,\nIn the battle of finances, no armor to wear.\n\nHigh stand the rates, in the land of the Star-spangled,\nAs coin of green verily hath dangled,\nUSD/SGD in the Eastern light ascends,\nFor the boon of high rates, its fortune depends.\n\nSensex on the edge, a precipice grand,\nLower it veers in the Indian land.\nLingering demons of inflation's scare,\nMake sullen the faces in the Market's square.",
+    "feedItems": [
+      {
+        "title": "UBS Ends Credit Suisse Loss-Protection Pact",
+        "description": "UBS said it has terminated an agreement with the Swiss government to cover some potential losses from its acquisition of Credit Suisse and a liquidity backstop from the central bank, as it moves forward with the integration of its former rival.",
+        "link": "https://www.wsj.com/articles/ubs-ends-credit-suisse-loss-protection-pact-liquidity-backstop-update-b58f8d35",
+        "id": "WP-WSJ-0001127658"
+      },
+      {
+        "title": "USD/SGD Rises on U.S. Rates Likely Staying Higher for Longer",
+        "description": "USD/SGD rose in the afternoon Asian session on prospects that U.S. interest rates may stay high for longer, which would boost the appeal of U.S. fixed-income assets and demand for the greenback.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-mixed-signals-60821658",
+        "id": "WP-WSJ-0001127295"
+      },
+      {
+        "title": "Indian Shares Edge Lower Amid Lingering Worry Over U.S. Inflation",
+        "description": "India’s Sensex edged 0.2% lower to 65536.50, erasing its opening gains amid lingering concerns over U.S. inflation.",
+        "link": "https://www.wsj.com/articles/koreas-kospi-rises-0-4-tracking-wall-streets-gains-97974635",
+        "id": "WP-WSJ-0001127287"
+      }
+    ],
+    "date": "2023-08-11"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of diamond sheen and waning worth, in wake of pestilence,\nFair traders tussle, truth discern, the market's own dance.\nA fleeting glut, a fragrant feint, deceiving moment's glance,\nFear not, for 'fore long they'll ascend, in radiant resplendence.\n\nIn Ukraine, 'neath the sable sea, a balance shifts in quiet,\nDrones aloft, the unseen knights, ignite the nautical fight.\nTheir whispers sting the Russian tide, like a clandestine diet,\nIn this grand game of thrones and wrath, courage takes its flight.\n\nIn halls of Chinese law and lore, word-smiths spin a web,\nIn trembling ink, where truth and risk lie in nuanced ebb.\nAs shadows dance on parchment stark, beneath the bureaucratic ebb,\nA softened word, a quieted risk, the echo of power's celeb.",
+    "feedItems": [
+      {
+        "title": "Diamonds Are on Sale. They Won't Be Forever.",
+        "description": "A postpandemic glut has led to falling prices for some gems, but they are likely to bounce back.",
+        "link": "https://www.wsj.com/articles/diamonds-are-on-sale-they-wont-be-forever-677036e2",
+        "id": "WP-WSJ-0001124733"
+      },
+      {
+        "title": "Ukraine's Sea Drones Alter Balance of Power in Black Sea",
+        "description": "Kyiv has used the unmanned vessels to strike back at Russia’s more powerful navy and threaten Russian military supply lines and shipping lanes.",
+        "link": "https://www.wsj.com/articles/ukraines-sea-drones-alter-balance-of-power-in-black-sea-391cebee",
+        "id": "WP-WSJ-0001124402"
+      },
+      {
+        "title": "Officials of China's securities regulator told a group of domestic law firms to soften the wording of China-specific risk disclosures in overseas stock-listing documents, according to people familiar with the meeting.",
+        "description": "Officials of China’s securities regulator told a group of domestic law firms to soften the wording of China-specific risk disclosures in overseas stock-listing documents, according to people familiar with the meeting.",
+        "link": "https://www.wsj.com/articles/chinas-economy-isnt-ailingits-evolving-ipo-lawyers-told-to-watch-their-language-4d388b23",
+        "id": "WP-WSJ-0001121123"
+      }
+    ],
+    "date": "2023-08-11"
+  }
+]
