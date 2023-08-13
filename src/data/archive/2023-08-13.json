@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Lahaina's heart there doth rages a fire,\nBy cruel blaze, many souls their lives did tire,\nWith monk's tears and aloof, I do quoth,\nTo extinguish, call upon Saint Arnold, the patron of ale and broth.\n\nOh, San Francisco, once jewel of the coast,\nWhy doth thee suffer, and wilt like a ghost?\nRaise thy chalice and pray for divine help,\nLest thou tumble further into disorder's kelp.\n\nIn the sacred bond of wedlock we find,\nChores blend, like wine and water, in kind,\nA CFO, a COO, these roles we charter,\nTo keep the peace and avoid marital barter.",
+    "feedItems": [
+      {
+        "title": "Maui Blaze Kills at Least 89, Highest Wildfire Death Toll in Over 100 Years",
+        "description": "The center of Lahaina remained barricaded and firefighters worked to extinguish flare-ups among the smoldering embers of the wildfire.",
+        "link": "https://www.wsj.com/articles/as-maui-fires-leave-at-least-80-dead-some-residents-return-a3b7d2a4",
+        "id": "WP-WSJ-0001130632"
+      },
+      {
+        "title": "Can San Francisco Save Itself From the Doom Loop?",
+        "description": "The city is racing to come up with solutions for its downtown, hollowed out by a tech exodus and struggling with homelessness and street crime",
+        "link": "https://www.wsj.com/articles/san-francisco-crime-downtown-doom-loop-e5fcd7ba",
+        "id": "WP-WSJ-0001128350"
+      },
+      {
+        "title": "Your Marriage Needs a CFO and a COO",
+        "description": "Couples take a page out of the corporate playbook when it comes to the loaded chore of dividing household labor.",
+        "link": "https://www.wsj.com/articles/money-family-finances-management-goals-dc6dcae6",
+        "id": "WP-WSJ-0001116902"
+      }
+    ],
+    "date": "2023-08-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the heart where commerce’s coinage flows,\nWall Street’s measure of gloom comes into the light,\nStrength glows, yet the inverted yield towards woe grows,\nNew scrutiny brews in the economic night.\n\nUpon states united, a Vice of Taiwan stance,\nRattles the dragon, betwixt in a binding affair,\nReact fiercely, Beijing, risk a deadly dance,\nOr birth tension twixt capitals snared in bitter snare.\n\nFair San Francisco, trapped in a doom loop’s hold,\nTech takes flight, leaving hollow heart in wake,\nDesperate race, solutions untold,\nFor the homeless plight and crime oath they undertake.",
+    "feedItems": [
+      {
+        "title": "What Wall Street's Top Recession Gauge Is Saying Now",
+        "description": "Signs of economic strength are bringing new scrutiny to the inverted yield curve.",
+        "link": "https://www.wsj.com/articles/what-wall-streets-top-recession-gauge-is-saying-now-67232353",
+        "id": "WP-WSJ-0001123130"
+      },
+      {
+        "title": "U.S. Visit by Taiwan Vice President Puts China in a Bind",
+        "description": "An aggressive response by Beijing could reignite tensions with Washington and backfire in Taiwan’s presidential election next year.",
+        "link": "https://www.wsj.com/articles/u-s-visit-by-taiwan-vice-president-puts-china-in-a-bind-a275b893",
+        "id": "WP-WSJ-0001130732"
+      },
+      {
+        "title": "Can San Francisco Save Itself From the Doom Loop?",
+        "description": "The city is racing to come up with solutions for its downtown, hollowed out by a tech exodus and struggling with homelessness and street crime.",
+        "link": "https://www.wsj.com/articles/can-san-francisco-save-itself-from-the-doom-loop-b5b84f6d",
+        "id": "SB11380450262913973852004590147090867766692"
+      }
+    ],
+    "date": "2023-08-13"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the land where silver is sought and bought,\nA goat craves not gold, but green in sight.\nFive million moons for nest, thus brought,\nYet field and forest yield greater delight.\n\nA snail upon the Silk Road embarks,\nDupont and Dragon negotiate with might.\nYet in the shell of treaties, danger lurks,\nCrafted compromises can’t cage the flight.\n\nThe hare elected mayor in quaint village square,\nThen banished from hall, in unfair fight.\nIn this burrow of scandal, beware,\nEven a shepherd's rule can incite slight.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "What a $5 million retirement in America looks like right now",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-117a048d",
+        "id": "SB11267717657537443359304590147091852879214"
+      },
+      {
+        "title": "DuPont China Deal Reveals Cracks in U.S. National-Security Screening",
+        "description": "U.S. officials crafted a compromise to address worries about China’s military. It didn’t go as planned.",
+        "link": "https://www.wsj.com/articles/a-dupont-china-deal-reveals-cracks-in-u-s-national-security-screening-665cb50c",
+        "id": "WP-WSJ-0001124862"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "He was elected mayor&#x2014;and then says he was locked out of town hall. The scandal rocking a small American town.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-fa32a56a",
+        "id": "SB11267717657537443359304590146940456308653"
+      }
+    ],
+    "date": "2023-08-13"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "At the Fair of Iowa, midst of summer's light,\nTrump, the chieftain, wears his crown with might.\nDespite his legal quagmire, steadfast held,\nDrawing zealous throng, their cheers are welled.\n\nIn this summer, the fair maidens reign,\nCommanding economy, hold they the main.\nTheir triumph in sun's reign shall inspire,\nTo all they rise, none higher aspire.\n\nConsult the Allfather's eye in the dark sky,\nFor the shower of meteors, soon to ply.\nSaturday eve to Sunday morn holds the peak,\nIn silence watch, let the heavens speak.",
+    "feedItems": [
+      {
+        "title": "Trump Overshadows DeSantis and GOP Field at Iowa State Fair",
+        "description": "The former president drew large, enthusiastic crowds despite his mounting legal peril.",
+        "link": "https://www.wsj.com/articles/trump-overshadows-desantis-and-gop-field-at-iowa-state-fair-84ab0243",
+        "id": "WP-WSJ-0001130906"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Women own this summer. The economy proves it.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-dee85b26",
+        "id": "SB11267717657537443359304590146750882657276"
+      },
+      {
+        "title": "Perseid Meteor Shower 2023: When It Is and How to Watch the Peak",
+        "description": "What NASA calls among the best meteor showers of the year peaks Saturday night into Sunday morning.",
+        "link": "https://www.wsj.com/articles/perseid-meteor-shower-august-2023-peak-59a9a0a8",
+        "id": "WP-WSJ-0001129154"
+      }
+    ],
+    "date": "2023-08-13"
+  }
+]
