@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "On the isle of markets, a tempest doth brew,\nNeath the shadow of the Dragon, the metals once knew.\nValues of ore, like waves on the sea,\nIn the face of turmoil, never stationary.\n\nA tale of bonds, resilient and staid,\nBy the might of the Bund, a path is laid.\nYields may rise, like a storm beyond the fjords,\nYet success needs the favor of benevolent lords.\n\nThrough lands afar, news of Foxconn's plight,\nIn the second-quarter battle, showing lesser might.\nRevenue falls like the winter's chilled rain,\nMargins slip, carving a path of pain.",
+    "feedItems": [
+      {
+        "title": "Metals Mixed Amid China Property Worries",
+        "description": "Base metals were mixed, while gold ticked lower in early London trading, with worries over demand, especially in China, hitting markets.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-amid-rising-treasury-yields-68241d5e",
+        "id": "WP-WSJ-0001131289"
+      },
+      {
+        "title": "Ten-Year Bund Yield Could Approach Year-To-Date Highs",
+        "description": "The upside in bond yields still seems to be the path of least resistance for now and 10-year Bund yields could oscillate a bit higher toward the year-to-date highs, but breaching key highs would require a better economic outlook, Commerzbank said.",
+        "link": "https://www.wsj.com/articles/german-zew-index-could-be-key-driver-of-eurozone-bonds-this-week-f3359e60",
+        "id": "WP-WSJ-0001132296"
+      },
+      {
+        "title": "Foxconn's Second-Quarter Net Slips as Revenue, Margin Decline",
+        "description": "Foxconn Technology Group said its second-quarter net profit declined 0.9% from a year earlier as revenue fell and margins deteriorated.",
+        "link": "https://www.wsj.com/articles/foxconns-second-quarter-net-slips-as-revenue-margin-decline-dfd0ed01",
+        "id": "WP-WSJ-0001132018"
+      }
+    ],
+    "date": "2023-08-14"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land where the River Rhine doth flow,\n'Tis said the coin of Europe rides on ebb,\nThe German heart beats sluggish, weak and slow,\nAs DZ Bank casts shadows with their web.\n\nAnd now behold, 'neath twilight's starry wreath,\nExor doth grasp at Philips, firm and leal,\nThey claim, in hushed whispers beneath breath,\nA stake of value great, a royal deal.\n\nYet eastward, in the Dragon's fiery glare,\nThere quivers frail deceit twixt gold and dross,\nFor EV makers knead the lion's share,\nAnd fear new price cuts might lead to their loss.",
+    "feedItems": [
+      {
+        "title": "German Economy's Weakness Seen a Burden on Euro",
+        "description": "Although eurozone economic growth in the second quarter was slightly better than expected, the underlying trend remains weak and a likely recession in Germany has become a burden on the euro, DZ Bank said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-may-weaken-on-higher-2-and-10-year-treasury-yields-8f9c3059",
+        "id": "WP-WSJ-0001131287"
+      },
+      {
+        "title": "Exor Becomes Long-Term Investor in Philips",
+        "description": "Exor has taken a 15% stake in Philips for an undisclosed sum but worth around €2.6 billion and will be able to nominate one board member.",
+        "link": "https://www.wsj.com/articles/exor-buys-15-stake-in-philips-c1e444cf",
+        "id": "WP-WSJ-0001132251"
+      },
+      {
+        "title": "Chinese EV Makers' Shares Fall on Worries About Further Price Cuts",
+        "description": "Shares of Chinese electric-vehicle makers listed in Hong Kong broadly weakened early Monday, as they engaged in new price war which investors believe could hurt their margins.",
+        "link": "https://www.wsj.com/articles/chinese-ev-makers-shares-fall-on-worries-about-further-price-cuts-10c147ab",
+        "id": "WP-WSJ-0001132226"
+      }
+    ],
+    "date": "2023-08-14"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "To the east where red dragons oft do stow,\nCommerce wanes, Caterpillar crawls slow.\nThe flow of Silva stopped, DuPont’s might lay low,\nExpectation dims, much like afterglow.\n\nIn lands of gold and sun, a trumpet's blast,\nMilei's banner in the fiery winds cast.\nPledges to tear asunder the money mat,\nInflation's sting, poverty, all in the past.\n\nNikkei, a rabbit withering in the chase,\nFear of the hawk prostrates its once bright face.\nU.S. influence, a snail’s subtle trace,\nMarkets tumble in its relentless race.",
+    "feedItems": [
+      {
+        "title": "China's Worsening Economy Is Hurting Corporate America",
+        "description": "Caterpillar and DuPont are among the big companies that are lowering their expectations for a postpandemic boom.",
+        "link": "https://www.wsj.com/articles/chinas-worsening-economy-is-hurting-corporate-america-a3657373",
+        "id": "WP-WSJ-0001132148"
+      },
+      {
+        "title": "Argentines Back Far-Right Outsider in Presidential Primary",
+        "description": "Javier Milei has pledged to dissolve the central bank, slash spending in a country hammered by inflation, poverty and a moribund economy.",
+        "link": "https://www.wsj.com/articles/argentine-presidential-primary-voters-propel-far-right-outsider-to-surprise-win-ec24e5b4",
+        "id": "WP-WSJ-0001132138"
+      },
+      {
+        "title": "Nikkei Falls 1.3% on Worries Over Higher U.S. Rates",
+        "description": "Japan’s Nikkei closed down 1.3%, reversing earlier gains over worries about higher U.S. rates following Friday’s hotter-than-expected PPI data.",
+        "link": "https://www.wsj.com/articles/australia-shares-shape-for-lower-open-amid-earnings-flurry-61925175",
+        "id": "WP-WSJ-0001131285"
+      }
+    ],
+    "date": "2023-08-14"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Orient's breath, a tale of woe has sprung,\nA garden fair, now vineyard of the glum.\nThe bond of ale is broke, the bell hath rung,\nIn house of Fortune the shares have all gone dumb.\n\nThe realm's largesse, once a pouring spout,\nNow dwindles like the bitter dregs of mead.\nWhere trade flowed free, stout barriers now sprout,\nAnd smaller kingdoms from the cups recede.\n\nOh, woes anew! Doth the tale repeat itself,\nThe golden river turneth into draught.\nFrom Britain mild, to isles of silken wealth,\nFree trade's alehouse, its doors now sadly rafed.",
+    "feedItems": [
+      {
+        "title": "Chinese Developers' Shares Slump on Country Garden News, Weak Credit Data",
+        "description": "Shares of Chinese property developers fell sharply weighed by negative news, including property giant Country Garden’s suspension of bond trading, deteriorating credit data and profit alerts.",
+        "link": "https://www.wsj.com/articles/chinese-developers-shares-slump-on-country-garden-news-weak-credit-data-1f7d4115",
+        "id": "WP-WSJ-0001132194"
+      },
+      {
+        "title": "The Economic Losers in the New World Order",
+        "description": "Giant subsidies and rising protectionism are upending decades of free trade. Smaller countries, from the U.K. to Singapore, are getting left behind.",
+        "link": "https://www.wsj.com/articles/the-economic-losers-in-the-new-world-order-af2919d8",
+        "id": "SB12263517457060764701004590149361313617420"
+      },
+      {
+        "title": "The Economic Losers in the New World Order",
+        "description": "Giant subsidies and rising protectionism are upending decades of free trade. Smaller countries, from the U.K. to Singapore, are getting left behind.",
+        "link": "https://www.wsj.com/articles/global-economy-economic-losers-fba30b53",
+        "id": "WP-WSJ-0001129598"
+      }
+    ],
+    "date": "2023-08-14"
+  }
+]
