@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Oil steady stands 'neath China's fickle hand,\nIn fields of green, the goat looks on bemused,\nFor rates hath lowered o'er their vast expanse,\nOne snail's pace change, investors not amused.\n\nTwo rabid hounds, key rates, lie now quite still,\nUnder China's gaze, their fervor lost.\nA whisper in the rabbit's ear instills,\nThe promise of a fall, despite the cost.\n\nFrom Russian folds, a weary ruble's plight,\nA dog-like stance 'gainst sanctions and dearth's tear.\nEmergent rise to halt its woeful flight,\nYet, in the snail's slow path, doubt weaves its snare.",
+    "feedItems": [
+      {
+        "title": "Oil Pauses After China Cuts Policy Rates",
+        "description": "Oil prices were steady as a rate cut from China’s central bank only moderately boosted sentiment around the nation’s economy and “will hardly reverse appetite for Chinese investments as meaningful fiscal stimulus becomes necessary,” Swissquote Bank said.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-on-worries-over-chinas-economy-5a194ea6",
+        "id": "WP-WSJ-0001134985"
+      },
+      {
+        "title": "China's Central Bank Cuts Two Key Policy Rates",
+        "description": "China’s central bank cut two key policy rates, signaling that the country’s benchmark lending rates will fall later this month.",
+        "link": "https://www.wsj.com/articles/chinas-central-bank-cuts-two-key-policy-rates-de67a2d4",
+        "id": "WP-WSJ-0001135142"
+      },
+      {
+        "title": "Russia Imposes Emergency Rate Rise to Halt Ruble Selloff",
+        "description": "The currency’s recent slide is an indication of the growing uncertainties facing an economy battling resurgent inflation, the mounting impact of sanctions and a drastic labor shortage.",
+        "link": "https://www.wsj.com/articles/russia-imposes-emergency-interest-rate-rise-to-halt-ruble-selloff-f3668bd1",
+        "id": "WP-WSJ-0001135495"
+      }
+    ],
+    "date": "2023-08-15"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the kingdom of Dragons, East, where golden sun doth meet,\nThe scepter's might does wane, as doth a warrior in defeat.\nThe youth remain uncounted, e'en as the tempest's roar,\nA telling wind, that whispers, of the economy's shore.\n\nIn the realm of Pandora, a harp's strings are tuned,\nGrowth, a diligent maidservant, by her master's hand, is pruned.\nFrom distant shores of China, to the eagle's vast domain,\nA shy wench named Profit, doth cause some fleeting pain.\n\nIn the shadow of the towering beast, Evergrande by name,\nA phoenix stirs, its wings alight, with the investor's flame.\nFrom Dubai's sun-soaked dunes, a noble pledge is made,\nHalf a thousand million, in the dragon's cave is laid.",
+    "feedItems": [
+      {
+        "title": "China Slashes Rates, Suspends Youth Jobless Data",
+        "description": "The twin moves come as fresh data added to worrying signals on the health of the world’s second-largest economy.",
+        "link": "https://www.wsj.com/articles/china-slashes-rates-suspends-youth-jobless-data-as-economy-signals-sharper-downturn-418301d6",
+        "id": "WP-WSJ-0001135218"
+      },
+      {
+        "title": "Pandora Raises Growth Guidance",
+        "description": "Pandora forecasts 2023 organic revenue growth of 2%-5% after it reported a solid start to the third quarter with some improvement in sales in the U.S. and China but a below-forecast second-quarter net profit.",
+        "link": "https://www.wsj.com/articles/pandora-raises-growth-guidance-after-reporting-solid-start-to-3q-6a886246",
+        "id": "WP-WSJ-0001135471"
+      },
+      {
+        "title": "China Evergrande New Energy Vehicle Shares Gain on $500 Mln Investment",
+        "description": "Shares of China Evergrande New Energy Vehicle Group rose after Dubai-based mobility and green-energy company NWTN agreed to make a strategic investment of US$500 million.",
+        "link": "https://www.wsj.com/articles/china-evergrande-new-energy-vehicle-shares-gain-on-500-mln-investment-ec29711",
+        "id": "WP-WSJ-0001135268"
+      }
+    ],
+    "date": "2023-08-15"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From his heavenly market high and divine,\nSeems Our Lord now curtails the bonds of wine. \nBearish spirits lurk, and though ephemeral their deeds, \nCommerzbank sighs, for lasting relief recedes.\n\nIn the realm of Britain fair, a quandary anew,\nWages rich like robust brew.\nO BoE! Thy decision tough yet just,\nFor inflating ales should be put in trust.\n\nLo! In the Orient, a fruitful quarter born,\nJapan's purse swells with the grain and corn.\nBy good Saint Arnulf, exports are in bloom,\nAnd foreign visitors within their realm do assume.",
+    "feedItems": [
+      {
+        "title": "Weakness in Bond Markets Is Visible",
+        "description": "Bond market weakness stands out in the absence of apparent bearish drivers and Tuesday’s two-way data impetus hardly offers lasting relief, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/weakness-in-bond-markets-is-visible-2162b860",
+        "id": "WP-WSJ-0001135458"
+      },
+      {
+        "title": "UK Record Wage Growth Leaves BOE With Another Tough Decision",
+        "description": "UPDATED: Average weekly earnings in the U.K. excluding bonuses gained pace at 7.8% in the three months to June, complicating the BOE’s efforts to bring down inflation ahead of its next interest-rate decision in September.",
+        "link": "https://www.wsj.com/articles/uk-jobless-rate-rose-in-three-months-to-june-but-wages-kept-increasing-too-38798921",
+        "id": "WP-WSJ-0001135448"
+      },
+      {
+        "title": "Japan's Economy Grows at 6% Pace in Second Quarter",
+        "description": "Exports rise and surge in foreign visitors helps lift spending.",
+        "link": "https://www.wsj.com/articles/japans-economy-grows-at-6-pace-in-second-quarter-609cca50",
+        "id": "WP-WSJ-0001135024"
+      }
+    ],
+    "date": "2023-08-15"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In opulent halls, where wealth disseminates,\nLegal & General ponders its own fate.\nTho' solvency swells at the rate of two-three-o', \nIts coffers still languish, battered below.\n\nIn merchant guides fostered by M&S,\nSales of apparel and sustenance progress.\nGrains of gold gathered, a harvest in sight,\nAn augury of fortune, in stars burning bright.\n\nTrump and his cohorts, indicted they stand,\nIn Georgia's grasp, 'neath justice's hand.\nAlas! A chorus of witnesses sings,\nOf grand juries and tarnished former kings.",
+    "feedItems": [
+      {
+        "title": "Legal & General First Half Tops Consensus",
+        "description": "Legal & General posted a lower first-half operating profit of £941 million but a higher solvency coverage ratio of 230%, and backed its mid-term targets.",
+        "link": "https://www.wsj.com/articles/legal-general-operating-profit-solvency-ratio-beats-views-e0eac66e",
+        "id": "WP-WSJ-0001135433"
+      },
+      {
+        "title": "M&S Confident on Full-Year as Current Sales Rise",
+        "description": "Marks & Spencer said food sales for the first 19 weeks of fiscal 2024 grew more than 11%, while clothing & home sales rose above 6%, adding that interim results should show a significant improvement against prior expectations, with full-year profit growth also expected.",
+        "link": "https://www.wsj.com/articles/marks-spencer-sees-full-year-profit-rising-after-early-fy-2024-shows-good-progress-3cd2c5c0",
+        "id": "WP-WSJ-0001135411"
+      },
+      {
+        "title": "Who Are Trump's Co-Defendants in the Georgia RICO Case?",
+        "description": "In addition to the former president, 18 others were indicted by an Atlanta-area grand jury after several witnesses gave testimony.",
+        "link": "https://www.wsj.com/articles/who-are-trumps-co-defendants-in-the-georgia-rico-case-73b56354",
+        "id": "WP-WSJ-0001135238"
+      }
+    ],
+    "date": "2023-08-15"
+  }
+]
