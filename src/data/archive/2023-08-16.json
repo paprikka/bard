@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Metal steady, as the mighty Fed plots,\nA gorget's worth in gold slowly climbs a notch.\nUnder pressure, like a rabbit's fraught trots,\nChina’s tepid yearning, a snail's watch.\n\nCrude oil bides like a steady hound,\nWorry over Oriental request does abound.\nSupply's grip grows yet we find,\nA goat's desire for grass is sound.\n\nThe mighty tower Intel sought to wound,\nYet, the Orient's approval was not found.\nMore than a king's ransom promised round,\nBut to this endeavor, they are not bound.",
+    "feedItems": [
+      {
+        "title": "Metals Steady as Prospect of Further Fed Rate Hikes Rises",
+        "description": "Base metal prices held stead while gold ticked higher, as the prospect of further rate hikes from the Fed and weak demand in China put pressure on prices.",
+        "link": "https://www.wsj.com/articles/gold-steady-supported-by-lower-treasury-yields-d168eeb7",
+        "id": "WP-WSJ-0001138101"
+      },
+      {
+        "title": "Crude Oil Steady as Worries Over China Demand Hit Sentiment",
+        "description": "Crude oil prices were steady, with worries over Chinese demand outweighing supply tightness concerns.",
+        "link": "https://www.wsj.com/articles/oil-futures-edge-lower-amid-mixed-signals-a8b45613",
+        "id": "WP-WSJ-0001138108"
+      },
+      {
+        "title": "Intel Scraps Tower Acquisition After China Fails to Approve Deal",
+        "description": "Intel had agreed in February 2022 to buy the Israeli chip maker for more than $5 billion.",
+        "link": "https://www.wsj.com/articles/intel-scraps-tower-acquisition-after-china-fails-to-approve-deal-f59dd70f",
+        "id": "WP-WSJ-0001138687"
+      }
+    ],
+    "date": "2023-08-16"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Verily, Aviva doth sing a song of gain,\nIn the half of the year, riches hath rained,\nExpecting to exceed their targets fain,\nAle flows aplenty, for fortune hath been ordained.\n\nTesla of yore, maker of carriage so fine,\nHath made their steeds cheaper in the land of Chin,\nFirst the Y and then S and X in line,\nAs barrels of ale, their stock doth begin to thin.\n\nAh! Sterling upsurges in worth so great,\nUK’s purse swells, inflation's steady rate,\nThe tapsters of the Bank, rates elevate,\nJust like good ale, it doth exhilarate.",
+    "feedItems": [
+      {
+        "title": "Aviva Upgrades Outlook After Strong First Half",
+        "description": "Aviva said it expects to exceed its midterm targets after it reported a first-half operating profit of £715 million, ahead of guidance and analysts’ expectations.",
+        "link": "https://www.wsj.com/articles/aviva-operating-profit-beats-views-81ffb9c",
+        "id": "WP-WSJ-0001138623"
+      },
+      {
+        "title": "Tesla Lowers Prices for Model S and Model X in China",
+        "description": "Tesla has cut the prices for Model S and Model X cars in its inventory in China, two days after it slashed prices of its Model Y series.",
+        "link": "https://www.wsj.com/articles/tesla-lowers-prices-for-model-s-and-model-x-in-china-c9978592",
+        "id": "WP-WSJ-0001138648"
+      },
+      {
+        "title": "Sterling Rises After UK Inflation Data",
+        "description": "Sterling rose after data showed U.K. core inflation remained at 6.9% in July, high enough to suggest the BOE will raise interest rates further.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-risk-off-sentiment-b8192b79",
+        "id": "WP-WSJ-0001138114"
+      }
+    ],
+    "date": "2023-08-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From Carlsberg’s cold forge, a bounteous run,\nFrom east its eminence, its fame begun,\nIn Asia's grasp a mead of golden might,\nStrength in their ales, profit's stalwart height.\n\nThe Isle of Angles, bound by inflation's chain,\nThough lessened, the worry does yet remain.\nThe Bank of England feels the spectral dread,\nInterest unpaused, a future in red.\n\nThe glimmer of hope, a fall unforseen,\nYet through the mist, fear's visage unseen.\nPrices ascend, their weight we endure,\nThe Bank stands tall, its verdict unsure.",
+    "feedItems": [
+      {
+        "title": "Carlsberg Tops Views on Asia Strength",
+        "description": "Carlsberg posted first-half adjusted earnings of DKK4.8 billion, with volume growth driven by Asia and its premium brand portfolio.",
+        "link": "https://www.wsj.com/articles/carlsberg-1h-adjusted-earnings-beat-forecasts-driven-by-higher-volumes-b04b3d36",
+        "id": "WP-WSJ-0001138641"
+      },
+      {
+        "title": "U.K. Inflation Slows in July, but Still a Worry",
+        "description": "The annual rate of inflation slowed but it may not be falling fast enough to convince the Bank of England to pause interest rate increases.",
+        "link": "https://www.wsj.com/articles/u-k-inflation-slows-in-july-but-still-a-worry-eec05817",
+        "id": "WP-WSJ-0001138597"
+      },
+      {
+        "title": "UK Inflation Falls More Than Expected; Core Rate Steady",
+        "description": "Consumer prices were 6.8% higher in July, easing from June, but with core inflation unchanged, the pressure remains on the BOE as it considers another interest-rate hike next month.",
+        "link": "https://www.wsj.com/articles/uk-inflation-rate-fell-in-july-but-core-rate-held-steady-d34a3c2b",
+        "id": "WP-WSJ-0001138605"
+      }
+    ],
+    "date": "2023-08-16"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On the turbulent seas of Nippon's trade,\nA shadow doth cast a pall, bringing sorrow and shade;\nBy banks and houses of deal, with losses they're paid,\nAs the specter of borrow'd gold makes the bullish heart fade.\n\nIn the bustling market place, a tale of gain doth rise,\nHKEX's gold-filled coffers, a sight to surprise;\nSupported by increased investments, as the interest rate flies,\nThirty one 'bove the yesteryear, 'neath Hong Kong's azure skies.\n\nIn the land of artful tales, a quarrel rears its head,\nTSG stands aggrieved, alleging bonds of contract are shred;\nFor \"Avatar's\" water path, and \"Deadpool's\" mercurial thread,\nA suit 'gainst Fox and Disney, in Court's judgment they're led.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 1.5%, Dragged by Trading Houses, Banks",
+        "description": "Japanese stocks ended lower, dragged by falls in trading houses and banks as concerns about higher borrowing costs cast a shadow over the economic outlook.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-for-opening-fall-b8d4753c",
+        "id": "WP-WSJ-0001137993"
+      },
+      {
+        "title": "HKEX's First-Half Net Profit Rose 31%",
+        "description": "Hong Kong Exchanges & Clearing’s first-half profit rose 31%, supported by increased net investment income due to higher interest rates.",
+        "link": "https://www.wsj.com/articles/hkexs-first-half-net-profit-rose-31-87b19dd9",
+        "id": "WP-WSJ-0001138582"
+      },
+      {
+        "title": "TSG, which helped finance hits including \"Avatar: The Way of Water\" and the \"Deadpool\" franchise for Twentieth Century Fox, sued the studio and its Disney parent for breach of contract.",
+        "description": "TSG, which helped finance hits including “Avatar: The Way of Water” and the “Deadpool” franchise for Twentieth Century Fox, sued the studio and its Disney parent for breach of contract.",
+        "link": "https://www.wsj.com/articles/movie-financier-tsg-accuses-disney-of-depriving-it-of-millions-of-dollars-bd92324d",
+        "id": "WP-WSJ-0001137025"
+      }
+    ],
+    "date": "2023-08-16"
+  }
+]

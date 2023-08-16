@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Wed, 16 Aug 2023 04:00:57 -0400</pubDate>
+<lastBuildDate>Wed, 16 Aug 2023 04:00:57 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Metals Steady as Prospect of Further Fed Rate Hikes Rises</title>
+<link>https://www.wsj.com/articles/gold-steady-supported-by-lower-treasury-yields-d168eeb7</link>
+<description><![CDATA[Base metal prices held stead while gold ticked higher, as the prospect of further rate hikes from the Fed and weak demand in China put pressure on prices.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:59:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138101</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Crude Oil Steady as Worries Over China Demand Hit Sentiment</title>
+<link>https://www.wsj.com/articles/oil-futures-edge-lower-amid-mixed-signals-a8b45613</link>
+<description><![CDATA[Crude oil prices were steady, with worries over Chinese demand outweighing supply tightness concerns.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:50:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138108</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Intel Scraps Tower Acquisition After China Fails to Approve Deal</title>
+<link>https://www.wsj.com/articles/intel-scraps-tower-acquisition-after-china-fails-to-approve-deal-f59dd70f</link>
+<description><![CDATA[Intel had agreed in February 2022 to buy the Israeli chip maker for more than $5 billion.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:39:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138687</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Aviva Upgrades Outlook After Strong First Half</title>
+<link>https://www.wsj.com/articles/aviva-operating-profit-beats-views-81ffb9c</link>
+<description><![CDATA[Aviva said it expects to exceed its midterm targets after it reported a first-half operating profit of £715 million, ahead of guidance and analysts’ expectations.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:37:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138623</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Tesla Lowers Prices for Model S and Model X in China</title>
+<link>https://www.wsj.com/articles/tesla-lowers-prices-for-model-s-and-model-x-in-china-c9978592</link>
+<description><![CDATA[Tesla has cut the prices for Model S and Model X cars in its inventory in China, two days after it slashed prices of its Model Y series.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:35:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138648</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Sterling Rises After UK Inflation Data</title>
+<link>https://www.wsj.com/articles/most-asian-currencies-weaken-amid-risk-off-sentiment-b8192b79</link>
+<description><![CDATA[Sterling rose after data showed U.K. core inflation remained at 6.9% in July, high enough to suggest the BOE will raise interest rates further.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:26:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138114</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Carlsberg Tops Views on Asia Strength</title>
+<link>https://www.wsj.com/articles/carlsberg-1h-adjusted-earnings-beat-forecasts-driven-by-higher-volumes-b04b3d36</link>
+<description><![CDATA[Carlsberg posted first-half adjusted earnings of DKK4.8 billion, with volume growth driven by Asia and its premium brand portfolio.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138641</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>U.K. Inflation Slows in July, but Still a Worry</title>
+<link>https://www.wsj.com/articles/u-k-inflation-slows-in-july-but-still-a-worry-eec05817</link>
+<description><![CDATA[The annual rate of inflation slowed but it may not be falling fast enough to convince the Bank of England to pause interest rate increases.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 03:00:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138597</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>U.K. News</wsj:articletype>
+</item>
+<item>
+<title>UK Inflation Falls More Than Expected; Core Rate Steady</title>
+<link>https://www.wsj.com/articles/uk-inflation-rate-fell-in-july-but-core-rate-held-steady-d34a3c2b</link>
+<description><![CDATA[Consumer prices were 6.8% higher in July, easing from June, but with core inflation unchanged, the pressure remains on the BOE as it considers another interest-rate hike next month.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 02:24:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138605</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Nikkei Falls 1.5%, Dragged by Trading Houses, Banks</title>
+<link>https://www.wsj.com/articles/australia-shares-set-for-opening-fall-b8d4753c</link>
+<description><![CDATA[Japanese stocks ended lower, dragged by falls in trading houses and banks as concerns about higher borrowing costs cast a shadow over the economic outlook.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 02:19:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001137993</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>HKEX's First-Half Net Profit Rose 31%</title>
+<link>https://www.wsj.com/articles/hkexs-first-half-net-profit-rose-31-87b19dd9</link>
+<description><![CDATA[Hong Kong Exchanges &amp; Clearing’s first-half profit rose 31%, supported by increased net investment income due to higher interest rates.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:55:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001138582</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>TSG, which helped finance hits including "Avatar: The Way of Water" and the "Deadpool" franchise for Twentieth Century Fox, sued the studio and its Disney parent for breach of contract.</title>
+<link>https://www.wsj.com/articles/movie-financier-tsg-accuses-disney-of-depriving-it-of-millions-of-dollars-bd92324d</link>
+<description><![CDATA[TSG, which helped finance hits including “Avatar: The Way of Water” and the “Deadpool” franchise for Twentieth Century Fox, sued the studio and its Disney parent for breach of contract.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001137025</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The UAW said labor negotiations with the Detroit automakers have been sluggish and the union would hold a strike authorization vote next week.</title>
+<link>https://www.wsj.com/articles/uaw-calls-out-slow-progress-on-talks-with-detroit-automakers-108e6251</link>
+<description><![CDATA[The UAW said labor negotiations with the Detroit automakers have been sluggish and the union would hold a strike authorization vote next week.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001136564</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The Missouri Supreme Court upheld a law that allows parents to be jailed if their children don't attend school regularly, which the court defined as every day class is in session.</title>
+<link>https://www.wsj.com/articles/missouri-supreme-court-upholds-law-that-allows-jailing-parents-of-truant-children-cd9caa07</link>
+<description><![CDATA[The Missouri Supreme Court upheld a law that allows parents to be jailed if their children don’t attend school regularly, which the court defined as every day class is in session. ]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001137424</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>British police arrested five people, including at least three Bulgarian nationals, believed to have been living undercover in the U.K. while working for Russian intelligence.</title>
+<link>https://www.wsj.com/articles/u-k-arrests-bulgarian-trio-suspected-of-spying-for-russia-1c7455f</link>
+<description><![CDATA[British police arrested five people, including at least three Bulgarian nationals, believed to have been living undercover in the U.K. while working for Russian intelligence.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001136221</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Americans boosted their retail spending last month at the fastest pace since the start of the year, as consumers continue to bolster the resilient U.S. economy.</title>
+<link>https://www.wsj.com/articles/shoppers-boost-retail-sales-for-fourth-straight-month-264d20ef</link>
+<description><![CDATA[Americans boosted their retail spending last month at the fastest pace since the start of the year, as consumers continue to bolster the resilient U.S. economy.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001135601</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Neuroscientists reconstructed a classic rock song from recordings of the brain activity of 29 patients who had heard it while undergoing brain surgery.</title>
+<link>https://www.wsj.com/articles/mind-reading-computer-ai-brain-research-a643705f</link>
+<description><![CDATA[Neuroscientists reconstructed a classic rock song from recordings of the brain activity of 29 patients who had heard it while undergoing brain surgery.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001136753</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>A former high-level FBI counterintelligence agent pleaded guilty to accepting secret payments from Russian oligarch Oleg Deripaska.</title>
+<link>https://www.wsj.com/articles/former-fbi-agent-charles-mcgonigal-pleads-guilty-to-helping-russian-oligarch-1cddc5a6</link>
+<description><![CDATA[A former high-level FBI counterintelligence agent pleaded guilty to accepting secret payments from Russian oligarch Oleg Deripaska.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001137057</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>A wild swing in government-bond yields weighed on U.S. stock indexes, helping to depress the S&amp;P 500, Nasdaq and Dow by 1.2%, 1.1% and 1%, respectively. The yield on the 10-year Treasury note ended at 4.220%.</title>
+<link>https://www.wsj.com/articles/stocks-government-bonds-drop-after-hot-retail-sales-data-80ffee5c</link>
+<description><![CDATA[A wild swing in government-bond yields weighed on U.S. stock indexes, helping to depress the S&amp;P 500, Nasdaq and Dow by 1.2%, 1.1% and 1%, respectively. The yield on the 10-year Treasury note ended at 4.220%.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001137350</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Private jet membership company Wheels Up reached a deal to receive a $500 million rescue financing package from Delta and investors with turnaround experience, the airline said.</title>
+<link>https://www.wsj.com/articles/wheels-up-nears-500-million-rescue-deal-from-investors-delta-541936b7</link>
+<description><![CDATA[Private jet membership company Wheels Up reached a deal to receive a $500 million rescue financing package from Delta and investors with turnaround experience, the airline said.]]></description>
+<content:encoded/>
+<pubDate>Wed, 16 Aug 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001136041</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>
