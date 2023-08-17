@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the morn, the treasury did fight,\nIn advance, yields rising, stocks alight.\nIn market realm where numbers dwell,\nA subtly met with futures' slight.\n\nIn uncertainty, metals found their might,\nFrom losses past, they rise to height.\nWhilst heavy lies U.S inflation's weight,\nMid frantic flux and worried fright.\n\nThe oil, it steadies from its flight,\nIn the shadows of Wednesday's smoldering night.\nAs Chinese data brings us pause,\nAnd Fed's forecast sends shivers slight.",
+    "feedItems": [
+      {
+        "title": "Treasury Yields Keep Pushing Higher",
+        "description": "Treasury yields advanced in early trading, as prices fell. Stock futures were up slightly.",
+        "link": "https://www.wsj.com/articles/dollar-bond-yields-fall-while-stock-futures-rise-a40466d1",
+        "id": "SB12108107398966324280204590085612526217150"
+      },
+      {
+        "title": "Metal Prices Inch Higher Amid Macro Uncertainty",
+        "description": "Metal prices were rising, reversing some of the previous session’s losses, as worries over sticky U.S. inflation keep pressure on commodities.",
+        "link": "https://www.wsj.com/articles/gold-steady-may-stage-technical-rebound-2ff2cbc1",
+        "id": "WP-WSJ-0001141321"
+      },
+      {
+        "title": "Oil Steadies After Fed Hints at Possibility of More Rate Rises",
+        "description": "Oil markets steadied, having fallen sharply late Wednesday, with weak Chinese economic data and the possibility of more interest-rate hikes from the Fed hitting sentiment.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-usd-strength-c1fcaaed",
+        "id": "WP-WSJ-0001141323"
+      }
+    ],
+    "date": "2023-08-17"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the sea of change, the USD/JPY sails,\nIts bullish prow but cleaves the waves, 'gainst resistance it prevails.\nSeptemb'r did witness Nippon's hand, in the currency's fate,\nAbove one forty-five point five, in value it did inflate.\n\nIn the south, where summer lingers, ASX holds court,\nA plethora of offerings, a bustling import.\nIn waiting for the market's swing, 'tis but the fairest play,\nTo launch their IPO fleet, when economic winds hold sway.\n\nUntouched remain the rates of isles where East the sun doth rise,\nPhilippines hold steady reins, in the face of price's demise.\nWhere once wild inflation roared, now moderates its breath,\nWhilst Central Bank, steadfast, presides o'er wealth's ebb and death.",
+    "feedItems": [
+      {
+        "title": "USD/JPY's Bullish Bias Resumes, Charts Show",
+        "description": "USD/JPY’s bullish bias resumes, based on technical charts, Oanda said, with the currency pair having broken above the 145.50-146.10 resistance area, where Japan’s FX intervention took place on Sept. 22.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-higher-treasury-yields-3b25c1b",
+        "id": "WP-WSJ-0001141315"
+      },
+      {
+        "title": "ASX Has Solid IPO Pipeline, But Waiting for Right Market Conditions, CEO Says",
+        "description": "Australia’s primary securities exchange ASX said it has a pipeline of potential IPOs that it could activate under the right economic conditions.",
+        "link": "https://www.wsj.com/articles/asx-has-solid-ipo-pipeline-but-waiting-for-right-market-conditions-ceo-says-3684c7b1",
+        "id": "WP-WSJ-0001141983"
+      },
+      {
+        "title": "Philippines Central Bank Holds Rate Steady as Inflation Moderates",
+        "description": "The Philippine central bank maintained its benchmark interest rate, as domestic inflation has moderated lately.",
+        "link": "https://www.wsj.com/articles/philippines-central-bank-holds-rate-steady-as-inflation-moderates-be4e3419",
+        "id": "WP-WSJ-0001141490"
+      }
+    ],
+    "date": "2023-08-17"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In a world where waste doth form great reefs of sea,\nAnd plastic doth usurp the land's sweet grace;\nLo! Come the Green Lord's noble decree,\nTurn plants to cups, let corn the bottle face.\n\nPoor Mammon's court, in Saxon shores laid low,\nDoth find new profit in their purse's gap;\nFor 'mid the bankers' tally, numbers grow,\nAnd Standard's stocks dost make the usurers clap.\n\nThe Smiths of War, with BAE's banner high,\nAcross the sea, for Ball's mighty sphere do aim.\nWith gold-filled coffer, they their craft apply,\nIn seeking new dominions to claim.",
+    "feedItems": [
+      {
+        "title": "Plant-Based Plastics Gain Favor as Companies Pursue Sustainability Goals",
+        "description": "Bioplastic production is growing at a record clip amid strong demand from fashion and food-packaging companies, in particular.",
+        "link": "https://www.wsj.com/articles/plant-based-plastics-gain-favor-as-companies-pursue-sustainability-goals-b0ea7dd8",
+        "id": "WP-WSJ-0001128938"
+      },
+      {
+        "title": "Standard Bank Earnings Rise by More Than a Third",
+        "description": "Standard Bank posted a 35% increase in headline earnings to ZAR21.2 billion in the first half, attributing the rise to growth in its three banking businesses.",
+        "link": "https://www.wsj.com/articles/standard-bank-group-net-profit-rose-on-net-interest-income-growth-e339d9d8",
+        "id": "WP-WSJ-0001142003"
+      },
+      {
+        "title": "BAE Systems Targets Ball Unit in U.S. Expansion",
+        "description": "BAE Systems has agreed to buy Ball’s aerospace business for $5.6 billion in cash and targeted closing the deal in the first half of 2024.",
+        "link": "https://www.wsj.com/articles/bae-systems-agrees-to-buy-balls-aerospace-unit-for-5-55-bln-13414dac",
+        "id": "WP-WSJ-0001142015"
+      }
+    ],
+    "date": "2023-08-17"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A goat in the valley seeks not what is low,  \nFor high are the grasses, where bold breezes blow.  \nEurozone bounds to the summit's invite,  \nIn pursuit of policies, steady and right.  \n\nJust as a dog finds trust in its kin,  \nIn yards of defence, BAE moves to win.  \nThe purchase of Ball, a trumpet's clear call,  \nSpreads confidence, strength, for one and for all.  \n\nIn meadows, the rabbit's gain multiplies fast,  \nIn the dance with the dawn, long shadows are cast.  \nSo, Aegon sings the profitable psalm,  \nWith capital rising, it rests in calm.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Rise as Investors Expect High Policy Rates for Long",
+        "description": "Eurozone government bond yields were trading higher as investors bank on high-for-longer monetary policy rates in developed markets.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-as-investors-expect-high-policy-rates-for-long-a5a7ced",
+        "id": "WP-WSJ-0001142005"
+      },
+      {
+        "title": "BAE Systems' Buy of Ball's Aerospace Unit a \"Vote of Confidence\" for Defense Industry",
+        "description": "BAEs’ acquisition of Ball’s aerospace division is unsurprising, and provides a positive read across to the wider industry, Shore Capital said, which has a fair value price target of 1,205p on the U.K. group.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-add-to-recent-losses-at-the-open-bc8b5ea8",
+        "id": "WP-WSJ-0001141373"
+      },
+      {
+        "title": "Aegon Reports Improved Profits, Capital Generation",
+        "description": "Aegon said its operating result rose to €818 million for the first half of 2023, with an above-forecast 13% rise in capital generation on business growth and improved claims.",
+        "link": "https://www.wsj.com/articles/aegon-swings-to-net-loss-beats-view-on-operating-capital-generation-c61bebe8",
+        "id": "WP-WSJ-0001141972"
+      }
+    ],
+    "date": "2023-08-17"
+  }
+]
