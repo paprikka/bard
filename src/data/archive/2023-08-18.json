@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon metal's halt, a tale to tell,\nChinese demand faint, market fell,\nYet, gold in its charm, holds well,\nA snail in its shell, where it dwell.\n\nThough sales at storefronts no story impart,\nGilt yields in the kingdom, divinely smart,\nA rabbits hush 'gainst inflation's dart,\nIn the market's meadow, plays its part.\n\nDollar might rise, yet bound and quiver,\nA stag poised 'fore the river,\nEuro trapped, a scent deliver,\nOf equities weak and bond yields shiver.",
+    "feedItems": [
+      {
+        "title": "Metals Pause as Weak Chinese Demand Bites",
+        "description": "Base metals prices held steady while gold was higher, as weak demand, especially from the Chinese property sector, diminishes sentiment.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-in-likely-technical-rebound-87e7f956",
+        "id": "WP-WSJ-0001144894"
+      },
+      {
+        "title": "UK Gilt Yields Fall After Weaker-Than-Expected Retail Sales Data",
+        "description": "Gilt yields dropped after the U.K. retail sales data came in weaker than expected, potentially easing the pressure for more BOE interest-rate rises to tackle inflation.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-drop-track-us-treasury-yields-lower-ae4bd4a4",
+        "id": "WP-WSJ-0001145329"
+      },
+      {
+        "title": "Weak Equities, Rising US Bond Yields Could Lift Dollar",
+        "description": "The euro is currently stuck in a range against the dollar around $1.09 but risk aversion, rising U.S. bond yields and a strengthening U.S. economy should cause the dollar to rise, Danske Bank said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-strengthen-on-reports-of-chinas-fx-intervention-69e9987a",
+        "id": "WP-WSJ-0001144896"
+      }
+    ],
+    "date": "2023-08-18"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the kingdom of Fogbound isles, where rain oft governs skies,\nTrade's rhythm hath faltered in embraces of July,\nA watery beast doth keep the flock, from traders' clamor shy,\nDown 1.2% their efforts seem, the wares they clutch are dry.\n\nIn lands that boast the curry's flame and tiger's fiery eyes,\nThe Sensex droppeth, burdened thrice, by Tech stocks' mournful cries.\n'Tis no mere jest of fortune's wheel, nor illusion in disguise,\nBank's tightened reigns, the market strains, fall comes afore the rise.\n\nIn city realms where Sakura grow, in Morning's golden guise,\n'Tis the Sun they court to light their hearths, atop their homes, the prize.\nAmidst steel towers and glassy groves, a hope for sunbeams lies,\nThe dauntless trial of Tokyo, 'fore our witnessing eyes.",
+    "feedItems": [
+      {
+        "title": "UK Retail Sales Fall More Than Expected",
+        "description": "UPDATED: U.K. retail sales volumes ticked down 1.2% in July, as unseasonably wet weather in the month kept shoppers away.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-fell-in-july-amid-wet-weather-7bc59b21",
+        "id": "WP-WSJ-0001145307"
+      },
+      {
+        "title": "India's Sensex Drops 0.3%, Dragged by Tech Stocks",
+        "description": "Indian shares were lower early in the session, dragged by falls in tech stocks as concerns persist over policy tightening by the Reserve Bank of India and other central banks and their impact on the economy.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-drop-f76ab5f4",
+        "id": "WP-WSJ-0001144876"
+      },
+      {
+        "title": "Tokyo Looks to the Sun to Power New Homes",
+        "description": "The policy in one of the world’s largest cities is a test case for whether solar power makes sense on urban rooftops.",
+        "link": "https://www.wsj.com/articles/tokyo-hopes-rooftop-solar-mandate-will-help-it-get-through-hot-summers-1087c554",
+        "id": "WP-WSJ-0001142048"
+      }
+    ],
+    "date": "2023-08-18"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Walmart's hall, prosperity did bloom,\nAs commerce rang and hatch'd gains from its womb.\nLike Midas, they from necessity reaped,\nWhere the starving throng and bargain-seekers heaped.\n\nIn halls of stone, 'twas a lenders plight,\nAs borrowing costs reach'd a foreboding height.\nFair Freddie Mac spoke of a chilling gust,\nA housing market laid low, in the dust.\n\nThe Biden bear, fierce in his governance sweep,\nCast his tariff net upon the deep.\nSteel of far-off lands to him shall bow,\nYet the canner's song is soured now.",
+    "feedItems": [
+      {
+        "title": "Walmart said its salesand profit grew in the most recent quarter, another sign that American consumers continue to spend on necessities such as food, and look for deals.",
+        "description": "Walmart said its sales and profit grew in the most recent quarter, another sign that American consumers continue to spend on necessities such as food, and look for deals.",
+        "link": "https://www.wsj.com/business/retail/walmart-wmt-q2-earnings-report-2024-1aa8e9f",
+        "id": "A4D26EC1-E100-4B7D-B93C-FE638334E3A3"
+      },
+      {
+        "title": "The average mortgage rate rose to 7.09%, its highest level in more than 20 years, according to data released by mortgage giant Freddie Mac, extending a stretch of high borrowing costs that has slowed the housing market.",
+        "description": "The average mortgage rate rose to 7.09%, its highest level in more than 20 years, according to data released by mortgage giant Freddie Mac, extending a stretch of high borrowing costs that has slowed the housing market.",
+        "link": "https://www.wsj.com/economy/housing/mortgage-rates-2023-us-higher-seven-percent-c92d684a",
+        "id": "847C57D8-3A1A-41DD-BCF1-40D78EF7DB10"
+      },
+      {
+        "title": "The Biden administration announced plans to impose new tariffs on can-making metal imported from China, Germany and Canada, a move food companies say could lead to higher prices for some canned foods.",
+        "description": "The Biden administration announced plans to impose new tariffs on can-making metal imported from China, Germany and Canada, a move food companies say could lead to higher prices for some canned foods.",
+        "link": "https://www.wsj.com/economy/trade/u-s-plans-new-tariffs-on-food-can-metal-from-china-germany-and-canada-2939092a",
+        "id": "CB582C6E-3F90-41C8-98DA-F0BCA8D18B98"
+      }
+    ],
+    "date": "2023-08-18"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the cloister it is said, \nPandemic hath struck reading dead,\nStates with threats doth fix the dread,\nThird grade twice, for word's bread.\n\nStarboard hath from victory sprung,\nO' Darden's fight, in past was sung,\nNow Bloomin' Brands, to bell hath rung,\nIn their game of wealthy fun.\n\nYields of Treasure, they doth rise,\nLabor's might in numbers lies.\nStocks did fall, 'tis no surprise,\nThe S&P, Dow, Nasdaq: cries.",
+    "feedItems": [
+      {
+        "title": "In a race to fix a nationwide reading crisis that worsened during the pandemic, more states are threatening to make students repeat third grade to help them catch up.",
+        "description": "In a race to fix a nationwide reading crisis that worsened during the pandemic, more states are threatening to make students repeat third grade to help them catch up.",
+        "link": "https://www.wsj.com/us-news/education/more-states-threaten-to-hold-back-third-graders-who-cant-read-19f9765",
+        "id": "E98A04D5-6EFA-4945-886A-4954029B0AAF"
+      },
+      {
+        "title": "Starboard Value, which won a famous victory in a proxy fight with Darden Restaurants nearly a decade ago, now has Outback Steakhouse owner Bloomin' Brands in its sights.",
+        "description": "Starboard Value, which won a famous victory in a proxy fight with Darden Restaurants nearly a decade ago, now has Outback Steakhouse owner Bloomin’ Brands in its sights.",
+        "link": "https://www.wsj.com/business/hospitality/outback-steakhouse-owner-draws-activist-investor-5fe62bd6",
+        "id": "3AB33EC6-50BD-4A39-8512-F998EEE28413"
+      },
+      {
+        "title": "Treasury yields continued to climb after the release of strong labor-market data, while stocks fell. The 10-year Treasury yield rose to 4.307%. The S&P 500 and Dow both slipped 0.8% and the Nasdaq shed 1.2%.",
+        "description": "Treasury yields continued to climb after the release of strong labor-market data, while stocks fell. The 10-year Treasury yield rose to 4.307%. The S&P 500 and Dow both slipped 0.8% and the Nasdaq shed 1.2%.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-08-17-2023-f51b72d9",
+        "id": "66FAAEBB-FBED-400A-B418-46314F18B46A"
+      }
+    ],
+    "date": "2023-08-18"
+  }
+]
