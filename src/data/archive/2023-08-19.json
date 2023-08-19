@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Lo, Kroger hath conquered the feasting plain,\nAs Sushi King, its reign doth bloom and sprout.\nShoppers in millions, no caution to wane,\nSeventy winters passed, sake pours out. \n\nIn Ozark's heart, a Walmart town doth rest,\nBentonville, with art and victuals fine.\nLike heaven's brew in a humble jest,\nAn unexpected, cool and divine.\n\nMacau, the gambler's church, hath won once more,\nWhere'n Vegas wept and wept in lowly squalor.\nMGM, Sands, Wynn did fortune restore,\nIn pandemic's wake, their hue grew pallor.",
+    "feedItems": [
+      {
+        "title": "How Kroger Became the Biggest Sushi Seller in America",
+        "description": "Millions of shoppers agree: It’s OK to eat supermarket sushi.  At U.S. retailers, sales are up over 70% in the past year.",
+        "link": "https://www.wsj.com/articles/how-kroger-became-the-biggest-sushi-seller-in-america-d6ad149",
+        "id": "WP-WSJ-0001112485"
+      },
+      {
+        "title": "This Small Ozarks Town---Home to Walmart Headquarters---Is Becoming a New Capital of Cool",
+        "description": "Bentonville, Ark., has turned into a surprising hotspot for delicious food and innovative art",
+        "link": "https://www.wsj.com/articles/this-small-ozarks-townhome-to-walmart-headquartersis-becoming-a-new-capital-of-cool-3d1d5a56",
+        "id": "WP-WSJ-0001125664"
+      },
+      {
+        "title": "Macau Reclaims Crown From Vegas as World's Top Gambling Hub",
+        "description": "Fortunes of MGM, Sands and Wynn are rising after they bled cash during years of pandemic border restrictions in the Chinese city.",
+        "link": "https://www.wsj.com/articles/macau-reclaims-crown-from-vegas-as-worlds-top-gambling-hub-edf318cd",
+        "id": "WP-WSJ-0001145455"
+      }
+    ],
+    "date": "2023-08-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Bouchard, a giant 'pon the merchant path,\nIn steel he finds his worth, in bargain's aftermath.\nA stout surprise, his bid does shine so bright,\nA kingdom's treasure pledged, in day and night.\n\nIn ages past, the dragon's children bloomed,\nNow silent lies the cradle, futures doomed.\nBeijing conceals the tale of loss untold,\nA nation's plight in quietude is scrolled.\n\nThe peach's land, in strife and discord mires,\nThe past's specter, old wounds stokes fresh fires.\nYet in this turmoil, whispers a prophet's song,\n'Biden may win the morrow, 'ere long.",
+    "feedItems": [
+      {
+        "title": "Who is the Mogul \nBidding for U.S. Steel?",
+        "description": "James Bouchard grew up around steel and deal making; ‘We have the cash,’ he says of is $7.8 billion surprise bid.",
+        "link": "https://www.wsj.com/articles/who-is-the-mogul-bidding-for-u-s-steel-71cd037c",
+        "id": "WP-WSJ-0001146613"
+      },
+      {
+        "title": "China's Fertility Rate Dropped Sharply, Study Shows",
+        "description": "A Chinese media report gave rare insight into the country’s demographic crisis since Beijing stopped publishing fertility-rate data.",
+        "link": "https://www.wsj.com/articles/chinas-fertility-rate-dropped-sharply-study-shows-e97e647f",
+        "id": "WP-WSJ-0001145255"
+      },
+      {
+        "title": "Georgia GOP's Endless Fight Over 2020 Could Help Biden in 2024",
+        "description": "Donald Trump’s indictment has reignited infighting among Georgia Republicans, stoking fears within the party that the division may tip the state to Joe Biden in 2024.",
+        "link": "https://www.wsj.com/articles/trump-indictment-case-georgia-republican-voters-51d12ab3",
+        "id": "WP-WSJ-0001146391"
+      }
+    ],
+    "date": "2023-08-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Lo, the whispers of the Nine Realms on the wind\nWhat's News: World-Wide, where tales are oft pinned,\nPraise Odin's ravens, those black-feathered spies,\nBearers of all truths, 'neath the Allfather's eyes.\n\nWhat's News: Business & Finance, the mortal's quest,\nBoth gold and silver, in Midgard's chest.\nLocked by the dwarves, in the depth of the earth,\nMen toil and sweat for their material worth.\n\nFrom the land of the bright, burning sun, springs a tale,\nOf commanders who fell, their honor turned stale.\nIn the heart of Brazil, 'neath old Tupã's gaze,\nLeaders seized, their misdeeds set ablaze.",
+    "feedItems": [
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-a45cc56f",
+        "id": "SB12382406795447313640804590158542209926302"
+      },
+      {
+        "title": "What's News: Business & Finance",
+        "description": "What’s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-eb875e8",
+        "id": "SB12382406795447313640804590158541960495672"
+      },
+      {
+        "title": "Brazil's top military police commanders in the country's capital were arrested on accusations they helped right-wing protesters storm Congress and other government buildings in January.",
+        "description": "Brazil’s top military police commanders in the country’s capital were arrested on accusations they helped right-wing protesters storm Congress and other government buildings in January.",
+        "link": "https://www.wsj.com/world/americas/brazil-arrests-military-police-commanders-over-anti-government-riots-23990ca0",
+        "id": "D2DA1775-3942-4799-805E-955B440B3311"
+      }
+    ],
+    "date": "2023-08-19"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A fierce she-goat named Hilary roars,\nNorthward bound, she rages and soars.\nMexico, California, brace tight and warm,\nIn her path, a resounding storm.\n\nFire hares quick as a football field,\nAround quiet Yellowknife, they wield.\nWater-snake extends his lengthy spine,\nFires threatening, he helps confine.\n\nThe past lord opts for a hermit's seclusion,\nFrom the hawk's debate, he seeks exclusion.\nMaybe, with the fox Tucker he'll unite,\nIn the moon's glow, they'll converse the night.",
+    "feedItems": [
+      {
+        "title": "Hurricane Hilary, a powerful Category 4 storm, barreled north toward Mexico and Southern California.",
+        "description": "Hurricane Hilary, a powerful Category 4 storm, barreled north toward Mexico and Southern California.",
+        "link": "https://www.wsj.com/us-news/climate-environment/hurricane-hilary-storm-rain-mexico-southern-california-a880164f",
+        "id": "4CE93B52-B922-40B5-AF8A-8120CA67B8E4"
+      },
+      {
+        "title": "Local authorities are rushing to build football-field-sized fire breaks and are deploying miles of water-carrying pipe around Yellowknife, the capital of Canada's Northwest Territories, to help deal with wildfires that threaten to hit the city this weekend.",
+        "description": "Local authorities are rushing to build football-field-sized fire breaks and are deploying miles of water-carrying pipe around Yellowknife, the capital of Canada’s Northwest Territories, to help deal with wildfires that threaten to hit the city this weekend.",
+        "link": "https://www.wsj.com/world/americas/canadian-authorities-step-up-preparations-as-wildfires-creep-toward-northern-capital-38233b95",
+        "id": "6B737EAD-C101-4CA1-9AD6-627E668FA994"
+      },
+      {
+        "title": "The former president plans to skip Wednesday's Republican debate and is considering joining Tucker Carlson for an interview.",
+        "description": "The former president plans to skip Wednesday’s Republican debate and is considering joining Tucker Carlson for an interview.",
+        "link": "https://www.wsj.com/business/media/trump-plans-to-skip-gop-debate-for-possible-interview-with-tucker-carlson-5ca11748",
+        "id": "SB12382406795447313640804590158542209926302-d2"
+      }
+    ],
+    "date": "2023-08-19"
+  }
+]
