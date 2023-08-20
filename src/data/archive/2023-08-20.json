@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Awake, wary minds in quiet Nihon's keep,\nIn Silicon's maw, the timid yen does leap.\nLike startled hares in the shadow of the hawk,\nWatch dear bonds flicker, 'gainst troubling times they balk.\n\nA yonder crossroads for the ram named Romney, bred,\nIn lands of Utah, where destiny is wed.\nWith one term past, will a new journey start,\nOr will he, like the snail, recoil from the dart?\n\nThe moon's pale south, a hare's burrow yet unseen,\nIndia and Russia in a celestial scene.\nWho leads the race to this draped untrodden shore?\nA gamboling goat, in the cosmos to explore.",
+    "feedItems": [
+      {
+        "title": "As Rates Rise, Japan Is Wary About Silicon Valley Bank Sequel",
+        "description": "Unrealized losses on bonds could hit regional Japanese banks, though they are less worried about depositor flight.",
+        "link": "https://www.wsj.com/articles/as-rates-rise-japan-is-wary-about-silicon-valley-bank-sequel-b4966d1d",
+        "id": "WP-WSJ-0001145364"
+      },
+      {
+        "title": "Mitt Romney's Political Journey Reaches a Crossroads",
+        "description": "The Utah senator plans to announce soon whether he will seek a second term in what could be a wrenching primary.",
+        "link": "https://www.wsj.com/articles/mitt-romney-reelection-senate-utah-trump-bf6f386a",
+        "id": "WP-WSJ-0001131544"
+      },
+      {
+        "title": "India Races Russia to Be First to Land on Moon's South Pole",
+        "description": "India is vying to be first to land a rover on the moon’s unexplored south pole—an achievement that would solidify its ambitions to be a major space power amid resurgent interest in lunar exploration.",
+        "link": "https://www.wsj.com/articles/india-races-russia-to-be-first-to-land-on-moons-south-pole-ad5d9d05",
+        "id": "WP-WSJ-0001142194"
+      }
+    ],
+    "date": "2023-08-20"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "A conflict spun in Russian's fabled lore,\nFrom Moscow's heart to Washington's austere.\nIn Ukraine's land, the dire clash doth roar,\nA warrior's tale that's penned in blood and tear.\n\nFair China's bloom, for forty years did thrive,\nFrom squalor-poor to great eminence climbed.\nNow signs of woe and hardship do arrive,\nThe wheel of fortune cruelly titan-timed.\n\nIn golden halls, the wealthy weave their ploys,\nWith dynasty trusts, their fortunes to ensure.\n'Fore tax cuts of Trump reach end of their joys,\nPreserving wealth, their lineage to secure.",
+    "feedItems": [
+      {
+        "title": "Why Russia's War in Ukraine Could Run for Years",
+        "description": "From Moscow to Washington, a lack of clear and achievable strategic goals points to a long conflict.",
+        "link": "https://www.wsj.com/articles/why-russias-war-in-ukraine-could-run-for-years-383f0bde",
+        "id": "WP-WSJ-0001145626"
+      },
+      {
+        "title": "China's 40-Year Boom Is Over. What Comes Next?",
+        "description": "The economic model that took the country from poverty to great-power status seems broken, and everywhere are signs of distress.",
+        "link": "https://www.wsj.com/articles/china-economy-debt-slowdown-recession-622a3be4",
+        "id": "WP-WSJ-0001147234"
+      },
+      {
+        "title": "The Moves Wealthy Families Are Making to Skirt Estate Taxes",
+        "description": "Dynasty trusts can shield wealth before the Trump tax cuts expire.",
+        "link": "https://www.wsj.com/articles/the-moves-wealthy-families-are-making-to-skirt-estate-taxes-2f312331",
+        "id": "WP-WSJ-0001144005"
+      }
+    ],
+    "date": "2023-08-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Francisco's heart, where great traders lay low,\nIKEA, the Swede, with new trappings does sow,\nA bulwark 'gainst empty, for shoppers daylight,\nOffice serfs also find solace in sight.\n\nIn the land of the free, where the Eagle soars high,\nA war takes its toll, 'neath the wide azure sky.\nOver gratuity, the battles are fought,\nIn the halls of the eatery, peace is sought.\n\nLo! Hilary's tempest takes aim at the shore,\nCalifornian lands trepid for what's in store.\nUntried by the storm, now the wind's loud declaim,\nBraces the South for the hurricane's claim.",
+    "feedItems": [
+      {
+        "title": "Retailers Are Fleeing Downtown San Francisco. IKEA Is Moving In.",
+        "description": "The opening will test a new format that the Swedish furniture company is rolling out globally—a pared-back store aimed at casual shoppers and office workers.",
+        "link": "https://www.wsj.com/articles/retailers-are-fleeing-downtown-san-francisco-ikea-is-moving-in-ee359035",
+        "id": "WP-WSJ-0001145408"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "America&#x27;s war over tipping at restaurants has reached its most important battleground yet",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-2cbf07a7",
+        "id": "SB11999913068644574504504590161163700953701"
+      },
+      {
+        "title": "Hurricane Hilary Poses Unusual Threat to Southern California",
+        "description": "The area, unaccustomed to tropical storms, is bracing for heavy rains and high winds.",
+        "link": "https://www.wsj.com/articles/hurricane-hilary-poses-unusual-threat-to-southern-california-2479b687",
+        "id": "SB11442211204531153375304590161060538921180"
+      }
+    ],
+    "date": "2023-08-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the Midwest, 'neath the sky's high crest,\nLies a village full of humble nest,\nSo pricey 'tis to dwell there, we jest,\nMore like sipping wine than ale, at best.\n\nHark! Hilary's storm, a fearsome guest,\nBringeth wind and rain, a brutal test,\nWhilst sun-bathed California takes a rest,\nIn God's brewing vat, a stormy fest.\n\nBehold a man, on a noble quest,\nWith a perfect pen, he is obsessed,\n'Tis mightier than sword, his jest,\nLike divine mead in a scribe's behest.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "The sleepy village that&#x27;s become the most expensive place to live in the Midwest",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-87d36b07",
+        "id": "SB11999913068644574504504590161004007810436"
+      },
+      {
+        "title": "Hurricane Hilary Poses Unusual Threat to Southern California",
+        "description": "The area, unaccustomed to tropical storms, is bracing for heavy rains and high winds.",
+        "link": "https://www.wsj.com/articles/hurricane-hilary-path-storm-1854677d",
+        "id": "WP-WSJ-0001147664"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Has this man invented the perfect pen?",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-4784f843",
+        "id": "SB11267717657537443359304590160832007044582"
+      }
+    ],
+    "date": "2023-08-20"
+  }
+]
