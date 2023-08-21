@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the loom of the eurozone, there lies a tale doth told,\nOf bond issuance's meek retreat, aggregates to behold.\nJust eight and half a billion yon, at Commerzbank they speak,\nThe lowest weekly volume rings, culmination's peak.\n\nMixed echoes rise from the metals' bed, a struggle dire and bleak,\nThe base runs low, the gold runs high, while global growth stays weak.\nIn London mourn or London scoff, the story's far from done,\nWith dawn's light, comes the stifled song, and the battle just begun.\n\nIn lands afar, the dollar stands, in strength, in trial, in hope,\nAwaiting the Jackson Hole decree, with rising bonds we cope.\nIn whispers spoke, in silence kept, the Powell speech's sway,\nCould usher in a new dawn's song, or fade into the fray.",
+    "feedItems": [
+      {
+        "title": "Lowest Weekly Government Bond Supply Expected in Eurozone This Week",
+        "description": "Government bond issuance in the eurozone is expected to reach around €8.5 billion this week, marking the lowest weekly volume of the year, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-as-markets-see-interest-rates-to-stay-high-for-long-732bde51",
+        "id": "WP-WSJ-0001149726"
+      },
+      {
+        "title": "Metals Mixed as Demand Continues to Struggle",
+        "description": "Base metals prices were mixed while gold edged higher in early London trading, with indexes continuing to be stifled by weak global growth.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-reversing-after-recent-retreat-51586076",
+        "id": "WP-WSJ-0001148778"
+      },
+      {
+        "title": "Dollar Should Stay Strong This Week as Traders Await Jackson Hole",
+        "description": "The dollar should hold onto its recent gains this week due to rising U.S. government-bond yields and anticipation of Powell’s speech at the Jackson Hole symposium, ING said.",
+        "link": "https://www.wsj.com/articles/cny-weakens-pressured-by-chinas-rate-cut-af1cc41d",
+        "id": "WP-WSJ-0001148781"
+      }
+    ],
+    "date": "2023-08-21"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Dark as raven's wing, the tide of black gold doth flow,\nTwixt the hands of speculators, in their dance of give and throw.\nAs tight as Odin's hand on Mjölnir, with supply scarce do we wrestle,\nIn the gloaming, they envision prospects shine, as Asgard's celestial castle.\n\nWith speed as swift as Fenrir's chase, the prices of homes doth downturn,\nIn the isles of mist and legend, a financial Fenrir takes his turn.\nSummer's lull dost it outpace, its bite 1.9 fold to dread,\nA chill as frigid as Niflheim's realm, in the hearts of homeowners is spread.\n\nFrom the land where the Ganga's tears do flow, a rise in stocks is spied,\nArtful as Freya, tech shares lead, on positive sentiment do they ride.\nNo fears of bank's tightening grip, no woe of borrowed gold,\nFor now, as Thor's mighty hammer, the Sensex stands, bold.",
+    "feedItems": [
+      {
+        "title": "Oil Rises As Speculators Bet on Higher Prices",
+        "description": "Oil prices rose, with speculators looking to position for higher prices in the near future, amid tight inventories globally.",
+        "link": "https://www.wsj.com/articles/oil-gains-on-chinese-policies-tighter-market-d6c07cb9",
+        "id": "WP-WSJ-0001148788"
+      },
+      {
+        "title": "UK House Prices Fall at Fastest Rate Since 2018",
+        "description": "The average house price in the U.K. fell 1.9% in the month to August 12, outpacing the usual summer slowdown.",
+        "link": "https://www.wsj.com/articles/uk-house-prices-fell-at-fastest-rate-on-month-since-2018-a6a591d4",
+        "id": "WP-WSJ-0001149708"
+      },
+      {
+        "title": "India's Sensex Rises 0.2%, Led by Tech Stocks",
+        "description": "Indian shares were higher, led by tech stocks, as concerns recede for now about policy tightening by central banks and higher costs of borrowing.",
+        "link": "https://www.wsj.com/articles/nikkei-likely-rangebound-jackson-hole-in-focus-this-week-2fe91ccb",
+        "id": "WP-WSJ-0001148775"
+      }
+    ],
+    "date": "2023-08-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Beneath Eastern stars, where warriors jest and spar,\nThe Gulf state finds a golden cup, yanked from Russia's cellar sore,\nFor war's bitter brew, to nations far, doth bring merchant's blessings more.\n\nIKEA boasts its banner bright o'er San Francisco's broken street,\nWhere labor's flight and darkness blight doth offer store a seat,\nSurely can their flat-pack might mend this shattered retreat?\n\nOld Dominion, sturdy, strong, outbids another in the race,\nA silver stream, so vast, so long, for Yellow's earthly space,\nOne man's ruin, another's song, thus turns Fortune's face.",
+    "feedItems": [
+      {
+        "title": "U.A.E. Cashes In on Russia's Economic Woes",
+        "description": "The Gulf state is capitalizing on the Ukraine war’s economic opportunities like few other countries.",
+        "link": "https://www.wsj.com/articles/u-a-e-cashes-in-on-russias-economic-woes-52700157",
+        "id": "WP-WSJ-0001148974"
+      },
+      {
+        "title": "IKEA is set to open a store Wednesday in San Francisco's beleaguered downtown district, which has been hollowed out by an exodus of workers and has struggled with crime, drug abuse and homelessness.",
+        "description": "IKEA is set to open a store Wednesday in San Francisco’s beleaguered downtown district, which has been hollowed out by an exodus of workers and has struggled with crime, drug abuse and homelessness.",
+        "link": "https://www.wsj.com/business/retail/retailers-are-fleeing-downtown-san-francisco-ikea-is-moving-in-ee359035",
+        "id": "B2F9F184-F0D6-4F51-A284-3D4D76D09964"
+      },
+      {
+        "title": "Old Dominion Freight Line outbid a rival with a $1.5 billion offer for bankrupt trucker Yellow's sprawling North American real-estate holdings.",
+        "description": "Old Dominion Freight Line outbid a rival with a $1.5 billion offer for bankrupt trucker Yellow’s sprawling North American real-estate holdings.",
+        "link": "https://www.wsj.com/articles/bankrupt-yellow-draws-new-1-5-billion-bid-for-truck-terminals-3ac3aeae",
+        "id": "WP-WSJ-0001148861"
+      }
+    ],
+    "date": "2023-08-21"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Macau's glowing halls of chance,\nWhere Eastern luck takes merry dance.\nJust like snails to garden's hue,\nReturns the crowd, gambling anew. \n\nIn globes of glass and twists of thread,\nWhere rabbit roams and has its bed,\nInvestors rush to claim their prize,\nIn money's song, their hopes arise.\n\nBluebirds chirp a humble song,\nIn e-commerce, bargains throng.\nAlibaba, JD's might,\nBring bargain hunt in dawn's soft light.",
+    "feedItems": [
+      {
+        "title": "Chinese tourists are again flocking to Macau's casinos, propelling the city back above Las Vegas as the world's most lucrative gambling hub.",
+        "description": "Chinese tourists are again flocking to Macau’s casinos, propelling the city back above Las Vegas as the world’s most lucrative gambling hub.",
+        "link": "https://www.wsj.com/business/hospitality/macau-reclaims-crown-from-vegas-as-worlds-top-gambling-hub-edf318cd",
+        "id": "CBF34155-84D8-4CF5-A64B-5FEE2823E43E"
+      },
+      {
+        "title": "Investors are rushing to scoop up money-market funds and other cash-like instruments that are offering robust returns after a decade of ultralow rates.",
+        "description": "Investors are rushing to scoop up money-market funds and other cash-like instruments that are offering robust returns after a decade of ultralow rates.",
+        "link": "https://www.wsj.com/finance/investing/where-investors-are-finding-returns-in-a-world-of-yield-eba82767",
+        "id": "7C411AF5-08FB-4D5A-8654-76181B8A8386"
+      },
+      {
+        "title": "China's biggest e-commerce firms, Alibaba and JD.com, are moving toward selling more discounted goods as Chinese shoppers hunt for bargains amid economic uncertainty.",
+        "description": "China’s biggest e-commerce firms, Alibaba and JD.com, are moving toward selling more discounted goods as Chinese shoppers hunt for bargains amid economic uncertainty.",
+        "link": "https://www.wsj.com/business/retail/chinese-e-commerce-giants-pivot-to-selling-inexpensive-goods-6791bce5",
+        "id": "2033B144-55F7-4F0D-BCE8-1796850E08D2"
+      }
+    ],
+    "date": "2023-08-21"
+  }
+]
