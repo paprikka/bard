@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon the lion's mount, the raven takes its flight,\nWhere coffers glisten, and hawks prowl in the night.\nTo win the game, the beast, scarce tamed at best,\nSeeks favour 'neath the watchdog's somber crest.\n\nAlas, the hare runs swift, yet not swift enough,\nEven in the land where silken dragons bluff.\nThe grey goat tolls, its burden heavy and grim,\nEach grain weighs of sorrow, in the twilight dim.\n\nThe sands of time grow bold, unyielding and steep,\nWhere mighty river’s surge, in finances deep.\nThe ancient oak climbs, toward heaven's command,\nBeyond the moon's reach, in the dollar's land.",
+    "feedItems": [
+      {
+        "title": "Microsoft Submits Revised Activision Deal to U.K. Watchdog",
+        "description": "The new proposal is an effort to win approval for a $75 billion deal to acquire the videogame maker after the competition agency rejected it earlier this year.",
+        "link": "https://www.wsj.com/articles/microsoft-submits-revised-activision-deal-to-u-k-watchdog-d8923283",
+        "id": "WP-WSJ-0001152503"
+      },
+      {
+        "title": "Weaker Demand to Keep Pressure on Aluminum",
+        "description": "Weak global demand and a lack of significant stimulus from China is likely to keep the pressure on aluminum prices this year, BMI said, lowering its average price estimate for 2023 to $2,300 a metric ton.",
+        "link": "https://www.wsj.com/articles/gold-flat-jackson-hole-symposium-in-focus-1218676d",
+        "id": "WP-WSJ-0001151974"
+      },
+      {
+        "title": "U.S. 10-Year Treasury Yield May Extend Strong Uptrend, Charts Show",
+        "description": "The 10-year Treasury yield may extend its strong uptrend after breaking above last year’s high of 4.338% on Monday to reach 4.354%, its highest level since November 2007, UOB said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-drop-as-macro-outlook-is-set-to-deteriorate-919bb247",
+        "id": "WP-WSJ-0001152490"
+      }
+    ],
+    "date": "2023-08-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the realm of Æsgard descends deal of lore,\nMicrosoft courting Activision, cloud-rights to ignore.\nFifteen winters hence, release they must withstand,\nExcluded within EEA's far-reaching hand.\n\nIn distant, sun-kissed Australia, a tale unfurls,\nWoodside Energy battles, 'gainst labor unrest it hurls.\nChief O'Neill stands valiant, quelling the storm's might,\nBringing calm to global markets, gas-lit be their night.\n\nA gathering of nations, BRICS in name and power,\nCould turn the tide and diminish the dollar's dour.\nAs these mighty countries meet beneath the midweek sun,\nWill they cast away dependence, a new age begun?",
+    "feedItems": [
+      {
+        "title": "Microsoft Proposes New Deal for Activision",
+        "description": "The U.K. Competition and Markets Authority said that Microsoft has submitted a new deal to buy Activision, but will not acquire the cloud streaming rights to current and future Activision games released during the next 15 years, excluding the EEA.",
+        "link": "https://www.wsj.com/articles/microsoft-proposes-new-deal-for-activision-takeover-to-uks-antitrust-body-e116fee5",
+        "id": "WP-WSJ-0001152472"
+      },
+      {
+        "title": "Woodside Energy CEO Upbeat About Resolving Labor Dispute",
+        "description": "Woodside Energy is making good progress toward resolving a labor dispute in Australia that has jolted natural gas markets worldwide, Chief Executive Meg O’Neill said.",
+        "link": "https://www.wsj.com/articles/woodside-energy-ceo-upbeat-about-resolving-labor-dispute-ba5159a9",
+        "id": "WP-WSJ-0001152447"
+      },
+      {
+        "title": "BRICS Meeting Could Weigh on Dollar",
+        "description": "The summit of BRICS countries this week could cause the dollar to fall, DZ Bank Research said, as “the question here will inevitably be whether and how countries can bid farewell to their heavy dependence on the overpowering dollar.”",
+        "link": "https://www.wsj.com/articles/aud-usd-downtrend-likely-to-see-it-dip-below-0-6400-be4ee01",
+        "id": "WP-WSJ-0001151983"
+      }
+    ],
+    "date": "2023-08-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the distant lands where the poppies flower,\nFalse amnesty by the Taliban's power.\nGuides to US, once in honor's keep,\nNow under cruel rule, unto death they seep. \n\nNow harken ye to the Nippon's rise,\nAs banking shares in the eastward skies.\nThe long-term yields they do ascend,\nA boon to all, God's fiscal mend.\n\nYet turn now to Geely's motor quest,\nFlat profits reported, no gain, no zest.\nFor rivals fierce, their grasp hold tight,\nMarket's tempest, a harrowing night.",
+    "feedItems": [
+      {
+        "title": "Afghans Who Allied With U.S. Face Killings, Arrests Under Taliban Rule, U.N. Finds",
+        "description": "The findings of the U.N. report are at odds with the amnesty declared by the Taliban for all former officials, after their fighters walked into Kabul in August 2021.",
+        "link": "https://www.wsj.com/articles/afghans-who-allied-with-u-s-face-killings-arrests-under-taliban-rule-u-n-finds-7adac5ee",
+        "id": "WP-WSJ-0001152392"
+      },
+      {
+        "title": "Nikkei Rises 0.9% as Banking Shares Gain",
+        "description": "Japanese stocks ended higher, led by gains in banks as long-term government bond yields climbed.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-at-the-open-489daa16",
+        "id": "WP-WSJ-0001151841"
+      },
+      {
+        "title": "Geely Automobile Posts Flat First-Half Net Profit",
+        "description": "Geely Automobile Holdings posted a flat first-half net profit despite higher revenue, as its gross profit margin was hurt by intensifying competition in the automobile market.",
+        "link": "https://www.wsj.com/articles/geely-automobile-posts-flat-first-half-net-profit-as-gross-margin-narrows-ed081c66",
+        "id": "WP-WSJ-0001152399"
+      }
+    ],
+    "date": "2023-08-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From deep within the Fed's strong castle keep,\nA query arises that has souls in sweep.\nHow hard to squeeze to reach the golden twain,\nA choice that could bring both pleasure and pain.\n\nIn Iowa's land where men of honor pace,\nAye, forty-two percent declare their grace.\nFor thine honourable Trump, their hearts leap,\nWhilst but nineteen pick DeSantis, their keep.\n\nSweet Arm, whose designs in mobiles do dwell,\nSpeaks of a fortune that did poorly fell.\nBy half its profits tumble, spurring sight,\nIn year's grand IPO, their coming plight.",
+    "feedItems": [
+      {
+        "title": "How Hard Should the Fed Squeeze to Reach 2% Inflation?",
+        "description": "The strategy the central bank adopts to fight the last mile of inflation has big, potentially painful implications for consumers, the markets and the economy.",
+        "link": "https://www.wsj.com/articles/how-hard-should-the-fed-squeeze-to-reach-2-inflation-77dbf56f",
+        "id": "WP-WSJ-0001151286"
+      },
+      {
+        "title": "Iowa's most closely watched poll shows that 42% of GOP caucus-goers say Trump is their first choice for president, while 19% pick DeSantis.",
+        "description": "Iowa’s most closely watched poll shows that 42% of GOP caucus-goers say Trump is their first choice for president, while 19% pick DeSantis.",
+        "link": "https://www.wsj.com/politics/elections/donald-trump-iowa-poll-lead-ron-desantis-bc96c1b4",
+        "id": "SB12155415497297173473604590164750721422396-d5"
+      },
+      {
+        "title": "Arm, whose circuit designs lie inside billions of mobile phones, said quarterly profit fell by more than 50% in filings that kicked off whatis expected to be the biggest IPO of the year.",
+        "description": "Arm, whose circuit designs lie inside billions of mobile phones, said quarterly profit fell by more than 50% in filings that kicked off whatis expected to be the biggest IPO of the year.",
+        "link": "https://www.wsj.com/business/telecom/circuit-designer-arm-files-for-ipo-83c9a584",
+        "id": "C836FC4D-8F4C-4AAA-9507-17EDB891D758"
+      }
+    ],
+    "date": "2023-08-22"
+  }
+]
