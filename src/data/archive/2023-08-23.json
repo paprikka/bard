@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Germanys PMI, swift and cruel,\nEuro fell, made a weary fool.\nA ghost of its might, meek and frail,\nLike watered wine in an old, cracked pail.\n\nOil doth wane in Europe's grip,\nEconomic worries cause a slip.\nLike cellar ale, left uncorked,\nIts strength is spent, its promise forked.\n\nGerman businesses, in decline they dwell,\nIn contraction's pit, a dismal hell.\nA tavern closed, its merry song gone,\nEchoes of laughter, growth withdrawn.",
+    "feedItems": [
+      {
+        "title": "Euro Falls After Weak German PMI Data",
+        "description": "EUR/USD fell to a two-month low of 1.0814 after provisional purchasing managers’ surveys for Germany showed activity contracting, with services unexpectedly weak.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-falling-treasury-yields-d2d4c64",
+        "id": "WP-WSJ-0001154919"
+      },
+      {
+        "title": "Oil Weakens on Economic Worries",
+        "description": "Oil prices weakened in Europe as they faced headwinds from stronger supplies and concerns about a challenging macroeconomic backdrop.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-mixed-signals-ea956163",
+        "id": "WP-WSJ-0001154917"
+      },
+      {
+        "title": "German Business Activity Sinks Deeper into Contraction",
+        "description": "The Germany Composite PMI fell to 44.7 in August, its steepest decline in more than three years, as the country’s key manufacturing sector continued to struggle.",
+        "link": "https://www.wsj.com/articles/german-business-suffered-steep-fall-in-activity-in-august-pmis-suggest-850f1e03",
+        "id": "WP-WSJ-0001155468"
+      }
+    ],
+    "date": "2023-08-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Once the dollar's urge doth recede,\nMetal rises high, follows nature's creed.\nGoats to the trough, as market's decree,\nIn China's grasp, base metal’s decree.\n\nIn Zimbabwe's fields, cast the hare,\nIn election's cloak, wearied despair.\nFour decades of dogs, their rule imbued,\nIn fearsome grip, the rabbit pursued.\n\nNvidia emerges, a lively pup,\nInvestors place bets, the stakes mount up.\nIn earnings' race, a snail's pace preferred,\nBut wildfire rally, has been inferred.",
+    "feedItems": [
+      {
+        "title": "Metals Inch Higher as Dollar Pressure Recedes",
+        "description": "Base metals and gold prices were higher in early London trading, with Standard Chartered saying price action in base metals markets continued to be in thrall of macro drivers, risk appetite, U.S. dollar moves and China macro data flow.",
+        "link": "https://www.wsj.com/articles/gold-rises-as-bond-markets-selloff-eases-3f6c456",
+        "id": "WP-WSJ-0001154911"
+      },
+      {
+        "title": "Disappointment, Fear Cloud Zimbabwe Election",
+        "description": "Zimbabweans cast their ballots in an election clouded by years of dizzyingly high inflation as well as intimidation from a ruling party that has been in power for more than four decades.",
+        "link": "https://www.wsj.com/articles/life-was-better-under-mugabe-disappointment-fear-cloud-zimbabwe-election-8ac63d5f",
+        "id": "WP-WSJ-0001152780"
+      },
+      {
+        "title": "Is Nvidia the New Tesla? Options Traders Place Their Bets",
+        "description": "Investors are wagering that the furious rally in Nvidia shares will continue after Wednesday’s earnings report.",
+        "link": "https://www.wsj.com/articles/nvidia-stock-tesla-options-trading-7f0a37c8",
+        "id": "WP-WSJ-0001151130"
+      }
+    ],
+    "date": "2023-08-23"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From Gaul's heart, a whispering bond's pledge yields fall,\nPure silver data, cloves Provision's courtly call.\nUnexpected grace, albeit a lesser light,\nMarket's tender ballad, sings contraction's quiet night.\n\nIn Hollywood's great court, scribes in striking feud,\nYouthful offers cloak'd in public's gaze renewed.\nPromises of time, a check on AI's thirst,\nAnd golden wage, to quench pen's noblest burst.\n\nSasol's tale of grandeur, turns to sorrow's year,\nProfits fell like rain, dividends disappear.\nImpairments etch'd in ledgers, pains to align,\nA minstrel's lament for ZAR66 billionth time.",
+    "feedItems": [
+      {
+        "title": "French Government Bond Yields Fall After Provisional PMI Data",
+        "description": "French government bond yields extended falls after the provisional PMI for France came in slightly better than expected, albeit still showing activity in contractionary territory.",
+        "link": "https://www.wsj.com/articles/norways-dual-tap-bond-auction-with-nok2-bln-offer-volume-seems-surprising-6dbf600",
+        "id": "WP-WSJ-0001155426"
+      },
+      {
+        "title": "Hollywood Studios Make Public Their Latest Offer to Striking Writers",
+        "description": "Among the concessions the studios said they offered are a guaranteed minimum length of employment, controls around the use of generative AI and wage increases.",
+        "link": "https://www.wsj.com/articles/hollywood-studios-make-public-their-latest-offer-to-striking-writers-6d88e152",
+        "id": "WP-WSJ-0001155337"
+      },
+      {
+        "title": "Sasol Cuts Dividend After Profit Falls",
+        "description": "Sasol reported adjusted underlying earnings for the year of ZAR66 billion, in line with its guided range, but cut its dividend after net profit came in sharply lower due to booking a number of impairments.",
+        "link": "https://www.wsj.com/articles/sasol-cuts-dividend-after-fy-2023-profit-fell-on-impairments-ade4c538",
+        "id": "WP-WSJ-0001155405"
+      }
+    ],
+    "date": "2023-08-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hearken, in far Bharat's land, a tale of steel and silicon,\nSensex stays, as flat as shield, the ravens find no carrion.\nIn smithy's heat and runes of tech, strength finds their veneration,\nTo counteract the faltering wheels, and lenders' tribulation.\n\nGoldman, the newcomer, strove to join the merchant's guild,\nIn the credit's fickle realm, it hoped its vaults to build.\nBut lo! As autumn leaves do fall, so did their aspiration,\nProven they, as brittle as ice, against the consumer nation.\n\nThe last account, the titans' end, going the way of Asgard,\nWall Street dreams, once strong as Thor, now in discord.\nTheir golden hoard, once thought secure, on China's shores they parlay,\nBut like the helm in storm's midst, they're tossed in disarray.",
+    "feedItems": [
+      {
+        "title": "India's Sensex Flat, Supported by Industrial, Tech Stocks",
+        "description": "India’s benchmark Sensex was flat at 65217.79 as gains in industrial and tech stocks help offset losses in auto and financial stocks.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-edge-lower-at-the-open-4d92808b",
+        "id": "WP-WSJ-0001154886"
+      },
+      {
+        "title": "How Goldman Sachs Fumbled Its Consumer Business",
+        "description": "When Goldman Sachs entered the credit card space in 2019, many consumer banks were concerned that a new competitor had emerged. But just four years later, the firm is pulling back. We explain why.",
+        "link": "https://www.wsj.com/articles/how-goldman-sachs-fumbled-its-consumer-business-b0ef9fa9",
+        "id": "SB11468671339047513912704590167382367068898"
+      },
+      {
+        "title": "Wall Street's China Dreams Slip Away",
+        "description": "U.S. banks and asset managers are struggling to expand their businesses while tensions with China escalate.",
+        "link": "https://www.wsj.com/articles/wall-streets-china-dreams-slip-away-f68ac708",
+        "id": "WP-WSJ-0001140486"
+      }
+    ],
+    "date": "2023-08-23"
+  }
+]
