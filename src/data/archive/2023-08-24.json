@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In lands beyond the Eastern trail,\nWhere dragon and eagle tongues do wail,\nTwo kin of jade, by whispers caught,\nIn silver spider's web, are fraught.\n\nBy hearth's glow, where north winds blow,\nPrices of the gas fall low.\nWoodside's steel avoiding the fight,\nKeeps the flame burning bright, through the night.\n\nIn bear's den, a tale unfolds, \nOf a scribe in chains and icy colds.\nGershkovich, to silence's tower, by November's fall,\nIn the cruel court's never-ending brawl.",
+    "feedItems": [
+      {
+        "title": "China Casts CIA as Villain in New Anti-Spying Push",
+        "description": "State-security ministry accuses two Chinese citizens of spying for U.S. as espionage fears grip both countries.",
+        "link": "https://www.wsj.com/articles/china-casts-cia-as-villain-in-new-anti-spying-push-74e112b0",
+        "id": "WP-WSJ-0001158668"
+      },
+      {
+        "title": "European Natural Gas Prices Slump as Woodside Deal Averts Strike in LNG Facility",
+        "description": "European natural gas prices slumped after a last-minute deal at a key Australian LNG export facility appears to have prevented a strike.",
+        "link": "https://www.wsj.com/articles/european-natural-gas-prices-slump-as-woodside-deal-averts-strike-in-lng-facility-aa331a08",
+        "id": "WP-WSJ-0001158946"
+      },
+      {
+        "title": "Russian Court Extends Pretrial Detention of Jailed WSJ Reporter",
+        "description": "Evan Gershkovich, detained on an espionage charge since March, will remain in a Russian jail until at least Nov. 30.",
+        "link": "https://www.wsj.com/articles/russian-court-extends-pretrial-detention-of-jailed-wsj-reporter-6f789219",
+        "id": "WP-WSJ-0001157349"
+      }
+    ],
+    "date": "2023-08-24"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "A leakage they commence, from Fukushima's pride,\nThe Pacific to baptize, where tritium doth abide.\nA draught of ale for angels, yet in such tiny dose,\nThree decades of slow pour, Japan hath chose. \n\nThe dragons of East stir, their breath doth glow,\nThe metals shiver and drip, their value running low.\nThe golden goblet edges higher, 'gainst fears it's fashioned,\nPray, for China’s dwelling woes, are the goods thrashèd.\n\nSee yonder, the dollar faint, as appetite doth thrive,\nWith soldiers of the market, in tussle they jive.\nNvidia’s strong ale, equities they winning,\nMeanwhile, to jobless claims, our focus is spinning.",
+    "feedItems": [
+      {
+        "title": "Japan Starts Releasing Water From Fukushima Nuclear Plant Into Pacific",
+        "description": "Japan plans to release more than 1.3 million tons of water with small quantities of radioactive tritium over some three decades.",
+        "link": "https://www.wsj.com/articles/japan-starts-releasing-water-from-fukushima-nuclear-plant-into-pacific-7f53bc54",
+        "id": "WP-WSJ-0001158739"
+      },
+      {
+        "title": "Metals Slip Amid Worries Over China Demand",
+        "description": "Base metals prices were falling but gold edged higher in early London trading, as worries around China’s property sector continued to pressure industrial goods.",
+        "link": "https://www.wsj.com/articles/gold-rises-as-investors-focus-on-jackson-hole-9e2053b8",
+        "id": "WP-WSJ-0001158237"
+      },
+      {
+        "title": "Dollar Could Fall as Risk Appetite Improves, Jobless Claims in Focus",
+        "description": "The safe-haven dollar could edge lower as equities rose following strong Nvidia results, ING said, and focus turns to jobless claims data.",
+        "link": "https://www.wsj.com/articles/yuan-weakens-slightly-on-growing-financial-sector-risks-in-china-d60c0166",
+        "id": "WP-WSJ-0001158243"
+      }
+    ],
+    "date": "2023-08-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "The Eurozone bonds, beforehand low in might,\nNow brighten in the twilight’s last gleaming light.\nIn yon UniCredit's wise foretelling,\nGolden yields in the offing, our fortunes swelling.\n\nNext hails VNG from the East, born of Tencent's crest,\nFor America's bounty, she sets her quest.\nTo the tune of one hundred and fifty million,\nAmid the market’s storm, a resolute civilian.\n\nLast, the dragon roars, its ire doth resound,\nHalting Japan’s aquatic gifts ere they abound.\nIn retort to Fukushima’s tainted tear,\nChina's gates are closed, imports disappear.",
+    "feedItems": [
+      {
+        "title": "End of Interest-Rate Rises Would Be Positive for Eurozone Government Bonds",
+        "description": "Eurozone government bonds are expected to deliver higher returns in the remainder of the year in light of yields declining, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-yields-fall-on-worsening-growth-prospects-69583ee4",
+        "id": "WP-WSJ-0001158897"
+      },
+      {
+        "title": "Tencent-Backed VNG Targets About $150 Million in U.S. IPO",
+        "description": "EXCLUSIVE: Vietnamese internet company VNG aims to raise roughly $150 million in a U.S. initial public offering that could take place as soon as next month, according to people familiar with the matter.",
+        "link": "https://www.wsj.com/articles/tencent-backed-vng-targets-about-150-million-in-u-s-ipo-e2161922",
+        "id": "WP-WSJ-0001158784"
+      },
+      {
+        "title": "China Suspends Imports of Aquatic Products From Japan",
+        "description": "China’s customs bureau will suspend all imports of aquatic products from Japan in response to the release of wastewater from the Fukushima Daiichi nuclear plant.",
+        "link": "https://www.wsj.com/articles/china-suspends-imports-of-aquatic-products-from-japan-10633e6d",
+        "id": "WP-WSJ-0001158879"
+      }
+    ],
+    "date": "2023-08-24"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Among the grand halls of Credit Suisse, a plan fell away,\nA scheme for public offering, no more shall see the day.\nThe sphere of Swiss estates it was, with trading volumes low,\nAn echo in the market place, a silenced bellow's blow.\n\nWhen Engie, noble merchant, to Texas ventured forth,\nDid purchase Broad Reach Power, heralding new worth.\nWith coin undisclosed, the trade was made complete,\nA binding pledge in hallowed trust, a promise to keep discreet.\n\nTo the Land of Midnight Sun, where Norse wings freely roam,\nDespite a fall in profit's gain, strong demand did hone.\nThey ponder on a bounty's share, a dividend's promise bright,\nIn the face of dropping lucre still, they strive with all their might.",
+    "feedItems": [
+      {
+        "title": "Credit Suisse Drops Real-Estate Fund IPO Plan",
+        "description": "Credit Suisse said it has abandoned its plan to launch an initial public offering for its Credit Suisse 1a Immo PK real-estate fund due to low trading volumes for listed Swiss real-estate funds.",
+        "link": "https://www.wsj.com/articles/credit-suisse-drops-real-estate-fund-ipo-plan-803b9bd1",
+        "id": "WP-WSJ-0001158891"
+      },
+      {
+        "title": "Engie Buys Texas Battery-Storage Firm",
+        "description": "Engie signed a binding agreement to buy Broad Reach Power from EnCap and Apollo for an undisclosed sum.",
+        "link": "https://www.wsj.com/articles/engie-buys-broad-reach-power-from-apollo-encap-9920aa90",
+        "id": "WP-WSJ-0001158881"
+      },
+      {
+        "title": "Norwegian Air Profit Falls, But Demand Remains Strong",
+        "description": "Norwegian Air Shuttle reported a drop in second-quarter net profit to NOK538 million, but said demand was strong and that it has begun examining the potential for a dividend.",
+        "link": "https://www.wsj.com/articles/norwegian-air-shuttle-2q-net-profit-fell-but-demand-remains-strong-69bf86c9",
+        "id": "WP-WSJ-0001158870"
+      }
+    ],
+    "date": "2023-08-24"
+  }
+]
