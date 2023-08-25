@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of Yankee trade, rises the bond's mighty blade,\nNordea speaks- predictions bleak, the Fed's reprieve hath made.\nYields may mount a step beyond our ken, a bit more to abrade,\nA forge of finance, smoldering, where fortunes are remade.\n\nThe metal gods, their bounty shed, upon the market's altar,\nThough winds of want do howl and rant, their might doth never falter.\nIn Mainland's shadowed firmament, sees BMI the psalter,\nGold retreats, while base conceits, in London's light, do halter.\n\nIn the East, where dragons feast, shares tumble in despair,\nGoldman Sachs prophesies on tracks, of markets bared and bare.\nBeijing's balm, in uncertain palm, fails to clear the air,\nAs in the hearts of those who dart, there breeds a somber care.",
+    "feedItems": [
+      {
+        "title": "Long US Bond Yields Could Rise a Bit More, Nordea Says",
+        "description": "Long Treasury yields might have room to rise a little higher from current levels as the Fed might not have finished interest-rate rises, Nordea said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-spreads-seen-slightly-wider-until-year-end-3cb8d509",
+        "id": "WP-WSJ-0001162292"
+      },
+      {
+        "title": "Metal Prices Set to End Week Higher Despite Demand Headwinds",
+        "description": "Base metals prices were higher while gold slipped in early London trade, and BMI said “a modest demand recovery in Mainland China in the coming months will support gains in base metal prices.”",
+        "link": "https://www.wsj.com/articles/gold-prices-trade-flat-ahead-of-powell-speech-313a3160",
+        "id": "WP-WSJ-0001161765"
+      },
+      {
+        "title": "China Shares End Lower Amid Downbeat Investor Sentiment",
+        "description": "Chinese shares ended lower amid downbeat investor sentiment. Beijing’s easing measures “have not been sufficiently robust to neutralize downside risk in the property market nor to stabilize consumer and investor confidence,” Goldman Sachs said.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-fall-bc355151",
+        "id": "WP-WSJ-0001161723"
+      }
+    ],
+    "date": "2023-08-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Harken, folk, to Saudi's noble quest,\nIn the Kingdom's game of power, none rest.\nWith Beijing's pledge, the scales they tilt,\nA nuclear marvel, from sand to silk.\n\nSadly the price of oil falters low,\nDespite OPEC's restraint, the profits slow.\nUncertainty cloaks the demand's path,\nIn the hush of the market, we feel the wrath.\n\nChina calls, with tender breaks of tax,\nOn the housing market, buyers relax.\nIn effort to lift the downturn's gloom,\nFor new homes, old ones create room.",
+    "feedItems": [
+      {
+        "title": "Saudi Arabia Eyes Chinese Bid for Nuclear Plant",
+        "description": "Beijing’s offer gives Riyadh leverage in talks with Washington on proliferation.",
+        "link": "https://www.wsj.com/articles/saudi-arabia-eyes-chinese-bid-for-nuclear-plant-e4a56f",
+        "id": "WP-WSJ-0001157005"
+      },
+      {
+        "title": "Oil Set for Weekly Loss",
+        "description": "Oil prices ticked higher in Europe but were on course for a weekly loss as concerns about easing supply tightness and a cloudy demand outlook have outweighed reduced OPEC output.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-amid-slump-in-global-oil-inventories-df34504c",
+        "id": "WP-WSJ-0001161767"
+      },
+      {
+        "title": "China Offers Tax Breaks to Home Buyers",
+        "description": "China’s finance ministry unveiled tax breaks for people who sell their homes and repurchase another within a year, a move that could push more homeowners to upgrade their housing as the property downturn continues.",
+        "link": "https://www.wsj.com/articles/china-rolls-out-new-mortgage-rules-to-boost-home-sales-xinhua-says-b2713dc0",
+        "id": "WP-WSJ-0001162289"
+      }
+    ],
+    "date": "2023-08-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon market's dance floor, shift doth rove,\nDollar, the snail, its strength to prove.\nDrives growth, rabbit 'gainst euro dove,\nAs season changes in treasure trove.\n\nThe wolf named Heineken, sells with grace,\nHis business in Russia, for price base.\nIn the hands of Arnest, it finds a place,\nCarlsberg stands, assets erased.\n\ncontract weaves the spider lace,\nEricsson and Huawei, in embrace.\nPatents cross, in shared space,\nIn wisdom of technology's chase.",
+    "feedItems": [
+      {
+        "title": "Dollar Has Potential to Firm Against Euro in 3Q",
+        "description": "The dollar has scope to strengthen against the euro in the current quarter, driven by growth divergence between the U.S. and the eurozone economies, SEB said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-ahead-of-fed-chair-powells-speech-a8d4d8f7",
+        "id": "WP-WSJ-0001161781"
+      },
+      {
+        "title": "Heineken Sells Russia Business…for $1",
+        "description": "The deal with Russia’s Arnest Group comes after Moscow seized the local assets of Danish beer rival Carlsberg.",
+        "link": "https://www.wsj.com/articles/heineken-sells-russia-businessfor-1-313c7976",
+        "id": "WP-WSJ-0001160956"
+      },
+      {
+        "title": "Ericsson and Huawei Renew Licence Deal",
+        "description": "Ericsson has renewed a multiyear global patent cross-licensing pact with Huawei, giving both companies access to each other’s patented, standardized technologies.",
+        "link": "https://www.wsj.com/articles/ericsson-and-huawei-renew-license-deal-giving-access-to-each-others-patents-25a3e448",
+        "id": "WP-WSJ-0001162282"
+      }
+    ],
+    "date": "2023-08-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From recession's well, pulls Germany out,\nWith second quarter spawn of sturdy stout,\nNow economic vines are sprouting stout,\nIn the grapes of growth, there's nary a doubt.\n\nYoung Ramaswamy, in his thirty-eighth year,\nAgainst Trump, he brandishes debate's spear,\nYet, a mighty alehouse strategy is unclear,\nIn the game of thrones, the crown draws near.\n\nOh, woe to Lahaina, kissed by flame,\nThrough Hawaiian Electric, comes a fiery claim,\nAle dark as night, tastes of sorrow and shame,\nIn trial by fire, there's much to tame.",
+    "feedItems": [
+      {
+        "title": "Germany Exits Recession as Economy Stabilises",
+        "description": "Germany left its recession behind in the second quarter, after new data confirmed preliminary results that the economy stalled in the three months to June, but didn’t contract.",
+        "link": "https://www.wsj.com/articles/germany-exited-recession-in-2q-as-economy-remained-flat-confirming-prior-estimates-a5563c9e",
+        "id": "WP-WSJ-0001162276"
+      },
+      {
+        "title": "Vivek Ramaswamy, the 38-year-old political novice, grabbed the spotlight at the first GOP presidential debate, but there was little sign he or other contenders had found a new strategy for overtaking front-runner Trump.",
+        "description": "Vivek Ramaswamy, the 38-year-old political novice, grabbed the spotlight at the first GOP presidential debate, but there was little sign he or other contenders had found a new strategy for overtaking front-runner Trump.",
+        "link": "https://www.wsj.com/politics/vivek-ramaswamy-grabs-spotlight-at-first-republican-primary-debate-b168dd06",
+        "id": "SB11022007417166624547004590170811730756430-d3"
+      },
+      {
+        "title": "Maui County filed a lawsuit  against utility company Hawaiian Electric, alleging that its power lines caused recent wildfires on the island---including one that destroyed the town of Lahaina and killed at least 115 people.",
+        "description": "Maui County filed a lawsuit against utility company Hawaiian Electric, alleging that its power lines caused recent wildfires on the island—including one that destroyed the town of Lahaina and killed at least 115 people.",
+        "link": "https://www.wsj.com/us-news/climate-environment/maui-alleges-hawaiian-electric-caused-lahaina-wildfire-d520f85a",
+        "id": "6E3AD1B4-DCA9-4322-8FBC-FCF23469A378"
+      }
+    ],
+    "date": "2023-08-25"
+  }
+]
