@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Powell doth hold forth, his word akin to decree,\nFrom the Fed's towering helm, he keeps it adrift at sea.\nYet the eager investors inquire, their doubts yet unmet,\n\"When shall the Fed lower the sail?\" The answer lingereth yet.\n\nNews be spread wide, yonder to each earthly pole,\nTales of power, of pain, of each evolving role.\nThus do we gaze upon the world, as it spins and unfurls,\nIn the hands of the Norns, scales tipping like a skald's words.\n\nGold gleams in hands of man, so too in the halls of lore,\nBusiness and finance interweave, a saga evermore.\nGather round, hear the tales, for in them wisdom lies,\nIn the market's constant battle, where profit is the prize.",
+    "feedItems": [
+      {
+        "title": "Despite What Powell Says, the Fed Is Likely Done",
+        "description": "The Federal Reserve chief left the central bank’s options open, in part to prevent investors from asking the next question: When will the Fed cut?",
+        "link": "https://www.wsj.com/articles/despite-what-powell-says-the-fed-is-likely-done-72e4f142",
+        "id": "WP-WSJ-0001164187"
+      },
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-f21c24a8",
+        "id": "SB12155415497297173473604590172723564002604"
+      },
+      {
+        "title": "What's News: Business & Finance",
+        "description": "What’s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-d9994241",
+        "id": "SB12155415497297173473604590172723143751024"
+      }
+    ],
+    "date": "2023-08-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Beneath the great sky's glowing damp,\nNow heat lamps bear less than a lamp's stamp.\nNew designs rise, chic as a doe,\nA backyard's charm in evening's glow.\n\nOnce Martin King stood, cried his dream,\nFor fair pay and jobs, in sunlight's beam.\nEquality sought through coin and craft,\nAn unfinished dream on history's raft.\n\nDoth insurance lie prone 'fore nature's ire?\nFrets of catastrophes, ever dire.\nCoins in billions, counted 'gainst the storm,\nIn a spinning world, far from norm.",
+    "feedItems": [
+      {
+        "title": "Finally: Some Outdoor Heating Lamps That Aren't Plain Ugly",
+        "description": "Who says heat lamps can’t be chic? Designers call these new, attractive options the ultimate shoulder-season backyard upgrade.",
+        "link": "https://www.wsj.com/articles/finally-some-outdoor-heating-lamps-that-arent-plain-ugly-4f6289fc",
+        "id": "WP-WSJ-0001136508"
+      },
+      {
+        "title": "The Forgotten Part of MLK's Dream: Good Jobs and Higher Wages",
+        "description": "At the March on Washington 60 years ago, King and other speakers demanded economic progress for Black Americans as a key to equality.",
+        "link": "https://www.wsj.com/articles/the-forgotten-part-of-mlks-dream-good-jobs-and-higher-wages-160449c9",
+        "id": "WP-WSJ-0001158175"
+      },
+      {
+        "title": "Are We Ready for a $100 Billion Catastrophe? How About $200 Billion?",
+        "description": "Insurance companies are struggling to keep up with economic growth, population shifts, inflation trends and the most unpredictable variable of all: the rising prevelance of natural disasters—big and small.",
+        "link": "https://www.wsj.com/articles/insurance-catastrophe-reinsurance-hurricane-77a69eab",
+        "id": "WP-WSJ-0001160398"
+      }
+    ],
+    "date": "2023-08-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Gina, all do lean and pine,\nCommerce Queen, in talk divine.\nWisdom's draught from her we borrow,\nHer cup runneth o'er, no sorrow.\n\nA thrall named Prigozhin, by Putin maimed,\nIn Kremlin's Godfathership, we are shamed.\nIn Russia's vine, a poisonous grape,\nThe state now drunk on power's jape.\n\nIn tribe and feud, our minds are keyed,\nIn politics it's clear, indeed.\nOur minds akin to barrels of brew,\nIn conflict's ale, west European new.",
+    "feedItems": [
+      {
+        "title": "Everyone Wants to Talk to Gina Raimondo--Even China",
+        "description": "The Commerce Department head tests her expanded reach this weekend.",
+        "link": "https://www.wsj.com/articles/everyone-wants-to-talk-to-gina-raimondoeven-china-38629492",
+        "id": "WP-WSJ-0001161938"
+      },
+      {
+        "title": "The Godfather in the Kremlin",
+        "description": "The very public death of Putin henchman Yevgeny Prigozhin highlights the evolution of Russia into a mafia state held together by violence and incapable of global leadership.",
+        "link": "https://www.wsj.com/articles/the-godfather-in-the-kremlin-e39be66a",
+        "id": "WP-WSJ-0001161512"
+      },
+      {
+        "title": "Why Tribalism Took Over Our Politics",
+        "description": "Social science gives an uncomfortable explanation: Our brains were made for conflict.",
+        "link": "https://www.wsj.com/articles/why-tribalism-took-over-our-politics-5936f48e",
+        "id": "WP-WSJ-0001117022"
+      }
+    ],
+    "date": "2023-08-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Salt and Pepper now I weave a song,\nTheir dance of taste to mouths, it does belong.\nIn life’s fine feast, they play a spicy part,\nTheir subtle zest, a drama they impart.\n\nUpon the fertile valley's sun-kissed land,\nRise high towers of glass and steel, so grand.\nThrough Silicon's sharp minds and hearts so bold,\nA novel city in North shall unfold.\n\nThen cross the sea to where the Gauls reside,\nSarkozy's deeds are shorn of their disguise.\nWith Libyan gold, a campaign he supplied -\nNow he must face the justice that abides.",
+    "feedItems": [
+      {
+        "title": "Pepper...and Salt",
+        "description": "Pepper...and Salt",
+        "link": "https://www.wsj.com/articles/pepper-and-salt-c632ec7f",
+        "id": "SB11022007417166624547004590168692243478302"
+      },
+      {
+        "title": "A group of high-profile Silicon Valley entrepreneurs and investors emerged as backers of a group that plans to build a new city in Northern California.",
+        "description": "A group of high-profile Silicon Valley entrepreneurs and investors emerged as backers of a group that plans to build a new city in Northern California.",
+        "link": "https://www.wsj.com/tech/tech-leaders-emerge-behind-plan-to-build-new-city-near-california-air-base-fc220069",
+        "id": "27492721-0235-45C1-BFF8-8B727A5433E3"
+      },
+      {
+        "title": "French judges ordered former President Nicolas Sarkozy to stand trial over allegations that he accepted millions of euros in cash from the regime of Libya's Moammar Gadhafi for his 2007 campaign.",
+        "description": "French judges ordered former President Nicolas Sarkozy to stand trial over allegations that he accepted millions of euros in cash from the regime of Libya’s Moammar Gadhafi for his 2007 campaign.",
+        "link": "https://www.wsj.com/world/europe/frances-sarkozy-to-stand-trial-in-libya-campaign-finance-case-4087ce67",
+        "id": "4CF7769D-72EB-4ECC-BD6C-3D29A4489B64"
+      }
+    ],
+    "date": "2023-08-26"
+  }
+]
