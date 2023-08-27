@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Zimbabwe's fief, Mnangagwa ascends,  \nBy Odin's might, a second term attends.  \nYet clouded is his claim of victory fair,  \nIn whispers, fraud and suppression fill the air.  \n\nIn lands where Dragon's wisdom reigns supreme,  \nComplexities of faith twist economic dream.  \nFor new dawn's light is masked by past's decree,  \nJust as the tide cannot escape the sea.  \n\nIn East, where Rising Sun casts golden glow,   \nStock-device gears in companies do show.  \nThey heed the call for worth and honor high,  \nLike storm-tossed ships chasing a clear sky.",
+    "feedItems": [
+      {
+        "title": "Zimbabwe's Incumbent President Declared Winner of Election",
+        "description": "Emmerson Mnangagwa secured a second term as president after winning 53% of the vote in a poll marred by repression and allegations of fraud.",
+        "link": "https://www.wsj.com/articles/zimbabwe-president-declared-winner-of-vote-marred-by-repression-fraud-allegations-3b19e002",
+        "id": "WP-WSJ-0001166137"
+      },
+      {
+        "title": "Communist Party Priorities Complicate Plans to Revive China's Economy",
+        "description": "Ideology is driving Beijing’s economic policy to a degree not seen since the opening to the West nearly half a century ago.",
+        "link": "https://www.wsj.com/articles/communist-party-priorities-complicate-plans-to-revive-chinas-economy-84a156d7",
+        "id": "WP-WSJ-0001163028"
+      },
+      {
+        "title": "Japanese Companies Are Making Big Promises to Boost Their Stock Prices",
+        "description": "The Tokyo Stock Exchange has pushed them to pay closer attention to market valuation and shareholder return.",
+        "link": "https://www.wsj.com/articles/japanese-companies-are-making-big-promises-to-boost-their-stock-prices-e7561645",
+        "id": "WP-WSJ-0001159001"
+      }
+    ],
+    "date": "2023-08-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon yonder Wall Street, in the waning light,\nLong-term rates surge, a foreboding sight.\nMarkets tremble, stocks face the blow,\nA storm doth gather, futures bow low.\n\nUpon the realm of wealth, a tale unfurls,\nIn the priciest corner of America's pearls.\nA rich tapestry of fortunes unseen,\nHarboured within a zip code serene. \n\nIn each epoch of life, wisdom's decree,\nAn age  when financial craft is free.\nResearch hath claimed this truth unfurled,\nIn certain years, our best decisions unfurled.",
+    "feedItems": [
+      {
+        "title": "Rising Long-Term Rates Loom Over Wall Street",
+        "description": "Futures markets show a growing expectation that interest rates could stay higher for longer, exerting pressure on stocks.",
+        "link": "https://www.wsj.com/articles/rising-long-term-rates-loom-over-autumn-on-wall-street-3ee03b95",
+        "id": "WP-WSJ-0001164549"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Inside the most expensive zip code in America",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-13480605",
+        "id": "SB11267717657537443359304590175250515963538"
+      },
+      {
+        "title": "The Exact Age When You Make Your Best Financial Decisions",
+        "description": "Research has pinpointed the prime years for making smart financial decisions.",
+        "link": "https://www.wsj.com/articles/the-exact-age-when-you-make-your-best-financial-decisions-2a8163bb",
+        "id": "WP-WSJ-0001137690"
+      }
+    ],
+    "date": "2023-08-27"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From gambler's folly sprouted, a scandal most foul,\nA bet made in jest, hath led to a howl,\nSuch treach'dous sport, by mischief and guile,\nYet God sees it all, each secret defile.\n\n'Bout Barker, we sing, host of great might,\nWhose 'Price is Right' ushered day into night.\nIn Heaven's great market, God asks him ‘come down’,\nHis wares be his virtues, his halo his crown.\n\nA contest of fortune, stocks high and low,\nWho knows which way the wild winds will blow?\nThe monks favor ale stocks, the friars love grain,\nYet, in God's own market, 'tis virtue comes rain.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "The bet that launched a college sports scandal",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-8874f5d3",
+        "id": "SB11267717657537443359304590175081504467569"
+      },
+      {
+        "title": "Bob Barker, Longtime 'Price Is Right' Host, Dies at 99",
+        "description": "He welcomed contestants to “come on down” for more than 30 years as American consumer culture evolved.",
+        "link": "https://www.wsj.com/articles/bob-barker-longtime-price-is-right-host-dies-at-99-c1da7a35",
+        "id": "WP-WSJ-0000616993"
+      },
+      {
+        "title": "Heard on the Street's Stock-Picking Contest",
+        "description": "Read about our columnists’ most- and least-favorite stocks as they make their choices.",
+        "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-contest-bbb58f00",
+        "id": "WP-WSJ-0001146574"
+      }
+    ],
+    "date": "2023-08-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Aniston whose fame adorneth our visage veil,\nHer habit, 'pon breaking, enshrined in tell-tale,\nCancel culture's knave, 'tis the pest she doth rail,\nIn her interview of yore, revealed without fail. \n\nIn Moscow’s cold grasp, lies one Gershkovich bound,\nHis quill stilled by shackles, no freedom is found,\nLawyers plead for release, appeal echoes with sound,\nTill late-November's grasp, his fate thusly crowned. \n\nThen Barker, jest's monarch, with contest so bright,\nPrice's truth for three decades, in his regalia's light.\nUnrehearsed,-spontaneous joy, day or nighttime’s sight,\nVerses honour his standing, under TV's starlight.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "The Jennifer Aniston interview: One habit she wishes she could break, and how she is over cancel culture",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-8e176f30",
+        "id": "SB11267717657537443359304590174923682154304"
+      },
+      {
+        "title": "Lawyers for Evan Gershkovich Appeal Extension of Pretrial Detention",
+        "description": "Lawyers for jailed Wall Street Journal reporter Evan Gershkovich have appealed a Moscow court’s decision to extend his pretrial detention until Nov. 30.",
+        "link": "https://www.wsj.com/articles/lawyers-for-evan-gershkovich-appeal-extension-of-pretrial-detention-d9f2ebcb",
+        "id": "WP-WSJ-0001165778"
+      },
+      {
+        "title": "TV Game-Show Host Bob Barker Was Popular for Decades",
+        "description": "He appeared as host of “The Price Is Right” for 30-plus years, describing his job as creating “spontaneous entertainment with unrehearsed contestants.”",
+        "link": "https://www.wsj.com/articles/tv-game-show-host-bob-barker-was-popular-for-decades-aaef6e68",
+        "id": "SB11927817748417854013304585585530189446988"
+      }
+    ],
+    "date": "2023-08-27"
+  }
+]
