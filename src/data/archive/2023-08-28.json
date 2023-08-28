@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "The coin of land afar, investors doth yet find rare,\nConvinc'd within and without, the dollar strong, no doubt.\nSweet mead to the lips of those in fortress vast,\nIn its strength, they find a repast.\n\nAs the sun doth rise o'er Jackson's quaint hollow,\nThe lenders of the Eurozone, their worries they do swallow.\nFor Powell and Lagarde, with wisdom filled speeches,\nHint at more ales to come, like joyous leeches.\n\nAnon, in the distant realm of the Eastern dragon,\nTheir stocks do rally, prompting many a flagon.\nStamp duties cut and IPOs lighten,\nIn market's warm glow, their spirits brighten.",
+    "feedItems": [
+      {
+        "title": "Investors Still Favor Dollar as Economies Outside the US Look Weaker",
+        "description": "Investors continue to favor the dollar over other major currencies due to the conviction that economic weakness is greater outside of the U.S. than inside it, UniCredit said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-higher-for-longer-u-s-rates-may-weigh-318e9cfc",
+        "id": "WP-WSJ-0001166181"
+      },
+      {
+        "title": "Eurozone Bond Yields Mostly Ease as Market Absorbs Jackson Hole Message",
+        "description": "Eurozone government bond yields mostly eased in early trade as Powell and Lagarde left the door open for further interest-rate rises in their speeches at the Jackson Hole Economic Symposium.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-mostly-ease-as-market-absorbs-jackson-hole-message-9958469b",
+        "id": "WP-WSJ-0001166910"
+      },
+      {
+        "title": "Chinese Stocks Rally After Beijing Moves to Boost Market",
+        "description": "Regulators cut stamp duty and plan to reduce IPO supply.",
+        "link": "https://www.wsj.com/articles/chinese-stocks-rally-after-beijing-moves-to-boost-market-5bf859b4",
+        "id": "WP-WSJ-0001166777"
+      }
+    ],
+    "date": "2023-08-28"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In industry clutch, heated waters dwell,\nMaine's lobstermen, now kelp farmers fell.\nIn shifting tides, ecosystems bend,\nA world disheveled, a time to mend.\n\nOnce chased the lobster, in depths of sea,\nNow turn their hand to kelp's decree.\nTimes change as ocean's fervor swells,\nIn heated waters, a new tale tells.\n\nBeneath the surface, their livelihood wanes,\nTo sea's affliction, no man restrains.\nIn depth's embrace, the lobstermen yearn,\nTo days of old, may they return.",
+    "feedItems": [
+      {
+        "title": "Heating Waters Force Change In Industries That Depend on the Ocean",
+        "description": "Rising temperatures are disrupting ecosystems around the world—and turning Maine lobstermen into kelp farmers.",
+        "link": "https://www.wsj.com/articles/heating-waters-force-change-in-industries-that-depend-on-the-ocean-2833e0d3",
+        "id": "SB11922362572500313757104590177581132687748"
+      },
+      {
+        "title": "Heating Waters Force Change in Industries That Depend on the Ocean",
+        "description": "Rising temperatures are disrupting ecosystems around the world—and turning Maine lobstermen into kelp farmers.",
+        "link": "https://www.wsj.com/articles/heating-waters-force-change-in-industries-that-depend-on-the-ocean-6ae40649",
+        "id": "SB10358837480542313339204590177542423876682"
+      },
+      {
+        "title": "Heating Waters Force Change in Industries That Depend on the Ocean",
+        "description": "Rising temperatures are disrupting ecosystems around the world—and turning Maine lobstermen into kelp farmers.",
+        "link": "https://www.wsj.com/articles/heating-waters-force-change-in-industries-that-depend-on-the-ocean-efd471d6",
+        "id": "WP-WSJ-0001163160"
+      }
+    ],
+    "date": "2023-08-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In realm of coin, a tide doth turn,\nBlue-hued collars now earn, to infernal inflation spurn.\nLowly workers ride the swell, the paid hourglass tell,\nBut can this ship of fortune quell the grinding churn?\n\nThe world peers into the murky hue,\nA Trump-etched future once eschew, now in garish view.\nGlobes on edge, a wary watch, for the leader's next match,\nFor what this second reign might hatch, none can construe.\n\nA dragon peers 'cross the vast sea's crest,\nIdeology in its breast, thwarts the golden pursuit's zest.\nChina bows to creed, not coin, whilst stagnancy doth join,\nIn the East, a cautious dance in vest, reality's test.",
+    "feedItems": [
+      {
+        "title": "Blue-Collar vs. White-Collar Pay: Why a Decadeslong Trend Is Flipping",
+        "description": "Wages are outpacing inflation, driven largely by pay gains for low-income workers. Those gains have helped close the gap between blue- and white-collar workers. WSJ explains what’s driving the higher wages, and whether they will stick around.",
+        "link": "https://www.wsj.com/articles/blue-collar-vs-white-collar-pay-why-a-decades-long-trend-is-flipping-8df5cb39",
+        "id": "SB10358837480542313339204590177500906969596"
+      },
+      {
+        "title": "World Contemplates a Second Trump Administration",
+        "description": "The possibility that the former president will win next year’s election has capitals across the globe on edge.",
+        "link": "https://www.wsj.com/articles/the-world-is-contemplating-a-second-trump-administration-f6e970c4",
+        "id": "WP-WSJ-0001163729"
+      },
+      {
+        "title": "Ideology is driving China's economic policy to a degree not seen since the country's opening to the West nearly half a century ago, deterring its leaders from taking stepsto spur the stalling economy.",
+        "description": "Ideology is driving China’s economic policy to a degree not seen since the country’s opening to the West nearly half a century ago, deterring its leaders from taking steps to spur the stalling economy.",
+        "link": "https://www.wsj.com/world/china/communist-party-priorities-complicate-plans-to-revive-chinas-economy-84a156d7",
+        "id": "EA9885A6-B803-474A-B8CB-EF5D3F4E73C6"
+      }
+    ],
+    "date": "2023-08-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The goat on the hill in her second term's day,\nAs critics watch keenly the play of her sway.\nIn Zimbabwe, they say, fairness lost in the fray,\nA cloud hangs over the electoral ballet.\n\nTo the East sets a hound, with a trade bone to bear,\nTo Beijing, Raimondo in hopeful air, veers,\nIn tense field of commerce, seeks ease, not despair,\nA four-day sojourn amidst dragon's fierce glare.\n\nRabbits aflutter around the world sphere,\nTrump's return to woods brings both joy and fear.\nAllies the snails, recoiling surprise near,\nWhilst some nations the prospect with benefit cheer.",
+    "feedItems": [
+      {
+        "title": "Zimbabwe's president was declared the winner of a second term, after the fairness of the national election was criticized by international observers.",
+        "description": "Zimbabwe’s president was declared the winner of a second term, after the fairness of the national election was criticized by international observers.",
+        "link": "https://www.wsj.com/world/africa/zimbabwe-president-declared-winner-of-vote-marred-by-repression-fraud-allegations-3b19e002?mod=world_lead_pos1",
+        "id": "722BCE4E-58E3-4D56-B04A-0BDBF9DDB970"
+      },
+      {
+        "title": "Commerce Secretary Raimondo arrived in Beijing to begin a four-day visit to China aimed at easing tense trade relations.",
+        "description": "Commerce Secretary Raimondo arrived in Beijing to begin a four-day visit to China aimed at easing tense trade relations.",
+        "link": "https://www.wsj.com/world/china/gina-raimondo-says-china-visit-aimed-at-protecting-u-s-economic-interests-d8ed39c9",
+        "id": "E507A571-5D79-49B8-A654-825EB0E9B296"
+      },
+      {
+        "title": "Countries around the world are already contemplating what would happen if Trump returns as president, with U.S. many allies nervous even as other nations see benefits.",
+        "description": "Countries around the world are already contemplating what would happen if Trump returns as president, with U.S. many allies nervous even as other nations see benefits.",
+        "link": "https://www.wsj.com/world/the-world-is-contemplating-a-second-trump-administration-f6e970c4",
+        "id": "33E72A2B-E3CC-4D45-8E48-A5E17F166432"
+      }
+    ],
+    "date": "2023-08-28"
+  }
+]
