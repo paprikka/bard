@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In gilded halls where fortunes turn and wane,  \nA pause ensues, the oil's pulse restrained.  \nHeld in thrall, investors keenly await,  \nVenezuela and Iran might alter the state.  \n\nBehold, how metals, proud and resolute,  \nIn ancient China's land, their worth dispute.  \nSupport measures strengthen their grand purpose,  \nStirring a spark on the market's surface.  \n\nNew Zealand's plans, bold and undeterred,  \nA digital tax, by multinationals incurred.  \nBy twenty-twenty-five, they shall impose,  \nA check on global giants, courageously proposed.",
+    "feedItems": [
+      {
+        "title": "Oil Pauses as Demand Outlook Appears Uncertain",
+        "description": "Oil prices were steady with investors waiting to see if anything comes from speculation the U.S. is considering easing sanctions against Venezuela and Iran, which could open the door to more crude exports.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-strength-in-china-jet-fuel-market-may-boost-sentiment-131004db",
+        "id": "WP-WSJ-0001169132"
+      },
+      {
+        "title": "Metals Rise as China Looks to Boost Economic Support",
+        "description": "Base metals and gold rose, with ING highlighting that China introduced support measures on Monday for transport, property and other infrastructure projects. “These measures have helped broader sentiment in financial markets.”",
+        "link": "https://www.wsj.com/articles/gold-prices-edge-higher-may-fluctuate-in-near-term-e40554b6",
+        "id": "WP-WSJ-0001169120"
+      },
+      {
+        "title": "New Zealand Plans Digital-Services Tax for Multinationals",
+        "description": "New Zealand said it will prepare to impose a digital-services tax on large multinational companies from 2025 following delays to a planned overhaul of international tax rules.",
+        "link": "https://www.wsj.com/articles/new-zealand-plans-digital-services-tax-for-multinationals-from-2025-b80907b0",
+        "id": "WP-WSJ-0001169748"
+      }
+    ],
+    "date": "2023-08-29"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Jackson's Hall, where eagles soar,\nStirred not the sea of silver lore.\nNo storm did rise, no thunder roar,\nThe dollar's dance steady once more.\n\nIn German lands, the hearth grows cold,\nAs men of commerce tales have told.\nThe seer’s index, bleak and bold,\nForesees a future bought and sold.\n\nStand'rd Chartered, with wings of might,\nAbandons flight in dimming light.\nFor Saudi wealth did cast its sight,\nAnd claimed the sky-borne steed outright.",
+    "feedItems": [
+      {
+        "title": "Dollar Trade Steadies After Jackson Hole Meeting",
+        "description": "Dollar trading steadied following the Jackson Hole meeting, including the Powell speech, as it contained no major surprises and calm returned to the market, Natixis Research said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-risk-on-mood-e36890af",
+        "id": "WP-WSJ-0001169124"
+      },
+      {
+        "title": "German Consumer Mood To Weaken",
+        "description": "German consumer sentiment is forecast to deteriorate in September, with the GfK forward-looking index at a slightly-below consensus minus 25.5, reflecting gloomier income expectations and prospects for the country’s economy.",
+        "link": "https://www.wsj.com/articles/german-consumer-sentiment-to-worsen-in-september-on-fears-of-squeezed-incomes-ee53a036",
+        "id": "WP-WSJ-0001169728"
+      },
+      {
+        "title": "Standard Chartered Exits Aviation Leasing",
+        "description": "Standard Chartered has sold its global aviation finance leasing business for an initial $700 million to a Saudi wealth fund unit.",
+        "link": "https://www.wsj.com/articles/standard-chartered-to-sell-aviation-finance-business-for-700-mln-90e2dc8b",
+        "id": "WP-WSJ-0001169725"
+      }
+    ],
+    "date": "2023-08-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "On Tuesday, when the cocks do crow,\nThe German vaults their wares to sow,\nIn the vigorous vineyard of bonds so fine,\n'Tis a merry ale of fiscal design!\n\nJapan's Nikkei, with a subtle hint,\nDoes in her retail sector print,\nAn increase slight as a daisy's bloom,\nEased by the ale of abating gloom.\n\nBut alas! Toyota's craftsman kin,\nMet with a system's unwelcome din,\nWith twelve foundries in halt and stutter,\nTheir ale turned sour, their toasts to butter.",
+    "feedItems": [
+      {
+        "title": "Germany to Conduct Bond Auction and Syndicated Tap on Tuesday",
+        "description": "Primary market activity in eurozone government bonds is set to pick up on Tuesday, with Germany conducting a bond auction and a syndicated tap.",
+        "link": "https://www.wsj.com/articles/germany-to-conduct-bond-auction-and-syndicated-tap-on-tuesday-55c1ee64",
+        "id": "WP-WSJ-0001169717"
+      },
+      {
+        "title": "Nikkei Rises 0.2%, Led by Retail, Real-Estate Stocks",
+        "description": "Japanese stocks ended slightly higher, led by gains in retail and real-estate stocks, as concerns about borrowing costs continue to abate.",
+        "link": "https://www.wsj.com/articles/australia-shares-on-track-to-open-higher-3d162d58",
+        "id": "WP-WSJ-0001169206"
+      },
+      {
+        "title": "Toyota Suspends Operations at Factories in Japan Due to Malfunction",
+        "description": "Toyota Motor temporarily halted operations at 12 of its 14 factories in Japan on Tuesday due to a malfunction with its systems that left it unable to procure parts as needed.",
+        "link": "https://www.wsj.com/articles/toyota-suspends-operations-at-factories-in-japan-due-to-malfunction-ebdd3ecd",
+        "id": "WP-WSJ-0001169696"
+      }
+    ],
+    "date": "2023-08-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A Volvo sage, so named Karin Svensson,\nIn quest of net zero, a mission taken on.\nLike snails seeking the horizon 'yon,\nElectrification, with aid sought, horizon beckons.\n\nBanned is the cotton, from China's warm soil,\nForced labor reaping, causes blood to boil.\nYet rabbits in burrows, twisting, uncoil,\nOur chain dressed in falsehood, in deceit we toil.\n\nCastles of power, of U.S. and Chinese kind,\nLink new conduits, understanding to find.\nLike dogs sniffing trails, in darkness entwined,\nIn queries of policy, truth they hope to bind.",
+    "feedItems": [
+      {
+        "title": "Q&A With Volvo Group's Karin Svensson",
+        "description": "The sustainability chief of the Swedish truck and bus maker discusses the trek to net zero by 2040, the electrification of transport and the multiple parties needed to get incentives and charging stations in place.",
+        "link": "https://www.wsj.com/articles/q-a-with-volvo-groups-karin-svensson-476306cf",
+        "id": "WP-WSJ-0001125234"
+      },
+      {
+        "title": "Why Banned Cotton From China Is So Hard to Keep Out of the U.S.",
+        "description": "The U.S. has banned many cotton imports from China over concerns it is harvested by forced labor in Xinjiang. We unpack the complexity of the supply chain to explain why experts believe much of the cotton is still making its way to the U.S.",
+        "link": "https://www.wsj.com/articles/why-banned-cotton-from-china-is-so-hard-to-keep-out-of-the-u-s-6d342f99",
+        "id": "SB11507925239501243760304590179510021624910"
+      },
+      {
+        "title": "The U.S. and China agreed to set up new communication channels for economic and commercial issues, Commerce Secretary Raimondo said, including a bilateral forum to discuss export-control measures to reduce misunderstanding of national-security policies.",
+        "description": "The U.S. and China agreed to set up new communication channels for economic and commercial issues, Commerce Secretary Raimondo said, including a bilateral forum to discuss export-control measures to reduce misunderstanding of national-security policies.",
+        "link": "https://www.wsj.com/world/china/u-s-and-china-take-steps-to-ease-tensions-over-export-control-policies-raimondo-says-1c671436",
+        "id": "7CC3572B-BE46-4ACB-B91E-7BA463B5A73D"
+      }
+    ],
+    "date": "2023-08-29"
+  }
+]
