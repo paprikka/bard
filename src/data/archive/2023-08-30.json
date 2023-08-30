@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Hong Kong's prosperous port, Prudential fair,\nThrough index's cap, breathes golden market air.\nResults meet expectations, stakes unfurl,\nBoding bright growth in the coming years’ whirl.\n\nEurozone, stout in heart, on a serrate tide,\nWhere bond yields rise, amid inflation's ride.\nSpain and German lands, keen eyes keenly scan,\nTheir fortunes to tell, ere the ECB's plan.\n\nGlynn draws sight on the southern sphere,\nWhere Australia's flame of inflation is clear.\nCool winds of rate cuts do blow, he cites, \nAs early as '24, in financial night's lights.",
+    "feedItems": [
+      {
+        "title": "Prudential PLC's Hong Kong-Boosted 1H Lifts Shares",
+        "description": "Prudential shares rose to the top of the FTSE100 index after it posted first-half results slightly ahead of expectations and outlined its growth runway for the 2022-27 period.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-at-the-open-88908bf",
+        "id": "WP-WSJ-0001172279"
+      },
+      {
+        "title": "Eurozone Bond Yields Rise Amid Risks of Higher-Than-Expected Inflation Data",
+        "description": "Eurozone government bond yields rose as markets see odds of higher-than-expected inflation in Spain and Germany, key data ahead of the ECB’s mid-September monetary policy meeting, Citi said.",
+        "link": "https://www.wsj.com/articles/german-october-2027-green-bobl-shows-concession-ahead-of-auction-6d80591",
+        "id": "WP-WSJ-0001172824"
+      },
+      {
+        "title": "Glynn's Take: Australia's Cooling Inflation Opens Door to Early 2024 Rate Cuts",
+        "description": "Australia’s inflation readings continue to cool rapidly and should be shifting the conversation to a discussion about the timing of coming interest-rate cuts.",
+        "link": "https://www.wsj.com/articles/glynns-take-australias-cooling-inflation-opens-door-to-early-2024-rate-cuts-efbba0a4",
+        "id": "WP-WSJ-0001172822"
+      }
+    ],
+    "date": "2023-08-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of chariots oft come the tell of gain,\nIn great Europa's leafy, trodden terrain.\nAs umber hares with bounding leaps of joy,\nSo carriages find growth from shortage's wane.\n\nWhilst Orsted, likened to a aging hound,\nFaces a fall on soil of Yank's own ground.\nSupply and rate, such nipping dogs of strife,\nMay cause a bleat of loss, in billions found.\n\nNow Ukraine's drone, a hawk in evening's shroud,\nStrikes deep in bear's own land, bold and loud.\nAnd Moscow, stung, sends forth a cloud of wrath,\nLike snail-shelled missiles toward the sunlit crowd.",
+    "feedItems": [
+      {
+        "title": "European Union New Car Sales Rise",
+        "description": "Passenger-car registrations in the EU increased around 15% in July, with all major markets contributing to the overall growth as component shortages eased.",
+        "link": "https://www.wsj.com/articles/european-union-new-car-sales-rose-in-july-helped-by-easing-of-parts-shortages-5af266c4",
+        "id": "WP-WSJ-0001172815"
+      },
+      {
+        "title": "Orsted Faces Possible Hit on US Assets",
+        "description": "Orsted said it may have to book impairments of up to $2.3 billion on its U.S. portfolio due to supply chain and tax credit issues and higher interest rates.",
+        "link": "https://www.wsj.com/articles/orsted-could-book-impairments-of-up-to-2-34-bln-on-us-portfolio-dd8dc226",
+        "id": "WP-WSJ-0001172802"
+      },
+      {
+        "title": "Ukrainian Drones Strike Deep Inside Russia, Hitting Military Airfield",
+        "description": "As Kyiv disabled four Russian planes in a strike on the Pskov air base, Moscow launched a missile barrage on the Ukrainian capital.",
+        "link": "https://www.wsj.com/articles/ukrainian-drones-strike-deep-inside-russia-hitting-military-airfield-other-targets-e42ca54",
+        "id": "WP-WSJ-0001172779"
+      }
+    ],
+    "date": "2023-08-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the cavernous heart of Harmony's mine,\nGold doth shine forth with splendid divine,\nForecasts met with high-grade ore,\nAs gold prices surge evermore.\n\nPrudential profits, rise one might,\nIn the dawn's early light.\nCuts in costs, asset gains behold,\nA tale of riches in billion-fold.\n\nA tempest swirls in EUR/USD trade,\nBy unclear interest rates we are swayed,\nUncertitude from central banks takes hold,\nAs the exchange's tale doth unfold.",
+    "feedItems": [
+      {
+        "title": "Harmony Gold Meets Forecasts",
+        "description": "Harmony Gold Mining reported fiscal 2023 earnings in line with its recent guidance, as it benefited from higher underground recovered grades and improved gold prices.",
+        "link": "https://www.wsj.com/articles/harmony-gold-mining-swung-to-profit-87015ea9",
+        "id": "WP-WSJ-0001172781"
+      },
+      {
+        "title": "Prudential Profit Rises 6%",
+        "description": "Prudential posted an above-forecast operating profit of $1.5 billion in the first half of 2023, helped by lower costs and higher asset-management profits.",
+        "link": "https://www.wsj.com/articles/prudential-plc-first-half-operating-profit-rises-6-3c74a8d6",
+        "id": "WP-WSJ-0001172759"
+      },
+      {
+        "title": "EUR/USD Trade Is Volatile Due to Unclear Interest-Rate Outlook",
+        "description": "Trading in EUR/USD has remained volatile, mainly due to the current lack of clear guidance from central banks on the interest-rate outlook, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/yen-weakens-amid-risk-on-sentiment-2266314b",
+        "id": "WP-WSJ-0001172349"
+      }
+    ],
+    "date": "2023-08-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hark to the tale of Thompson, Mark!\nCNN doth deem he may dispel the dark,\nIn its halls of news viewed sparse and stark,\nNew York's once chief set to embark.\n\nLo, in China where the wisdom tree is swollen,\nYet from its boughs, the fruit is often stolen.\nThe feeble flame of youth employment, sullen,\nLeaves her children burdened and beholden.\n\nBeneath Uncle Sam's sky of endless hue,\nU.S. Steel their secrets to a chosen few doth spew.\nIn bids and bargains, they seek something new,\nThe future of steel, in whispers, they construe.",
+    "feedItems": [
+      {
+        "title": "CNN Expected to Tap Mark Thompson as CEO",
+        "description": "The expected hiring of the former New York Times chief comes as the news network looks to reverse a multiyear ratings slump.",
+        "link": "https://www.wsj.com/articles/cnn-expected-to-tap-ex-new-york-times-chief-mark-thompson-as-ceo-765c18c7",
+        "id": "WP-WSJ-0001172670"
+      },
+      {
+        "title": "Why Many of China's College Grads Are Becoming 'Full-Time Children'",
+        "description": "A record number of Chinese college students graduated this summer, but landing their dream job may be a long shot. WSJ takes a look at why China’s youth unemployment is at all-time highs.",
+        "link": "https://www.wsj.com/articles/why-many-of-chinas-college-grads-are-becoming-full-time-children-948fd2b6",
+        "id": "SB11922362572500313757104590181511531486980"
+      },
+      {
+        "title": "U.S. Steel said it has entered into confidentiality agreements with \"numerous third parties\" and is starting to share due diligence information as it reviews bids for the company or parts of it.",
+        "description": "U.S. Steel said it has entered into confidentiality agreements with “numerous third parties” and is starting to share due diligence information as it reviews bids for the company or parts of it.",
+        "link": "https://www.wsj.com/business/deals/u-s-steel-entering-confidential-pacts-as-it-reviews-bids-a9978a6b",
+        "id": "80484006-4E0E-4B0A-BC14-DBE3143C2036"
+      }
+    ],
+    "date": "2023-08-30"
+  }
+]
