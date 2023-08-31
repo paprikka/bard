@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the land of the Germans, stout and hearty,\nThe labour market stands firm, for naught doth it tarry.\nBut a whisper of struggle, it doth loudly carry,\nLike a barrel of ale, skimmed yet never left empty.\n\nNext, in the kingdom of electronic dreams,\nMicrosoft unbundles, due to regulatory schemes.\n'Tis like serving ye olde ale in separate streams,\nAddressing concerns, in thine EU themes.\n\nLo, the oil in Chine doth lower stride,\nFactory activity slowing, its strength resides.\nYet like an ale-house after eventide,\nStill propped up by U.S. stocks, where hunger hides.",
+    "feedItems": [
+      {
+        "title": "Germany's Jobless Rate Holds Steady",
+        "description": "The German adjusted unemployment rate stood at 5.7% in August, reflecting continued resilience in the labor market, despite signals of a stuttering economy.",
+        "link": "https://www.wsj.com/articles/germanys-jobless-rate-held-steady-in-august-e0a66a39",
+        "id": "WP-WSJ-0001176283"
+      },
+      {
+        "title": "Microsoft to Unbundle Teams Software in Europe",
+        "description": "The software giant says it aims to address concerns raised in an EU antitrust investigation.",
+        "link": "https://www.wsj.com/articles/microsoft-to-unbundle-teams-software-in-europe-3a4682d5",
+        "id": "WP-WSJ-0001174665"
+      },
+      {
+        "title": "Oil Edges Lower on Weak Chinese Factory Data",
+        "description": "Brent inched down in Europe after data showed Chinese factory activity contracted for a fifth consecutive month in August, but the far larger than expected drawdown in U.S. crude stocks was putting a floor under oil’s declines.",
+        "link": "https://www.wsj.com/articles/oil-rises-amid-sustained-supply-tightness-eee206a8",
+        "id": "WP-WSJ-0001175729"
+      }
+    ],
+    "date": "2023-08-31"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In UBS's haughty hall, a wisp of glee,\nCredit Suisse upheaval causes no dismay.\nIn banks holds sway, inflow free, towards sea,\nThird quarter thrives, as dogs make their own way. \n\nMighty Idalia, pelts the coast with scorn,\nThrough Carol's land she whirls, a tempest born.\nIn wake, snails drawn from their shell, forlorn,\nThe rabbit's burrow floods, and power's torn.\n\nIn India's market, a tale spun of gold,\nAdani rebuts claims by critics bold.\nA goat, they say, has bought its own wool sold;\nAlas, each story twisted, truth enfolds.",
+    "feedItems": [
+      {
+        "title": "UBS's 2Q Shows Credit Suisse Upheaval Hasn't Hurt Business",
+        "description": "UBS’s second-quarter results are positive overall, with Credit Suisse’s domestic bank kept, similar targets to pre-acquisition and net inflows that have already turned positive by $8 billion in the third quarter so far, Deutsche Bank said.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-point-to-uncertain-open-19b50a53",
+        "id": "WP-WSJ-0001175566"
+      },
+      {
+        "title": "Idalia Churns Through South Carolina as Tropical Storm",
+        "description": "After making landfall on Florida’s Gulf Coast as a major hurricane, the storm moved quickly across Georgia and South Carolina, causing power outages and flooding.",
+        "link": "https://www.wsj.com/articles/idalia-intensifies-into-hurricane-as-it-heads-toward-florida-3adcca2e",
+        "id": "SB10358837480542313339204590180231781403438"
+      },
+      {
+        "title": "Adani Rejects Allegations by Organized Crime and Corruption Reporting Project",
+        "description": "Indian conglomerate Adani Group has rejected news reports that quoted documents obtained by the Organized Crime and Corruption Reporting Project that said the billionaire family secretly invested millions of dollars into India’s stock market to buy its own shares.",
+        "link": "https://www.wsj.com/articles/adani-rejects-allegations-by-organized-crime-and-corruption-reporting-project-15f5840d",
+        "id": "WP-WSJ-0001176191"
+      }
+    ],
+    "date": "2023-08-31"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Amidst the slumber of Belgian shores, a warning doth resound,\nIts foundations delicate as the ice, yet resilient like a hound.\nBut the bonds of the government stand strong, in Citi's praise they're found,\nGuarded from the storm-tossed sea, 'gainst downgrades they're sound.\n\nMisfortune dark descends on Pernod Ricard, the teller of liquid charm,\nTales of profits not met, and sales that cause alarm.\nYet steadfast doth their pledge remain midst the trading storm,\nWith golden promise for redemption, a shared bounty might disarm.\n\nSpeaks Impala, the bearer of Platinum, of coin earned but scant,\nThe bounty of their soil reduced, the harbingers recant.\nPredicts a rise in cost, by a tenth or less in amount,\nAn echo in the mead hall, a drizzle paints their chant.",
+    "feedItems": [
+      {
+        "title": "Belgian Government Bonds Seen Shielded From Risks of Rating Downgrade",
+        "description": "Belgium’s fragile fundamentals could trigger a rating change but valuations of Belgian government bonds suggest they are shielded from a potential impact, Citi said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-yields-rise-as-inflation-remains-stubborn-5f78d0a7",
+        "id": "WP-WSJ-0001176202"
+      },
+      {
+        "title": "Pernod Ricard Results Disappoint, Shares Fall",
+        "description": "Pernod Ricard reported below-forecast sales and profit for fiscal 2023, but backed its medium-term financial targets and said it planned a €800 million share buyback. The stock opened almost 5% lower.",
+        "link": "https://www.wsj.com/articles/pernod-ricard-to-launch-eur800-mln-buyback-after-rise-in-profit-sales-3164d170",
+        "id": "WP-WSJ-0001176213"
+      },
+      {
+        "title": "Implats Profits Meet Lower End of Guidance",
+        "description": "Impala Platinum reported sharply lower earnings for fiscal 2023 as production fell, and forecast a 6%-10% rise in costs this year.",
+        "link": "https://www.wsj.com/articles/impala-platinum-fy-2023-hurt-by-lower-rand-pgm-pricing-production-sales-f2aa1127",
+        "id": "WP-WSJ-0001176178"
+      }
+    ],
+    "date": "2023-08-31"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon data's whim, EUR/USD doth sway,\nBanks with bated breath, to data bow,\nIts volatile pulse, a minstrel's lay,\nIn market's ear, whispers low.\n\nUBS and Credit Suisse, a union form,\nRecord profit reaped, to tune of twenty-nine,\nAn epic saga, in gold ink adorn,\nIn ledger books, their destinies entwine.\n\nFrom Nippon's coast, the clarion call,\nIn face of looming China tensions rise,\nAn ample chest, with billions tall,\nFor long-neglected shield, the wise prize.",
+    "feedItems": [
+      {
+        "title": "Data Cause Volatility in EUR/USD",
+        "description": "EUR/USD has been highly volatile this week as central banks’ next steps remain dependent on the latest economic data, which are being closely scrutinized by markets, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-risk-on-mood-f922bfdb",
+        "id": "WP-WSJ-0001175731"
+      },
+      {
+        "title": "UBS Posts Record $29 Billion Profit on Credit Suisse Deal",
+        "description": "UBS booked a record $29 billion net profit last quarter after it integrated Credit Suisse into its books.",
+        "link": "https://www.wsj.com/articles/ubs-begins-next-act-in-credit-suisse-merger-926d98c2",
+        "id": "WP-WSJ-0001176161"
+      },
+      {
+        "title": "Japan Looks to Boost Defense Budget by 13% and Add New Missiles",
+        "description": "China tensions loom over $53 billion plan, which raises funds for long-neglected maintenance.",
+        "link": "https://www.wsj.com/articles/japan-looks-to-boost-defense-budget-by-13-and-add-new-missiles-fa398f16",
+        "id": "WP-WSJ-0001176093"
+      }
+    ],
+    "date": "2023-08-31"
+  }
+]
