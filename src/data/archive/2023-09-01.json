@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In round table talks midst the common folk,\nDost the Euro stumble and choke.\nIn banks of yore, prayerful hope abounds,\nYet in this loss, no solace is found.\n\nOn the morrow, SAS finds its flight,\nBack in profit, a most welcome sight.\nWith strong demand, and the passenger tide,\nTheir coffers refilled, they taketh in stride.\n\nAlas! Salzgitter, drowned in despair,\nSees its future less bright, and far from fair.\nThieves have looted a fortune in copper, \nPrompting a warning, profits shall taper.",
+    "feedItems": [
+      {
+        "title": "Stagnation Worries Weigh on Euro",
+        "description": "Worries about a deteriorating eurozone economy is putting pressure on the euro, Ulrich Leuchtmann, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/stagnation-worries-weigh-on-euro-4a7884aa",
+        "id": "WP-WSJ-0001179576"
+      },
+      {
+        "title": "SAS Back in Profit on Strong Demand",
+        "description": "SAS swung to a bigger-than-expected net profit in the third quarter as higher demand drove a 54% rise in revenue.",
+        "link": "https://www.wsj.com/articles/sas-swings-to-forecast-beating-net-profit-on-higher-demand-b4db98ec",
+        "id": "WP-WSJ-0001179568"
+      },
+      {
+        "title": "Salzgitter Withdraws Outlook After Aurubis Problems",
+        "description": "Salzgitter suspended its earnings guidance for 2023 after its Aurubis unit said thieves had stolen copper with a value in the three-digit-million-euro range, prompting a profit warning.",
+        "link": "https://www.wsj.com/articles/salzgitter-suspends-guidance-after-aurubis-cuts-earnings-forecast-f1eacaf8",
+        "id": "WP-WSJ-0001179549"
+      }
+    ],
+    "date": "2023-09-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Nippon's realm where sun doth rise,\nTrading houses claim their prize.\nElectronics sing high yield's song,\nWhilst government bonds hint at long.\n\nIn Eurozone, the interest frets,\nYet weakness in the economy begets.\nGains traction do they strive and seek,\nTheir yields, alas, remaining weak.\n\nLo! Tesla with its steely charge,\nUnveils a Model, range made large.\nIn China's vast and potent land,\nThe price doth rise upon its brand.",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 0.3%, Led by Trading Houses, Electronics",
+        "description": "Japanese stocks ended higher, led by gains in trading houses and electronics markers, as long-term government bond yields declined ahead of U.S. jobs data due later in the day.",
+        "link": "https://www.wsj.com/articles/australia-shares-likely-to-slip-at-open-ad84bd2d",
+        "id": "WP-WSJ-0001178916"
+      },
+      {
+        "title": "Eurozone Bond Yields Edge Up But Signs of Economic Weakness Gain Traction",
+        "description": "Eurozone government bond yields edged higher but remained off recent highs amid mounting evidence the economy is weakening, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-supply-to-accelerate-in-september-a7b06d7e",
+        "id": "WP-WSJ-0001179529"
+      },
+      {
+        "title": "Tesla Unveils New Model 3 in China With Longer Range---and a Steeper Price Tag",
+        "description": "The sleeker new version has a rear passenger screen and a refreshed range, but isn’t the cheaper offering that some company watchers had expected.",
+        "link": "https://www.wsj.com/articles/tesla-unveils-new-model-3-in-china-with-longer-rangeand-a-steeper-price-tag-8246b68f",
+        "id": "WP-WSJ-0001179511"
+      }
+    ],
+    "date": "2023-09-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the Eastern land of dragons, Tesla doth strive,\nChopping coin for Model S and X, to keep the dream alive.\nIn the clash of metal steeds, competition fiercely rife,\nThe bard sings of price tags cut, in the dance of trade and life.\n\nA warning bell in Hong Kong peals, in stormy weather’s wake,\nTrading halls silent and still, respite the traders take.\nWith typhoon's fury looming large, the city bends, not breaks,\nThe bard's quill dips in tempest's ink, the tale of caution makes.\n\nInterest’s heat doth scorch the land, its flames rise higher still,\nHomeowners, merchants, lords of land, at mercy of its will.\nIn this gamble some shall win, whilst others pay the bill,\nThe bard weaves verse with measured heart, ‘gainst the monetary chill.",
+    "feedItems": [
+      {
+        "title": "Tesla Cuts Prices Again in China as Competition Heats Up",
+        "description": "Tesla announced price cuts for its Model S and Model X cars in China, two weeks after having lowered the premium vehicles’ price tags to boost sales in the world’s biggest electric-vehicle market.",
+        "link": "https://www.wsj.com/articles/tesla-cuts-prices-again-in-china-as-competition-heats-up-d254070a",
+        "id": "WP-WSJ-0001179492"
+      },
+      {
+        "title": "Hong Kong Trading Session Canceled Due to Typhoon",
+        "description": "Hong Kong’s trading session was canceled due to a typhoon alert issued by the government, which is at signal No. 8.",
+        "link": "https://www.wsj.com/articles/hong-kong-morning-trading-session-to-be-delayed-due-to-typhoon-bccbd235",
+        "id": "WP-WSJ-0001179060"
+      },
+      {
+        "title": "Rates Are Up. We're Just Starting to Feel the Heat.",
+        "description": "Homeowners. Car buyers. Landlords. Big businesses. Here’s who stands to lose—and in some surprising cases, win—as interest rates stay high in the years ahead.",
+        "link": "https://www.wsj.com/articles/interest-rates-investing-mortgage-banks-real-estate-debt-ca87c251",
+        "id": "WP-WSJ-0001177588"
+      }
+    ],
+    "date": "2023-09-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the market's grand bustling gyre,\nBehold Mercedes, noble steed,\nYet her worth's not echoed in her creed,\nFor a crisis unseen, does the crowd misread.\n\nBeneath the sun's relentless glare,\nIndia, the snail, lags in race,\nGreen-energy's hare sets a daunting pace,\nWhile resources wane, a weary chase.\n\nThe scholars in their ivy towers,\nObserve the dog and rabbit's duels,\nIn tales woven by the minstrel's rules,\nSeek they wisdom or are they but fools?",
+    "feedItems": [
+      {
+        "title": "Where to Find a Deal on Mercedes and BMW",
+        "description": "The stocks of the car companies have rarely been cheaper, as investors foresee a deep crisis that may never come.",
+        "link": "https://www.wsj.com/articles/mercedes-bmw-vw-stocks-german-car-companies-ba4e9a73",
+        "id": "WP-WSJ-0001176904"
+      },
+      {
+        "title": "India Is Losing a Green-Energy Subsidy Race",
+        "description": "Huge green subsidies from wealthy countries could slow climate progress for some of the world’s biggest carbon emitters by drawing away badly needed resources.",
+        "link": "https://www.wsj.com/articles/india-is-losing-a-green-energy-subsidy-race-1936debb",
+        "id": "WP-WSJ-0001175185"
+      },
+      {
+        "title": "Harvard Business Professor Analyzes TV and Movie Negotiation Scenes",
+        "description": "How well do characters in film and TV reflect successful negotiating strategies? Guhan Subramanian, head of Harvard Law School’s Program on Negotiation, analyzes the tactics displayed in “Friends,” “The Office,” “Entourage,” “Mad Men” and other shows.",
+        "link": "https://www.wsj.com/articles/harvard-business-professor-analyzes-tv-and-movie-negotiation-scenes-7d6bf66f",
+        "id": "SB11507925239501243760304590185393628545782"
+      }
+    ],
+    "date": "2023-09-01"
+  }
+]
