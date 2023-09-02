@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In China’s realm, true fury unveiled,\nAs Typhoon Idalia's rival assailed.\nA tempest of utmost fears, \nFirst in the wheel of five years.\n\nIn the land where freedom makes its bed,\nA trumpeted leader garners dread,\nChose by nearly twain thirds of the GOP,\nThough clouded in criminal cases, still beheld free.\n\nYoung souls of Nippon, in currencies speak,\nFind abroad labor does their fortunes peak.\nYen falls and the wage gap grows,\nPushes them to emigrate, as the Eastern wind blows.",
+    "feedItems": [
+      {
+        "title": "China Lashed by Typhoon Rivaling Idalia",
+        "description": "Hong Kong meteorologists issued their highest storm alert—the first level-10 typhoon in five years.",
+        "link": "https://www.wsj.com/articles/china-typhoon-saola-storm-48d982de",
+        "id": "WP-WSJ-0001179691"
+      },
+      {
+        "title": "Trump Is Top Choice for Nearly 60% of GOP Voters",
+        "description": "Donald Trump has expanded his dominating lead for the Republican presidential nomination, a new Wall Street Journal poll shows, as GOP primary voters overwhelmingly see his four criminal cases as lacking merit.",
+        "link": "https://www.wsj.com/articles/trump-is-top-choice-for-nearly-60-of-gop-voters-wsj-poll-shows-877252b6",
+        "id": "WP-WSJ-0001180152"
+      },
+      {
+        "title": "Young Japanese Find It Pays---Double---to Work Abroad",
+        "description": "The wage gap widens with wealthiest nations as the yen falls, driving some to weigh emigration.",
+        "link": "https://www.wsj.com/articles/young-japanese-find-it-paysdoubleto-work-abroad-a5b48fb1",
+        "id": "WP-WSJ-0001179474"
+      }
+    ],
+    "date": "2023-09-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land where fires rage, a dragon's breath unholy,\nBy the grace of Odin's eye, we spy its birth, its folly.\nYet the horn of Heimdall silent remains, no warnings fill the air,\nMay the gods gift us a beacon's might, to wither the Dragon's glare.\n\nA new chieftain treads the ash-filled ground, Shawn Fain his name,\nIn Detroit's realm and Wall Street's halls, he kindles a different flame.\nWith the power of Thor's boisterous hand, he readies a mighty strike,\nThree giants of iron and steel must face his tempest, alike.\n\nFrom the cold heart of the Midwest, a tale of Bulls and Pistons rings,\nYoung Jordan faced the Detroit Goons, amidst the clash of kings.\nA saga of beauty over beast, for the Skald's lore, it yearns,\nThe fire of competition's tale, in the mead-hall it burns.",
+    "feedItems": [
+      {
+        "title": "Better Tech Could Save Lives in a World of Bigger, Faster, More Devastating Fires",
+        "description": "We can already see fires start from space, soon after they start. Here’s why we don’t yet have a nationwide system for alerting us when they do—but could someday.",
+        "link": "https://www.wsj.com/articles/how-better-tech-could-save-lives-in-a-world-of-bigger-faster-more-devastating-fires-665c7fb5",
+        "id": "WP-WSJ-0001179146"
+      },
+      {
+        "title": "The Man Who Has Detroit, Wall Street and the White House on Edge",
+        "description": "United Auto Workers President Shawn Fain is throwing out the traditional union playbook and preparing for a strike, possibly against three automakers at once.",
+        "link": "https://www.wsj.com/articles/uaw-union-strike-shaw-fain-detroit-president-eb1bdd3f",
+        "id": "WP-WSJ-0001177357"
+      },
+      {
+        "title": "What Michael Jordan Learned From Detroit's Goons",
+        "description": "For a Midwestern teen in the late ’80s and early ’90s, the rivalry between the NBA’s Bulls and Pistons showed how beauty can triumph over brutality",
+        "link": "https://www.wsj.com/articles/what-michael-jordan-learned-from-detroits-goons-dba865d9",
+        "id": "WP-WSJ-0001166539"
+      }
+    ],
+    "date": "2023-09-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the tomes of Tolkien, sing and cheer,\nIn secular times, his Christian lore stays clear,\nLike ale keeping morals in our sphere,\nIn his stories, providence doth appear.\n\nIn the halls of coin, a tempest does stir,\nAsset managers shield their secrets with a blur,\nLike monks hiding the last cask of liqueur,\nTransparency they dob't prefer.\n\nThe S&P with strength like a friar's prayer,\nIts weekly performance beyond compare,\nWith Dow and Nasdaq, their gains they share,\nLike monks sipping wine in the monastic lair.",
+    "feedItems": [
+      {
+        "title": "Tolkien's Biblical Epic",
+        "description": "The long-lasting popularity of ‘The Lord of the Rings’ shows that in a secular age, readers still respond to Judeo-Christian teachings about morality, providence and power.",
+        "link": "https://www.wsj.com/articles/tolkien-lord-of-the-rings-biblical-morality-5d806107",
+        "id": "WP-WSJ-0001156552"
+      },
+      {
+        "title": "A coalition representing the biggest private-equity and hedge funds sued the SEC to block new regulations aimed at giving investors more transparency from asset managers.",
+        "description": "A coalition representing the biggest private-equity and hedge funds sued the SEC to block new regulations aimed at giving investors more transparency from asset managers.",
+        "link": "https://www.wsj.com/finance/regulation/private-equity-hedge-funds-sue-sec-to-fend-off-oversight-345ce372",
+        "id": "45F83AF8-C9CB-4288-A50B-66CE72114BC7"
+      },
+      {
+        "title": "The S&P 500 rose Friday, finishing its best weekly performance since June. The broad index gained 0.2%, while the Dow added 0.3% and the Nasdaq eased less than 0.1%.",
+        "description": "The S&P 500 rose Friday, finishing its best weekly performance since June. The broad index gained 0.2%, while the Dow added 0.3% and the Nasdaq eased less than 0.1%.",
+        "link": "https://www.wsj.com/finance/stocks/stocks-clinch-weekly-gain-ahead-of-labor-day-154560e2",
+        "id": "909F7908-1D84-469E-8B0E-1C66FF502753"
+      }
+    ],
+    "date": "2023-09-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "\"Three million jobs spring, like sprightly pups at play,\nTales of resilience, defying Fed's dismay,\nIn the span of moons twelve, amidst August's sweltering day,\nThe economy, like a robust goat, finds its way.\n\nArm, a wizard of design, weighs gold in great heaps,\nEyeing the stag's prized horn, its ambition leaps,\nAspiring for a crown, where fifty billion creeps,\nLike a rabbit poised for sprint, into new bounds it seeps.\n\nOh, Rosalind of the Walgreens, wears her mantle no more,\nIn the shadow of three winters, she leaves the company's core,\nLike a snail withdrawing, to explore some new shore,\nThe chapter ends, yet awaits another lore.\"",
+    "feedItems": [
+      {
+        "title": "U.S. employers added 3.1 million jobs during the past 12 months, including 187,000 in August, the Labor Department said, offering evidence that the pandemic and policy responses made the economyresilient to the Fed's rate increases.",
+        "description": "U.S. employers added 3.1 million jobs during the past 12 months, including 187,000 in August, the Labor Department said, offering evidence that the pandemic and policy responses made the economy resilient to the Fed’s rate increases.",
+        "link": "https://www.wsj.com/economy/jobs/jobs-report-august-today-unemployment-economy-de847415",
+        "id": "90F35947-2733-4A6E-BB06-026AE54D48C7"
+      },
+      {
+        "title": "British chip designer Arm is eyeing a target valuation between $50 billion and $55 billion for its IPO.",
+        "description": "British chip designer Arm is eyeing a target valuation between $50 billion and $55 billion for its IPO.",
+        "link": "https://www.wsj.com/finance/investing/arm-looks-to-target-ipo-at-50-55-billion-valuation-85b17011",
+        "id": "BD8437F5-F989-4C1A-BAB0-130FCB785109"
+      },
+      {
+        "title": "Rosalind Brewer has stepped down as CEO of Walgreens less than three years after taking on the role.",
+        "description": "Rosalind Brewer has stepped down as CEO of Walgreens less than three years after taking on the role.",
+        "link": "https://www.wsj.com/business/walgreens-chief-executive-roz-brewer-steps-down-4fbd1733",
+        "id": "2FD861BB-AC9E-4978-8ED4-EBCDCDB3410F"
+      }
+    ],
+    "date": "2023-09-02"
+  }
+]
