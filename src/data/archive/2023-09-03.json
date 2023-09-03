@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A rift in gold and purse we spy,\nNot born of market's hearty cry,\n'Tis deficit, the hound unleashed,\nInto economy, it's not reached. \n\nUpon the Man of Fire's stead,\nRain did fall, a river's bed.\nSnails and tortoises find glee,\nWhile men in mud are stuck, not free.\n\nAlas, the minstrel of the tide,\nIn his own Margaritaville, he died.\nSings a beach-bound goat no more,\nSilenced, hustle, and salty lore.",
+    "feedItems": [
+      {
+        "title": "Do Higher Deficits Cause Inflation? Not This Year",
+        "description": "The gap between federal spending and revenue is widening, but not for reasons that stimulate the economy.",
+        "link": "https://www.wsj.com/articles/do-higher-deficits-cause-inflation-not-this-year-1177e15d",
+        "id": "WP-WSJ-0001177714"
+      },
+      {
+        "title": "Heavy Rain Leaves Burning Man Stuck in Mud",
+        "description": "An overnight storm dropped nearly an inch of rain on the arid desert where Burning Man is taking place, prompting organizers to close the gates to traffic and order tens of thousands of participants to shelter in place.",
+        "link": "https://www.wsj.com/articles/heavy-rain-leaves-burning-man-stuck-in-mud-c9cde648",
+        "id": "WP-WSJ-0001182909"
+      },
+      {
+        "title": "Jimmy Buffett, 'Margaritaville' Singer and Beach-Themed Businessman, Dies",
+        "description": "The crooner sang about beach bums, hustlers and pirates while heading up numerous business ventures.",
+        "link": "https://www.wsj.com/articles/jimmy-buffett-margaritaville-singer-and-beach-themed-businessman-dies-26e63495",
+        "id": "WP-WSJ-0001176056"
+      }
+    ],
+    "date": "2023-09-03"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Pray, ponder on thy golden age, of Roth and 401K,\nSave but for the morrow's stage, in schemes that promise pay,\nFor many a firm hath added these, retirement's solid pillars,\nYet tricky seems the number's ease, that fills the trader's tillers.\n\nLo, a wildcard makes them tremble, Wall Street to White House,\nHis actions they can but assemble, in nervous thought they douse,\nThough unpredictable his current, danger seems apparent,\nIn stocks and shares with one errant, the consequence is rampant.\n\nTo the moon and back we've heard, a moonshot without peer,\nAround the world, each whispered word, a feat that caused great cheer,\nYet in bracing for the familiar, the known path tread before,\nIt seems that nothing is similar, to the unpredictable lore.",
+    "feedItems": [
+      {
+        "title": "Roth vs. Traditional 401(k): Where to Put Your Money for Retirement?",
+        "description": "Thousands of companies have added Roth 401(k)s to their retirement plans. Getting the math right is proving tricky.",
+        "link": "https://www.wsj.com/articles/roth-401k-versus-traditional-retirement-1120bd9f",
+        "id": "WP-WSJ-0001180204"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "He&#x27;s a total wildcard&#x2014;and he&#x27;s making Wall Street and the White House nervous",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-c893e60c",
+        "id": "SB11999913068644574504504590189330559840915"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The moonshot heard round the world",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-1e1e3bf3",
+        "id": "SB11999913068644574504504590189162098304946"
+      }
+    ],
+    "date": "2023-09-03"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the Morrow's dawn, a noble heart ends its beat,\nRichardson of New Mexico, his life's song now complete.\nIn a world beyond ours, perhaps he finds his seat,\nAs Paladin of politics, his legacy replete.\n\nInlining null and void, the minstrel of the summer tide,\nJimmy Buffett sails beyond, where the celestial bodies abided.\nMay he, in paradise, find his cheeseburger aside,\nIn realms ethereal, where heart's desire reside.\n\nA judgement fair, erases a conviction thought just,\nFox's former lieutenant, in whom was placed trust.\nA song of bribes he once hummed, in a game of lust,\nNow United in a dance, under law's fair st. dust.",
+    "feedItems": [
+      {
+        "title": "Bill Richardson, Former New Mexico Governor and U.N. Ambassador, Dies at 75",
+        "description": "The Democrat also served as energy secretary for Bill Clinton and had aspired to be the country’s first Hispanic president.",
+        "link": "https://www.wsj.com/articles/bill-richardson-former-new-mexico-governor-and-u-n-ambassador-dies-at-75-2dbb54c",
+        "id": "WP-WSJ-0001182762"
+      },
+      {
+        "title": "Jimmy Buffett Departs With the Summer",
+        "description": "He understood our longings. May he find a cheeseburger in paradise, medium rare with Muenster’d be nice.",
+        "link": "https://www.wsj.com/articles/jimmy-buffett-departs-with-the-summer-ef4405d",
+        "id": "SB10358837480542313339204590188500902768766"
+      },
+      {
+        "title": "Judge Tosses Conviction of Former Fox Executive in FIFA Bribery Case",
+        "description": "Hernan Lopez had been found guilty of bribing soccer officials to secure broadcasting rights to World Cup-related matches.",
+        "link": "https://www.wsj.com/articles/judge-tosses-conviction-of-former-fox-executive-in-fifa-bribery-case-8ab719f",
+        "id": "WP-WSJ-0001182733"
+      }
+    ],
+    "date": "2023-09-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Beware, yon merchant! Bet not on leveraged ETF,\nIn Odin's shadow, the runes of risk are deft.\n\"Most worthy\", sayeth the wise, \"is the cost borne in jest\",\nYet the serpent's bite in investments lies deep, unconfessed.\n\nSpeak now, o skald, of dwellings rich and fancy-free,\nIn the shiny bosom of America, does the golden manor plea.\nOne hundred million tokens for a hall, do mine ears deceive?\nThe giants of Midgard's market do weave an intricate weave.\n\nHearken now to the tale of Fitbits and Watches, forged in Apple's den,\nBy the hands of tireless dwarves, brought to the homes of men.\nProve they do a worthy charm, wished health to family clans,\nYet hold fast to this wisdom: long-lasting habit demands.",
+    "feedItems": [
+      {
+        "title": "Are Leveraged ETFs Worth the Costs and Risk?",
+        "description": "For most fund categories, the answer is yes, according to new research.",
+        "link": "https://www.wsj.com/articles/leveraged-etfs-risk-cb95693f",
+        "id": "WP-WSJ-0001170668"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "One of America&#x27;s most exclusive enclaves could be about to get its first $100 million home",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-2816c3b",
+        "id": "SB11267717657537443359304590188370927671254"
+      },
+      {
+        "title": "Fitbits, Apple Watches Do Make You Healthier, Say Studies",
+        "description": "Families that track their physical activity together move more, but making habits stick is a challenge.",
+        "link": "https://www.wsj.com/articles/fitness-watch-apple-fitbit-health-family-7896d9d2",
+        "id": "WP-WSJ-0001175226"
+      }
+    ],
+    "date": "2023-09-03"
+  }
+]
