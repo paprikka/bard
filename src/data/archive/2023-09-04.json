@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Verily, 'tis a lornly morn for German kin,\nExports dip and fortunes thin, a stagnate din,\nLike wine in cask, the surplus waning dim,\nGlobal demand, once stout, now turned grim.\n\nTesla's carriage, a model of potent stride,\nBut China bides more time, delivery's ride,\nLike goodly ale fermenting weeks eight or six,\nPatience now the virtue, there's no quick fix.\n\nLament the euro, hard pressed 'gainst dollar might,\nEconomic tales diverge in day and night,\nLike a stout, once heady, now flat and weak,\nOf such fortunes, sad the minstrel doth speak.",
+    "feedItems": [
+      {
+        "title": "German Exports Dip as Economy Stagnates",
+        "description": "Germany’s trade surplus narrowed in July by more than expected, with exports falling 0.9%, reflecting weaker global demand for the country’s goods as signs of an economic slowdown weigh.",
+        "link": "https://www.wsj.com/articles/germanys-trade-surplus-narrowed-more-than-expected-in-july-after-exports-fell-d47bd3fe",
+        "id": "WP-WSJ-0001183773"
+      },
+      {
+        "title": "Tesla China Extends Delivery Time for Model Y Long Range",
+        "description": "Tesla extended the delivery time for the Model Y Long Range to between six and eight weeks, according to Tesla China’s website on Monday.",
+        "link": "https://www.wsj.com/articles/tesla-china-extends-delivery-time-for-model-y-long-range-75342415",
+        "id": "WP-WSJ-0001183701"
+      },
+      {
+        "title": "Euro Struggles Versus Dollar as US, Eurozone Economic Performances Diverge",
+        "description": "The euro has had a tough time against the dollar since mid-July, depreciating by 4.5% over that period, due to a diverging economic performance between the eurozone and the U.S., DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/nzd-usd-dominated-by-u-s-economic-outlook-f6c6fc45",
+        "id": "WP-WSJ-0001183116"
+      }
+    ],
+    "date": "2023-09-04"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon BMW's wheel, joy does surely cast,\nIts orders bloom like doe-eyed rabbits fast.\nThough Europe's share treads lightly as a snail,\nThe double digit climb tells not a tale of past.\n\nAs keeper of the vine, Italy takes a stance,\nIts bonds consolidate, a sprightly dance.\nNot unlike a giddy goat at play,\nIn Eurozone, its gains enhance.\n\nBehold, the squirrel trades his nut so dear,\nSo Nestle parts with allergy frontier.\nIts business, akin to a loyal hound,\nNow stands 'neath Stallergenes Greer's cavalier.",
+    "feedItems": [
+      {
+        "title": "BMW Positive on Order Backlog",
+        "description": "BMW said that In the first quarter, orders in Europe were still slightly lower than the previous year but had been rising into the double digits since April, adding that the order backlog would comfortably carry it to the end of 2023.",
+        "link": "https://www.wsj.com/articles/bmw-sees-good-demand-for-premium-cars-positive-order-backlog-f2e1449",
+        "id": "WP-WSJ-0001183755"
+      },
+      {
+        "title": "Italian Bonds Consolidated YTD Outperformance in Eurozone in August",
+        "description": "Government bond performance of individual eurozone countries was relatively uniform in August, with Italy consolidating its position as an outperformer in year-to-date terms, LBBW said.",
+        "link": "https://www.wsj.com/articles/italian-bonds-consolidated-ytd-outperformance-in-eurozone-in-august-665fd187",
+        "id": "WP-WSJ-0001183740"
+      },
+      {
+        "title": "Nestle Divests Allergy Treatment Business",
+        "description": "Nestle has sold its Palforzia peanut-allergy treatment business to biopharmaceutical company Stallergenes Greer.",
+        "link": "https://www.wsj.com/articles/nestle-sells-peanut-allergy-treatment-business-to-stallergenes-greer-dce84dcf",
+        "id": "WP-WSJ-0001183698"
+      }
+    ],
+    "date": "2023-09-04"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On the land where the sun first awakes, doth the Nikkei ascend,\nFor the chariots of steel, and the halls of coin, lend strength to its beguend.\nHope dances in hearts; a morrow less hasty than today,\nIn the realm of stars and stripes, where fervent dreams hold sway.\n\nThen whispers waft from eastern Gate, with undertones obscure,\nOf dragon kin, in sheep's attire, their motives far from pure.\nTheir cloak and dagger play's been foiled, a hundred times and more,\nIn the tribal land of eagles, where freedom's cry does roar.\n\nYet rise anew, the jade dragon's might, embraced by Zeus's spark,\nFiring chariots of the future, blazing trails in the dark.\nInvestors crowd, talents abound, in this unfolding tale,\nIn the land of the dragon, where innovations never pale.",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 0.7%, Led by Auto, Bank Stocks",
+        "description": "The Nikkei closed 0.7% higher, led by gains in auto, steel and bank stocks, as optimism grows that the U.S. economy will slow down gradually.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-open-higher-18c89d69",
+        "id": "WP-WSJ-0001183114"
+      },
+      {
+        "title": "Chinese Gate-Crashers at U.S. Bases Spark Espionage Concerns",
+        "description": "Washington has tracked about 100 incidents involving Chinese nationals trying to access U.S. military and other installations.",
+        "link": "https://www.wsj.com/articles/chinese-gate-crashers-at-u-s-bases-spark-espionage-concerns-cdef8187",
+        "id": "WP-WSJ-0001178503"
+      },
+      {
+        "title": "Electric Cars Power China's Economic Hopes as Internet Titans Take a Back Seat",
+        "description": "Investors and talent pile into China’s EV and battery industries that are increasingly engines of the country’s growth.",
+        "link": "https://www.wsj.com/articles/electric-cars-power-chinas-economic-hopes-as-internet-titans-take-a-back-seat-26c62d3b",
+        "id": "WP-WSJ-0001183086"
+      }
+    ],
+    "date": "2023-09-04"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Lo! A fickle mistress is Fortune, indeed,\nAs Autumn dons her crimson shroud, investors take heed.\nFor U.S stocks, once Summer's bounty, now in Fall's dread clutch,\nVikings of Wall Street steady their oars, nursing frightful hunch.\n\nLo! the saga of Albemarle, Liontown caught in her ravenous gaze,\nA feast of billions in silver and gold sets the Northern seas ablaze.\nIn the lithium-mine’s vast kingdom, the giants stir and awaken,\nOne behemoth 'gainst another, let not thy courage be shaken.\n\nLo! the dragon of the East shifts, its coils stirring anew,\nTowards a realm of private riches its fiery gaze doth skew.\nIn the heart of China's economy, a seed of change is sown,\nA new department sprouts, 'neath the dragon's fiery crown.",
+    "feedItems": [
+      {
+        "title": "Investors Head Into Fall With Jitters After Summer Rally",
+        "description": "Bets against U.S. stocks have climbed steadily.",
+        "link": "https://www.wsj.com/articles/investors-head-into-fall-with-jitters-after-summer-rally-5e030f8b",
+        "id": "WP-WSJ-0001181843"
+      },
+      {
+        "title": "Albemarle Raises Bid for Australia's Liontown Resources to $4.25 Billion",
+        "description": "The deal would be one of the largest in the lithium-mining industry.",
+        "link": "https://www.wsj.com/articles/albemarle-raises-bid-for-australias-liontown-resources-to-4-25-billion-a7724b32",
+        "id": "WP-WSJ-0001183591"
+      },
+      {
+        "title": "China to Establish Department for Developing Private Economy",
+        "description": "China’s top economic planner said it would establish a designated department to bolster the country’s faltering private economy.",
+        "link": "https://www.wsj.com/articles/china-to-establish-department-for-developing-private-economy-1e410314",
+        "id": "WP-WSJ-0001183649"
+      }
+    ],
+    "date": "2023-09-04"
+  }
+]
