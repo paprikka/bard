@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A rise in the bond is on morrow's morn,\nBounty from eighty-four to a hundred drawn.\nLike rabbits increase in green spring's light,\nYet redemptions fall as owls silent in night.\n\nWorkers in distant shore, arm in arm unite,\nTwo-week strike, they seek for fair plight.\nLike loyal hounds, in pack they rise,   \nUnder southern stars, echo their cries.   \n\nMetals tumble, like leaves descend,\nIn strong dollar's wake, their value bend.\nSure as the snail retreats in sun's glare,\nThe interest-rate's specter provokes dread and despair.",
+    "feedItems": [
+      {
+        "title": "Net Eurozone Government-Bond Issuance Is Set to Rise in September",
+        "description": "Gross government-bond issuance in the eurozone is set to rise to €100 billion in September from €84 billion in August, while redemptions will fall to €47 billion from €61 billion, ING said.",
+        "link": "https://www.wsj.com/articles/uk-dmo-likely-to-reopen-4-oct-2063-gilt-via-syndication-on-tuesday-bafc1e12",
+        "id": "WP-WSJ-0001184969"
+      },
+      {
+        "title": "Chevron LNG Workers in Australia Plan Two-Week Strike",
+        "description": "Workers at two giant natural-gas operations run by Chevron in Australia are planning a two-week strike starting Sept. 14, said Offshore Alliance, a partnership between two local unions.",
+        "link": "https://www.wsj.com/articles/chevron-lng-workers-in-australia-plan-two-week-strike-2a430383",
+        "id": "WP-WSJ-0001184966"
+      },
+      {
+        "title": "Metals Fall Amid Strong Dollar",
+        "description": "Metals prices were falling with a strong dollar and worries about more interest-rate hikes from the Fed spooking investors.",
+        "link": "https://www.wsj.com/articles/gold-falls-rebound-has-likely-run-out-of-steam-d4ab12a7",
+        "id": "WP-WSJ-0001184593"
+      }
+    ],
+    "date": "2023-09-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the realm of shillings and cents, alas, the Euro bends,\nWith the dollar it contends, on the ECB depends.\nLike a vintage too extravagant, the taste of wealth descends,\nWe hail the Brewmaster, to whom hope ascends.\n\nAcross the vast eastern expanse, where the dragon tends,\nShare market's sluggish dance, Beijing's mirth now suspends.\nAs ale goes flat in weary stance, festive froth unbends,\nIn the tavern of prosperity, no song its mirth extends.\n\nLo! Biocredits come like heavenly mead, Earth's saviour it portends,\nBut market's far, a barren seed, this path in prudence ends.\nIn the abbey of mother nature, mighty tasks one attends,\nPour thy coin and care like wine, for on us she depends.",
+    "feedItems": [
+      {
+        "title": "Euro Falls Due to Stronger Dollar; Focus Will Soon Turn to Next ECB Meeting",
+        "description": "The euro fell to a 12-week low against a broadly firmer dollar but Tuesday’s data calendar gives little hope for new direction for the single currency, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/aud-usd-drifts-lower-rba-decision-guidance-key-a4c1e628",
+        "id": "WP-WSJ-0001184596"
+      },
+      {
+        "title": "China Shares End Lower as Sluggish Growth Prospects Weigh",
+        "description": "Chinese shares ended lower on fading optimism over Beijing’s recent supportive measures.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-slip-in-early-trading-2d65caf8",
+        "id": "WP-WSJ-0001184589"
+      },
+      {
+        "title": "Biocredits Could Help Save the Earth. But a Market Is Some Way Off.",
+        "description": "More money is needed to protect the earth’s biodiversity, but there are hurdles in the way of a trading system that could raise the funds needed.",
+        "link": "https://www.wsj.com/articles/biocredits-could-help-save-the-earth-but-a-market-is-some-way-off-92b6090a",
+        "id": "WP-WSJ-0001180017"
+      }
+    ],
+    "date": "2023-09-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Silent drifters on the Dnipro's darkened tide,\nIn Ukraine's bold move against Russian might reside.\n'Spite Ivan's veneer stout, a fissure begins to show,\nStrategic choices, a foe's cunning bow.\n\nAs the frothy sea doth sway and rise, in Britannia's coasts we find,\nMerchants' grins of gilded gains, and confidence entwined.\nYet beware, this surge might wane, if Inflation's beast retreats,\nJust as a sturdy longship may flounder in rough beats.\n\nA prediction in the south, where Underworld's hounds bay,\nSeems not to mark a shift in tone, but RBA holds sway.\nIn the bond's small leap, and bill's brief soar, a secret may be sought,\nLike Odin's ravens, Huginn and Muninn, bringing news of what's been wrought.",
+    "feedItems": [
+      {
+        "title": "Ukraine's Secret Boat Raids Are Exposing Cracks in Russia's Southern Front",
+        "description": "Small, secret boat raids along the Dnipro River are playing an outsized role in Ukraine’s counteroffensive strategy—revealing cracks in Russia’s southern front and creating tough choices for Russian commanders.",
+        "link": "https://www.wsj.com/articles/ukraineriver-63635eeb",
+        "id": "SB12760643500150434811904590192961721135420"
+      },
+      {
+        "title": "UK Retail Sales Rise as Consumer Confidence Improves",
+        "description": "Retail sales in the U.K. increased by 4.1% in the four weeks to Aug. 26, but growth is expected to fall in the coming months as inflation eases.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-rose-in-august-buoyed-by-improving-consumer-confidence-brc-says-6f725197",
+        "id": "WP-WSJ-0001184947"
+      },
+      {
+        "title": "Aussie Bond Bounce May Not Signal Dovish RBA Statement",
+        "description": "Despite a relatively featureless statement from Australia’s central bank when keeping the cash rate unchanged at 4.10%, RBC observed a small bounce in 3-year bond futures and some bank bill futures straight after its release.",
+        "link": "https://www.wsj.com/articles/aussie-bond-bounce-may-not-signal-dovish-rba-statement-c78bea57",
+        "id": "WP-WSJ-0001184939"
+      }
+    ],
+    "date": "2023-09-05"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From the Orient's land, where sun takes its rest,\nThe Garden of the Country, burdened in plight,\nPaid golden coupons, a default to arrest,\nEre grace's close, that late and moonlit night.\n\nIn the lap of Down Under, where kangaroos leap,\nThe Bank in Reserve, unmoved, stands firm;\nYet caution whispers secrets it must keep,\nFor inflation's fire, within, does burn.\n\nUpon the lofty stage of the U.N., vast,\nRussia leads, in theatrics, unabashed, bold,\nCall Waters of Floyd, from memories' past,\nIn Ukraine's tale of sorrow, to be told.",
+    "feedItems": [
+      {
+        "title": "China's Country Garden Makes Overdue Dollar-Bond Payments, Narrowly Avoiding Default",
+        "description": "The property giant paid $22.5 million in coupons to international bondholders just before the end of a 30-day grace period.",
+        "link": "https://www.wsj.com/articles/chinas-country-garden-makes-overdue-dollar-bond-payments-narrowly-avoiding-default-626f515d",
+        "id": "WP-WSJ-0001184912"
+      },
+      {
+        "title": "RBA Stands Pat for a Third Month",
+        "description": "The Reserve Bank of Australia left its official cash rate unchanged, but remained cautious about the outlook, saying that further interest-rate increases remain a possibility as inflation remains too high.",
+        "link": "https://www.wsj.com/articles/rba-stands-pat-for-a-third-month-option-to-hike-further-still-on-table-e8e31cac",
+        "id": "WP-WSJ-0001184701"
+      },
+      {
+        "title": "Russia-Led Theatrics Take Center Stage at U.N.",
+        "description": "Moscow’s invitees to the Security Council’s discussions of the war in Ukraine have included the Pink Floyd co-founder Roger Waters.",
+        "link": "https://www.wsj.com/articles/russia-led-theatrics-take-center-stage-at-u-n-80263885",
+        "id": "WP-WSJ-0001179048"
+      }
+    ],
+    "date": "2023-09-05"
+  }
+]
