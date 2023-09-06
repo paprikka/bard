@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In London's heart, the metals doth decline,\nChina's desire weak, in markets it doth twine.\nAs Loki's trickery, nerves they undermine,\nGold and ores fall, ‘gainst uncertainty they pine.\n\nBarratt's gauntlet cast, in sales they retreat,\nProfits forecast surpassed, yet forward sales they cheat.\nLike Thor, his hammer missed, the future less sweet,\nIn the year's new maw, lesser bounties they'll meet.\n\nNow China's dragon roars, decreeing a ban,\nNo Apple's gift for them, in this foreign plan.\nLike Odin's wisdom lost, their reliance they scan,\nOn foreign wares they toss, begins a new span.",
+    "feedItems": [
+      {
+        "title": "Metals Slip as China Demand Worries Linger",
+        "description": "Base metals and gold prices edged lower in early London trade, as worries around the Chinese economy continued to dominate sentiment.",
+        "link": "https://www.wsj.com/articles/gold-little-changed-after-tumbling-overnight-532f3e23",
+        "id": "WP-WSJ-0001187422"
+      },
+      {
+        "title": "Barratt Forward Sales Slide",
+        "description": "Barratt Developments posted an above-forecast adjusted profit of £884 million for the full-year but reported total forward sales sharply below the figure in 2022.",
+        "link": "https://www.wsj.com/articles/barratt-developments-fy-2023-pretax-profit-rose-backs-guidance-for-lower-fy-2024-sales-7759d373",
+        "id": "WP-WSJ-0001187747"
+      },
+      {
+        "title": "China Bans iPhone Use for Government Officials at Work",
+        "description": "The directive is the latest step in Beijing’s campaign to cut reliance on foreign technology and could hurt Apple’s business in the country.",
+        "link": "https://www.wsj.com/articles/china-bans-iphone-use-for-government-officials-at-work-635fe2f8",
+        "id": "WP-WSJ-0001187702"
+      }
+    ],
+    "date": "2023-09-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Within the market's lively court, the dollar holds fame,\nA saga of its steep ascent, its valor remains the same.\nEven if the surveys falter, draught of losses shall not claim,\nFor DZ's wise seers foretell no reversal in its game.\n\nLo, the Eurozone doth stir, its bond yields arise,\nE'er higher they shall grace the sky, the ECB surmise.\nThe hawk's word in Handelsblatt, wisdom thus apprise,\nForecasting an abiding high, ere the fall guile lies.\n\nIn the face of storm's fierce breath and trouble in the sky,\nNorwegian Air, on wings of faith, hath chosen to fly high.\nUp by seven full points three, their fortunes seem to lie,\nIn autumn's book of reservations, waning not but nigh.",
+    "feedItems": [
+      {
+        "title": "Dollar Should Stay Strong After Tuesday's Steep Gains",
+        "description": "The dollar should hold on to most of Tuesday’s gains, DZ Bank Research said, adding that even if the service purchasing managers surveys are weaker than expected they are “unlikely to trigger a complete reversal of yesterday’s losses in EUR/USD.”",
+        "link": "https://www.wsj.com/articles/usd-jpy-recovers-from-dip-maintains-rising-trend-67d29e4a",
+        "id": "WP-WSJ-0001187102"
+      },
+      {
+        "title": "Eurozone Bond Yields Rise as ECB Looks Set for Higher-for-Longer Rates",
+        "description": "Eurozone government bond yields edged higher after Bundesbank President Joachim Nagel hinted at higher-for-longer interest rates in an interview with German newspaper Handelsblatt, RBC Capital Markets said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-as-ecb-looks-set-for-higher-for-longer-rates-dc66e04b",
+        "id": "WP-WSJ-0001187764"
+      },
+      {
+        "title": "Norwegian Air Positive on Autumn Sales",
+        "description": "Norwegian Air Shuttle said passenger numbers rose 7.3% in August, despite a storm in Norway and the traffic control issues in the U.K. affecting operations, and added the booking momentum for the months ahead looked positive.",
+        "link": "https://www.wsj.com/articles/norwegian-air-shuttle-august-passenger-numbers-rose-on-year-6e42e232",
+        "id": "WP-WSJ-0001187757"
+      }
+    ],
+    "date": "2023-09-06"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From German lands, a downfall doth loom,\nIn factories, no orders do bloom,\nWith numbers much swelled,\nThe goats are compelled,\nTo bemoan such economic gloom.\n\nWhere Eastern dragons claim the sky,\nIn the realm of stocks, their fortunes lie,\nRabbits they wait,\nIn a pondering state,\nAs property's star ascends high.\n\nNow to the East, where samurais dwell,\nA carriage of opulent tell,\nToyota's new steed,\nA snail's luxury indeed,\nIn the market it seeks to excel.",
+    "feedItems": [
+      {
+        "title": "German Manufacturing Orders Tumble",
+        "description": "New orders at German factories fell 11.7% in July, considerably more than expected, a further indication of declining demand for goods from Europe’s largest economy.",
+        "link": "https://www.wsj.com/articles/german-manufacturing-orders-tumbled-by-more-than-expected-in-july-3f7581ad",
+        "id": "WP-WSJ-0001187733"
+      },
+      {
+        "title": "Chinese Shares End Mixed; Property, Finance Stocks Gain",
+        "description": "Chinese shares ended mixed as traders weighed expectations of more stimulus against continued concerns of an economic slowdown.",
+        "link": "https://www.wsj.com/articles/nikkei-up-0-2-led-by-auto-energy-stocks-daad22a0",
+        "id": "WP-WSJ-0001187264"
+      },
+      {
+        "title": "Toyota to Join Global Luxury Car Market With $170,000 Flagship Model",
+        "description": "Toyota thinks the world outside of Japan may finally be ready to embrace its six-figure superluxury flagship car.",
+        "link": "https://www.wsj.com/articles/toyota-to-join-global-luxury-car-market-with-170-000-flagship-model-b432f79f",
+        "id": "WP-WSJ-0001187696"
+      }
+    ],
+    "date": "2023-09-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Agricole's hands, Hiflow now sits and sings,\nA wheel'd vessel 'neath Monetary Kings.\nVerity sweet as mead in accord, they cope,\nIn the market's mirth, they kindle Hope.\n\nShaken, not stirred, McConnell doth stride,\nBack to Senate's chamber, no illness to hide.\nGod's grace, no stroke did the healer decree,\nThe alehouse of health, he hath found, verily.\n\n\"A rise in the east!\", the crier doth tell,\nProperty stocks in China doth swell.\nMore potent than wine, this hopeful stimulus,\nA toast to Beijing, their cup runneth with us.",
+    "feedItems": [
+      {
+        "title": "Credit Agricole Takes Ownership of Hiflow",
+        "description": "Credit Agricole’s consumer-finance arm has bought a stake in Hiflow that gives it majority ownership in the vehicle-delivery company and agreed a cooperation deal.",
+        "link": "https://www.wsj.com/articles/credit-agricole-consumer-finance-takes-majority-stake-in-hiflow-9327768c",
+        "id": "WP-WSJ-0001187714"
+      },
+      {
+        "title": "McConnell Returns to Senate After Health Scares",
+        "description": "Congress’s top doctor says the Senate minority leader didn’t suffer a stroke.",
+        "link": "https://www.wsj.com/articles/mitch-mcconnell-didnt-suffer-stroke-congresss-doctor-says-e8ec054e",
+        "id": "WP-WSJ-0001185784"
+      },
+      {
+        "title": "Chinese Property Stocks Jump Amid Hopes for More Stimulus",
+        "description": "Chinese property stocks jumped amid hopes of more property-market stimulus ahead and a state-owned media report saying Beijing might roll out new measures to shore up the sector.",
+        "link": "https://www.wsj.com/articles/chinese-property-stocks-jump-amid-hopes-for-more-stimulus-b07e0353",
+        "id": "WP-WSJ-0001187628"
+      }
+    ],
+    "date": "2023-09-06"
+  }
+]
