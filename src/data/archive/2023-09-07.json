@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of parchment pure, an alliance draws nigh,\nWestRock and Kappa plot, 'neath capitalism's sky.\nTheir might combined, a dragon's hoard of gold they deal,\nIn Odin's name, these giants of paper field shall seal.\n\nAs tempests brew o'er the ocean of currency exchange,\nBank lords of Europe and the States, their words arrange.\nWill new winds fill the sails of EUR/USD might?\nOnly Frigg knows, on the morrow of Thor's blessed night.\n\nIn southern lands where palm trees sway, the keeper of gold stands,\nMalaysia's central bank holds tight with steady hands.\nUnmoved they stay, as Fenrir's rage in markets twist and turn,\nFor in their gaze, steady growth and tranquil inflation churn.",
+    "feedItems": [
+      {
+        "title": "Paper Companies Near Big Merger Deal",
+        "description": "WestRock, Smurfit Kappa are in talks to create a company with combined value of roughly $20 billion.",
+        "link": "https://www.wsj.com/articles/paper-companies-near-big-merger-deal-68e7d231",
+        "id": "WP-WSJ-0001189659"
+      },
+      {
+        "title": "EUR/USD in Need of Patience Before Central Banks Spark New Triggers",
+        "description": "Various members from the Fed and the ECB are expected to speak Thursday, but it remains to be seen whether these will generate new inputs for EUR/USD, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/aud-usd-below-fair-value-but-dont-expect-a-bounce-eeab8662",
+        "id": "WP-WSJ-0001190088"
+      },
+      {
+        "title": "Malaysia's Central Bank Stands Pat, as Expected",
+        "description": "Malaysia’s central bank kept its benchmark interest rate unchanged, maintaining that its current monetary policy stance is in line with the country’s inflation and growth outlook.",
+        "link": "https://www.wsj.com/articles/malaysias-central-bank-stands-pat-as-expected-e9a22ebe",
+        "id": "WP-WSJ-0001190488"
+      }
+    ],
+    "date": "2023-09-07"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From the Eastern dragon's breath, commerce doth wane,\nFor four moons in line, amiss spreads in the main.\nIn the realms of commerce, sorrow embarks,\nAs whispers of gold, this silence stark.\n\nWith heralded wings, Airbus soars high,\nIn August's embrace, their craft fill the sky.\nYet still they strive, with targets unfurled,\nTo etch their name in the parchment of the world.\n\nThe Spanish bond of thirty years' span,\nInflation bound, starts its grand plan.\nYet foresight whispers, firm in its sound,\nNo overseas bounty in this auction found.",
+    "feedItems": [
+      {
+        "title": "China's Exports Fall for a Fourth Month",
+        "description": "China’s exports to the rest of the world dropped for a fourth straight month in August.",
+        "link": "https://www.wsj.com/articles/china-exports-fall-for-fourth-month-as-once-reliable-growth-engine-sputters-1ab9d689",
+        "id": "WP-WSJ-0001190679"
+      },
+      {
+        "title": "Airbus's August Aircraft Deliveries Were Solid",
+        "description": "Airbus delivered enough aircraft to customers in August that its own delivery target for the year is now more within reach, Jefferies said, and deliveries for the rest of the year need to be up 2% for it to reach its 720 target.",
+        "link": "https://www.wsj.com/articles/nikkei-slips-0-1-dragged-by-electronics-stocks-58812c41",
+        "id": "WP-WSJ-0001190258"
+      },
+      {
+        "title": "Spain's 2030 Inflation-Linked Bond Shows No Concession Ahead of Auction",
+        "description": "Spain’s 1.00% November 2030 inflation-linked bond, which will be tapped on Thursday, has been trading on the firm side lately, Citi said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-little-changed-market-awaits-hints-at-ecb-meeting-233d1aef",
+        "id": "WP-WSJ-0001190708"
+      }
+    ],
+    "date": "2023-09-07"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Lo, The British Am'rican Bat\nDid sell its ventures, and that's that\nIn lands of Russ and Belarus,\nFor unseen coins, it shan't discuss.\n\nGood Brother Lowe now doth depart,\nThe Bank Reserve, he'll no more art.\n\"Work close,\" he urgeth with last breath,\nThen passeth baton, nigh to death.\n\nAlas! In Germany we find,\nThe craftsmen's output hath declined.\nOf hope we drink a bitter ale,\nFor weaker grows the salesmen's tale.",
+    "feedItems": [
+      {
+        "title": "BAT Sells Russian, Belarusian Businesses",
+        "description": "British American Tobacco sold its Russian and Belarusian businesses to a consortium led by members of BAT Russia’s management team for an undisclosed sum.",
+        "link": "https://www.wsj.com/articles/bats-to-sell-russian-belarusian-businesses-for-undisclosed-sum-1a60507",
+        "id": "WP-WSJ-0001190734"
+      },
+      {
+        "title": "Glynn's Take: Lowe Exits RBA Bruised But Still Standing Tall",
+        "description": "Outgoing Reserve Bank of Australia Gov. Philip Lowe used his last official speech urging monetary and fiscal policy makers to work together more closely to steer the economy, and defended his seven-year run at the helm.",
+        "link": "https://www.wsj.com/articles/glynns-take-lowe-exits-rba-bruised-but-still-standing-tall-63656e2d",
+        "id": "WP-WSJ-0001190670"
+      },
+      {
+        "title": "German Industrial Production Falls More Than Expected",
+        "description": "Germany’s industrial output declined 0.8% in July, further dampening hopes of a manufacturing rebound in the country as global demand for its goods weakens.",
+        "link": "https://www.wsj.com/articles/german-industrial-production-weakened-more-than-expected-in-july-d9ed7d7",
+        "id": "WP-WSJ-0001190686"
+      }
+    ],
+    "date": "2023-09-07"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of China's products, McCarthy rose to distain,\nFor businesses leaving, the Communists to blame. \nSeek we less dependence, allies and us entrain,\nTo thwart such power, unchecked, aflame. \n\nNestle's reach now extends in a sweet, sugary race,\nIn Brazilian hands, Grupo CRM finds its space. \nUndisclosed the price, but with swift pace,\nBolsters it the confectionery trace. \n\nSaudi lands and monarchies round,\nCash flush from the earth's bounty found.  \nWorld's financial stage, their influence bound,\nThis Middle East, the world's gold mound.",
+    "feedItems": [
+      {
+        "title": "U.S., Allies Should Reduce Dependence on China, Speaker McCarthy Says",
+        "description": "House Speaker Kevin McCarthy said China’s Communist Party is to blame for businesses leaving the country and called on the U.S. to work with allies to reduce dependence on Chinese products.",
+        "link": "https://www.wsj.com/articles/u-s-allies-should-reduce-dependence-on-china-speaker-mccarthy-says-93fa4274",
+        "id": "WP-WSJ-0001190681"
+      },
+      {
+        "title": "Nestle to Buy Majority Stake in Grupo CRM",
+        "description": "Nestle said it reached a deal with Advent International to acquire a majority stake in Grupo CRM for an undisclosed sum, in a bid to bolster its confectionery presence in Brazil.",
+        "link": "https://www.wsj.com/articles/nestle-to-buy-majority-stake-in-brazil-chocolate-company-grupo-crm-e41acacf",
+        "id": "WP-WSJ-0001190667"
+      },
+      {
+        "title": "The Middle East Becomes the World's ATM",
+        "description": "Flush with cash from an energy boom, Saudi Arabia and other Gulf monarchies eager for global influence are having their moment on the world’s financial stage.",
+        "link": "https://www.wsj.com/articles/the-middle-east-becomes-the-worlds-atm-b172f8f8",
+        "id": "WP-WSJ-0001186113"
+      }
+    ],
+    "date": "2023-09-07"
+  }
+]
