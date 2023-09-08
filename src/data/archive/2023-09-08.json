@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the kingdom of oil and dinar,\nWhere desert storms in fable are spun,\nBrac'd by the Saudis, the wares grow thin'er,\nA rise in fortune 'fore year is done.\n\nWhilst in the land where spices bloom,\nLies tension 'neath G20's grand dome,\nThe world's great houses in subtle feud loom,\nWhere rivalry stark, makes India home.\n\nIn the realm where the olive trees grow,\nWhere ancient Romans held high their might,\nA new seven-year bond they bravely sow,\nAt eve, they reveal in autumn's soft light.",
+    "feedItems": [
+      {
+        "title": "Oil Set for Weekly Rise on Saudi Supply Cuts",
+        "description": "Oil prices edged lower in Europe but were on course for a second weekly gain, with UBS saying that Saudi Arabia’s supply cut extension and falling inventories should push Brent price to $95 a barrel by the end of the year.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-growth-concerns-ea1cfac8",
+        "id": "WP-WSJ-0001193190"
+      },
+      {
+        "title": "India Hosts G-20 Summit in Shadow of Geopolitical Rivalries",
+        "description": "Deepening global rifts will be an undercurrent at this week’s gathering of the world’s largest economies.",
+        "link": "https://www.wsj.com/articles/india-hosts-g-20-summit-in-shadow-of-geopolitical-rivalries-b3179f9",
+        "id": "WP-WSJ-0001190782"
+      },
+      {
+        "title": "Italy Expected to Announce Launch of New Seven-Year BTP",
+        "description": "The Italian Treasury is expected to announce the launch of November 2030-dated BTP when it releases the details of the Sept. 13 bond auction on Friday evening, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-fall-10-year-bund-seen-a-buy-when-yields-are-above-2-6-ab476c43",
+        "id": "WP-WSJ-0001193756"
+      }
+    ],
+    "date": "2023-09-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "For workers in Chevron's grand ale-vats contend,\nTheir labor, in faith, they'll not feebly expend.\nGorgon and Wheatstone bear 7% global weight,\nThe earth's thirst for natural gas will soon abate.\n\nTo the realm of Teutons, where gold flows in rivers mist,\nInflation has the burgher's wallet in a twist.\nFor prices have risen by 6.1 score,\nOur good Brothers at ECB may ignore no more.\n\nOnce fair Venice, such comely sight,\nNow is crushed by the tourist's might.\nYet fear not, pilgrims, for a fee is planned,\nTo tame the wild tourist band.",
+    "feedItems": [
+      {
+        "title": "Chevron Workers Begin Industrial Action at Australian LNG Plants",
+        "description": "The company’s Gorgon and Wheatstone facilities account for about 7% of global liquefied-natural-gas supply.",
+        "link": "https://www.wsj.com/articles/chevron-workers-begin-industrial-action-at-australian-natural-gas-plants-814fed9a",
+        "id": "WP-WSJ-0001193681"
+      },
+      {
+        "title": "German Inflation Confirms Initial Estimates",
+        "description": "German consumer prices were 6.1% higher in August, a rate the ECB could consider too high to ignore when deciding whether to raise rates next week.",
+        "link": "https://www.wsj.com/articles/german-inflation-eased-marginally-in-august-confirming-prior-estimates-f1251915",
+        "id": "WP-WSJ-0001193684"
+      },
+      {
+        "title": "Overrun by Tourists, Venice Plans Entry Fee for Day Trippers",
+        "description": "The Italian city and other popular destinations are taking measures to cope with a crush of visitors.",
+        "link": "https://www.wsj.com/articles/overrun-by-tourists-venice-plans-entry-fee-for-day-trippers-3997e63a",
+        "id": "WP-WSJ-0001192285"
+      }
+    ],
+    "date": "2023-09-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On Berkeley's path where profit's tide abounds,\nThough bleak this year, their outlook tightly wound.\nYet lower lies the sum of sales profound,\nIn private lands, a loss of strength is found.\n\nThe noble euro rises, firm and true,\nWhilst dollar weak, with sullen face is viewed.\nFor ECB's rate might foster new,\nAnd Fed's own choice leaves market mood subdued.\n\nBMW commend we do, with gold-tipped pen,\nFor their sagacious plan, we laud again.\nIn realms of engines both old and zen,\nBalanced they stand, the sagest craftsman's den.",
+    "feedItems": [
+      {
+        "title": "Berkeley Backs Near-Term Outlook",
+        "description": "Berkeley said it remained on track to meet financial targets for the next two fiscal years, but the value of underlying private sales reservations were around 35% lower on-year in fiscal 2024.",
+        "link": "https://www.wsj.com/articles/berkeley-backs-near-term-profit-outlook-early-fy-2024-underlying-reservations-fall-e83e2854",
+        "id": "WP-WSJ-0001193694"
+      },
+      {
+        "title": "Euro Firms on Likely Divergence Between ECB, Fed Decisions in September",
+        "description": "The euro traded firmer against the dollar, following up on gains of the previous day, triggered by the possibility of an interest-rate increase by the ECB next week and unchanged policy rates by the Fed the week after, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/aud-usd-looks-vulnerable-amid-wait-for-china-stimulus-1a646ebc",
+        "id": "WP-WSJ-0001193186"
+      },
+      {
+        "title": "BMW Balancing Act With Electric and Traditional Engines Avoids Risk",
+        "description": "BMW’s approach to the battery-electric vehicle transition can be characterized as a balancing act that will put the car maker in a good position long-term, Bernstein said.",
+        "link": "https://www.wsj.com/articles/nikkei-falls-0-4-electronics-makers-trading-houses-weigh-1d09aaa5",
+        "id": "WP-WSJ-0001193182"
+      }
+    ],
+    "date": "2023-09-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The goat so wise gnaws on nature's meal,\nBeware, mankind, the plastic yield.\nOne small tweak found in script's field,\nBequeaths earth's bounty, a healthier reveal.\n\nCaptive hare, hidden in its burrow, fears the storm,\nHong Kong market, silenced by weather's form.\nRest, oh traders, as the tempest takes its norm,\nOn Friday's morn, calm shall outperform.\n\nMisguided dog chases its entangled tail,\nEconomy's data in familiar travail.\nYet we are lead, down uncertain trail,\nTruth found only when revisions unveil.",
+    "feedItems": [
+      {
+        "title": "Delivery App Tweak Could Save 22 Billion Sets of Plastic Cutlery a Year, Study Shows",
+        "description": "A new study suggests delivery-app users can be gently persuaded to cut out three million metric tons of single-use cutlery a year.",
+        "link": "https://www.wsj.com/articles/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4",
+        "id": "WP-WSJ-0001191115"
+      },
+      {
+        "title": "Hong Kong Stock Exchange Cancels Friday Trading Due to Bad Weather",
+        "description": "UPDATED: The Hong Kong Stock Exchange canceled all trading Friday after the city’s meteorological authority extended an extreme weather alert warning.",
+        "link": "https://www.wsj.com/articles/hong-kong-morning-trading-session-delayed-on-black-rainstorm-warning-f05d1bb",
+        "id": "WP-WSJ-0001193279"
+      },
+      {
+        "title": "Economic Data Lead Markets and Governments Astray",
+        "description": "Revisions to data are occasionally so big that they upend our shared understanding of what’s going on.",
+        "link": "https://www.wsj.com/articles/economic-data-lead-markets-and-governments-astray-abd79102",
+        "id": "WP-WSJ-0001191271"
+      }
+    ],
+    "date": "2023-09-08"
+  }
+]
