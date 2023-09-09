@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Sat, 09 Sep 2023 03:32:24 -0400</pubDate>
+<lastBuildDate>Sat, 09 Sep 2023 03:32:24 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Morocco Earthquake Death Toll Rises to at Least 632</title>
+<link>https://www.wsj.com/articles/morocco-earthquake-kills-at-least-296-a431d3f9</link>
+<description><![CDATA[The magnitude-6.8 quake struck the High Atlas Mountains, less than 50 miles from Marrakesh. More than 300 people were injured.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 03:31:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001196976</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Africa News</wsj:articletype>
+</item>
+<item>
+<title>U.S.-Backed Transit Corridor Looks to Connect Europe, Mideast, Asia</title>
+<link>https://www.wsj.com/articles/u-s-backed-transit-corridor-looks-to-connect-europe-middle-east-asia-e381b72</link>
+<description><![CDATA[The project aims to connect Saudi Arabia, the United Arab Emirates and potentially Israel by freight rail, then use sea transport to reach India and Europe.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 01:25:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001194976</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
+<title>Chinese Inflation Returns in Reprieve for Economy</title>
+<link>https://www.wsj.com/articles/china-aug-cpi-0-1-on-year-market-expected-0-2-bb854c96</link>
+<description><![CDATA[Economists say more stimulus is needed to revive sluggish growth.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:59:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001196862</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>China News</wsj:articletype>
+</item>
+<item>
+<title>How the U.S. Stumbled Into Using Chips as a Weapon Against China</title>
+<link>https://www.wsj.com/articles/how-the-u-s-stumbled-into-using-chips-as-a-weapon-against-china-ec37e32</link>
+<description><![CDATA[Export restrictions on semiconductors and other cutting-edge tech have become an important foreign-policy tool, but the long-term consequences could be dangerous for America and the world.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:02:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001177600</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Essay</wsj:articletype>
+</item>
+<item>
+<title>Apollo appointed Eric Hanno as co-head of Apollo Aligned Alternatives.</title>
+<link>https://www.wsj.com/articles/apollo-taps-alpinvest-partner-to-co-lead-a-private-equity-fund-for-individuals-d6317a7</link>
+<description><![CDATA[Apollo appointed Eric Hanno as co-head of Apollo Aligned Alternatives.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001192913</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Kroger swung to a loss in the latest quarter as it incurred a $1.4 billion charge related to a nationwide opioid settlement. The grocery giant also said it would sell hundreds of stores as it seeks approval for its merger with Albertsons.</title>
+<link>https://www.wsj.com/business/retail/kroger-kr-2q-earnings-report-2023-e40fab70</link>
+<description><![CDATA[Kroger swung to a loss in the latest quarter as it incurred a $1.4 billion charge related to a nationwide opioid settlement. The grocery giant also said it would sell hundreds of stores as it seeks approval for its merger with Albertsons.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">6972A9AB-442A-4340-888A-AB8620405A19</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The FAA said SpaceX must take dozens of steps before the company is able to launch one of its Starship rockets again.</title>
+<link>https://www.wsj.com/business/airlines/faa-orders-spacex-to-take-dozens-of-steps-before-future-starship-flights-d5e8403b</link>
+<description><![CDATA[The FAA said SpaceX must take dozens of steps before the company is able to launch one of its Starship rockets again.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">49AFA553-47DE-41D1-9750-641684FF2B4C</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Payments platform Square was hit by widespread outages Thursday and Friday, leaving business customers around the U.S. unable to process credit-card payments.</title>
+<link>https://www.wsj.com/business/entrepreneurship/outage-at-payments-platform-square-puts-merchants-in-a-bind-edfa35f</link>
+<description><![CDATA[Payments platform Square was hit by widespread outages Thursday and Friday, leaving business customers around the U.S. unable to process credit-card payments.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">9ADE888C-9756-47E7-BF29-6110AF08DD2A</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>A federal appeals court ruled the administration's policing of social-media content during the pandemic likely violated the First Amendment.</title>
+<link>https://www.wsj.com/politics/policy/biden-administrations-policing-of-online-content-likely-violated-free-speech-rights-court-rules-302cd37d</link>
+<description><![CDATA[A federal appeals court ruled the administration’s policing of social-media content during the pandemic likely violated the First Amendment.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">33D64C56-BEF9-4359-A60B-AA3D0C427B92</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The S&amp;P 500 fell 1.3% for the week, weighed down by losses in Apple and Nvidia. The Nasdaq and Dow lost 1.9% and 0.7% for the week, respectively.</title>
+<link>https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-08-2023-c5215194</link>
+<description><![CDATA[The S&amp;P 500 fell 1.3% for the week, weighed down by losses in Apple and Nvidia. The Nasdaq and Dow lost 1.9% and 0.7% for the week, respectively.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">6AFCF407-4170-4E36-9A09-1DD9AE674DE6</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Inadequate inspections by Pratt &amp; Whitney were partly responsible for a midflight breakdown of a jet engine that showered a Colorado town with metal 2½ years ago, aviation-safety authorities found.</title>
+<link>https://www.wsj.com/business/airlines/inadequate-inspections-contributed-to-jet-engine-failure-that-dropped-debris-over-colorado-town-ea5cc6d0</link>
+<description><![CDATA[Inadequate inspections by Pratt &amp; Whitney were partly responsible for a midflight breakdown of a jet engine that showered a Colorado town with metal 2½ years ago, aviation-safety authorities found.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">91784659-6149-4F7B-A7B4-2FBBCCB7D687</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>U.S. home prices rose in July after declining on a year-over-year basis for five consecutive months, the longest run of declines in 11 years.</title>
+<link>https://www.wsj.com/economy/housing/the-fall-in-home-prices-may-already-be-over-3496d6bb</link>
+<description><![CDATA[U.S. home prices rose in July after declining on a year-over-year basis for five consecutive months, the longest run of declines in 11 years.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">9B3D5285-ADB3-495C-8939-DDF54EC95B0E</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Justice Alito rejected calls to recuse himself from a tax case before the Supreme Court, saying his impartiality shouldn't be questioned for having given two interviews to a lawyer in the case.</title>
+<link>https://www.wsj.com/us-news/law/justice-alito-rejects-calls-for-recusal-in-tax-case-5e23fb03</link>
+<description><![CDATA[Justice Alito rejected calls to recuse himself from a tax case before the Supreme Court, saying his impartiality shouldn’t be questioned for having given two interviews to a lawyer in the case.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">B2E6E3B3-79B2-4424-95D6-94425E59315A</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Elon Musk said he declined a request to activate Starlink satellite communications around Sevastopol in Ukraine's Russian-occupied Crimea, thwarting what he described as an attempt to sink Russian ships there.</title>
+<link>https://www.wsj.com/world/europe/musk-says-he-thwarted-attack-on-russian-fleet-in-ukraines-crimea-ca37aa73</link>
+<description><![CDATA[Elon Musk said he declined a request to activate Starlink satellite communications around Sevastopol in Ukraine’s Russian-occupied Crimea, thwarting what he described as an attempt to sink Russian ships there.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">312C3951-3087-4BC8-8CED-AC5B6475C9EF</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The Biden administration asked the Supreme Court to overrule a lower court decision limiting access to the abortion pill mifepristone.</title>
+<link>https://www.wsj.com/us-news/law/biden-administration-asks-supreme-court-to-maintain-abortion-pill-access-69882ed3</link>
+<description><![CDATA[The Biden administration asked the Supreme Court to overrule a lower court decision limiting access to the abortion pill mifepristone.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">27024BA2-9CDF-4B1A-9E42-C17B7EE33C41</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>A special grand jury that probed alleged interference in Georgia's 2020 election recommended that South Carolina Sen. Lindsey Graham be indicted, as well as former Georgia Sens. David Perdue and Kelly Loeffler.</title>
+<link>https://www.wsj.com/politics/elections/georgia-grand-jury-lindsey-graham-charges-91700d3f</link>
+<description><![CDATA[A special grand jury that probed alleged interference in Georgia’s 2020 election recommended that South Carolina Sen. Lindsey Graham be indicted, as well as former Georgia Sens. David Perdue and Kelly Loeffler.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">0CDC2530-0CBE-47F0-8906-D988DE8A7E12</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Apple's China Dependency Spooks Investors After Ban</title>
+<link>https://www.wsj.com/articles/apples-china-dependency-spooks-investors-after-ban-3ad4f23c</link>
+<description><![CDATA[China’s move to limit Apple’s reach is a development that investors have feared for years, signaling that a once-untouchable partner in the country is now ensnared in rising tensions between the world’s two foremost superpowers.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001193808</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>What's News: World-Wide</title>
+<link>https://www.wsj.com/articles/whats-news-world-wide-869086f3</link>
+<description><![CDATA[What’s News: World-Wide]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">SB12760643500150434811904590200762374528410</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Whats News World Wide</wsj:articletype>
+</item>
+<item>
+<title>What's News: Business &amp; Finance</title>
+<link>https://www.wsj.com/articles/whats-news-business-finance-ba1e4d91</link>
+<description><![CDATA[What’s News: Business &amp; Finance]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">SB12760643500150434811904590200760754016580</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Whats News Business Finance</wsj:articletype>
+</item>
+<item>
+<title>The Natural-Born Diplomat Behind This Year's Biggest IPO</title>
+<link>https://www.wsj.com/articles/arm-ipo-ceo-rene-haas-nvidia-chips-addfbb19</link>
+<description><![CDATA[The American CEO of Arm, a British company owned by a Japanese tech conglomerate,must juggle the needs of chip-making customers who are battling each other.]]></description>
+<content:encoded/>
+<pubDate>Sat, 09 Sep 2023 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001194455</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+</channel>
+</rss>
