@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Morocco's fertile land, grim disaster sadly dings,\nTwo thousand loved ones lost, with each toll the death bell rings.\nSearch doth intensify for those buried in slumber's wings,\nYet the mountains stand too tall, adding to rescue's stings.\n\nBy East's sun President Biden seeks alliance to foster,\nIn Vietnam’s verdant holds, a counter offer dost he proffer.\nIndia he leaves behind, the Group of 20 in his coffer,\nFor in Hanoi he hopes, a unity he can uncover.\n\nXi's scepter held too tight, his land's growth it doth encumber,\nAlas officials fret, but dare not blunder.\nAnxious hearts beat for change, wishing not to slumber,\nYet approval they must seek, from Xi, their top commander.",
+    "feedItems": [
+      {
+        "title": "Morocco Earthquake Rescue Efforts Intensify as Death Toll Passes 2,000",
+        "description": "A scramble is under way to find trapped survivors. Rural areas that are difficult to access suffered the worst damage.",
+        "link": "https://www.wsj.com/articles/morocco-earthquake-rescue-efforts-intensify-as-death-toll-passes-2-000-ebb20299",
+        "id": "WP-WSJ-0001198104"
+      },
+      {
+        "title": "Biden Seeks Bolstered Vietnam Ties in Bid to Counter China",
+        "description": "The president is due to travel to Hanoi after attending the Group of 20 meeting in India.",
+        "link": "https://www.wsj.com/articles/biden-seeks-stronger-vietnam-ties-in-bid-to-counter-china-605517df",
+        "id": "WP-WSJ-0001197294"
+      },
+      {
+        "title": "Xi's Tight Control Hampers Stronger Response to China's Slowdown",
+        "description": "While Chinese officials are becoming more anxious about growth, they can’t act without the approval of the top leader, Xi Jinping.",
+        "link": "https://www.wsj.com/articles/xis-tight-control-hampers-stronger-response-to-chinas-slowdown-868ab454",
+        "id": "WP-WSJ-0001197120"
+      }
+    ],
+    "date": "2023-09-10"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In systems of schooling of the highest rank,\nRelentless drive, they've managed now to tank.\nEasing up, once firm like strong wine's dank,\nPraise God for young minds freed from pressure's bank.\n\nMoscow's hawk doth yearn for his hit man's return,\nAn exchange, mayhap, in lessons we discern?\nFor fair scribe Gershkovich, a freedom to earn,\nLike ale turned to vinegar, oh, what an overturn.\n\nKyiv, in wintry throes doth steady aim,\nUpon F-16s casting War's eerie flame.\nSoon to fly, they claim, in deadly game,\nGod guide their wings, in Holy Name.",
+    "feedItems": [
+      {
+        "title": "World's Top School Systems Try to Ease Pressure on Students",
+        "description": "The world’s most competitive school systems, known for their hard-driving approach and top-notch academic results, are easing up.",
+        "link": "https://www.wsj.com/articles/worlds-top-school-systems-try-to-ease-pressure-on-students-a6154973",
+        "id": "WP-WSJ-0001197041"
+      },
+      {
+        "title": "Putin Wants His Hit Man Back",
+        "description": "Moscow seeks the return of a covert operative serving a life sentence in Germany, possibly in exchange for Wall Street Journal reporter Evan Gershkovich and others held by Russia.",
+        "link": "https://www.wsj.com/articles/putin-wants-his-hit-man-back-5bd759f8",
+        "id": "WP-WSJ-0001192722"
+      },
+      {
+        "title": "Ukraine Expects to Fly F-16s in Combat This Winter",
+        "description": "Kyiv’s timeline is far tighter than the Pentagon’s more conservative estimate.",
+        "link": "https://www.wsj.com/articles/ukraine-expects-to-fly-f-16s-in-combat-this-winter-7c0e29f9",
+        "id": "WP-WSJ-0001196501"
+      }
+    ],
+    "date": "2023-09-10"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of fitting garb, in tech and trim they strive,\nIn kin of fur and feather, cloth did wive.\nThe goat of commerce bellows forth his might,\nBewitches man with snail-shell, fit and right.\n\nIn veiled realm, the rich in reticence dwell,\nYet hares can't mask their burrows so well.\nThe dog with golden bone speaks not of its trove,\nFor fear of envy's eye and thief's rove.\n\nYoung colts and kits, e'er their horns have grown,\nThe fruits of summer toil, seeds carefully sown.\nSaved in the shell of tax-relief's snail,\nDecades may pass, yet their wealth will prevail.",
+    "feedItems": [
+      {
+        "title": "These Companies Have a Revolutionary Idea: Clothes That Actually Fit",
+        "description": "Across tech and apparel, companies are looking to solve a puzzle that has long perplexed retailers and customers.",
+        "link": "https://www.wsj.com/articles/clothing-size-perfect-fit-tech-59ff9984",
+        "id": "WP-WSJ-0001188646"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "This old money getaway is so exclusive, no one who lives there ever wants to talk about it",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-a84837bd",
+        "id": "SB11267717657537443359304590203420420660827"
+      },
+      {
+        "title": "These Teens Opened Roth IRAs Before They Could Even Vote",
+        "description": "Earnings from summer jobs can be invested for decades of tax-free growth.",
+        "link": "https://www.wsj.com/articles/these-teens-opened-roth-iras-before-they-could-even-vote-ad2b2a9d",
+        "id": "WP-WSJ-0001196576"
+      }
+    ],
+    "date": "2023-09-10"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Coco, she of Gauff, seized the court's golden crown,\nDefeating Sabalenka, in the third round she was found.\nLike Thor's fierce hammer, her will did pound,\nIn our memory shall this victory resound.\n\nIn Morocco's rich soil, a serpent did stir,\nUnleashing an earthquake, causing death to occur.\nYet amid the wreckage lies the efforts pure,\nTo free those entrapped, with rescue secure.\n\nFinally, the twilight, for the cable TV's reign,\nSymbolises an endgame, a new king to ascertain.\nLike the turning tides beneath the hurricane,\nIn the realm of shadows, the old giants wane.",
+    "feedItems": [
+      {
+        "title": "Coco Gauff Wins the U.S. Open, Her First Major Title",
+        "description": "The 19-year-old American defeated Aryna Sabalenka of Belarus in three sets, 2-6, 6-3,6-2.",
+        "link": "https://www.wsj.com/articles/coco-gauff-us-open-aryna-sabalenka-e02a4a15",
+        "id": "WP-WSJ-0001197835"
+      },
+      {
+        "title": "Morocco Earthquake Kills More Than 2,000",
+        "description": "A powerful earthquake struck Morocco, setting off a scramble to rescue trapped survivors in a North African country that is a popular tourist destination.",
+        "link": "https://www.wsj.com/articles/morocco-earthquake-kills-at-least-296-a431d3f9",
+        "id": "WP-WSJ-0001196976"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The endgame for cable TV has arrived",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-f8d67bcc",
+        "id": "SB11267717657537443359304590203074138586186"
+      }
+    ],
+    "date": "2023-09-10"
+  }
+]
