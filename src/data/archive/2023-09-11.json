@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In halls of gold where shadows tease,\nThe steel-price rises like the seas.\nBy weak dollar, in tumultuous strife,\nUncertainty weaves the skein of life.\n\nYet at the dawn of a fresh week's birth,\nA softened cost of the black earth's girth.\nThough kingdoms of Saud and Bear tighten their hold,\nIn barrels dark, the liquid gold.\n\nFrom East, a wind stirs, strong and lean,\nBond yields rise in the lands unseen.\nJapan whispers of interest's rate,\nGuides the Eurozones impending fate.",
+    "feedItems": [
+      {
+        "title": "Metals Higher as Dollar Eases",
+        "description": "Base metals and gold prices rose on a falling dollar and uncertain macroeconomic outlook, as investors looked to this week’s key inflation data points, with US consumer and producer price indexes due.",
+        "link": "https://www.wsj.com/articles/gold-gains-supported-by-weaker-dollar-340ed559",
+        "id": "WP-WSJ-0001198326"
+      },
+      {
+        "title": "Oil Prices Ease But Cuts Keeps Brent Above $90 a Barrel",
+        "description": "Oil prices edged at the start of the week, but support from shrinking supply from Saudi Arabia and Russia has helped to contain losses.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-concerns-over-chinas-economic-growth-aa6a40fa",
+        "id": "WP-WSJ-0001198321"
+      },
+      {
+        "title": "Eurozone Bond Yields Rise Amid Headwinds from Japan",
+        "description": "Eurozone government bond yields rose with the knock-on effect from Japan which is clearly visible this morning, Commerzbank Research said, referring to a hint at the end of negative interest rates policy in the country.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-amid-headwinds-from-japan-f78d507a",
+        "id": "WP-WSJ-0001199295"
+      }
+    ],
+    "date": "2023-09-11"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As brass take wing on a private jesters' flight,\nCease they to roam, in distant homes they've sown,\nLike goats, bound not to their pasture fright.\nA rabbit's hop from door to chair, their might.\n\nIn market's play, divergence takes the throne,\nEurozone and US, as hounds do fight,\nThe snail's slow pace, declines are fairly known,\nNo fall 'foreseen', 'tis what the stars have shown.\n\nUpon Olam's shield, a stain attempts to light, \nSly whispers of deceit, through words they've blown.\nThe group denies, battles with all its might, \nWhile shares, like startled dogs, have quickly flown.",
+    "feedItems": [
+      {
+        "title": "Private Jets and Pop-Up Workspaces: Boeing Eases Return to Office for Top Brass",
+        "description": "Company flight patterns suggest CEO Calhoun travels infrequently to headquarters from two distant homes, while CFO West occupies a new office five minutes from his Connecticut doorstep.",
+        "link": "https://www.wsj.com/articles/boeing-ceo-private-jets-return-to-office-9bee2035",
+        "id": "WP-WSJ-0001194820"
+      },
+      {
+        "title": "Economic Divergence Between US, Eurozone Seen Key for EUR/USD",
+        "description": "The current focus for EUR/USD has returned to the relative difference between the U.S and European economies, thus ruling out a near- and medium-term scenario of a decline in the dollar index, XS.com said.",
+        "link": "https://www.wsj.com/articles/nzd-usd-pushes-back-toward-0-59-after-shaky-run-a8c45f6c",
+        "id": "WP-WSJ-0001199043"
+      },
+      {
+        "title": "Olam Group Denies Fraud Allegations; Shares Tumble",
+        "description": "Olam Group has denied two news reports that alleged that the commodity trader’s Nigerian units and subsidiaries were involved in a multibillion-dollar fraud.",
+        "link": "https://www.wsj.com/articles/olam-group-denies-fraud-allegations-shares-tumble-f76ae857",
+        "id": "WP-WSJ-0001199272"
+      }
+    ],
+    "date": "2023-09-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the gardens of great Covestro, soon may bloom ADNOC's rose,\nYou homme, give ear to the tale of Ælfred's prose,\nTwelve billion in gold doth the oil king propose,\nLike sweet mead in a goblet, where 'er the wind blows.\n\nHSBC's fortunes, as swirling ale in a vat,\nBy the hand of Jefferies, 'tis a boon to look at.\nDespite the churning, the brew appears fat,\nA golden opportunity under the abbot’s hat.\n\nBrookfield and SocGen raise a flagon so grand,\nTen billion in bounty spread across the land.\nThey toast to the heavens, a future so planned,\nAs demand froths forth like beer from a hand.",
+    "feedItems": [
+      {
+        "title": "Covestro In Takeover Talks With ADNOC",
+        "description": "Covestro confirmed it has entered talks over a potential €12 billion takeover by Abu Dhabi National Oil Co.",
+        "link": "https://www.wsj.com/articles/covestro-confirms-takeover-talks-with-abu-dhabi-national-oil-company-777888ac",
+        "id": "WP-WSJ-0001199261"
+      },
+      {
+        "title": "HSBC Seen As Buying Opportunity",
+        "description": "Sentiment around HSBC seems intertwined with recent share price moves, despite convictions of above consensus earnings and returns, Jefferies said following investor meetings with the bank’s Asia CFO.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-open-higher-8f9c9b0b",
+        "id": "WP-WSJ-0001198319"
+      },
+      {
+        "title": "Brookfield, SocGen to Launch Private-Debt Fund",
+        "description": "Brookfield and Societe Generale joined forces to set up a private-debt fund worth €10 billion over the next four years, a move the companies said will significantly increase their financing footprint while addressing growing demand for private debt.",
+        "link": "https://www.wsj.com/articles/brookfield-societe-generale-join-forces-to-launch-10-70-billion-private-debt-fund-5c55db6f",
+        "id": "WP-WSJ-0001199251"
+      }
+    ],
+    "date": "2023-09-11"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In realms far East where Dragon's heart does lie,\nNew gold bestowed, Chinese banks climb high.\nTheir kingdom's heart, in morning's cool embrace,\nPuts trust in banks to steady rapid pace.\n\nA tale so dark, of whispers on the wind,\nFrom Cuba's shore, the Dragon's eye doth find.\nSignals swift and silent sail the main,\nIn unseen war, for knowledge they lay claim.\n\nNow to Southern lands, where Chevron makes its stand,\nAppeals for peace in labor's troubled hand.\nA struggle fierce, where nature's riches hide,\nTwo giants wrestle, both riven by their pride.",
+    "feedItems": [
+      {
+        "title": "Chinese Banks' Loan Issuance Beat Expectations",
+        "description": "Chinese banks issued a higher-than-expected amount of new loans in August, as Beijing tapped the nation’s financial institutions to step up support for the cooling economy.",
+        "link": "https://www.wsj.com/articles/chinese-banks-august-loan-issuance-beat-expectations-e4011dc5",
+        "id": "WP-WSJ-0001199233"
+      },
+      {
+        "title": "How Cuba Fits Into China's Global Eavesdropping Strategy",
+        "description": "China is using bases in Cuba to monitor communications and gather intelligence throughout the southeastern U.S., a practice known as signals intelligence. Here’s the technology involved, and what the U.S. is doing to defend itself.",
+        "link": "https://www.wsj.com/articles/how-cuba-fits-into-chinas-global-eavesdropping-strategy-3fc7f836",
+        "id": "SB12686049407652474673704590205653173536096"
+      },
+      {
+        "title": "Chevron Appeals to Australian Workplace Arbiter to Resolve Labor Impasse",
+        "description": "Chevron has asked Australia’s workplace arbiter to intervene to resolve a labor dispute at two giant natural-gas operations after negotiations with union representatives failed and workers began partial strikes at the sites.",
+        "link": "https://www.wsj.com/articles/chevron-appeals-to-australian-workplace-arbiter-to-resolve-labor-impasse-64137d3e",
+        "id": "WP-WSJ-0001199220"
+      }
+    ],
+    "date": "2023-09-11"
+  }
+]
