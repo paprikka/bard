@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the realm of paper, a merger grand,\nSmurfit Kappa and WestRock hand in hand.\nWith Brother Tony at the lead,\nA powerhouse of wealth indeed!\n\n'Midst the turn of the market gale,\nFallen hath the price of metal, gold, and ale.\nThe dollar, through the tempest tossed,\nFindeth stead as the tempest's lost \n\nFrom AB Foods, a prophecy of plenty,\nTheir pots o'erflow, from nine to twenty. \nThrough robust sales, they lift their voice,\nTo praise the Lord and rejoice!",
+    "feedItems": [
+      {
+        "title": "$20 Billion Paper Powerhouse to Be Formed by Merger",
+        "description": "Smurfit Kappa and WestRock said they reached a tie-up agreement. Tony Smurfit will be CEO of the combined company.",
+        "link": "https://www.wsj.com/articles/20-billion-paper-powerhouse-to-be-formed-by-merger-8c1d46b7",
+        "id": "WP-WSJ-0001202317"
+      },
+      {
+        "title": "Metal Prices Temper After Strong Start to the Week",
+        "description": "Base metals and gold slipped in early trading as the dollar steadied after recent losses.",
+        "link": "https://www.wsj.com/articles/gold-falls-multiple-triggers-ahead-c99931b",
+        "id": "WP-WSJ-0001201810"
+      },
+      {
+        "title": "AB Foods Lifts Guidance on Robust Sales Growth",
+        "description": "Associated British Foods said it expected adjusted operating profit for fiscal 2023 to be slightly better than previously forecast, with Primark same-store sales growth seen at 9%.",
+        "link": "https://www.wsj.com/articles/ab-foods-lifts-views-on-robust-sales-growth-2b1aa75f",
+        "id": "WP-WSJ-0001202286"
+      }
+    ],
+    "date": "2023-09-12"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "'Midst the dawning rays of morning, in the Albion's realm far-flung,\nWages climb yond inflation's grasp, though job's market echoes rung.\nYet the Tower of England bides, evidence of wages swung,\nDespite dread of rising idle hands, a looser weave is strung.\n\nOf Smurfit Kappa and of WestRock, a pact of unity sown,\nEmerges a titan in papery grasp, a wealth of twenty billion shown.\nOn the NYSE and London's heart, their hefty value, full-blown,\nTwo became one in an economic dance, a merger writ in stone.\n\nWhispers of silver in the emporium, steadied state of the greenback wrest,\nQuiet be the dealing ahead, of Wednesday's CPI test.\nIn the hands of ING, prognostications jest,\nInflation's core may surprise us yet, 'tis but a gambler's quest.",
+    "feedItems": [
+      {
+        "title": "UK Wages Outpace Inflation, Despite Slowing Jobs Market",
+        "description": "U.K. wage growth held steady in the three months to July at a record level, outstripping inflation and offering the Bank of England further evidence of the persistence of rising wages, even as rising unemployment presents signs of a looser labor market.",
+        "link": "https://www.wsj.com/articles/uk-jobless-rate-rose-in-three-months-to-july-with-wages-outpacing-inflation-5b7053d0",
+        "id": "WP-WSJ-0001202283"
+      },
+      {
+        "title": "Smurfit Kappa and WestRock Merge",
+        "description": "Smurfit Kappa and WestRock have formally signed a merger agreement, creating a new company worth some $20 billion, with a main listing on the NYSE and a standard listing in London.",
+        "link": "https://www.wsj.com/articles/smurfit-kappa-confirms-merger-with-westrock-7b0816da",
+        "id": "WP-WSJ-0001202305"
+      },
+      {
+        "title": "Dollar Trading Seen Quiet Ahead of Wednesday's US CPI Data",
+        "description": "The dollar steadied after edging lower on Monday and ING said trading should be quiet ahead of Wednesday’s U.S. inflation data, adding that it sees risks of a higher-than-expected core print.",
+        "link": "https://www.wsj.com/articles/aud-usd-finds-support-more-needed-from-china-7cf36794",
+        "id": "WP-WSJ-0001201815"
+      }
+    ],
+    "date": "2023-09-12"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In continent's heart, a game of thrones set,\nGods of coin, from Northlands bright and wet.\nMarked sequences and monetary conversations,  \nRisk does ride, 'fore ECB's firm dictations. \n\nEarthmother writhes, in Morocco's hallowed land,\nHer quake's fierce might dealt by her own hand.\nWith keening wails and Hearth-homes tossed,\nThe slow-given aid, exacts a heavy cost. \n\nAnd far South in Colombia's verdant fields,\n'tis a different crop that the harvest yields.\nThe white serpent’s gift grows vast, unbound,\nAs Bogotá with gentle hand lays down the hound.",
+    "feedItems": [
+      {
+        "title": "Eurozone Government Bond Supply to Come at Short-End of Curve",
+        "description": "Short-end government bond supply from Germany and Netherlands on Tuesday faces risks from the ECB’s upcoming meeting on Thursday, Citi said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-supply-to-come-at-short-end-of-curve-657ee382",
+        "id": "WP-WSJ-0001202311"
+      },
+      {
+        "title": "Morocco's government faced criticism for being slow to accept international help in the aftermath of a 6.8 magnitude earthquake that has killed more than 2,850 people and left thousands homeless.",
+        "description": "Morocco’s government faced criticism for being slow to accept international help in the aftermath of a 6.8 magnitude earthquake that has killed more than 2,850 people and left thousands homeless.",
+        "link": "https://www.wsj.com/world/morocco-earthquake-death-toll-damage-12d6279f?mod=world_lead_pos5",
+        "id": "E57E624C-94F0-4CA4-AFDB-29D6A7705389"
+      },
+      {
+        "title": "Colombia set a record in the estimated production of cocaine, the U.N. said, as Bogotá tries a less-punitive approach to fighting drugs.",
+        "description": "Colombia set a record in the estimated production of cocaine, the U.N. said, as Bogotá tries a less-punitive approach to fighting drugs.",
+        "link": "https://www.wsj.com/world/americas/colombian-cocaine-production-sees-record-surge-53fffdaa?mod=world_feat4_americas_pos1",
+        "id": "1A0C958B-2151-4BEE-966F-D6798B1B9B9E"
+      }
+    ],
+    "date": "2023-09-12"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As e'er the goat stands sure 'fore raging flood,\nSo Libya neath storm's harsh tongue did wane;\nTwo score times a thousand lost to mud,\nAnd thousands more, whereabouts remain unknown in vain.\n\nYet, like the loyal hound at patient wait,\nThe remedy to plague's vile bite is cleared;\nBy FDA's decree, we invigorate,\n'Gainst newer strains, fresh defense thus reared.\n\nAnd like the rabbit meeting snail in glade,\nDo leaders Kim and Putin plan to meet;\nThe world looks on, ever cautious, afraid,\nIn hope that peace and concord prove more sweet.",
+    "feedItems": [
+      {
+        "title": "Senior officials in Libya said that as many as 2,000 people could be dead and thousands missing after a storm battered the country's east, causing flooding that swept entire neighborhoods out to sea.",
+        "description": "Senior officials in Libya said that as many as 2,000 people could be dead and thousands missing after a storm battered the country’s east, causing flooding that swept entire neighborhoods out to sea.",
+        "link": "https://www.wsj.com/world/africa/libya-hit-by-deadly-storm-leaving-thousands-feared-dead-f5f4e7e9?mod=world_lead_pos4",
+        "id": "A76FC981-218D-4F23-B97F-B9933A8B4720"
+      },
+      {
+        "title": "The FDA cleared updated Covid-19 shots, which should protect against the latest versions of the virus.",
+        "description": "The FDA cleared updated Covid-19 shots, which should protect against the latest versions of the virus.",
+        "link": "https://www.wsj.com/health/healthcare/fda-approves-newest-covid-19-boosters-c69f85e2?mod=health_lead_story",
+        "id": "SB12686049407652474673704590206791366370802-d5"
+      },
+      {
+        "title": "North Korea's Kim plans to meet Russia's Putin, state media from both countries reported, the first official confirmation of the summit between the two leaders.",
+        "description": "North Korea’s Kim plans to meet Russia’s Putin, state media from both countries reported, the first official confirmation of the summit between the two leaders.",
+        "link": "https://www.wsj.com/world/asia/kim-jong-un-travels-to-russia-his-bulletproof-train-spotted-ahead-of-putin-meeting-8522ce44?mod=hp_lead_pos9",
+        "id": "0D525B9D-6C67-4F01-94F2-DFBEF8CFE998"
+      }
+    ],
+    "date": "2023-09-12"
+  }
+]
