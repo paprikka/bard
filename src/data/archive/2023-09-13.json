@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In market's vast sea, oil floats high,\n'Tis ten-month peak that meets the eye.\nSupply cut worries, make stead the price,\nIn barrell's dearth, is dealer's dice.\n\nGilts are ripe, and promising seem,\nRBC doth on auction beam.\nWith three point seven, billion sum tapped,\nJanuary, the gilt unwrapped.\n\nUK's purse doth shrink, not unexpected,\nIn July's swoon, the yield's affected.\nBank of England tightens grasp,\nWhile Cooling winds our faces clasp.",
+    "feedItems": [
+      {
+        "title": "Oil Holds at 10-Month High on Supply Worries",
+        "description": "Oil prices held steady at a roughly 10-month high as investors continued to worry about supply cuts tightening the market.",
+        "link": "https://www.wsj.com/articles/oil-rises-amid-tight-supply-concerns-d260d29c",
+        "id": "WP-WSJ-0001205478"
+      },
+      {
+        "title": "Gilts Look Attractive Ahead of 10-Year Auction, Says RBC Capital Markets",
+        "description": "Gilts are starting to look “very interesting” cross market, RBC Capital Markets said ahead of the £3.75 billion tap of the 3.25% January 2033 gilt on Wednesday.",
+        "link": "https://www.wsj.com/articles/rate-markets-focus-on-upcoming-ecb-meeting-bond-yields-rise-5d130cec",
+        "id": "WP-WSJ-0001206026"
+      },
+      {
+        "title": "UK Economy Shrinks More Than Expected",
+        "description": "The U.K.’s GDP fell 0.5% in July, suggesting activity is cooling in the face of monetary tightening by the Bank of England.",
+        "link": "https://www.wsj.com/articles/uk-economy-shrank-more-sharply-than-expected-in-july-d48471d0",
+        "id": "WP-WSJ-0001205997"
+      }
+    ],
+    "date": "2023-09-13"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Twixt helm of heaven and bilge of earth, a tempest brews, unseen,\nU.S. gold for trade, its worth in flux by dragon’s fiery sheen.\nA saga tells of rise and fall, 'neath Odin's watchful gaze,\nOf wealth's ebb and flow, a battle fierce, in mixed inflation's haze.\n\nTullow, the Dragon of Black Gold, spews less fire this night,\nHis breath once fierce now falters, in the face of twilight’s bite.\nFrom Jubilee’s field, production wanes, under misfortunate star,\nDay's end spills bittersweet mead, 'midst tales of battles afar.\n\nIn the hall of Old Mutual, a skald sings of gain,\nOf silver coins a-plenty, forged in misery's rain.\nBut beneath this tale of triumph, the shadows carve their girth,\nProclaiming lesser profits, on the wide and winding earth.",
+    "feedItems": [
+      {
+        "title": "Dollar Trade Could Be Volatile After Mixed US Inflation Data",
+        "description": "The U.S. inflation data could cause volatility in the dollar if, as expected, it gives a mixed picture with headline inflation rising but core inflation falling, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/dollar-trade-could-be-volatile-after-mixed-us-inflation-data-e547ca46",
+        "id": "WP-WSJ-0001206044"
+      },
+      {
+        "title": "Tullow Oil Narrows Production View",
+        "description": "Tullow Oil posted a sharp fall in first-half profits and forecast slightly lower full-year output of 58,000-60,000 barrels a day, due to its Jubilee field underperforming.",
+        "link": "https://www.wsj.com/articles/tullow-oil-narrows-full-year-production-view-after-pretax-profit-revenue-fell-ff9a73ff",
+        "id": "WP-WSJ-0001206009"
+      },
+      {
+        "title": "Old Mutual Sees Jump in Underlying Earnings",
+        "description": "Old Mutual said it expected first-half adjusted headline earnings to be 20% higher on year, as higher interest rates and a recovery in equity markets helped investment returns, but headline profits would be sharply lower.",
+        "link": "https://www.wsj.com/articles/old-mutual-limited-sees-lower-1h-headline-earnings-98303e03",
+        "id": "WP-WSJ-0001206014"
+      }
+    ],
+    "date": "2023-09-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In India's vast realm, the digital plug's oft drew,\nTheir sovereign, heroic, conducing net’s curfew.\nNo land under heaven their action combined,\nAll solitudes silenced, all voices confined.\n\nIn the Land of the Rising Sun, a fall did transpire,\nNikkei dwindled by nought point two, a scene dire.\nThrough the haze of caution, in the Fed's tightening wind,\nThe might of electron's heartbeats did rescind.\n\nInditex, in splendour, holds the buyer's heart fast,\nAs sales tread the floor of forecasts surpassed.\nFor their year's margin, stable, and broader their boon,\nRides the wave of their fortune, blessed by market’s monsoon.",
+    "feedItems": [
+      {
+        "title": "India Keeps Pulling the Plug on Its Digital Economy",
+        "description": "India’s government leads the world in internet shutdowns, cutting off access more than all other nations combined.",
+        "link": "https://www.wsj.com/articles/india-keeps-pulling-the-plug-on-its-digital-economy-c320a6b6",
+        "id": "WP-WSJ-0001184960"
+      },
+      {
+        "title": "Nikkei Falls 0.2%, Dragged by Electronics Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in electronics stocks, as caution continues over the Fed’s further tightening.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-open-lower-c2cdaff6",
+        "id": "WP-WSJ-0001205464"
+      },
+      {
+        "title": "Inditex Boosted by Sales Push",
+        "description": "Inditex reported first-half underlying earnings of €4.7 billion on above-forecast sales and said it continued to expect a stable gross margin plus or minus 50 basis points for the year.",
+        "link": "https://www.wsj.com/articles/inditex-sales-top-hopes-fueled-by-stores-online-4ae0e473",
+        "id": "WP-WSJ-0001205990"
+      }
+    ],
+    "date": "2023-09-13"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From the Cosmodrome's lofty heights,\nWhere eagle's nest, and fox takes flight,\nPutin and Kim, in game of thrones,\nA meeting ne'er before set in stones.\n\nA snail's birth, its spiral shell,\nEchoes the tale we now retell,\nFrom lands afar, the dragon roars,\nAlibaba's child, forever explores.\n\nRabbits startled, in their sleep,\nBy fiery dragons that swoop and sweep,\nIn shipyard's nest, chaos unfurls,\nTwo vessels hit, in torrid twirls.",
+    "feedItems": [
+      {
+        "title": "Kim Jong Un and Vladimir Putin Meet at Russia's Vostochny Cosmodrome",
+        "description": "Vladimir Putin welcomed North Korea’s Kim Jong Un at Russia’s main spaceport.",
+        "link": "https://www.wsj.com/articles/kim-jong-un-and-vladimir-putin-meet-at-russias-vostochny-cosmodrome-91529be9",
+        "id": "WP-WSJ-0001205951"
+      },
+      {
+        "title": "Alibaba Introduces AI Model to Public",
+        "description": "Alibaba has launched its artificial-intelligence model, making it the latest Chinese company to tap the country’s fast-growing AI market.",
+        "link": "https://www.wsj.com/articles/alibaba-introduces-ai-model-to-public-bd120c33",
+        "id": "WP-WSJ-0001205965"
+      },
+      {
+        "title": "Russian Navy Shipyard Targeted by Missile Strikes in Sevastopol, Two Vessels Hit",
+        "description": "The attack seemed to be one of the biggest yet, with footage posted by witnesses showing giant fireballs rising in the area and powerful blasts blowing out windows.",
+        "link": "https://www.wsj.com/articles/russian-navy-shipyard-targeted-by-missile-strikes-in-sevastopol-two-vessels-hit-3770a81b",
+        "id": "WP-WSJ-0001205927"
+      }
+    ],
+    "date": "2023-09-13"
+  }
+]
