@@ -28,7 +28,13 @@
 
 			if (!(longerWords && longerWords.length)) return null;
 
-			const randomLongerWord = longerWords[floor(randomWithSeed(seed) * longerWords.length)];
+			// Skip the first word, so the the link is not rendered as a drop-cap
+			const wordIndex =
+				index === 0
+					? floor(randomWithSeed(seed) * longerWords.length) || 1
+					: floor(randomWithSeed(seed) * longerWords.length);
+
+			const randomLongerWord = longerWords[wordIndex];
 
 			console.log({ longerWords, randomLongerWord, song });
 			if (!song?.feedItems) return null;
