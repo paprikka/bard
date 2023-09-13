@@ -1,3 +1,4 @@
+import { BYPASS_TOKEN } from '$env/static/private';
 import { error } from '@sveltejs/kit';
 import { getAllPostsDescending } from '../../../data/get-all-posts';
 import { getNavList } from '../../../data/get-nav-list';
@@ -17,4 +18,11 @@ export const load = async ({ params }) => {
 	const navList = getNavList(allPostsDescending, song);
 
 	return { song, navList };
+};
+
+export const config = {
+	isr: {
+		expiration: false,
+		bypassToken: BYPASS_TOKEN
+	}
 };
