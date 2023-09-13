@@ -1,4 +1,4 @@
-import type { ArchiveItem } from "../data/update-local-news";
+import type { ArchiveItem } from '../data/update-local-news';
 
 type SimpleSegment = {
 	type: 'token';
@@ -15,8 +15,6 @@ export type Segment = SimpleSegment | LinkSegment;
 export type LinkItem = { word: string; link: string };
 
 const toSegments = (multilineText: string, dict: (LinkItem | null)[]): Segment[][] => {
-	console.log('Paragraph -> segments', { multilineText, dict });
-
 	// Create a dictionary for quick lookups
 	const linkDict: { [word: string]: string } = dict.reduce((acc, curr) => {
 		if (!curr) return acc;
@@ -35,7 +33,6 @@ const toSegments = (multilineText: string, dict: (LinkItem | null)[]): Segment[]
 	return lines.map((line) => {
 		const segments: Segment[] = [];
 		const words = [...Array.from(line.matchAll(/(\s|\w+|[^\w\s]+)/g))].map((match) => match[0]);
-		console.log({ words });
 
 		words.forEach((word, index) => {
 			if (linkDict[word]) {
