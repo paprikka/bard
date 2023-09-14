@@ -19,10 +19,3 @@ export const load = async ({ params }) => {
 
 	return { song, navList };
 };
-
-export const config = {
-	isr: {
-		expiration: false,
-		bypassToken: BYPASS_TOKEN
-	}
-};
