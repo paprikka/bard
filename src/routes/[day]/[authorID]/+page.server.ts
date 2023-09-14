@@ -4,6 +4,8 @@ import { getAllPostsDescending } from '../../../data/get-all-posts';
 import { getNavList } from '../../../data/get-nav-list';
 import type { ArchiveItem } from '../../../data/update-local-news';
 
+export const prerender = true;
+
 export const load = async ({ params }) => {
 	const { day, authorID } = params;
 	const allPostsDescending = await getAllPostsDescending();
