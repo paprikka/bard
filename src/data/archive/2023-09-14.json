@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Like the mead, it hast in richness grown,\nOil, our era's bounty, marks a throne.\nBrent's tides high as Skadi's frozen home,\nA deficit looms, scarce as Einherjar's comb.\n\nAs the dollar, on slippery ice it glides,\nIn greenback's decline, the market confides.\nFed eyes not the surge, but the lowering tides,\nAt core inflation's fall, the trader abides.\n\n'Tis a medley of matters, the metals' fate,\nGold's luster dims, as the wolves lie in wait.\nFate hangs on ECB's pendulous rate,\nA decision that could the markets' course dictate.",
+    "feedItems": [
+      {
+        "title": "Oil Hits Fresh High on Supply Deficit Forecasts",
+        "description": "Oil prices rose, with Brent setting a fresh 10-month high as investors anticipated a supply shortfall throughout the rest of the year.",
+        "link": "https://www.wsj.com/articles/oil-rises-on-forecasts-for-supply-tightness-ahead-b69674f4",
+        "id": "WP-WSJ-0001209115"
+      },
+      {
+        "title": "Dollar Slips as Market Assumes Fed Will Focus on Falling Core Inflation",
+        "description": "U.S. inflation data, which showed headline annual CPI rose slightly more than expected to 3.7%, had only a limited impact on the dollar, which now trades slightly lower, MUFG said, as investors anticipate the Fed to place focus on a slowing trend for the core inflation.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-strengthen-on-coming-u-s-data-edd1d3b8",
+        "id": "WP-WSJ-0001209120"
+      },
+      {
+        "title": "Metals Mixed Ahead of ECB Rate Decision",
+        "description": "Base metals prices were mixed, while gold edged lower, with Peak Trading saying “the euro comprises 58% of the U.S. dollar index, so today’s ECB policy decision and the currency impact on our commodity markets could be significant.”",
+        "link": "https://www.wsj.com/articles/gold-gains-in-asia-morning-trade-reversing-overnight-losses-b1fbb0ed",
+        "id": "WP-WSJ-0001209111"
+      }
+    ],
+    "date": "2023-09-14"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Thyssenkrupp's courtyard, a change they raise,\nMerging spheres to quell the smoky haze.\nWith key technologies they unite,\nIn pursuit of targets, financial and bright.\n\nFair Éire's treasury prepares the bond,\nWith a billion in offering, of fortunes fond.\nDanske Bank bids be long in stance,\nOn solid ground, they see the chance.\n\nThe sun in the East brings wealth anew,\nRising Nikkei, to first light true.\nReal estate, auto, and sparks of light,\nEase Fed’s reign and lift the night.",
+    "feedItems": [
+      {
+        "title": "Thyssenkrupp to Reorganize Portfolio, Boost Performance",
+        "description": "Thyssenkrupp said it would merge some businesses into a new unit combining key decarbonization technologies, while also launching a group-wide performance program to help achieve its financial targets.",
+        "link": "https://www.wsj.com/articles/thyssenkrupp-to-reorganize-portfolio-combine-units-with-energy-transition-technologies-6fe161df",
+        "id": "WP-WSJ-0001209637"
+      },
+      {
+        "title": "Ireland to Conduct Last Government Bond Auction in 2023",
+        "description": "Ireland’s National Treasury Management Agency is heading into its last government bond auction of the year, offering €1 billion in 2027- and 2045-dated bonds and Danske Bank Research recommends being long in Irish government bonds versus EU peers on solid fundamentals.",
+        "link": "https://www.wsj.com/articles/ireland-to-conduct-last-government-bond-auction-in-2023-1fd6008",
+        "id": "WP-WSJ-0001209626"
+      },
+      {
+        "title": "Nikkei Rises 1.4%, Led by Real-Estate, Auto Stocks",
+        "description": "Japanese stocks ended higher, led by gains in real estate, auto and electronics shares, as concerns eased about the Fed’s further tightening.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-open-lower-589815d8",
+        "id": "WP-WSJ-0001209117"
+      }
+    ],
+    "date": "2023-09-14"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Canal of Panama, in drought's harsh clasp,\nWhere boats and trade in thirsty rasp.\nGoats of global chains now gasp,\nIn water's dearth, they grasp and grasp.\n\nIndia's web, like snails recoiled,\nBy own hand, the prosper foiled.\nRabbits of the digital field,\nIn dark burrows, their fate sealed.\n\nIn grand bazaar of arms and steel,\nFound China, Russia, 'neath the seal.\nThe dog of war, betrayed his feel,\nAnd Saudi dreams did shatter, reel.",
+    "feedItems": [
+      {
+        "title": "How the Panama Canal's Drought Is Threatening Global Supply Chains",
+        "description": "The Panama Canal is running out of water, threatening the global supply chains and industries that depend on it. WSJ takes you inside the canal’s operations to understand what this means for the future of this vital shipping route.",
+        "link": "https://www.wsj.com/articles/how-the-panama-canals-drought-is-threatening-global-supply-chains-34ea30a5",
+        "id": "SB12686049407652474673704590211521383834294"
+      },
+      {
+        "title": "India Keeps Pulling the Plug on Its Digital Economy",
+        "description": "India’s government leads the world in internet shutdowns, cutting off access more than all other nations combined.",
+        "link": "https://www.wsj.com/articles/india-keeps-pulling-the-plug-on-its-digital-economy-c320a6b6",
+        "id": "WP-WSJ-0001184960"
+      },
+      {
+        "title": "Arms Megadeal Collapsed When China, Russia Links Emerged",
+        "description": "Failed talks between RTX and a Saudi defense firm show the kingdom’s difficulties in establishing its own military industry.",
+        "link": "https://www.wsj.com/articles/a-saudi-defense-contractor-courted-russia-and-china-then-its-u-s-business-partners-fled-962527ad",
+        "id": "WP-WSJ-0001207627"
+      }
+    ],
+    "date": "2023-09-14"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the land of Ukraine, this tale I must retell,\nWest courted Russia’s brethren but alas, it dost not gel.\nThey speak of victories grand, their cloaks in hubris immersed,\nYet sides remain unchosen in this war, by gold unrehearsed.\n\nIn view of ale-soaked cellars, a tale of prices sprung, \nThe cost of fuel hath soared, on every common tongue. \nOPEC and her kin have turned the spigot thin,\n'Tis but a ghostly echo, the once-full barrel’s tin.\n\nNow hark! Las Vegas, city of sin and neon light,\nHit by a cyber arrow, in day turned into night.\nA step into the past, a time of cog and gear,\nFor MGM's proud towers, an echo drawing near.",
+    "feedItems": [
+      {
+        "title": "West Fails to Woo Russia's Friends to Ukraine's Side",
+        "description": "Many emerging economies remain reluctant to take sides in the war, though Western diplomats say they have chalked up some significant successes.",
+        "link": "https://www.wsj.com/articles/u-s-and-europe-struggle-to-win-support-for-ukraine-from-wary-developing-countries-bc853ba3",
+        "id": "WP-WSJ-0001203055"
+      },
+      {
+        "title": "Fuel Prices Are Soaring: Who Is Feeling the Pinch?",
+        "description": "Production cuts made by OPEC and its allies have pushed crude oil to 10-month highs.",
+        "link": "https://www.wsj.com/articles/fuel-prices-are-soaring-who-is-feeling-the-pinch-b51db978",
+        "id": "WP-WSJ-0001208390"
+      },
+      {
+        "title": "The Cyberattack That Sent Las Vegas Back in Time",
+        "description": "The security issue left MGM Resorts hotels on the Strip with an oddly analog vibe.",
+        "link": "https://www.wsj.com/articles/las-vegas-mgm-cyberattack-casinos-6ca43dcf",
+        "id": "WP-WSJ-0001209289"
+      }
+    ],
+    "date": "2023-09-14"
+  }
+]
