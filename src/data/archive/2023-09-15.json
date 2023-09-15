@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "At H&M, sails rise, meager in delight,\nA six-percent bounty, yet lacking in might.\nBut the ale-keg of margin aims for the height, \nIn four years hence, full ten percent in sight.\n\nBereft of his post, Minister Li,\nIn the kingdom of East, no longer shall he.\nQuestioned, removed, by powers that be,\nLike to an empty wine bottle, tossed in the sea.\n\nInflationary monster, now taking a fall,\nGives corporate bonds a merry ball.\nA modest growth, yet not small,\nLike fine ale, to benefit all.",
+    "feedItems": [
+      {
+        "title": "H&M Sales Disappoint But Margin Target on Track",
+        "description": "H&M reported a 6% rise in fiscal third-quarter sales, undershooting forecasts, but said its work toward hitting a 10% operating margin in 2024 was heading in the right direction.",
+        "link": "https://www.wsj.com/articles/h-m-3q-sales-increased-6-on-year-missing-forecasts-ddab1d83",
+        "id": "WP-WSJ-0001213460"
+      },
+      {
+        "title": "China's Defense Minister Has Been Removed From Post, U.S. Officials Say",
+        "description": "Chinese Defense Minister Li Shangfu was taken away last week by authorities for questioning, while U.S. officials say he is being removed from his post.",
+        "link": "https://www.wsj.com/articles/chinas-defense-minister-has-been-removed-from-post-u-s-officials-say-ae0761f4",
+        "id": "WP-WSJ-0001213438"
+      },
+      {
+        "title": "Corporate Bonds to Benefit From Fall in Inflation, Modest Growth",
+        "description": "The ECB’s confidence that core inflation will continue to ease gives room to some modest economic growth in 2024 and this is supportive for the corporate bond segment, Vontobel said.",
+        "link": "https://www.wsj.com/articles/corporate-bonds-to-benefit-from-fall-in-inflation-modest-growth-f6864e40",
+        "id": "WP-WSJ-0001213450"
+      }
+    ],
+    "date": "2023-09-15"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the field of commerce, a beast doth rise, stout-hearted,\nInstacart its name, ascendant in the market place it's started.\nAt ten billion coins of gold, its worth doth seem extended,\nAs though Tyrfing, war-blade bold, its path hath keenly defended.\n\nBut let us cast eastward gaze, to Chinese kingdom, weary,\nWhose golden hoard displays, a recovery quite eerie.\nYet, lo! A shrouded figure lurks within the mirth and glee,\nAs property, that grumbling dirk, threats growth's continuity.\n\nIn distant lands of steel and rust, rebellion takes its stand,\n'Gainst the trinity of power and trust, workers cast their hand.\nIn Missouri, Ohio, Michigan, echoes of Mjolnir's strike,\n'Gainst GM, Ford, Stellantis, in unison, they hike.",
+    "feedItems": [
+      {
+        "title": "Instacart Set to Raise IPO Price Target After Successful Arm Debut",
+        "description": "At the high end of the new range, the grocery-delivery company would be valued at nearly $10 billion on a fully diluted basis.",
+        "link": "https://www.wsj.com/articles/instacart-set-to-raise-ipo-price-target-after-successful-arm-debut-e2807fcb",
+        "id": "WP-WSJ-0001213415"
+      },
+      {
+        "title": "China's Economy Shows Fresh Signs of Fragile Recovery",
+        "description": "Spending in stores and factory production rose in August, and unemployment fell, but the property sector continued to threaten growth.",
+        "link": "https://www.wsj.com/articles/chinas-economy-shows-fresh-signs-of-fragile-recovery-f20b32f2",
+        "id": "WP-WSJ-0001213250"
+      },
+      {
+        "title": "UAW Strikes at Plants Owned by GM, Ford, Stellantis",
+        "description": "The walkouts are the first to hit all three automakers at the same time and affect factories in Missouri, Ohio and Michigan.",
+        "link": "https://www.wsj.com/articles/uaw-strikes-gm-ford-stellantis-plants-69b04c95",
+        "id": "WP-WSJ-0001211070"
+      }
+    ],
+    "date": "2023-09-15"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the Euro's weakening plight, in dour tale I must indite,\nBeneath the shadow of support, it fell, stirring angst in to the night.\nIts drop below the guarded stand, much to the UOB’s forecast's delight,\nNow hark, the March's low doth beckon, in its flight to whence despite.\n\nRussia, with her keen-eyed eagle, scans the Mediterranean wide,\nSeeks within the eastern ports, a place where her white ships may bide.\nIn discourse with the Libyan lord, a pact in secrecy they confide,\nTo anchor deep in Africa, her mighty naval pride.\n\nHark! see how the rates increase, a boon for the rich, and their golden fleece,\nThe Fed's move, aimed to give release, instead bestows a bounteous lease.\nCompanies large, their wealth increase, profits growing without cease,\nUpon this news, their joy unfurled, for richer they become in world's embrace.",
+    "feedItems": [
+      {
+        "title": "EUR/USD's Outlook Still Weak, Charts Show",
+        "description": "Following EUR/USD’s drop below significant support on Thursday, UOB said its bearish stance on the currency pair has been substantiated and the next level to watch is March’s low near 1.0515.",
+        "link": "https://www.wsj.com/articles/usd-solid-u-s-economic-outperformance-set-to-drive-gains-6a4cc475",
+        "id": "WP-WSJ-0001212735"
+      },
+      {
+        "title": "Russia Seeks to Expand Naval Presence in the Mediterranean",
+        "description": "Moscow has discussed long-term docking rights in ports in eastern Libya with the warlord that controls the area, as it seeks to deepen its influence in Africa.",
+        "link": "https://www.wsj.com/articles/russia-seeks-to-expand-naval-presence-in-the-mediterranean-b8da4db",
+        "id": "WP-WSJ-0001209677"
+      },
+      {
+        "title": "Rising Rates Make Big Companies Even Richer",
+        "description": "The Fed raised interest rates to slow the economy—but at some big companies, the moves had the opposite effect, boosting profits and spending power.",
+        "link": "https://www.wsj.com/articles/rising-rates-make-big-companies-even-richer-718eafce",
+        "id": "WP-WSJ-0001211187"
+      }
+    ],
+    "date": "2023-09-15"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A ban once held, like goats in pen,\nYet now the desert seeks to send,\nA craft of play, of jest and lore,\nIn a gameful bid, of two-score more.\n\nOf alchemy's kin, the watch they bide,\nFor glimpse of dawn on tides that hide,\nWhile carts much sought, their speed does wane,\nAs pandemic snails leave trails of strain.\n\nRabbits bold, in market's keep,\nA wager placed, a harvest reaped,\nLabor's strength, consumers' cheer,\nBoost the crows of Nasdaq's sphere.",
+    "feedItems": [
+      {
+        "title": "Saudi Arabia Once Banned Videogames. Now, It Wants to Export Them.",
+        "description": "The kingdom is pouring $40 billion into a bid to be a world leader in the industry.",
+        "link": "https://www.wsj.com/articles/saudi-arabia-once-banned-videogames-now-it-wants-to-export-them-ec61f7e1",
+        "id": "WP-WSJ-0001210305"
+      },
+      {
+        "title": "Chemical Companies Face Awkward Wait for Recovery, Berenberg Says",
+        "description": "Chemical companies likely face a few awkward months as signs of a recovery in the sector take time to emerge, Berenberg said, adding that while auto demand has been strong, there were hints of caution toward the sector as pandemic-era backlogs are depleted.",
+        "link": "https://www.wsj.com/articles/australian-shares-poised-to-rise-at-open-b7584435",
+        "id": "WP-WSJ-0001212846"
+      },
+      {
+        "title": "Investors scooped up stocks on a bet on a strong U.S. consumer and a resilient labor market, lifting both the S&P 500 and Nasdaq by 0.8%. and the Dow by 1%.",
+        "description": "Investors scooped up stocks on a bet on a strong U.S. consumer and a resilient labor market, lifting both the S&P 500 and Nasdaq by 0.8%. and the Dow by 1%.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-14-2023-6b752624",
+        "id": "7D5E026E-D1BB-4E67-A15E-AEC89B63BEB8"
+      }
+    ],
+    "date": "2023-09-15"
+  }
+]
