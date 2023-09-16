@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Beneath the clear sky and weave of trees, lies a serpent's dream,\nGrim rules of poison inked clear on shadows burnt in grey.\nSage nations seek to shun the charm, unlike it seems,\nIn each gust of death's smoke, a new warning to display.\n\nDark knight of halls filled with power, a fortnight to be seen,\nIn fields of coin and guarded shores, trust must he sustain.\nWhile far away the raven calls, in lands of green,\nThe clock doth not halt, for peace to regain.\n\nIn grand castle of ciphers, seeks to learn the dove's shy coo,\nHidden truths whispered in forests of silver and gold.\nMarrying minds with iron and light, a bond forged anew,\nA dance with the ghost of future in the sage's hold.",
+    "feedItems": [
+      {
+        "title": "Countries Want to Refresh Tobacco Warnings---and Put Them on Individual Cigarettes",
+        "description": "Some countries want to go beyond warnings on packs by emblazoning messages like “Poison in Every Puff” on the cigarettes themselves.",
+        "link": "https://www.wsj.com/articles/before-you-light-up-see-the-smoke-alarm-on-your-cigarette-643db11e",
+        "id": "WP-WSJ-0001213502"
+      },
+      {
+        "title": "McCarthy Has Two Weeks to Soothe GOP Critics and Keep Government Open",
+        "description": "Congress faces an Oct. 1 deadline as Republicans press Speaker Kevin McCarthy on spending cuts, border security and the war in Ukraine.",
+        "link": "https://www.wsj.com/articles/kevin-mccarthy-government-shutdown-republicans-ca924c18",
+        "id": "WP-WSJ-0001215044"
+      },
+      {
+        "title": "The Executive Trying to Make Microsoft Smarter About AI",
+        "description": "Chief Technology Officer Kevin Scott spearheaded the tech titan’s unlikely partnership with OpenAI.",
+        "link": "https://www.wsj.com/articles/microsoft-ai-artificial-intelligence-kevin-scott-b8954ff1",
+        "id": "WP-WSJ-0001211007"
+      }
+    ],
+    "date": "2023-09-16"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Robinhood, in his acts quite brave,\nNow wants thy future coin to save. \nHe who in meme-stocks made a brawl,\nSeeketh now thine autumn's haul.\n\nSouth Korea, 'neath her Eastern Star,\nHolds her own nuclear ambitions afar.\nFor though a pact with U.S. is made,\nTheir leaders see in atoms a profitable trade.\n\nFrom Mexico travels Guzmán's son,\nFor his father's debts hath not spun.\nTo U.S. shores now he's bound,\nA bitter ale for guilt is found.",
+    "feedItems": [
+      {
+        "title": "Robinhood Wants to Grow Up",
+        "description": "The app at the center of meme-stock frenzy now wants your retirement money.",
+        "link": "https://www.wsj.com/articles/robinhood-wants-to-grow-up-1780844e",
+        "id": "WP-WSJ-0001214104"
+      },
+      {
+        "title": "South Korea's Interest in Nuclear Weapons Hasn't Gone Away---It's Just On Hold",
+        "description": "Despite a recent pact with the U.S., many of the country’s leaders favor developing a homegrown nuclear option.",
+        "link": "https://www.wsj.com/articles/south-koreas-interest-in-nuclear-weapons-hasnt-gone-awayits-just-on-hold-7c91cf8a",
+        "id": "WP-WSJ-0001214448"
+      },
+      {
+        "title": "Mexico extradited Ovidio Guzmán, son of imprisoned drug lord Joaquín \"El Chapo\" Guzmán, to the U.S. to face drug charges.",
+        "description": "Mexico extradited Ovidio Guzmán, son of imprisoned drug lord Joaquín “El Chapo” Guzmán, to the U.S. to face drug charges.",
+        "link": "https://www.wsj.com/world/americas/mexico-extradites-son-of-joaquin-el-chapo-guzman-to-u-s-3d9b2c3e",
+        "id": "6371CC92-1646-495D-93CB-07893F6C923E"
+      }
+    ],
+    "date": "2023-09-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the hall of Wells Fargo, mischief was afoot,\nCarrie Tolstedt, her name, in scandal's filthy soot.\nYet shielded by the law's cloak, no dungeon will she find,\nIn the saga of the false gold, she leaveth guilt behind.\n\nBeneath the vault of Planet's Gym, a chief was cast aside,\nRondeau, the stalwart helmsman, on fortune's ebbing tide.\nThe board, like an unruly sea, decided his downfall,\nAnd in the market's stormy gaze, the company did fall.\n\nIn the realm of the Emerald Isle, the TikTok beast did stray,\nCrossing barriers of data, for which it had to pay.\nThe Irish, fierce as thunder, unleashed a hefty fine,\nA testament to those who cross the sacred line.",
+    "feedItems": [
+      {
+        "title": "Former Wells Fargo executive Carrie Tolstedt won't serve prison time for her role in the bank'sfake-accounts scandal.",
+        "description": "Former Wells Fargo executive Carrie Tolstedt won’t serve prison time for her role in the bank’s fake-accounts scandal.",
+        "link": "https://www.wsj.com/finance/banking/former-wells-fargo-executive-might-face-prison-time-in-fake-accounts-scandal-78bb370d",
+        "id": "5D62820A-BE63-467B-B124-5CCE2D20A7E0"
+      },
+      {
+        "title": "Shares of Planet Fitness dropped 16% after the gym chain's board ousted longtime CEO Chris Rondeau.",
+        "description": "Shares of Planet Fitness dropped 16% after the gym chain’s board ousted longtime CEO Chris Rondeau.",
+        "link": "https://www.wsj.com/business/c-suite/planet-fitness-shares-tumble-after-board-ousts-longtime-ceo-bf3b6318",
+        "id": "6592A46F-0FB5-4A8D-9D94-7399F821C040"
+      },
+      {
+        "title": "Irish authorities fined TikTok $367.2 million, saying it breached the country's data-protection laws.",
+        "description": "Irish authorities fined TikTok $367.2 million, saying it breached the country’s data-protection laws.",
+        "link": "https://www.wsj.com/tech/tiktok-fined-by-irish-regulator-over-misuse-of-childrens-data-c767ed1d",
+        "id": "69FB5058-D021-4DFA-BFE7-84607AF33D6C"
+      }
+    ],
+    "date": "2023-09-16"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "To the courts of gold and fields of green,\nA chance to own is now foreseen.\nOn the stage of sport, an arena most keen,\nIn the grand game of wealth, Goldman Sachs does glean.\n\nBehold, a tempest in the market's might,\nAs tech giants falter in their flight.\nThe Dow and Nasdaq in woeful sight,\nS&P succumbs to the waning light.\n\nOf strikes and idle, the factories sing,\nBoth Ford and GM feel the sting.\nIn the dance of labor, a sudden swing,\nThe ripple spreads, a grievous ring.",
+    "feedItems": [
+      {
+        "title": "Goldman Sachs is creating a unit within its investment banking division that will offer clients the chance to own a piece of a private sports team.",
+        "description": "Goldman Sachs is creating a unit within its investment banking division that will offer clients the chance to own a piece of a private sports team.",
+        "link": "https://www.wsj.com/finance/banking/goldmans-pitch-to-rich-clients-hey-buy-a-piece-of-this-sports-team-5a58746b",
+        "id": "C5485387-F98D-4C1A-9F8F-C6574E4FED02"
+      },
+      {
+        "title": "A slump in technology companies' shares weighed on the S&P 500 Friday. The broad index fell 1.2%, while the Nasdaq and Dow shed 1.6% and 0.8%, respectively.",
+        "description": "A slump in technology companies’ shares weighed on the S&P 500 Friday. The broad index fell 1.2%, while the Nasdaq and Dow shed 1.6% and 0.8%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-15-2023-890cb022",
+        "id": "84BDE32D-C19A-4090-B015-3E77AE5CBCDB"
+      },
+      {
+        "title": "The UAW strike at three factories has caused ripple effects, as GM said it would soon idle another plant and Ford said it would temporarily lay off about 600 workers.",
+        "description": "The UAW strike at three factories has caused ripple effects, as GM said it would soon idle another plant and Ford said it would temporarily lay off about 600 workers.",
+        "link": "https://www.wsj.com/business/autos/uaws-strike-strategy-start-small-and-keep-em-guessing-5facd690",
+        "id": "DD8C2FF1-A91A-4DA3-BE14-5371B9480A0C"
+      }
+    ],
+    "date": "2023-09-16"
+  }
+]
