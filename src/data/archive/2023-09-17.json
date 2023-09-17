@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In eastern reaches where the dragon stirs,\nEconomic woes compare, dire to Japan's curse.\nYet verily, I say, the knot doth only tighten,\nFor China's future harks a shadow, woefully frightening.\n\nBeyond where Dnieper's currents swiftly flow,\nUkraine faces a relentless, icy foe.\nIn the midst of strife, the fickle heavens weep,\nImpeding Kyiv's hope for victory's sweet leap.\n\nAlas for Wenner, once held in fame's embrace,\nOusted from the Hall, he falls from grace.\nHis words, misguided, land a bitter blow,\nIn the court of public thought, deemed a foe below.",
+    "feedItems": [
+      {
+        "title": "Is China's Economic Predicament as Bad as Japan's? It Could Be Worse",
+        "description": "China is facing some economic challenges that Japan didn’t after its 1980s bubble.",
+        "link": "https://www.wsj.com/articles/is-chinas-economic-predicament-as-bad-as-japans-it-could-be-worse-aa962d0d",
+        "id": "WP-WSJ-0001210379"
+      },
+      {
+        "title": "Ukraine's Next Battlefield Foe: Bad Weather",
+        "description": "Drenching rain and icy cold could impede Kyiv’s chance of exploiting an eventual breakthrough.",
+        "link": "https://www.wsj.com/articles/ukraines-next-battlefield-foe-bad-weather-212a5f94",
+        "id": "WP-WSJ-0001207510"
+      },
+      {
+        "title": "Rolling Stone's Jann Wenner Ousted From Rock & Roll Hall of Fame Board",
+        "description": "The magazine’s co-founder was removed from the Rock & Roll Hall of Fame’s foundation board a day after the New York Times published comments he made in an interview that were considered sexist and racist.",
+        "link": "https://www.wsj.com/articles/rolling-stones-jann-wenner-ousted-from-rock-roll-hall-of-fame-board-ceede938",
+        "id": "WP-WSJ-0001216954"
+      }
+    ],
+    "date": "2023-09-17"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "On the stage of strife, ablaze and stark,\nBereft of toil, lies an empty park.\nFour million days as silent doves,\nA strike in the heart, the worker starves.\n\nAthletes preen, in glories glow,\nInflamed by secrets only they know.\nWith pulses of light, and cold's embrace,\nThey seek to quicken their weary race.\n\nIn jester's folly, realtors tread,\nIn affairs of heart, their honor bled.\n\"What could go wrong?\" the snail does sigh,\nAs secrets fester 'neath twinkling sky.",
+    "feedItems": [
+      {
+        "title": "The U.S. Lost 4.1 Million Days of Work Last Month to Strikes",
+        "description": "Even before the UAW walkout, the number of days lost to work stoppages had risen to its highest level in more than two decades.",
+        "link": "https://www.wsj.com/articles/the-u-s-lost-4-1-million-days-of-work-last-month-to-strikes-92c6a9f7",
+        "id": "WP-WSJ-0001209429"
+      },
+      {
+        "title": "Elite Athletes Swear by These Extreme Treatments. Scientists Think They Could Boost Your Health, Too.",
+        "description": "Cutting-edge sports-performance therapies using infrared light, electromagnetic pulses and cold potentially have longer-term benefits, researchers say",
+        "link": "https://www.wsj.com/articles/elite-athletes-swear-by-these-extreme-treatments-scientists-think-they-could-boost-your-health-too-69bdb934",
+        "id": "WP-WSJ-0001201305"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "When realtors get caught up in their client&#x27;s extramarital affairs. &#x22;What could go wrong?&#x22;",
+        "link": "https://www.wsj.com/articles/more-raquo-8bd5983d",
+        "id": "SB11999913068644574504504590217492311185453"
+      }
+    ],
+    "date": "2023-09-17"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In debtor's cuffs, their purses drained, a beast, fierce loan-dragon roars,\nYoung scholars’ plight foretells of blight, the market's future soars.\nDreadful price of learning's feast, leaves kinsmen's coffers torn,\nA chilling tide for retailers wide, a spending frost is born.\n\nThe sun now sets on boomers bold, as homelessness draws nigh,\nA life once held, now lost, unsold, beneath the weeping sky.\nOnce proud as thrones, now cast as stones, the generation falls,\nIn Odin's stead, the harsh wheel tread, the cruelest of the thralls.\n\nThe Texan Thane, in scandal bathed, does slip the hangman's noose,\nHis guilt evaded, honor shaded, in the court's recluse.\nThe senate's gaze did not amaze, their judgement clatters fair,\nPaxton stands, with unstained hands, the trial's icy air.",
+    "feedItems": [
+      {
+        "title": "Student-Loan Restart Threatens to Pull $100 Billion Out of Consumers' Pockets",
+        "description": "The resumption of the payments will leave some U.S. consumers squeezed and some of the nation’s largest retailers fearing a spending slowdown.",
+        "link": "https://www.wsj.com/articles/student-loan-repayment-consumers-economy-2218ca25",
+        "id": "WP-WSJ-0001211204"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "Why more baby boomers are sliding into homelessness",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-e3cec36f",
+        "id": "SB11999913068644574504504590217323343979484"
+      },
+      {
+        "title": "Texas Attorney General Ken Paxton Avoids Conviction in Impeachment Trial",
+        "description": "The state senate acquits official accused of improperly aiding a donor and using a donor to facilitate his extramarital affair.",
+        "link": "https://www.wsj.com/articles/texas-attorney-general-ken-paxton-avoids-conviction-in-impeachment-trial-e1c74355",
+        "id": "WP-WSJ-0001216531"
+      }
+    ],
+    "date": "2023-09-17"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Lee, perchance a beast now tamed,\nOn coastal shores he now hath claimed.\nStay ye sheltered, avoid the ale,\nLest in his tempest, you do ail.\n\nAn Egyptian scribe of potent quill,\nIn Nile's cold keep, now lies still.\nSisi seeks yet another round,\nWhilst silence doth oppugn the sound.\n\nA Yankeeman of wheaten heart,\nIn Spanish Vuelta makes his start.\nThough kin pursue with eager zeal,\nHis victory the Lord will seal.",
+    "feedItems": [
+      {
+        "title": "Lee, Now a Post-Tropical Cyclone, Makes Landfall Saturday",
+        "description": "People are urged to stay indoors as dangerous surf batters eastern New England and Atlantic Canada.",
+        "link": "https://www.wsj.com/articles/hurricane-lee-path-what-to-know-61b93fd5",
+        "id": "WP-WSJ-0001188637"
+      },
+      {
+        "title": "Top Egyptian Journalist Jailed Ahead of Elections",
+        "description": "Hisham Kassem, an opposition journalist in Egypt, is sentenced to six months in prison ahead of elections in which President Sisi is seeking a third six-year term.",
+        "link": "https://www.wsj.com/articles/top-egyptian-journalist-jailed-ahead-of-elections-d2a789b",
+        "id": "WP-WSJ-0001216489"
+      },
+      {
+        "title": "American Cyclist Sepp Kuss Set to Win the Vuelta a España",
+        "description": "Despite a challenge from his own teammates, the Colorado native will become the first U.S. winner of a Grand Tour in 10 years.",
+        "link": "https://www.wsj.com/articles/cycling-kuss-vingegaard-roglic-jumbo-visma-vuelta-e6aa874c",
+        "id": "WP-WSJ-0001216535"
+      }
+    ],
+    "date": "2023-09-17"
+  }
+]
