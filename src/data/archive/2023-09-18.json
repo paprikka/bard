@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the tide, the oil doth ride, a high not seen in ten-moon tide,\nANZ predicts, with Saudi's tricks, a deficit the lore inscribes,\nIn China's maw, demand doth gnaw, to draw more black gold from earth's insides,\nThus, the narwhal of gold surges bold, towards the moon as tide subsides.\n\nThe silvern song of Euro strong, is forecast to wane, the year long,\nAgainst the shield of Dollar's field, the war of figures fierce and wild,\nYet forecast fair, in year next there, the silver tune again beguiled,\nEnds the fray at point oh-six, the dial of fortune reviled.\n\nUpon Lonza's ship troubles tip, as the captain departs swift,\nThe birds of shares from their lairs, fell seven spans into the rift.\nRBC's seers, see no cheer, a storm brews, a confidence shift,\nSeptember's end bringeth change, market's mood begins to drift.",
+    "feedItems": [
+      {
+        "title": "Oil Sets Fresh 10-Month High on Saudi Cuts",
+        "description": "Oil prices rose to a fresh 10-month high, with ANZ estimating the market will witness a 2 million barrel-a-day supply deficit this quarter thanks to the Saudi cuts and growing demand in China.",
+        "link": "https://www.wsj.com/articles/oil-gains-on-supply-tightness-better-demand-outlook-ff3d7b07",
+        "id": "WP-WSJ-0001217143"
+      },
+      {
+        "title": "Euro to Weaken Further Vs Dollar This Year, Recover in 2024, Metzler Forecasts",
+        "description": "The euro is set to fall against the dollar up until year end before recovering next year, Metzler forecast, expecting the euro to end the year at $1.06 before rising to $1.07 and then $1.08 in the first and second quarters of 2024, respectively.",
+        "link": "https://www.wsj.com/articles/markets-appear-eager-to-fade-nzd-strength-27ae3448",
+        "id": "WP-WSJ-0001217138"
+      },
+      {
+        "title": "Lonza CEO Announces Abrupt Departure",
+        "description": "Lonza’s shares fell almost 7% on news the CEO would depart at the end of September, which RBC described as unexpected and was unlikely to provide the market with confidence heading into next month’s capital-markets day.",
+        "link": "https://www.wsj.com/articles/lonza-ceo-pierre-alain-ruffieux-to-leave-743dd66c",
+        "id": "WP-WSJ-0001218234"
+      }
+    ],
+    "date": "2023-09-18"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land so distant, where dragon scales shimmer,\nEmergent is fortune, in August's soft glimmer.\nIn their share's steady rise, the Chinese find tender grace\nExpectation surpassed, by Beijing's effective chase. \n\nThe Greek versus German, a contest of bonds,\nIn the mirrored halls of Eurozone's ponds.\nThe Grecian parchment, by Moody’s eye famed,\nIts dignity upheld, its outlook untamed. \n\nSocGen's strategy, a brave promise tell,\nA tangible return their tale does forecell.\nReduced is the oil gaze, the future's growth lean,\nA streamlining pledge, in twenty twenty-six's scene.",
+    "feedItems": [
+      {
+        "title": "Chinese Shares End Higher on Improving August Economic Data",
+        "description": "Chinese shares ended higher, as investor sentiment was boosted by better-than-expected August economic data released Friday, which raised hopes that Beijing’s stimulus measures have been effective.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-slide-c016194f",
+        "id": "WP-WSJ-0001217136"
+      },
+      {
+        "title": "Greek-German Bond Spread Slightly Narrows After Moody's Upgrades Greece",
+        "description": "Greek government bonds marginally outperformed their eurozone peers after Moody’s Investors Service upgraded Greece by two notches to Ba1 with stable outlook on Friday.",
+        "link": "https://www.wsj.com/articles/limited-issuance-seen-supportive-for-finnish-government-bonds-8c9480bf",
+        "id": "WP-WSJ-0001218194"
+      },
+      {
+        "title": "SocGen Outlines New Strategic Plan",
+        "description": "SocGen has targeted a return on tangible equity of 9%-10% in 2026, and forecast lower average annual revenue growth for the 2022-2026 period, as it aims to streamline its portfolio and reduce oil-and-gas exposure.",
+        "link": "https://www.wsj.com/articles/societe-generale-sees-slower-revenue-growth-through-2026-b673209a",
+        "id": "WP-WSJ-0001218202"
+      }
+    ],
+    "date": "2023-09-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the U.K.'s abode of stone and thistle,\nA rise, modest, 'neath morn's warming sun.\nYet a slumberous market and coming winter's whistle,\nBring reductions not seen since eleven year's run.\n\nFor the Fund, circuit of merchant's trust,\nTowards zero cost, we stand near goal.\nShepherd beware, lest thy part be unjust,\nWhen paying for lambs, take heed to control.\n\nUrged by Ukraine's hunger, fierce as a fox,\nSouth Korea's anvil sings a new refrain.\nTurning their plows into swift howitzers, hard as ox,\nFeeding allies with steel, instead of grain.",
+    "feedItems": [
+      {
+        "title": "U.K. House Prices Post Modest Monthly Rise",
+        "description": "The average house price in the U.K. rose 0.4% in the month to Sept. 9, amid sluggish activity in the market, with interest-rate rises and summer holidays leading to price reductions not seen since January 2011.",
+        "link": "https://www.wsj.com/articles/uk-house-prices-creep-up-on-month-but-below-the-usual-annual-trend-e2888168",
+        "id": "WP-WSJ-0001218185"
+      },
+      {
+        "title": "You Might Be Paying Too Much for That Index Fund",
+        "description": "The push toward zero-cost exchange-traded funds nears the finish line.",
+        "link": "https://www.wsj.com/articles/you-might-be-paying-too-much-for-that-index-fund-a2458f24",
+        "id": "WP-WSJ-0001215555"
+      },
+      {
+        "title": "Ukraine's Hunger for Howitzers Transforms an Arms Industry",
+        "description": "South Korea has become the world’s fastest-growing weapons exporter as Ukraine’s allies seek to quickly replenish their supplies.",
+        "link": "https://www.wsj.com/articles/ukraines-hunger-for-howitzers-transforms-an-arms-industry-a1b907c4",
+        "id": "WP-WSJ-0001216210"
+      }
+    ],
+    "date": "2023-09-18"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Evergrande, of China's domain, now in distress of debt,\nIts staff detained, its shares in wane, a scene we shan't forget.\nJust as a tun of vintage runs, when tapped too eager flows,\nThus too this enterprise undone, its troubles overflow.\n\nIn distant Kyiv, war doth drain their treasury of gold,\nA patchwork plan, in desperate vein, ensures their defense hold.\nLike mendicant with begging bowl, in poverty, not pride,\nThey scavenge for each precious toll, their needs cannot abide.\n\nA letter found within the Holy See, a dreadful tale unfolds,\nOf Pope Pius, and the dark decree he knew of, we are told.\nAs silent as a cloistered cell, he wore a veil of peace,\nWhilst in his heart, he knew full well, the horrors ne'er did cease.",
+    "feedItems": [
+      {
+        "title": "China Evergrande Shares Dip After Police Detain Some Wealth-Management Unit Staff",
+        "description": "China Evergrande Group’s shares dipped after police in southern China detained some staff at its wealth-management unit, adding to the debt-laden developer’s woes.",
+        "link": "https://www.wsj.com/articles/china-evergrande-shares-dip-after-police-detain-some-wealth-management-unit-staff-816e3858",
+        "id": "WP-WSJ-0001218126"
+      },
+      {
+        "title": "Ukraine Hunts for Cash as Fighting Drains Coffers",
+        "description": "Faced with another year of fighting, finance officials in Kyiv are using a patchwork approach to pay for a planned 50% increase in military spending.",
+        "link": "https://www.wsj.com/articles/ukraine-hunts-for-cash-as-fighting-drains-coffers-a6443e9c",
+        "id": "WP-WSJ-0001214733"
+      },
+      {
+        "title": "A letter in the Vatican's archives suggests that Pope Pius XII knew about the Nazi death camps as early as 1942, adding another element to the debate over the pontiff's silence on the wartime genocide.",
+        "description": "A letter in the Vatican’s archives suggests that Pope Pius XII knew about the Nazi death camps as early as 1942, adding another element to the debate over the pontiff’s silence on the wartime genocide.",
+        "link": "https://www.wsj.com/world/europe/wartime-pope-pius-xii-knew-about-holocaust-letter-suggests-159856ca",
+        "id": "163AE575-C305-4D51-AC5D-A0A14965AE8B"
+      }
+    ],
+    "date": "2023-09-18"
+  }
+]
