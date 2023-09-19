@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon gold's stead, as the Fed's word is bided,\nAs goat’s gazes upon the high mead, riveted.\nA riddle lies in clues, futures divided,\nAwait the morrow, secrets enlivened.\n\nA snail's trail upon the leaf of green,\nEuro's strength wilted, beneath one point oh seven-seven.\nRabbit caught in a trap, a scene unseen,\nTwo dawn sessions yet, the path to heaven.\n\nBrent the hare leaps o’er the barrel,\nAbove the ninety-five mark, carried by the gale.\nIn Saudi’s words, a potential quarrel,\nDog anticipates the sustain'd cut, told in the tale.",
+    "feedItems": [
+      {
+        "title": "Gold Steady as Fed Meeting Awaited",
+        "description": "Gold prices were steady as investors awaited the conclusion of the Fed’s meeting Wednesday, which will be scrutinized for any forward-looking clues.",
+        "link": "https://www.wsj.com/articles/gold-steady-ahead-of-fed-policy-meeting-7031ae3d",
+        "id": "WP-WSJ-0001220199"
+      },
+      {
+        "title": "EUR/USD's Bias Remains Bearish Below 1.0770, Charts Show",
+        "description": "EUR/USD’s bias remains bearish below a recent high of 1.0770, based on technical charts, and although the pair found support around the May low and has rebounded over the past two sessions, it is still within a clear downtrend on the daily chart.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-key-central-bank-meetings-9ed1699",
+        "id": "WP-WSJ-0001220190"
+      },
+      {
+        "title": "Brent Briefly Rises Above $95 Following Saudi Energy Minister Comments",
+        "description": "Oil prices briefly rose above $95 a barrel after Saudi Arabia’s energy minister said the “jury is still out” on demand from China, interpreted as an indication the kingdom anticipates leaving its supply cut in place into next year, ANZ said.",
+        "link": "https://www.wsj.com/articles/oil-rises-amid-ongoing-supply-constraints-7987e216",
+        "id": "WP-WSJ-0001220195"
+      }
+    ],
+    "date": "2023-09-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Kingfisher's fiscal gleam now dimmed in light,\nIn Polish sales, found weaker in their bite.\nPretax gains of pounds, five-ninety mil,\nTh' consensus missed, a bitter brew to swill.\n\nIn Russian lands, they craft their drones of war,\nLow-cost, explosive, tread on Ukraine's shore.\nOnce Kyiv led, in tactics neat and shrewd,\nBut Moscovites now mirror, in frenzied mood.\n\nEl Niño wakes, Australia raises voice,\nDeclaring dry and fiery days by choice.\nRainfall ebbs, whilst heat waves do assert,\nA pattern grim, the farmer's field to hurt.",
+    "feedItems": [
+      {
+        "title": "Kingfisher Cuts Full-Year Guidance",
+        "description": "Kingfisher now sees its adjusted pretax profit for fiscal 2024 at £590 million, after first-half profits missed consensus, driven largely by a weaker sales performance in Poland.",
+        "link": "https://www.wsj.com/articles/kingfisher-cuts-fy-2024-view-after-1h-pretax-profit-fell-launches-gbp300-mln-share-buyback-fbbe0185",
+        "id": "WP-WSJ-0001220834"
+      },
+      {
+        "title": "How Russia Is Building Up Its Arsenal of Low-Cost Explosive Drones",
+        "description": "Early in its invasion of Ukraine, Russia lagged behind Kyiv in its use of low-cost explosive drones. But by mid 2023, Russian UAVs were targeting Ukrainian forces, copying some of Kyiv’s most successful tactics. WSJ explains how Moscow is catching up.",
+        "link": "https://www.wsj.com/articles/how-russia-is-building-up-its-arsenal-of-low-cost-explosive-drones-4620d3b8",
+        "id": "SB12448968051255004587404590222020879003554"
+      },
+      {
+        "title": "Australia Declares El Niño Underway, Warns of Reduced Rainfall",
+        "description": "Australia said an El Niño weather pattern is under way, bringing with it a heightened risk of wildfires, heat waves and reduced rainfall to one of the world’s largest exporters of agricultural products.",
+        "link": "https://www.wsj.com/articles/australia-declares-el-nino-underway-warns-of-reduced-rainfall-2a9b02e1",
+        "id": "WP-WSJ-0001220843"
+      }
+    ],
+    "date": "2023-09-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the great halls of Kingfisher, whispers drift on the sea-breeze,\nTheir doom-predictions keenly watched, stock value to appease.\nThe wrath of Citi's neutral glare, alterations in sight,\nIn the fierce storm of commerce, lowly Neid-fire's light.\n\nOcado, like Fenrir, races 'gainst time, in glory and strife,\nUnchanged stands its year-end goal, on the edge of Skofnung's knife.\nRising the tide of revenue, by Thor's might, it increases,\nInto the final quarter slides, where the rough turmoil ceases.\n\nTo the hot sands of Arabia, where camels doth make their rest,\nTesla courts the desert king, in a crucial test.\nEarly are their whispered talks, under the blazing Sunna's stare,\nA storm of steel and lightning may soon rise in the desert's glare.",
+    "feedItems": [
+      {
+        "title": "Kingfisher's Comments on Regional Performance Will Be Keenly Watched",
+        "description": "Kingfisher could see consensus estimates lowered 5%-6% on the back of its guidance cut, Citi said, keeping a neutral rating on the stock and a 256p price target.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-edge-lower-ef32b512",
+        "id": "WP-WSJ-0001220224"
+      },
+      {
+        "title": "Ocado Keeps Outlook As Sales Rise",
+        "description": "Ocado left its full-year guidance unchanged on positive momentum heading into the final quarter after it reported a 7.2% rise in third-quarter revenue.",
+        "link": "https://www.wsj.com/articles/ocado-backs-full-year-views-after-3q-revenue-customers-rose-3e9d336a",
+        "id": "WP-WSJ-0001220806"
+      },
+      {
+        "title": "Saudi Arabia is in early-stage talks with Tesla about setting up a manufacturing facility there, people familiar with the discussions said.",
+        "description": "Saudi Arabia is in early-stage talks with Tesla about setting up a manufacturing facility there, people familiar with the discussions said.",
+        "link": "https://www.wsj.com/business/autos/tesla-saudi-arabia-in-early-talks-for-ev-factory-240cd075?mod%3Dbusiness_lead_pos3",
+        "id": "A5221CCF-2800-401D-8BCC-6D42C8141BA0"
+      }
+    ],
+    "date": "2023-09-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In realms of governance, great surge we see,\nThree hundred thousand posts, fullfilled and free.\nThe Bureau notes this stir, a noble deed,\nA fifth of all new roles - the public's need.\n\nOnce humble venture, now with price so dear,\nInstacart at $30 makes its premier.\nResurgence whispers in the market's ear,\nIn IPO's garden, flowers reappear.\n\nFrom Iran's confining grasp, the captives break,\nFive American souls a journey make. \nFor energy's rich boon had been their stake,\nNow, towards their homeland's hearth, a path they take.",
+    "feedItems": [
+      {
+        "title": "Public-sector jobs have risen by 327,000 positions so far in 2023, according to the Bureau of Labor Statistics, a number approaching one-fifth of all new U.S. jobs created in the period.",
+        "description": "Public-sector jobs have risen by 327,000 positions so far in 2023, according to the Bureau of Labor Statistics, a number approaching one-fifth of all new U.S. jobs created in the period.",
+        "link": "https://www.wsj.com/lifestyle/careers/government-is-hiring-this-year-and-boosting-pay-were-booming-8719a98c?mod%3Deconomy_lead_pos3",
+        "id": "CB7F263E-48F3-41CD-9C7D-29000D3CC1EB"
+      },
+      {
+        "title": "Instacart said it set a price of $30 a share for its initial public offering, at the high end of expectations, in a further sign of resurgence in the IPO market.",
+        "description": "Instacart said it set a price of $30 a share for its initial public offering, at the high end of expectations, in a further sign of resurgence in the IPO market.",
+        "link": "https://www.wsj.com/business/retail/instacart-prices-ipo-at-30-a-share-at-top-end-of-expectations-a33bb62c?mod%3Dhp_lead_pos1",
+        "id": "8096CE61-D4E9-4340-87C4-41B7FD63449C"
+      },
+      {
+        "title": "Five Americans who had been wrongly imprisoned in Iran were on their way home after the U.S. released billions of dollars in revenue from Iranian energy sales that had been frozen under sanctions, senior U.S. officials said.",
+        "description": "Five Americans who had been wrongly imprisoned in Iran were on their way home after the U.S. released billions of dollars in revenue from Iranian energy sales that had been frozen under sanctions, senior U.S. officials said.",
+        "link": "https://www.wsj.com/politics/national-security/iran-says-it-plans-to-free-five-american-prisoners-monday-80ac526f",
+        "id": "EFB6D4D5-9A86-425B-8F4F-A8BA763B2A07"
+      }
+    ],
+    "date": "2023-09-19"
+  }
+]
