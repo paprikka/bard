@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Indonesian banks where wealth grows like snails,\nPreserving rate that in shadow prevails,\nLike rabbit in its hollow, cautious and small,\nThey guard against inflations rise and fall.\n\nIn Swiss land, the franc does lightly tread,\nUnchanged its rate, market predictions misled.\nLike goat on mount, unexpected turns it makes,\nIn duel of currency, the euro overtakes.\n\nThe company named Next, raises its gaze,\nForesees a boon in future days.\nLike dog after rabbit, to chase the gain,\nIt finds calm pastures, free of inflation's strain.",
+    "feedItems": [
+      {
+        "title": "Indonesia's Central Bank Stands Pat as Expected",
+        "description": "Bank Indonesia maintained its benchmark rate, as expected, to ensure inflation remains low and within target.",
+        "link": "https://www.wsj.com/articles/indonesias-central-bank-stands-pat-as-expected-c524640e",
+        "id": "WP-WSJ-0001226728"
+      },
+      {
+        "title": "Swiss Franc Slides After SNB Unexpectedly Holds Rates",
+        "description": "The Swiss franc hit its weakest in two months against the euro after the SNB unexpectedly left interest rates at 1.75%, when markets had expected a hike to 2%.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-after-fed-signals-rates-will-stay-higher-for-longer-84be7afb",
+        "id": "WP-WSJ-0001226750"
+      },
+      {
+        "title": "Next Raises Guidance Again",
+        "description": "Next forecast a fiscal 2024 pretax profit of £875 million and sales of £4.7 billion after it reported an improved first-half result, and it said the longer-term outlook looked more positive as inflationary pressures continue to ease.",
+        "link": "https://www.wsj.com/articles/next-plc-raises-full-year-views-as-1h-pretax-profit-rose-da3a0638",
+        "id": "WP-WSJ-0001227403"
+      }
+    ],
+    "date": "2023-09-21"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon China's stocks, a shadow creeps,\nWhere growth concerns their vigil keeps,\nThe hawkish stance of Fed gives fright,\nHints of a hike before morning light.\n\nIn Casino halls, forecasts are slashed,\nFrench sales and earnings, swiftly dashed,\nAt €401 million, profit seen small,\nIn response to cost and restructuring's call.\n\nIn Isle of Philippines, rates stand still,\nWhilst inflation's rise prompts a chill,\nDespite the dread, the Bank stands firm,\nFor weakness in the economy they discern.",
+    "feedItems": [
+      {
+        "title": "Chinese Shares Fall on Ongoing Growth Concerns",
+        "description": "Chinese shares ended lower, with sentiment weighed by ongoing concerns over economic growth and the Fed’s hawkish rate pause after officials hinted at another hike in the coming months",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-slip-again-at-the-open-cdbeabcb",
+        "id": "WP-WSJ-0001226875"
+      },
+      {
+        "title": "Casino Slashes Earnings Forecasts",
+        "description": "Casino cut back its French sales and earnings projections through 2028, with underlying profit seen at €401 million next year, following a review of its units, energy costs and actions taken as part of its financial restructuring.",
+        "link": "https://www.wsj.com/articles/casino-guichard-perrachon-lowers-2024-28-france-sales-earnings-views-275f9286",
+        "id": "WP-WSJ-0001227440"
+      },
+      {
+        "title": "Philippines Central Bank Keeps Rate Unchanged",
+        "description": "The Philippine central bank left its benchmark interest rate unchanged despite a recent rise in inflation, as the economy showed signs of weakness.",
+        "link": "https://www.wsj.com/articles/philippines-central-bank-keeps-rate-unchanged-as-economy-shows-signs-of-weakness-9b11aca",
+        "id": "WP-WSJ-0001226716"
+      }
+    ],
+    "date": "2023-09-21"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the cradle of the mighty Eurozone, \nBonds didst teeter, their grip nearly thrown.\nThe Norns' threads in the spinning date's concerned eye,\nTheir fates whirling as bond yields rise high.\n\n'Tis the RBA's Watchman with a tale of strife,\nA croak of warning through his insightful lyfe.\nTis reforms, he shouts, they seemeth not pure,\nIn the serpent's gaze, scrutiny must endure.\n\nNow McCarthy, a chieftain with a will to mend,\nSeeks to quell the strife and bring discord to an end.\nA clash 'neath the dragon's eye, as talks unfurl,\n'Twixt the GOP's and the Democrats’ twirling whirl.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Rise After Fed's 'High-For-Long' Message",
+        "description": "Eurozone government bond yields rose, with the 10-year Bund yield hovering close to its year-to-date high, after the Fed’s “high-for-long” message on interest rates prompted some selloff in Treasurys.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-after-feds-high-for-long-message-c44cf360",
+        "id": "WP-WSJ-0001227417"
+      },
+      {
+        "title": "Glynn's Take: RBA Reforms Fail Best Practice; Further Scrutiny Needed",
+        "description": "Former Reserve Bank of Australia Gov. Ian Macfarlane warned in a television interview that proposed reforms may require further scrutiny.",
+        "link": "https://www.wsj.com/articles/glynns-take-rba-reforms-fail-best-practice-further-scrutiny-needed-5f677046",
+        "id": "WP-WSJ-0001227310"
+      },
+      {
+        "title": "McCarthy Sees Progress in Winning Over GOP's 'Dysfunction Caucus'",
+        "description": "The standoff has some Republicans looking for a backup plan and thinking about possible outreach to the Democrats.",
+        "link": "https://www.wsj.com/articles/gops-dysfunction-caucus-blocks-mccarthy-as-government-shutdown-looms-f8f624f9",
+        "id": "WP-WSJ-0001224995"
+      }
+    ],
+    "date": "2023-09-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the reign of King Healthful Ale, there came a tempest fierce,\nModelo, from the Southern lands, its frothy head did pierce,\nDethroned the monarch Bud Light, in a drama filled with fear,\nBy lawsuit and by cunning words, now highest sell'st the beer. \n\nIn the kingdom of Economy, a change on the horizon,\nNot simply high rates for a spell, but forever is the rising,\nOne must not fret of unemployment or inflation’s ghastly run,\nFor Fed Officials forecast a ‘neutral rate’ under the sun. \n\nAnd in the realm of cryptic coins, a creature named Tether,\nDid halt its lending in '23, under stormy weather,\nBut lo, it lends its stable coins anew, with fervor and with zest,\nIn the financial seas of uncertainty, it stands above the rest.",
+    "feedItems": [
+      {
+        "title": "The Antitrust Lawsuit That Helped Make Modelo America's Top Beer",
+        "description": "Modelo Especial is now America’s top-selling beer, dethroning the longstanding king, Bud Light, which recently has been subject to a culture-war storm. Here’s how an antitrust lawsuit and savvy marketing helped the Mexican brand grow in the U.S.",
+        "link": "https://www.wsj.com/articles/the-antitrust-lawsuit-that-helped-make-modelo-americas-top-beer-b2a99250",
+        "id": "SB10497490286922313306304590225790258455362"
+      },
+      {
+        "title": "Higher Rates Not Just for Longer, but Maybe Forever",
+        "description": "Rate projections suggest many Fed officials see a rising ‘neutral rate,’ which keeps inflation and unemployment stable in the long run",
+        "link": "https://www.wsj.com/articles/higher-interest-rates-not-just-for-longer-but-maybe-forever-d5891964",
+        "id": "WP-WSJ-0001226734"
+      },
+      {
+        "title": "Tether Is Lending Its Stablecoins Again",
+        "description": "The cryptocurrency issuer had said it would cut loans to zero in 2023.",
+        "link": "https://www.wsj.com/articles/tether-is-lending-its-stablecoins-again-b11705f2",
+        "id": "WP-WSJ-0001225864"
+      }
+    ],
+    "date": "2023-09-21"
+  }
+]
