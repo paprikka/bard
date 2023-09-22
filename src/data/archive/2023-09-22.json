@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "As the Reserve Bank subjects to the review's sway,\nClaims do arise that overshadow the day,\nFear not, for the governor's authority won't decay,\n'Tis but a jest, says the architect, to those in disarray.\n\nIn the lands of Britain and the proud domain of the Boer,\nProsperity doth rise, with Investec's profits in store,\nAn ale hearty and strong, to the tune of four hundred and fifty score,\nA toast to equity's return, mightier than e'er before.\n\nBeneath the azure of the Eurozone, yields steadfastly abide,\nWhilst the ten-year Bund yield, tide by tide,\nWithin the realm of two point eight and two point seven does glide,\nIn the tavern of SEB, these figures do confide.",
+    "feedItems": [
+      {
+        "title": "RBA Review Panelist Says Reforms Won't Undermine Central Bank Governor",
+        "description": "One of the architects of a recent review of the Reserve Bank of Australia’s operations said proposed changes won’t undermine the power of the governor, in response to claims that critical decisions would be in the hands of part-time board members.",
+        "link": "https://www.wsj.com/articles/rba-review-panelist-says-reforms-wont-undermine-central-bank-governor-36485598",
+        "id": "WP-WSJ-0001230673"
+      },
+      {
+        "title": "Investec Forecasts Solid Rise in Profits",
+        "description": "Investec expects to report first-half adjusted profits of up to £450 million, driven by strong results in the U.K. and South Africa, and sees its return on equity meeting its guidance.",
+        "link": "https://www.wsj.com/articles/investec-expects-profits-to-rise-return-on-equity-to-meet-targets-d8a18c99",
+        "id": "WP-WSJ-0001230696"
+      },
+      {
+        "title": "Ten-Year Bund Yield Remains Near Year-to-Date High",
+        "description": "Eurozone government bond yields were little changed, with the 10-year Bund yield within the 2.70%-2.80% range that SEB Research targeted for the third and fourth quarters of the year.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-issuance-in-2024-expected-in-line-with-2023-96337d0",
+        "id": "WP-WSJ-0001230606"
+      }
+    ],
+    "date": "2023-09-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like a hare bounding o'er a stile,\nMicrosoft makes amends, brings a smile.\nIn clouds, a game doth grow,\nU.K Authority, accepts the flow.\n\nSanofi, struck by a claw unseen,\nWounds of Forex, sharp and keen.\nSales recede, shares sigh and sec,\nAn ill-timed stumble, tethers a wreck.\n\nA rise foreseen, by chart's keen eye,\nU.S. yield, it aims the sky.\nOver months two, the rabbit will run,\nYonder the moon, bound by no Sun.",
+    "feedItems": [
+      {
+        "title": "Microsoft's Activision Deal Clears Main Hurdle as U.K. Regulator Accepts Changes",
+        "description": "The U.K. Competition and Markets Authority said a new deal submitted by Microsoft should lessen any harm to competition in cloud gaming.",
+        "link": "https://www.wsj.com/articles/microsofts-activision-deal-moves-closer-as-u-k-regulator-accepts-changes-fdb0ef45",
+        "id": "WP-WSJ-0001230649"
+      },
+      {
+        "title": "Sanofi Faces Third-Quarter Forex Hit",
+        "description": "Sanofi estimates a currency impact on third-quarter business earnings per share of 8.5%-9.5% and expects sales to reduce by up to 8.5%.",
+        "link": "https://www.wsj.com/articles/sanofi-expects-currency-hit-to-sales-earnings-ea705636",
+        "id": "WP-WSJ-0001230651"
+      },
+      {
+        "title": "U.S. 10-Year Treasury Yield Could Rise Further, Charts Show",
+        "description": "The U.S. 10-year Treasury yield was highly likely to rise further over the next two months, based on technical charts, UOB said.",
+        "link": "https://www.wsj.com/articles/u-s-10-year-treasury-yield-could-rise-further-charts-show-7414c395",
+        "id": "WP-WSJ-0001230656"
+      }
+    ],
+    "date": "2023-09-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm of gaming, cloud above, 'twas Microsoft's love,\nUntangled knots of antitrust, forging bonds, as all men must.\nActivision, in their grasp, resolve in question's lingering clasp,\nFinal verdict in suspension, waits the realm's keen attention.\n\nRetail sails in Britain's lands, wrung drenched by weather's icy hands,\nTheir bounty slight, expectations fall, yet slight is better than none at all.\nAfter summer deluge cold, aisles of food bloom bold,\nDespite disappointment in their wake, a slender growth doth the market make.\n\nIn far-off Nikkei, shadows loom, cast by retail, pharma's gloom,\nStocks fall low in mournful slide, as fear of inflation turns the tide.\nHigher costs of borrowed gold, a future bleak and cold,\nArise the specter of despair, in markets once so fair.",
+    "feedItems": [
+      {
+        "title": "Microsoft's Revised Activision Deal Lessons U.K. Competition Concerns",
+        "description": "The U.K. antitrust authority said the new deal submitted by Microsoft addresses competition concerns in cloud gaming, and it opened a consultation on residual concerns it has before making a final decision on the acquisition.",
+        "link": "https://www.wsj.com/articles/microsofts-revised-activision-deal-addresses-competition-concerns-says-uk-regulator-55495485",
+        "id": "WP-WSJ-0001230637"
+      },
+      {
+        "title": "U.K. Retail Sales Rebound; Still May Disappoint",
+        "description": "Retail-sales volumes rose 0.4% in August, slightly below expectations, after food stores bounced back following wet weather in the prior month.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-rose-in-august-in-rebound-from-wet-weather-80c71b00",
+        "id": "WP-WSJ-0001230619"
+      },
+      {
+        "title": "Nikkei Falls 0.5%, Dragged by Retail, Pharma Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in retail and pharmaceutical stocks, as concerns persist about inflation and higher borrowing costs.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-add-to-weeks-losses-13607548",
+        "id": "WP-WSJ-0001229962"
+      }
+    ],
+    "date": "2023-09-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Within Prudential's towering keep, a tale of woe hath sprung,\nThe CFO, his honour stripped, by his own hand was flung,\nFor he did aid a vassal's kin to claim a golden worth,\nOnly to find himself forsaken, cast adrift from the hearth.\n\nIn lands where gold and silver speak, a storm of change doth whirl,\nThe mighty dollar rises fierce, its banners are unfurl'd,\nLo! Eurozone and British shires, their fortunes seen to wane,\nAnd in this tempest, the greenback sails, basking in the gain.\n\nFrom distant China, whispers come of shadows on the tide,\nA call for gold-enfolded arms, their fears and doubts to hide.\nTo Hong Kong's isle, the mainlanders in droves begin to flee,\nAnd in their wake, a boon for HSBC they guarantee.",
+    "feedItems": [
+      {
+        "title": "An Insurance Regulator Asked for a Favor. It Cost a Senior Executive His Job.",
+        "description": "Prudential’s CFO resigned after he tried to help line up a job for a regulator’s relative.",
+        "link": "https://www.wsj.com/articles/an-insurance-regulator-asked-for-a-favor-it-cost-a-senior-executive-his-job-1baec4b0",
+        "id": "WP-WSJ-0001230343"
+      },
+      {
+        "title": "Dollar Could Benefit From Weak European PMI Data",
+        "description": "The dollar will likely benefit from weak eurozone and U.K. PMI data, ING said, while the rise in Treasury yields after the Fed signalled rates would remain higher for longer also supports the greenback.",
+        "link": "https://www.wsj.com/articles/jpy-consolidates-ahead-of-boj-decision-fa03d07d",
+        "id": "WP-WSJ-0001229964"
+      },
+      {
+        "title": "China's Economic Worries Spur a Different Kind of Shopping Spree",
+        "description": "Mainland tourists are flocking to Hong Kong in search of investment-focused insurance. One of the big beneficiaries: HSBC.",
+        "link": "https://www.wsj.com/articles/chinas-economic-worries-spur-a-different-kind-of-shopping-spree-1321e607",
+        "id": "WP-WSJ-0001227583"
+      }
+    ],
+    "date": "2023-09-22"
+  }
+]
