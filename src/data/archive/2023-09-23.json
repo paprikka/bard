@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From yonder Holland, 'twas birthed, a term so grand,\nBoss, though humble, its reach did expand.\nTo politics, to roguery, to the redacted verse,\nIn Springsteen's name, its fame did burst.\n\nIn Jersey Shore's sandy embrace did he dwell,\nSpringsteen, our bard, his tale I foretell.\nAt seventy-four, he rocks the celestial dome,\nYet, my heart yearns for him, the scruff-clad beach gnome.\n\nFrom India's heart, echoes a conflict old,\nBetween the Sikhs, and Modi's fold.\nIn the wake of a martyr, the plea arose,\nFor a homeland, a haven, to quell the woes.",
+    "feedItems": [
+      {
+        "title": "'Boss': From a Head Honcho in Dutch to a Rock Star in the U.S.A.",
+        "description": "The term jumped to English during colonial times, then spread to politics and criminal gangs and eventually to Bruce Springsteen.",
+        "link": "https://www.wsj.com/articles/boss-from-a-head-honcho-in-dutch-to-a-rock-star-in-the-u-s-a-b8699053",
+        "id": "WP-WSJ-0001225060"
+      },
+      {
+        "title": "The Glory Days of Bruce Springsteen, and Me",
+        "description": "As the megastar turns 74, still rocking arenas, I miss the scruffy Jersey Shore beach rat I wanted to be.",
+        "link": "https://www.wsj.com/articles/the-glory-days-of-bruce-springsteen-and-me-1c67770d",
+        "id": "WP-WSJ-0001212865"
+      },
+      {
+        "title": "India's Clash With Canada Follows New Wave of Calls for Sikh Homeland",
+        "description": "Prime Minister Narendra Modi aired security concerns to Western leaders in the months before the killing of a Canadian Sikh activist.",
+        "link": "https://www.wsj.com/articles/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe",
+        "id": "WP-WSJ-0001231494"
+      }
+    ],
+    "date": "2023-09-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "O'er divisive games, the nation rues,\nTheir minds distracted from the Trues,\nPartisan wrestle, fresh conflict ignite,\nSeek not we now, another impeachment fight.\n\nStrikes besiege the humble carmaker's dwell,\nEscalating in a negotiation's swell,\nFrom whence the common man's plight's addressed,\nClues five may show where unrest unrests.\n\nFields once nourished by demiurge's hand,\nIn Russia's sway, now pivotal stand,\nNear a southeast village, forests and plains,\nBecome the theater of Ukraine's counteroffensive gains.",
+    "feedItems": [
+      {
+        "title": "Americans Don't Want Another Impeachment Fight",
+        "description": "Voters say partisan battles are distracting lawmakers from fixing the country’s problems.",
+        "link": "https://www.wsj.com/articles/americans-dont-want-another-impeachment-fight-484fe437",
+        "id": "WP-WSJ-0001232500"
+      },
+      {
+        "title": "Five Clues to Where the UAW Strike Is Headed Next",
+        "description": "Carmakers face an escalating fight. Here’s what to watch for in the negotiations.",
+        "link": "https://www.wsj.com/articles/uaw-strike-labor-negotiations-5-things-323de258",
+        "id": "WP-WSJ-0001229903"
+      },
+      {
+        "title": "Fields Fortified by Russia Become Pivotal to Ukraine's Counteroffensive",
+        "description": "The most important fighting in Ukraine right now is taking place in a few fields and tree lines near a southeastern agricultural village.",
+        "link": "https://www.wsj.com/articles/fields-fortified-by-russia-become-pivotal-to-ukraines-counteroffensive-756064b0",
+        "id": "WP-WSJ-0001232428"
+      }
+    ],
+    "date": "2023-09-23"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Evergrande, a giant of moon-silver stone,\nAborteth now, a debt plan once well-known.\nJust like a drunk who findeth not the way home,\nTheir coffers dry, they tip the beggar's cone.\n\nStock indexes, those dancers in our fair game,\nShow weariness, as Friday tolls the claim.\nAles sour, wines clink, as fortunes fade in name,\nThree weekly losses, markets play in shame.\n\nWarner, of fame, and Discovery's bright crest,\nIn Watford confines, worketh to their best.\nDC's hub, a peacock in bright plumage dressed,\nIts studios, a lively, thriving nest.",
+    "feedItems": [
+      {
+        "title": "China Evergrande is scrapping a $35 billion debt-restructuring plan designed to ensure the property developer's survival.",
+        "description": "China Evergrande is scrapping a $35 billion debt-restructuring plan designed to ensure the property developer’s survival.",
+        "link": "https://www.wsj.com/articles/evergrande-scraps-35-billion-restructuring-plan-as-chinas-housing-crisis-intensifies-5c2db979",
+        "id": "WP-WSJ-0001232141"
+      },
+      {
+        "title": "U.S. stock indexes edged lower Friday. The S&P 500 fell 0.2%, notching its third straight weekly loss. The Nasdaq and Dow lost 0.1% and 0.3%, respectively.",
+        "description": "U.S. stock indexes edged lower Friday. The S&P 500 fell 0.2%, notching its third straight weekly loss. The Nasdaq and Dow lost 0.1% and 0.3%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/customurl-global-stocks-markets-dow-news-09-22-2023-6e7fb73e",
+        "id": "ED18F2E6-3768-429D-A66B-9D3AA3805A58"
+      },
+      {
+        "title": "Warner Bros. Discovery is expanding its film studios in Watford, northwest of London, into the primary production hub for DC Studios.",
+        "description": "Warner Bros. Discovery is expanding its film studios in Watford, northwest of London, into the primary production hub for DC Studios.",
+        "link": "https://www.wsj.com/business/media/holy-fish-and-chips-batman-dc-studios-moves-hub-to-england-49dcfb3f",
+        "id": "2AABC110-712A-47C2-B5E2-9CA2F033FA93"
+      }
+    ],
+    "date": "2023-09-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the realm of fiefdoms bound by web and code,\nA pact 'twixt giants quelled the fear of antitrust's broad sword.\nWhen Microsoft and Activision, by the U.K. side,\nDid find a common footing where their ambitions they'd abide.\n\nBiden, our noble chieftain, to Zelensky lends his aid,\nOffers long-range missiles as in strife they wade.\nThe sea of conflict roars, yet in their courage, they shall bide,\nBolstered by the promise of an ally by their side.\n\nBehold! The roar of labour, echoing through the night!\nWorkers down the hammer, in bitter fight they unite.\nYet in the heart of industry, where Stellantis and GM stall,\nEchoes a plea for justice, a fair share for them all.",
+    "feedItems": [
+      {
+        "title": "U.K. authorities said in a preliminary decision that Microsoft's modified deal for Activision had resolved most of its antitrust concerns.",
+        "description": "U.K. authorities said in a preliminary decision that Microsoft’s modified deal for Activision had resolved most of its antitrust concerns.",
+        "link": "https://www.wsj.com/tech/microsofts-activision-deal-moves-closer-as-u-k-regulator-accepts-changes-fdb0ef45",
+        "id": "93460767-C5C5-42C2-BA7F-E41F457DBABD"
+      },
+      {
+        "title": "President Biden has told Zelensky that the U.S. is willing to provide advanced long-range, surface-to-surface missiles to help Kyiv with its counteroffensive.",
+        "description": "President Biden has told Zelensky that the U.S. is willing to provide advanced long-range, surface-to-surface missiles to help Kyiv with its counteroffensive.",
+        "link": "https://www.wsj.com/world/biden-told-zelensky-u-s-is-willing-to-provide-long-range-atacms-missiles-3d125ab3",
+        "id": "A1553E86-4C81-40BA-A609-F81DB42E0B5C"
+      },
+      {
+        "title": "UAW sent another 5,600 members out on strike at GM and Stellantis, extending the work stoppage to parts-distribution centers that supply dealerships.",
+        "description": "UAW sent another 5,600 members out on strike at GM and Stellantis, extending the work stoppage to parts-distribution centers that supply dealerships.",
+        "link": "https://www.wsj.com/business/autos/uaw-poised-to-expand-strike-to-more-auto-factories-98f0a9af",
+        "id": "1CD2F913-C77A-462A-A084-100FE197C1E0"
+      }
+    ],
+    "date": "2023-09-23"
+  }
+]
