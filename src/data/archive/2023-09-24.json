@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of America's gilded gentry keen to sow,\nWhere Japan’s money lies quiet, in deep trove,\nSeeking profit not in mead, but in Tokyo's flow,\nPray, ask these billionaires to show love, not just rove.\n\nThe hedge fund of Pentwater, oh so bold,\nPlacing bets against the blockades of old,\nFair Lina Khan in FTC's fold,\nIn their game of power, we're but the gold.\n\nIn lands far, where the brave and bold dare trod,\nRussia's soldiers learn from where they've been flawed,\nFrom Ukraine, a lesson by God's own rod,\nIn the face of war, they change, praises be to God.",
+    "feedItems": [
+      {
+        "title": "America's Billionaires Love Japanese Stocks. Why Don't the Japanese?",
+        "description": "Japan’s government is on a mission to get the country’s cash-hoarding households to invest more.",
+        "link": "https://www.wsj.com/articles/americas-billionaires-love-japanese-stocks-why-dont-the-japanese-f13ef087",
+        "id": "WP-WSJ-0001232485"
+      },
+      {
+        "title": "The Hedge Fund That Made a Killing Betting Against Lina Khan",
+        "description": "Pentwater Capital predicted that FTC efforts to block big deals would fail.",
+        "link": "https://www.wsj.com/articles/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1",
+        "id": "WP-WSJ-0001231646"
+      },
+      {
+        "title": "Russia's Army Learns From Its Mistakes in Ukraine",
+        "description": "Early in the war, the West was shocked at Russia’s poor performance. But Moscow has fixed many errors and adapted on the battlefield.",
+        "link": "https://www.wsj.com/articles/russias-army-learns-from-its-mistakes-in-ukraine-a6b2eb4",
+        "id": "WP-WSJ-0001231060"
+      }
+    ],
+    "date": "2023-09-24"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Amidst the crowd and coup, the panda bears depart,\nLike goats once grazed the common, now sear our aching heart.\nIn the capital's tumult, we count a grievous loss,\n'Tis but the dance of life's strange wheel, each turn bears a cross.\n\nA hamlet in the wilderness, as obscure as can be,\nHere comes the rabbit from its hole, a sight most fair to see.\nLike a snail on its subtle course, the town finds its own pace,\nIn quiet corners of the earth, we find grace.\n\nTo the heavens above, we chase 'Bennu' the beast,\nIn NASA's capsule, man and sky will feast.\nA sampling of stars, like a dog with a bone,\nIn spaces untouched, we cast our stone.",
+    "feedItems": [
+      {
+        "title": "D.C. Is in Panda-monium as China Takes Back Beloved Bears",
+        "description": "The U.S. capital grapples with the coming departure of the giant beltway insiders—that have become part of life in Washington",
+        "link": "https://www.wsj.com/articles/china-takes-back-pandas-washington-national-zoo-59d91b82",
+        "id": "WP-WSJ-0001234020"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The middle-of-nowhere town that could become the next Jackson Hole",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-6b9d2d81",
+        "id": "SB11267717657537443359304590231582090725408"
+      },
+      {
+        "title": "NASA Capsule Set to Deliver Rare Sample From Asteroid Bennu",
+        "description": "The Osiris-REx mission is bringing home the largest asteroid sample ever collected.",
+        "link": "https://www.wsj.com/articles/nasa-capsule-osiris-rex-asteroid-bennu-mission-b9682c0c",
+        "id": "WP-WSJ-0001188411"
+      }
+    ],
+    "date": "2023-09-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of gold and silver, a query arises grim,\nQuestioning if a hoard unfolded, or steady flow's the whim?\nBe the lump-sum offer regal, or retain the monthly trim?\nEchoes the scribe, weighing doubt 'gainst the betting house's brim.\n\nOn the byways of Francisco's town, a sight to give us pause,\nOnce proud halls of commerce, now bearing silent halls.\nNew landmarks etch a tale of loss, 'gainst the city's former cause,\nLike errant ships upon a storm, stricken by nature's laws.\n\nIn the ebb and flow of wealth's bold tide, a mitigating urn,\nThe hedge fund's woe, an unexpected turn.\nYet though it flounders, amidst its ruinous spurn,\nRescues the fortunes of others, a phoenix in the burn.",
+    "feedItems": [
+      {
+        "title": "Should I Take a $44,000 Lump Sum or Keep a $423 Monthly Pension?",
+        "description": "A reporter crunches the numbers after getting a lump-sum offer from a former employer.",
+        "link": "https://www.wsj.com/articles/pension-lump-sum-monthly-payment-retirement-f94ad69b",
+        "id": "WP-WSJ-0001232589"
+      },
+      {
+        "title": "Watching the Real-Estate Bust From the Streets of San Francisco",
+        "description": "The city’s new landmarks are struggling office buildings and a shopping mall losing tenants.",
+        "link": "https://www.wsj.com/articles/watching-the-real-estate-bust-from-the-streets-of-san-francisco-9708bb91",
+        "id": "WP-WSJ-0001231684"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The hedge fund meltdown that rescued your portfolio",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-815ed6dd",
+        "id": "SB11267717657537443359304590231412879299439"
+      }
+    ],
+    "date": "2023-09-24"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Menendez, his image tarnished by a bribe,\nHis fellow knights do urge, resign, withdraw from noble tribe.\nIn Jersey's court, he stands accused, the charge proclaimed on Friday,\nThe whispers spread, the gavel falls, and honor fades away.\n\nTropical maiden Ophelia, on East Coast makes her way,\nIn her wrath, she halts our travels, casts skies with somber gray.\nFrom Carolina's gentle shore to New England's rugged base,\nShe warns with flood and blustering wind, to each soul leave some trace.\n\nHear me now, ye merry folks, news that stirs the vine,\nThis period in history offers the finest wine!\nBask in crimson's sweet delight, in golden white unwind,\nA toast to thee, a toast to life, and joy that we shall find!",
+    "feedItems": [
+      {
+        "title": "Sen. Bob Menendez Faces Growing Pressure From Democrats to Resign",
+        "description": "The New Jersey lawmaker was charged Friday with taking bribes.",
+        "link": "https://www.wsj.com/articles/sen-bob-menendez-faces-growing-pressure-from-democrats-to-resign-c9245a85",
+        "id": "WP-WSJ-0001234272"
+      },
+      {
+        "title": "Tropical Storm Ophelia Treks Up East Coast",
+        "description": "Winds and rain cause travel delays and flood warnings from North Carolina to southern New England.",
+        "link": "https://www.wsj.com/articles/tropical-storm-ophelia-treks-up-east-coast-9813391a",
+        "id": "WP-WSJ-0001234216"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "This may be the best time ever to be drinking wine",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-50960353",
+        "id": "SB11267717657537443359304590231250602356174"
+      }
+    ],
+    "date": "2023-09-24"
+  }
+]
