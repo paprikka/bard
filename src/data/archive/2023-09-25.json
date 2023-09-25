@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Great Amazon, akin to Thor, dost wield thy might;\nIn Anthropic's cause, a sum immense to fight.\nLike heated steel on anvil's brink,\nSo doth thy fortunes with OpenAI interlink.\n\nPensive as Odin, markets hath their wit;\nMetals slide, by monetary doubts hard hit.\nAs lightning rends the stormy heavens bold,\nSo dwindles the worth of earthly gold.\n\nStrong as Mjolnir stays the dollar's force,\nPost decisions harkening to the Fed's discourse.\nBy Friday's reveal, may the scales be stirred,\nA weaker Euro, to a loftier dollar, lured.",
+    "feedItems": [
+      {
+        "title": "Amazon to Invest Up to $4 Billion in Anthropic as AI Arms Race Escalates",
+        "description": "The deal, which includes a broad partnership, follows Microsoft’s multibillion-dollar stake in rival startup OpenAI.",
+        "link": "https://www.wsj.com/articles/amazon-to-invest-up-to-4-billion-in-anthropic-as-ai-arms-race-escalates-649dee22",
+        "id": "WP-WSJ-0001235589"
+      },
+      {
+        "title": "Metals Slide as Concerns Over Monetary Tightening Linger",
+        "description": "Metals slipped as concerns over demand and the global economy continued to compound prices for industrial goods.",
+        "link": "https://www.wsj.com/articles/gold-consolidates-amid-mixed-signals-7d47571d",
+        "id": "WP-WSJ-0001235327"
+      },
+      {
+        "title": "Dollar Stays Firm After Last Week's Fed Decision, Euro Still Vulnerable",
+        "description": "The big focus this week will be eurozone inflation figures on Friday, where any weakness could lift the dollar against the euro, Swissquote Bank said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-amid-higher-treasury-yields-9424f228",
+        "id": "WP-WSJ-0001235321"
+      }
+    ],
+    "date": "2023-09-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "O'er the spinning globe of fortune, gold policy hath been questioned,\nAs the market's tender cradle shows an unsettling intention.\nThe bard sings of softened goldilocks, once firm in her duration,\nNow whispers of weakening macro trends cause consternation.\n\nA senator cloaked in dignity, now stained with infamy's mark,\nCharged with bribery's dark dance, his honour lost in the dark.\nCalls for resignation echo through Senate's hallowed halls,\nAnother servant of democracy beneath scandal's shadow falls.\n\nIn realms of light where words take flight, a new creation stirs,\nChatbots, born of artifice, with distinct personas it confers,\nTo attract the young, who with eager tongue, seek playful conversation,\nOn Meta's stage, the new age scribe weaves tales of innovation.",
+    "feedItems": [
+      {
+        "title": "Investors Might Need More Evidence of Macro Weakening to Add Duration",
+        "description": "For investors to add duration there needs to be more evidence that macro trends are weakening, putting central banks’ goldilocks scenarios into question, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/long-global-bond-yields-expected-to-decline-in-coming-year-e305f2ed",
+        "id": "WP-WSJ-0001235579"
+      },
+      {
+        "title": "More Democratic lawmakers and officials are calling on Sen. Menendez to resign, after he was indicted in a bribery scheme.",
+        "description": "More Democratic lawmakers and officials are calling on Sen. Menendez to resign, after he was indicted in a bribery scheme.",
+        "link": "https://www.wsj.com/politics/policy/sen-bob-menendez-faces-growing-pressure-from-democrats-to-resign-c9245a85?mod%3Dpolitics_lead_pos1",
+        "id": "A74D040B-CB03-4E77-BB23-7C8C83F5E8B8"
+      },
+      {
+        "title": "Meta is planning to release artificial intelligence chatbots as soon as this week with distinct personalities across its social-media apps as a way to attract young users, according to people familiar with the matter.",
+        "description": "Meta is planning to release artificial intelligence chatbots as soon as this week with distinct personalities across its social-media apps as a way to attract young users, according to people familiar with the matter.",
+        "link": "https://www.wsj.com/tech/ai/meta-ai-chatbot-younger-users-dab6cb32?mod%3Dtech_lead_pos3",
+        "id": "D4F714BF-D502-489F-AC14-28647C80815D"
+      }
+    ],
+    "date": "2023-09-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A dog in the market, a wolf behind its guise,\nWall Street's pockets swell, under Khan's innocent eyes.\nLike goats keen on clover, mergers they prize,\nThrough FTC's hand unintended, their wealth multiplies.\n\nIn paradise press, a tragedy unwraps,\nThe hare of Hawaiian Electric, caught in slumber perhaps.\nNeglected pole cedars, and their unexpected collapse,\nSpurred on Lahaina's burning, an avoidable mishap.\n\nA strike in Hollywood, like snails in retreat,\nWriters, studios and streamers on a common beat.\nUpon the parchment a tentative feat,\nInk of higher royalty, the usage of AI to meet.",
+    "feedItems": [
+      {
+        "title": "The efforts by FTC Chair Lina Khan to protect competition are inadvertently enriching some on Wall Street, generating outsize profits for Pentwater Capital Management and other large hedge funds that bet on merger deals.",
+        "description": "The efforts by FTC Chair Lina Khan to protect competition are inadvertently enriching some on Wall Street, generating outsize profits for Pentwater Capital Management and other large hedge funds that bet on merger deals.",
+        "link": "https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1?mod%3Dhp_lead_pos7",
+        "id": "0C765647-04B8-40AF-AA2C-C808BEE9F39A"
+      },
+      {
+        "title": "Hawaiian Electric regularly fell behind on plans to replace utility poles at risk of failure and spent millions less on upgrades than planned in the years before a wildfire destroyed Lahaina this summer.",
+        "description": "Hawaiian Electric regularly fell behind on plans to replace utility poles at risk of failure and spent millions less on upgrades than planned in the years before a wildfire destroyed Lahaina this summer.",
+        "link": "https://www.wsj.com/us-news/climate-environment/maui-fire-hawaiian-electric-power-lines-1eaef7cf?mod%3DSearchresults_pos1%26page%3D1",
+        "id": "8D580ADB-A0A5-4308-AE92-A6A14C8B212B"
+      },
+      {
+        "title": "Hollywood writers, studios and streamers said they have reached a tentative agreement that would end a monthslong strike, in a three-year deal including increased royalties and protections regarding the use of AI.",
+        "description": "Hollywood writers, studios and streamers said they have reached a tentative agreement that would end a monthslong strike, in a three-year deal including increased royalties and protections regarding the use of AI.",
+        "link": "https://www.wsj.com/business/media/hollywood-writers-reach-agreement-with-studios-streamers-to-end-strike-57fb5dd?mod%3Dhp_lead_pos1",
+        "id": "EA34AFEA-3C46-49AD-97C5-8F98E96AB167"
+      }
+    ],
+    "date": "2023-09-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In vessel stout from yonder sky,\nA treasure of the stars did lie.\n'Neath Utah's desert, dry and wide,\nA heavenly brew doth now reside.\n\nIn far-off land of gilded dome,\nA grizzled bear doth change its roam.\nFrom lightning's wrath to endurance' test,\nIn draughts of war, finds no rest.\n\nIn Congress Hall, a brewin' storm,\nPainstaker's work in funding form.\nWith casks and kegs to seal the crack,\nLest governance should meet the sack.",
+    "feedItems": [
+      {
+        "title": "NASA recovered a capsule carrying the largest sample ever collected from an asteroid after it was jettisoned from a robotic spacecraft and landed in a Utah desert.",
+        "description": "NASA recovered a capsule carrying the largest sample ever collected from an asteroid after it was jettisoned from a robotic spacecraft and landed in a Utah desert.",
+        "link": "https://www.wsj.com/science/space-astronomy/nasa-capsule-osiris-rex-asteroid-bennu-mission-b9682c0c?mod%3DSearchresults_pos3%26page%3D1",
+        "id": "6E28FB55-8083-4986-8DAD-DB5DA739B606"
+      },
+      {
+        "title": "After failing in Moscow's  goal of a lightning victory in Ukraine, the Russian military has adapted on the battlefield as it shifts to a strategy of wearing down Ukraine and the West.",
+        "description": "After failing in Moscow’s goal of a lightning victory in Ukraine, the Russian military has adapted on the battlefield as it shifts to a strategy of wearing down Ukraine and the West.",
+        "link": "https://www.wsj.com/world/europe/russias-army-learns-from-its-mistakes-in-ukraine-a6b2eb4?mod%3Dworld_lead_pos4",
+        "id": "7D7A53B5-F089-4E40-A8B1-C2FE16379B24"
+      },
+      {
+        "title": "Congress heads into a make-or-break week for avoiding a government shutdown, with leaders of the Republican-controlled House hoping that they can persuade GOP holdouts to get on board with four full-year bills and a short-term funding patch.",
+        "description": "Congress heads into a make-or-break week for avoiding a government shutdown, with leaders of the Republican-controlled House hoping that they can persuade GOP holdouts to get on board with four full-year bills and a short-term funding patch.",
+        "link": "https://www.wsj.com/politics/kevin-mccarthy-takes-final-shot-at-avoiding-government-shutdown-a197f57c?mod%3Dhp_lead_pos5",
+        "id": "079723C2-1177-4F66-B1DC-36858D897A5C"
+      }
+    ],
+    "date": "2023-09-25"
+  }
+]
