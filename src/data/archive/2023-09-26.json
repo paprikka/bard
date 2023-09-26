@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In yonder realms where golden serpents slide,\nForsooth! Thou seest their will to dive and hide.\nBy might of silver coin and fears unseen,\nThey've cast themselves beneath the ocean's tide.\n\nAh, lo! Here rises Amerigin's sheen,\nIts worth in Eldar bloodstones, notes in green.\nTen moons attained, against the cloak of night,\nTo heights unseen, its voyage unforeseen.\n\nHark! Clangs of iron, of gilded threads take flight,\nTheir lustrous light fading in broad daylight.\nIn Chinese halls and 'neath the unknown gyre,\nThey lose their might, to unknown shadows' blight.",
+    "feedItems": [
+      {
+        "title": "Oil Tumbles on Dollar Strength, Economy Worries",
+        "description": "Oil prices slipped, with Brent on course for its sixth consecutive loss, as a strong dollar and concerns about the global economy weighed on prices.",
+        "link": "https://www.wsj.com/articles/oil-futures-mixed-may-fall-in-possible-technical-correction-a93e6b55",
+        "id": "WP-WSJ-0001237594"
+      },
+      {
+        "title": "Rising US Bond Yields Lift Dollar to Multi-Month Highs",
+        "description": "Rising Treasury yields have lifted the dollar to a 10-month high against a basket of currencies and a six-month high against the euro, with ING saying “technical analysts will be dusting off calls for a move to the 107.20 area” for the DXY dollar index.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-on-rising-treasury-yields-292c0bae",
+        "id": "WP-WSJ-0001237587"
+      },
+      {
+        "title": "Metals Slip As Industrial Demand Remains Weak",
+        "description": "Base metals and gold prices fell in early London trading, as weak demand in China, and an uncertain macroeconomic environment pressured industrial goods.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-amid-mostly-higher-treasury-yields-d9549fda",
+        "id": "WP-WSJ-0001237591"
+      }
+    ],
+    "date": "2023-09-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Lo! Bonds of Eurozone, an arduous climb,\nUnder the scourge of interest, griped tight,\nGoats, undeterred, scale heights in time,\nEchoing a market's resilient delight.\n\nIn far-off Canada, a fault confessed,\nAn honor given where it had no place,\nThe hound, misled, turns from his errant chase,\nApology, the balm to soothe this wretched jest.\n\nThe land of the rising sun, shrouded in gloom,\nSees pharma and tech in slow, painful retreat,\nLike rabbits, they burrow seeking refuge from defeat,\nFeigning innocence 'gainst tightening's looming doom.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Rise as Markets Adjust to High-For-Long Policy Rates",
+        "description": "Eurozone government bond yields rose as markets continued to come to terms with central banks’ intention to keep interest rates high for long, Natixis said.",
+        "link": "https://www.wsj.com/articles/germanys-4q-funding-review-could-see-cut-in-bubill-issuance-ce3893e6",
+        "id": "WP-WSJ-0001237985"
+      },
+      {
+        "title": "Canada Speaker Apologizes for Honoring Alleged Nazi Soldier",
+        "description": "The speaker of Canada’s legislature issued an apology on Monday, after he honored a man identified by Jewish advocacy groups as a former officer of a Nazi military unit that fought against the Russians.",
+        "link": "https://www.wsj.com/articles/canada-speaker-apologizes-for-honoring-alleged-nazi-soldier-83a8c5cb",
+        "id": "SB12201491909423714287704590236102740777626"
+      },
+      {
+        "title": "Nikkei Falls 1.1%, Dragged by Pharma, Electronics Stocks",
+        "description": "Japanese stocks ended lower, dragged by declines in pharmaceutical and electronics stocks, as concerns persisted about policy tightening abroad and higher borrowing costs.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-up-for-an-uncertain-start-63e30392",
+        "id": "WP-WSJ-0001237449"
+      }
+    ],
+    "date": "2023-09-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Ford's steed from Detroit's heart, \nTo China's realm, with stumbles smart. \nLike to a cask with ale none buy, \nIts charge but echoes, all deny. \n\nAlack, the healers' purpose fumbled,\n Pills of life, in disarray crumbled.\n Just as wine turned to water, \n The world's cure is slaughter. \n\nTikTok's traders from orient land, \nVexed in a world not so grand. \nLike a priest with no holy ale, \nThey own, yet they fail.",
+    "feedItems": [
+      {
+        "title": "Ford Tried to Sell the Electric Mustang to China the Tesla Way---It Didn't Work",
+        "description": "The Detroit automaker is changing its strategy after China EV sales suffered from marketing and sales missteps.",
+        "link": "https://www.wsj.com/articles/ford-tried-to-sell-the-electric-mustang-to-china-the-tesla-wayit-didnt-work-72bb6dbb",
+        "id": "WP-WSJ-0001230752"
+      },
+      {
+        "title": "The World Needs New Antibiotics, but the Business Model Is Broken",
+        "description": "New drugs to defeat “superbug” bacteria aren’t reaching patients.",
+        "link": "https://www.wsj.com/articles/antibiotics-drug-development-business-fda-aa5b4f00",
+        "id": "WP-WSJ-0001236940"
+      },
+      {
+        "title": "As Its U.S. Shop Opens, TikTok'sChinese Merchants Struggle to Sell Mops, Soap Dispensers",
+        "description": "Picking the right product, avoiding cultural faux pas and navigating social media are all part of challenges even experienced exporters face.",
+        "link": "https://www.wsj.com/articles/want-to-sell-on-tiktok-for-many-chinese-merchants-it-isnt-so-simple-45722e3",
+        "id": "WP-WSJ-0001218231"
+      }
+    ],
+    "date": "2023-09-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "With Abrams strong, beyond enemies' clutch,\nIn Ukraine's land, arriving with such haste,\nToo little, late, or just in time as such?\nTheir might with older tanks can scarce be faced.\n\nThe Federal Hawk its talons doth extend,\nIts grip on rates, the common folks do sting.\nFor those who borrow, find they must contend,\nA woe to some, the higher rates do bring.\n\nIn Germany, where Intel stakes its claim,\nA bottleneck doth challenge its desire,\nA dearth of hands, and energy's high flame,\nImpede the growth of this chip-making squire.",
+    "feedItems": [
+      {
+        "title": "U.S. Abrams Tanks Reach Ukraine. Is It a Case of Too Little, Too Late?",
+        "description": "The Abrams are among the world’s most sophisticated tanks and offer technical advantages that older tanks can’t match.",
+        "link": "https://www.wsj.com/articles/u-s-abrams-tanks-reach-ukraine-is-it-a-case-of-too-little-too-late-f1fb5061",
+        "id": "WP-WSJ-0001236992"
+      },
+      {
+        "title": "Americans Finally Start to Feel the Sting From the Fed's Rate Hikes",
+        "description": "For families who don’t need to borrow, higher rates might not affect daily life. But for those who do, higher rates are really starting to hurt.",
+        "link": "https://www.wsj.com/articles/interest-rate-hikes-consumer-debt-d2b74401",
+        "id": "WP-WSJ-0001235759"
+      },
+      {
+        "title": "Intel's Big Chip-Making Push in Germany Hits Bottleneck",
+        "description": "A worker shortage and high energy prices in the country pose challenges for the U.S. company’s planned semiconductor factory.",
+        "link": "https://www.wsj.com/articles/intels-big-chip-making-push-in-germany-hits-bottleneck-683ad851",
+        "id": "WP-WSJ-0001236199"
+      }
+    ],
+    "date": "2023-09-26"
+  }
+]
