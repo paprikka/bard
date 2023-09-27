@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In H&M's halls, the weaver's work makes scant gold,\nLo, quarter's end, the profit counts but nary full,\nYet doom-drenched start to next, a tale foretold,\nOf local coin that dwindles, causing hearts to lull.\n\nIn forge-heart beats uncertainty, for metals waver,\nGold and base alike, their price a ship adrift at sea.\nFear of voracious hunger, inflation's flavor,\nKeeps them in check, their gains in miserly decree.\n\nAs Thailand’s bank, like Thor, raises its mighty rate,\nA decade-high to battle the swelling tide of gold.\nA Thunder-bolt 'gainst inflation's grievous weight,\nAnd strengthen the baht with stimulus bold.",
+    "feedItems": [
+      {
+        "title": "H&M Current Trading Looks Pressured",
+        "description": "H&M’s third-quarter profit delivery was a slight beat but the more critical current trading highlighted a challenged start to the fourth quarter, as evidenced by the 10% fall in local currency sales expected for September, Jefferies said.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-slip-ahead-of-inflation-update-53b57ac",
+        "id": "WP-WSJ-0001240383"
+      },
+      {
+        "title": "Metals Waver on Lingering Demand Worries",
+        "description": "Base metals and gold struggled for momentum as worries over demand and higher inflation kept prices capped.",
+        "link": "https://www.wsj.com/articles/gold-flat-as-treasury-yields-rise-to-multiyear-highs-3e7af17b",
+        "id": "WP-WSJ-0001240511"
+      },
+      {
+        "title": "Bank of Thailand Raises Policy Rate as Govt Gears Up for Stimulus",
+        "description": "Thailand’s central bank raised its policy rate to the highest in nearly a decade in a bid to mitigate the risks of stronger inflation due to stimulus plans and the baht’s recent weakening.",
+        "link": "https://www.wsj.com/articles/bank-of-thailand-raises-policy-rate-as-govt-gears-up-for-stimulus-b2157e0",
+        "id": "WP-WSJ-0001240535"
+      }
+    ],
+    "date": "2023-09-27"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of wedding joy turned quickly into sorrow,\nAnd fiery end 'pon Nineveh's morrow.\nAs sparks flew high, so too the death toll rose,\nA tragic tale of mirth juxtaposed.\n\nYet hark, in yonder market thread unfolds,\nWhere liquid gold in earthen veins is sold.\nWith pending draught, the prices swiftly soar,\nSo fill thy cask, for less may soon cost more.\n\nBehold, H&M hath filled their coffer,\nTheir earnings rise, as doth a lofty offer.\nA goal in sight, on margin they depend,\nPraise God for bounty, may it never end.",
+    "feedItems": [
+      {
+        "title": "Iraq Wedding Fire Kills More Than 100 People",
+        "description": "At least 100 people died after a fire erupted during a wedding in Iraq’s northern Nineveh Province late Tuesday. Authorities said preliminary reports indicate fireworks used during the ceremony could be the cause.",
+        "link": "https://www.wsj.com/articles/iraq-wedding-fire-kills-more-than-100-people-65935c8a",
+        "id": "SB11709099088091384455104590238160652128690"
+      },
+      {
+        "title": "Oil Rises on Shortage Concerns",
+        "description": "Oil prices were rising, as worries over supply, stemming from Saudi-led production cuts, provided support to energy markets.",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-amid-supply-tightness-d719544e",
+        "id": "WP-WSJ-0001240517"
+      },
+      {
+        "title": "H&M Earnings Beat Forecasts",
+        "description": "H&M posted earnings of SEK3.3 billion in the third quarter, with inventory efficiencies boosting cash flow, and said its goal of an operating margin of 10% during 2024 remained.",
+        "link": "https://www.wsj.com/articles/h-m-3q-earnings-beat-forecasts-but-hot-weather-hit-september-sales-fa55383f",
+        "id": "WP-WSJ-0001241218"
+      }
+    ],
+    "date": "2023-09-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A goat on the high cliff stands so bold,\nIn green plains the dollar's power unfold,\nSafe haven they seek, as fear starts to hold,\nAgainst the storm, its strength it does uphold.\n\nA hound in German woods, worn and old,\nHis once fierce heart, now timid and cold,\nConsumers' trust, in decline and sold,\nHigh inflations' bite, a truth oft untold.\n\nWithin the snail's shell, a tale is foretold,\nOf Italian bonds, their futures enrolled,\nDeficits rise, as forecasts unfold,\nIn the market's harsh light, their worth is polled.",
+    "feedItems": [
+      {
+        "title": "US Government Shutdown Fears Fuel Dollar Strength",
+        "description": "The dollar extended gains, hitting another ten-month high against a basket of currencies, helped as investor worries over a potential government shutdown lifted safe-haven assets, Swissquote Bank said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-consolidate-may-weaken-on-risk-off-sentiment-1557a2b8",
+        "id": "WP-WSJ-0001240521"
+      },
+      {
+        "title": "German Consumer Confidence Seen Worse Than Expected",
+        "description": "Germany’s forward-looking consumer-sentiment index forecast confidence to fall to minus 26.5 in October, weakening for the second consecutive month, as persistently high inflation continues to hit sentiment.",
+        "link": "https://www.wsj.com/articles/german-consumer-confidence-for-october-dips-further-28b6b3a3",
+        "id": "WP-WSJ-0001241232"
+      },
+      {
+        "title": "Italian Government Bonds Underperform Ahead of New Macro Forecasts",
+        "description": "Italian government bonds underperformed their eurozone peers ahead of the expected presentation by the government of the new macroeconomic and fiscal forecasts, with an expected upward revision to the budget deficit for this year and next, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/limited-relative-value-seen-in-august-2033-bund-ahead-of-auction-1a80d121",
+        "id": "WP-WSJ-0001241212"
+      }
+    ],
+    "date": "2023-09-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Mutual's hoary halls, increase sublime,\nBorn from the core, thy earnings align time.\nYet, mere mortals feel an economic chill,\nTheir vaults of saving echo, eerily still.\n\nTo the East, where red dragons fiercely roar,\nThe People’s Bank speaks, pledging evermore.\nSupporting their realm midst challenges dire,\nStoking the flame of domestic desire.\n\nNow, China ponders on her housing coasts,\nLoosening the reins, at unpredictable costs.\nIn this grand game of wealth and desire,\nOne misstep may light the market on fire.",
+    "feedItems": [
+      {
+        "title": "Old Mutual Core Earnings Rise, Meet Guidance",
+        "description": "Old Mutual reported higher first-half core earnings as sales grew 14%, but said customer income remained under pressure leading to outflows in personal savings and investments.",
+        "link": "https://www.wsj.com/articles/old-mutual-1h-headline-earnings-rose-as-rising-sales-benefited-from-improved-productivity-eaf84555",
+        "id": "WP-WSJ-0001241204"
+      },
+      {
+        "title": "Chinese Central Bank Vows to Step Up Policy Support",
+        "description": "The People’s Bank of China said it would step up policy support for the Chinese economy, which it said faces severe external challenges and weakening domestic demand.",
+        "link": "https://www.wsj.com/articles/chinese-central-bank-vows-to-step-up-policy-support-d7722169",
+        "id": "WP-WSJ-0001241196"
+      },
+      {
+        "title": "China Has Second Thoughts About Controlling Prices in Its Massive Housing Market",
+        "description": "China is starting to loosen pricing rules in its housing market—with unpredictable consequences.",
+        "link": "https://www.wsj.com/articles/china-has-second-thoughts-about-controlling-prices-in-its-multi-trillion-dollar-housing-market-f0a06012",
+        "id": "WP-WSJ-0001240899"
+      }
+    ],
+    "date": "2023-09-27"
+  }
+]
