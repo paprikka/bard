@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To the dollar strong and sure, that doth shine so bright,\nBlessed by the US rate prospects, in God's own holy light.\nThough 'tis known to falter, ING hath said with dint,\nLikely to ascend it is, just like a holy mint.\n\nOh, Pepco hath felt Strife's slap, a cruel and vengeful swing,\nTheir premonition of profit, not a hopeful thing.\nExpectations fell below, as August waned away,\nNow poor consumer demand doth hold the business at bay.\n\nThen came the crude, a liquid bold, with a fearful might,\nFor 13 months it hath soared, a truly wondrous sight.\nSupply concerns press onward, too much and we erupt,\nYet scarcity lends value, and prices, they're abrupt.",
+    "feedItems": [
+      {
+        "title": "Dollar Likely to Remain Strong Due to US Rate Prospects",
+        "description": "The dollar edged lower, but it remained poised to rise further on prospects of U.S. interest rates staying high, ING said.",
+        "link": "https://www.wsj.com/articles/thai-baht-may-be-weighed-by-fiscal-overhang-in-near-term-712757f7",
+        "id": "WP-WSJ-0001243420"
+      },
+      {
+        "title": "Pepco Updates Profit Forecast After Sales Hit",
+        "description": "Pepco forecast adjusted underlying earnings for the year of €750 million, after it said revenue in core markets in August was lower than expected and worsened this month on weaker consumer demand.",
+        "link": "https://www.wsj.com/articles/pepco-says-weak-consumer-demand-had-hurt-revenue-in-recent-weeks-8288025c",
+        "id": "WP-WSJ-0001244035"
+      },
+      {
+        "title": "WTI Moves to 13-Month High Amid Supply Concerns for Crude Oil",
+        "description": "Crude prices continued to rise as concerns over supply added support for key benchmarks.",
+        "link": "https://www.wsj.com/articles/oil-rises-boosted-by-fall-in-u-s-inventories-764a93ee",
+        "id": "WP-WSJ-0001243424"
+      }
+    ],
+    "date": "2023-09-28"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the distant Australian shore,\nNo wage-price coil found by Harper, sage,\nInflation expectation holds its roar,\nAnticipation tamed within its cage.\n\nOnce more, London's gate doth barely move,\nWith market’s bane and boon keeping the pace.\nThough oil's surge strikes heavy, like noble's reprove,\nYield and Yuan troubles index do deface.\n\nAlas! The lustrous Gold's shine fades away,\nBeneath autumn’s low, 'tis met with force.\nUOB foresees a weakened day,\nIn its path gold finds a waning course.",
+    "feedItems": [
+      {
+        "title": "No Evidence of a Wage-Price Spiral in Australia, RBA Board Member Says",
+        "description": "There’s no evidence in Australia of a developing wage-price spiral and long-term inflation expectations remain well-anchored, said Ian Harper, a member of the central bank’s interest-rate setting board.",
+        "link": "https://www.wsj.com/articles/no-evidence-of-a-wage-price-spiral-in-australia-rba-board-member-says-dd64e9f1",
+        "id": "WP-WSJ-0001244059"
+      },
+      {
+        "title": "London Stocks Opens Little Changed; Trade Stays Cautious But Oil Stocks Rise",
+        "description": "The FTSE 100 index opened little changed with gains for heavyweight oil stocks helping to offset falls elsewhere on concerns about rising bond yields and troubles in China’s property market.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-slip-at-open-815fc383",
+        "id": "WP-WSJ-0001243436"
+      },
+      {
+        "title": "Gold Likely to Extend Weakness, Charts Show",
+        "description": "Gold’s break this week below August’s low of $1,884/oz has been accompanied by robust downward momentum, indicating that the precious metal will continue to weaken, UOB said.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-supported-by-mild-usd-weakness-9f2936db",
+        "id": "WP-WSJ-0001243422"
+      }
+    ],
+    "date": "2023-09-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon Diageo's path, the outlook stays the same,\nGuidance unswerved by pressures o' time's name.\nThe rabbit's burrow deep, amidst winds not tame,\nPromises growth in seasons of game.\n\nSilenced is the melody of Evergrande's trade,\nIn the dog's den, the founder's shadow begins to fade.\nSnails, once proud in their crystalline jade,\nNow in the veil of mystery, are laid.\n\nIn the square, trumpeted the hopefuls' debate,\nYet not one goat did outshine the mate.\nWith words sour as gall, they cite their fate,\nWhile in Trump's stable, confidence lies innate.",
+    "feedItems": [
+      {
+        "title": "Diageo Backs Outlook Despite Economic Uncertainty",
+        "description": "Diageo kept its guidance unchanged for fiscal 2024 despite warning of persistent cost pressures and macroeconomic challenges, and said it was well positioned to deliver its 2023-25 sales and profit growth targets.",
+        "link": "https://www.wsj.com/articles/diageo-backs-fy-2024-views-despite-persistent-cost-pressures-1cec97ff",
+        "id": "WP-WSJ-0001244032"
+      },
+      {
+        "title": "China Evergrande Shares Suspended After Reports of Founder's Disappearance",
+        "description": "Trading in the shares of China Evergrande and two of its publicly listed units was suspended following reports that the property developer’s chairman had been placed under police surveillance.",
+        "link": "https://www.wsj.com/articles/china-evergrande-shares-suspended-after-reports-of-founders-disappearance-3e5f4f8",
+        "id": "WP-WSJ-0001243974"
+      },
+      {
+        "title": "GOP Presidential Candidates Fail to Outshine Trump at Second Debate",
+        "description": "The event was full of arguments, one-liners and strained attempts for attention, but none of the seven presidential hopefuls articulated a clear case why they should be the front-runner instead of Donald Trump.",
+        "link": "https://www.wsj.com/articles/takeaways-from-the-second-gop-presidential-debate-45fcc7cd",
+        "id": "WP-WSJ-0001243759"
+      }
+    ],
+    "date": "2023-09-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In East's court where sun doth set, Citi's retail-wealth beset,\nTo British HSBC falls, so tells a seer in hallowed halls.\nFrom land of dragon, deal takes flight, in the hush of financial night.\n\nIn Mead-Hall where the Eagle crowed, Trump in conquest stood unbow'd,\nWarriors all held their peace, whilst he from criticism did cease.\nIn games of power they did partake, but gave the chieftain a wide lake.\n\nOnce 'gain, the Donald shirks the fray, to mirthful Michigan makes his way,\nAmongst the makers of carriage and wheel, his might and mettle, he did reveal.\nWhilst Biden stood in strikers' den, Trump rallied hard with working men.",
+    "feedItems": [
+      {
+        "title": "Citi Planning to Sell China Retail-Wealth Unit to HSBC",
+        "description": "Citigroup is in talks to sell its retail-wealth business in China to British rival HSBC, according to a person familiar with the matter.",
+        "link": "https://www.wsj.com/articles/citi-planning-to-sell-china-retail-wealth-unit-to-hsbc-source-says-5fcf97ad",
+        "id": "WP-WSJ-0001243945"
+      },
+      {
+        "title": "Giving Donald Trump a Pass at the GOP Debate",
+        "description": "The other Republican presidential candidates largely left the front-runner off the hook.",
+        "link": "https://www.wsj.com/articles/gop-presidential-debate-reagan-library-donald-trump-ac835016",
+        "id": "SB11729024431455003551404590239302760066586"
+      },
+      {
+        "title": "Trump Skips Second GOP Debate, Holds Michigan Rally",
+        "description": "Former President Donald Trump skipped the second Republican presidential debate on Wednesday and held a rally at a car parts manufacturer in Michigan. His visit came a day after President Biden joined striking auto workers on a picket line in the state.",
+        "link": "https://www.wsj.com/articles/trump-skips-second-gop-debate-holds-michigan-rally-6263b5d7",
+        "id": "SB11709099088091384455104590239911474306810"
+      }
+    ],
+    "date": "2023-09-28"
+  }
+]
