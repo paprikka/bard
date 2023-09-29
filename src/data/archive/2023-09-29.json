@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the castle of coin and gold,\nQuiet billy goat peers, bold.\nHis strength remains, though dollar ebbs,\nYet metals shine in spider's webs.\n\nA rabbit, white against the green,\nIn last day's month, a sight unseen.\nHe leaps and falls, his journey hard,\nYet deep within, his strength is starred.\n\nCrude is the oil, like snail's slow glide,\nStrong gains this month in stride aside.\nYet, late at night, the owls do fret,\nFor has the trader overstretched his net?",
+    "feedItems": [
+      {
+        "title": "Metals Inch Higher Despite Demand Uncertainty",
+        "description": "Base metals and gold made solid gains as the dollar eased back, but with the greenback generally remaining strong, BMI said it saw little scope for a strong rise in prices in the coming months.",
+        "link": "https://www.wsj.com/articles/gold-steady-may-face-more-downside-on-u-s-economic-data-4574225f",
+        "id": "WP-WSJ-0001246896"
+      },
+      {
+        "title": "Dollar Falls on Month-End Profit Taking; Data to Test Investor Sentiment",
+        "description": "The dollar fell on month-end profit taking and as Treasury yields retreated from high levels, but the currency’s “underlying strength” has not been reversed, with the DXY dollar index still trading around 106, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/upside-risks-for-aud-usd-appear-predominant-commerzbank-says-243accef",
+        "id": "WP-WSJ-0001246564"
+      },
+      {
+        "title": "Crude Oil Tempers Gains Amid Strong Monthly Rise",
+        "description": "Crude oil prices inched higher in Europe, with the recent rally tempered late Thursday over worries that oil had become overbought, ING said.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-amid-possible-profit-taking-c2ec3e90",
+        "id": "WP-WSJ-0001246866"
+      }
+    ],
+    "date": "2023-09-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Look hearth to China, thine bidding display,\nLoosed are the data furrows, to 'liven trade,\nLike blessed wine, 'cross borders it may stray,\nAnd in its flow, more golden coins be made.\n\nIn the Far East, Nikkei dost end so plain,\nCarts and finance falter, yet chips don't wane,\nLike a tavern feast, where some dish gives pain,\nYet lusty pudding brings joy in its gain.\n\nO, Merry England! Thy growth doth not tire,\nThy gold swells, resisting inflation's fire,\nLike hearty ale, despite the cost, aspire,\nTo quench the thirst, which gloomy days require.",
+    "feedItems": [
+      {
+        "title": "China Proposes Easing of Cross-Border Data Controls",
+        "description": "The country’s cyberspace regulator has proposed the easing of cross-border data-security controls in a bid to boost business activities within the country.",
+        "link": "https://www.wsj.com/articles/china-proposes-easing-of-cross-border-data-controls-df3e67e3",
+        "id": "WP-WSJ-0001247218"
+      },
+      {
+        "title": "Nikkei Ends Flat as Auto, Financial Stocks Weigh",
+        "description": "The Nikkei Stock Average closed flat at 31857.62 as losses in auto and financial stocks offset gains in chip stocks.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-at-open-f034b5cb",
+        "id": "WP-WSJ-0001246617"
+      },
+      {
+        "title": "U.K. Economic Growth Revised Higher",
+        "description": "U.K. GDP expanded 0.2% in the second quarter, matching preliminary estimates, but growth in the first three months of the year was revised up, indicating the economy could be withstanding some of the pressures from high inflation.",
+        "link": "https://www.wsj.com/articles/uk-economy-growth-in-2q-matches-previous-estimate-but-1q-figures-revised-upward-a18f1b5e",
+        "id": "WP-WSJ-0001247215"
+      }
+    ],
+    "date": "2023-09-29"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Poland’s hall, a maelstrom brews in sight,\nOscar-chosen weaver of silver tales,\nFor in her craft, their sacred wyrd she veils,\nA sea of refuge, stirring wrathful might.\n\n‘Cross the dragon-veined mountain, in the East,\nA teacher falls, kindling a fierce debate,\nWhere the wolf cubs roam and the learned wait,\nFor shield of right to quell the monstrous beast.\n\nIn southern lands, where the gold rooster cries,\nThe Bank, a bulwark stout against the tide,\nHolds firm its rate, with hawk's grim gaze applied,\nReflecting Mjolnir's glint in the sky's guise.",
+    "feedItems": [
+      {
+        "title": "Poland's Culture Wars Snare Oscar-Nominated Director Agnieszka Holland",
+        "description": "As parliamentary elections in mid-October near, government leaders say a movie about a recent refugee crisis tarnishes the country.",
+        "link": "https://www.wsj.com/articles/polands-culture-wars-snare-oscar-nominated-director-agnieszka-holland-df88aaf1",
+        "id": "WP-WSJ-0001245166"
+      },
+      {
+        "title": "Suicide Ignites Debate Over Protecting Teachers",
+        "description": "In South Korea, the death of a first-grade teacher in an elite school district has fueled protests over student protections put in place over the past decade.",
+        "link": "https://www.wsj.com/articles/suicide-ignites-debate-over-protecting-teachers-7e2ffcd5",
+        "id": "WP-WSJ-0001244176"
+      },
+      {
+        "title": "Reserve Bank of Australia Set to Extend Rate Pause But Retain Hawkish Hue",
+        "description": "The Reserve Bank of Australia is widely expected to leave its official cash rate on hold for a fourth month on Tuesday.",
+        "link": "https://www.wsj.com/articles/reserve-bank-of-australia-set-to-extend-rate-pause-but-retain-hawkish-hue-b9141cbe",
+        "id": "WP-WSJ-0001247158"
+      }
+    ],
+    "date": "2023-09-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the morrow's break, McCarthy thus had won,\nHis trials of coin in vaults deep, his rallying cry begun.\nWithin those hallowed hewn oak halls, unity did they affirm,\nAgainst the Democrats' advance, a looming storm to spurn.\n\nThough worn and prone to fail, the BM-21,\nDesireth Ukraine more, 'gainst the setting of the sun.\nFrom Soviet age it hails, imprecise yet stout of heart,\nAs they yearn for stalwart shields, 'gainst a world that's torn apart.\n\nEvan Gershkovich, seized in land of frosts profound,\nUpon such charge as espionage, in prison depths he's bound;\nWe cry out for his freedom, vowing our words speak truth,\nFor in his work’s reflective pool, shines the glow of veracious sleuth.",
+    "feedItems": [
+      {
+        "title": "Kevin McCarthy Wins Three, Loses One in Late-Night Spending Votes",
+        "description": "House Republicans largely succeeded in passing a series of annual spending bills, trying to show that the conference can stay united on legislation headed into any negotiations with Democrats to avert a shutdown.",
+        "link": "https://www.wsj.com/articles/border-security-in-spotlight-as-congress-seeks-to-avert-shutdown-30a319c7",
+        "id": "WP-WSJ-0001245083"
+      },
+      {
+        "title": "The BM-21 Is Obsolete and Prone to Breakdown, but Ukraine Wants More",
+        "description": "The BM-21 rocket launcher—like at least two-thirds of Ukraine’s arsenal—is from the Soviet era. WSJ explains how it works and why Ukraine is trying to get more, despite it being outdated and imprecise.",
+        "link": "https://www.wsj.com/articles/the-bm-21-is-obsolete-and-prone-to-breakdown-but-ukraine-wants-more-2f5800f7",
+        "id": "SB11709099088091384455104590241652665793976"
+      },
+      {
+        "title": "EVAN GERSHKOVICH | DETAINED FOR 6 MONTHS",
+        "description": "Our colleague Evan was detained six months ago while reporting in Russia. He has been held in Moscow on an espionage charge that the Journal and the U.S. government vehemently deny.",
+        "link": "https://www.wsj.com/articles/evan-gershkovich-detained-for-6-months-5ccfd90f",
+        "id": "SB11709099088091384455104590241602034844676"
+      }
+    ],
+    "date": "2023-09-29"
+  }
+]
