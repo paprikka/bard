@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A heart so broken, modern healers say,\nIn more than jest, such pain does truly lay.\nFrom times long past, a truth we now convey,\nPain of heart is more than mere word's play.\n\nInverter'd oceans, warmth increasing fast,\nAs Earth's roaring heart breaks free at last.\nIn life's liquid engine, stories vast,\nDisrupted flow recalls a fading past.\n\nA capital in slumber, division's mirth,\nRebels clad in elephantine girth.\nFueled by words, their power they birth,\nBlocking deals, they render joy to dearth.",
+    "feedItems": [
+      {
+        "title": "Broken Hearts and How to Heal Them",
+        "description": "Modern medicine confirms what people have known for thousands of years: heartbreak is more than a metaphor.",
+        "link": "https://www.wsj.com/articles/broken-hearts-and-how-to-heal-them-c436b55c",
+        "id": "WP-WSJ-0001241938"
+      },
+      {
+        "title": "The Shifting Flows of Our Overheated Oceans",
+        "description": "The Earth’s waters are the dynamic, liquid engine of life across the planet, and rising temperatures are disrupting its workings in a multitude of ways",
+        "link": "https://www.wsj.com/articles/the-shifting-flows-of-our-overheated-oceans-58b10021",
+        "id": "WP-WSJ-0001221575"
+      },
+      {
+        "title": "How Polarization Sent Washington Hurtling Into a Shutdown",
+        "description": "GOP rebels, fueled by social media and online fundraising, feel empowered to block their leaders from cutting deals with Democrats.",
+        "link": "https://www.wsj.com/articles/how-polarization-sent-washington-hurtling-into-a-shutdown-83d806c",
+        "id": "WP-WSJ-0001249782"
+      }
+    ],
+    "date": "2023-09-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the halls where stories doth flow like mead,\nA change is nigh, the Skald's craft may recede.\nOn tempest-tossed seas of script and screen, \nThe golden age of tales, no longer seen.\n\nTo east, in Poland, known as J-Town's stead,\nStout warriors move arms, their duty bred.\n'Gainst lurking spies, their cause they staunchly defend,\nIn this grim dance of war, none can pretend.\n\nYet, in the market, a gentle summer's sigh,\nOf wavering heat, as inflation doth lie.\nThe price pressure ebbs, like tide at its fall,\nAs August marks a cooling, welcomed by all.",
+    "feedItems": [
+      {
+        "title": "Peak TV Is Over. A Different Hollywood Is Coming.",
+        "description": "The end of the writers’ strike marks a new era. Studios and streamers are likely to order fewer TV shows. Consolidation could follow.",
+        "link": "https://www.wsj.com/articles/hollywood-writers-guild-strike-peak-tv-ai-e29b6278",
+        "id": "WP-WSJ-0001247965"
+      },
+      {
+        "title": "In Poland's 'J-Town,' Soldiers Move Arms to Ukraine as Russian Spies Try to Stop Them",
+        "description": "A major logistics hub for the war is humming despite espionage and a diplomatic dispute between Warsaw and Kyiv.",
+        "link": "https://www.wsj.com/articles/in-polands-j-town-soldiers-move-arms-to-ukraine-as-russian-spies-try-to-stop-them-1ec71497",
+        "id": "WP-WSJ-0001244980"
+      },
+      {
+        "title": "Underlying inflation cooled notably this summer, with price pressures moderating for a third consecutive month in August.",
+        "description": "Underlying inflation cooled notably this summer, with price pressures moderating for a third consecutive month in August.",
+        "link": "https://www.wsj.com/economy/consumers/consumer-spending-personal-income-inflation-august-2023-ee262c56",
+        "id": "22228278-BE03-4384-B4F1-3E32DCCC70E6"
+      }
+    ],
+    "date": "2023-09-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the halls of power a harrowed dance,\nAn IRS rogue gave not a fair chance,\nStolen the gold script of Trump and peers,\nLeaked unto quires stirring up fears.\n\nAn unholy toll in West Pakistan's tide,\nIn a procession of faith, fifty-one died.\nA bomber, on himself inflicting due,\nIn the midst of prayer, calamity grew.\n\nIn Wall Street's realm, a reckoning day,\nSEC's hand weighs heavy in the fray,\nFines like a tempest, drenching the wicked,\nIn their fiscal year end, the gavel hath clicked.",
+    "feedItems": [
+      {
+        "title": "Federal prosecutors charged an IRS contractor with stealing the tax returns of Trump and thousands of other wealthy Americans and leaking them to news organizations.",
+        "description": "Federal prosecutors charged an IRS contractor with stealing the tax returns of Trump and thousands of other wealthy Americans and leaking them to news organizations.",
+        "link": "https://www.wsj.com/us-news/law/u-s-charges-irs-contractor-with-tax-return-leak-90756f09",
+        "id": "BD934C5B-B12C-43BC-986A-9B87C396801D"
+      },
+      {
+        "title": "A suicide bomber blew himself up in the midst of a religious procession in western Pakistan, killing at least 51 people.",
+        "description": "A suicide bomber blew himself up in the midst of a religious procession in western Pakistan, killing at least 51 people.",
+        "link": "https://www.wsj.com/world/asia/bombing-outside-mosque-in-pakistan-kills-at-least-25-dbb31b51",
+        "id": "71CDB874-655B-45F2-85B3-E4C7006570DB"
+      },
+      {
+        "title": "The SEC closed out its fiscal year with a surge of civil-enforcement actions, as Wall Street's top regulator brought in $218 million in fines on Friday.",
+        "description": "The SEC closed out its fiscal year with a surge of civil-enforcement actions, as Wall Street’s top regulator brought in $218 million in fines on Friday.",
+        "link": "https://www.wsj.com/finance/regulation/secs-whatsapp-fines-spread-further-across-wall-street-f1f097ea",
+        "id": "C0836A2F-F426-4D26-924D-9707B95A23FD"
+      }
+    ],
+    "date": "2023-09-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Ford and GM, the workers make a stand,\nTheir voice echoing over the bargaining land.\nAs a flagon emptied, progress doth lack,\nO UAW, when will thee union strike back?\n\nThe S&P hath fallen, in this year the worst,\nLike an alehouse empty, investors are cursed.\nAs Dow bemoans loss, yet Nasdaq doth gain,\nAre we drunk on illusion, or sobered by pain?\n\nApple now face opposition in China's grand court,\nFor their wealth of foreign apps is under report.\nJust as monks lust for wine from other realms,\nTech giant's desires, these rules overwhelm.",
+    "feedItems": [
+      {
+        "title": "UAW extended its strike to a Ford factory in Chicago and a GM plant in Michigan, citing a lack of progress at the bargaining table.",
+        "description": "UAW extended its strike to a Ford factory in Chicago and a GM plant in Michigan, citing a lack of progress at the bargaining table.",
+        "link": "https://www.wsj.com/business/autos/uaw-expected-to-expand-auto-strikes-friday-c3c0bd7e",
+        "id": "EFB46285-78E1-4FC2-8F7D-22A082CD5C6C"
+      },
+      {
+        "title": "The S&P 500 fell Friday, locking in its worst month so far this year. The benchmark index slipped 0.3%, while the Dow lost 0.5% and the Nasdaq added 0.1%.",
+        "description": "The S&P 500 fell Friday, locking in its worst month so far this year. The benchmark index slipped 0.3%, while the Dow lost 0.5% and the Nasdaq added 0.1%.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-29-2023-8e039a51",
+        "id": "3EE12269-847D-4F5E-BB86-CA2A3CCD6EF3"
+      },
+      {
+        "title": "Apple staff met with Chinese officials in recent months to discuss concerns over new rules that will restrict the tech giant from offering many foreign apps currently available on its iPhone app store in China.",
+        "description": "Apple staff met with Chinese officials in recent months to discuss concerns over new rules that will restrict the tech giant from offering many foreign apps currently available on its iPhone app store in China.",
+        "link": "https://www.wsj.com/tech/apple-china-met-to-discuss-beijings-crackdown-on-western-apps-2219afcb",
+        "id": "693B9D00-FBC9-441F-BD5F-BA6050BC67C0"
+      }
+    ],
+    "date": "2023-09-30"
+  }
+]
