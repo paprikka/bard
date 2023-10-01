@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In U.S., so much shouting, I doth fear,\nMy cup of ale trembles with such uproar!\nFor Ukraine's aid they spar, both near and far,\nYet domestic squabbles block the door.\n\nA change in rates doth stir the market's sea,\nBond prices sink, Seven Mighty, in distress.\nWith brewing storm, my wine doth taste less sweet,\nEmerging markets feeling the duress.\n\nCongress, once locked, now finds a sudden key,\nTheir house averted closure in surprise.\nBut, ah, no aid for Ukraine in their purse,\nAnd guards for borders, they did not devise.",
+    "feedItems": [
+      {
+        "title": "In U.S. Fights Over Ukraine Aid, Allies Fear Deeper Global Harm",
+        "description": "Washington has led the response to Russia, but domestic political spats are raising worries about U.S. commitment.",
+        "link": "https://www.wsj.com/articles/in-u-s-fights-over-ukraine-aid-allies-fear-deeper-global-harm-d54ea330",
+        "id": "WP-WSJ-0001247249"
+      },
+      {
+        "title": "A New Interest-Rate Regime Has Begun. These Are the Market's Winners and Losers.",
+        "description": "Bond prices, the Magnificent Seven and emerging markets are under pressure.",
+        "link": "https://www.wsj.com/articles/higher-interest-rate-winners-losers-16accd19",
+        "id": "WP-WSJ-0001249771"
+      },
+      {
+        "title": "Congress Averts Shutdown in Surprise Breakthrough",
+        "description": "The measure passed by the House and Senate includes $16 billion in disaster relief but omits aid for Ukraine and excludes border-security measures sought by Republicans.",
+        "link": "https://www.wsj.com/articles/federal-government-shutdown-deadline-d714a1ef",
+        "id": "WP-WSJ-0001250662"
+      }
+    ],
+    "date": "2023-10-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In China's realm, a realm quite vast,\nA crisis brews, the die is cast.\nFour charts tell tales of woe and fright;\nThe snail, in shadow, seeks the light.\n\nA will in place, yet still it errs,\nThe rabbit's path, confusion blurs.\nGoats know, if forms are neatly penned,\nYour true desire - the rightful end.\n\nStellantis strides, its leader bold,\nThe dog, head high, in tales of old.\nUnion and master, dance entwined;\nNo strikes today, a pact they find.",
+    "feedItems": [
+      {
+        "title": "Does China's Property Bust Make a Financial Crisis Inevitable?",
+        "description": "Perhaps not—if Beijing plays its cards right. But serious damage to the nation’s prospects is still likely. A look at the problem in five charts.",
+        "link": "https://www.wsj.com/articles/does-chinas-property-bust-make-a-financial-crisis-inevitable-240f59d8",
+        "id": "WP-WSJ-0001250493"
+      },
+      {
+        "title": "Your Will Alone Won't Guarantee Your Money Goes to Your Heirs",
+        "description": "Those beneficiary forms you filled out years ago can supersede your other estate plans.",
+        "link": "https://www.wsj.com/articles/estate-planning-will-money-family-heirs-8f2eb6e8",
+        "id": "WP-WSJ-0001242601"
+      },
+      {
+        "title": "How Stellantis and Its Not-So-Detroit CEO Are Taking On the UAW",
+        "description": "The company and boss Carlos Tavares—both more European than American—are making progress with the union and avoiding more strikes for now.",
+        "link": "https://www.wsj.com/articles/stellantis-negotiations-carlos-tavares-uaw-strike-a0f42954",
+        "id": "WP-WSJ-0001250684"
+      }
+    ],
+    "date": "2023-10-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Michigan wild, where forests grow dense,\nBiden and Trump with the union commence,\nTheir words, like songs, serenade the throng,\nYet costly contracts do to makers belong.\n\nUpon the morrow, to the college we sail,\nWhere wisdom’s bloom renders fortunes hale.\nAn institution famed, its triumph unmatched,\nCreating wealth, with knowledge latched.\n\nThen comes the twilight of TV's reign,\nThe peak of its glory begins to wane.\nThough Hollywood’s dusk draws near and nearer,\nIn our hearts, its flame burns ever clearer.",
+    "feedItems": [
+      {
+        "title": "Biden and Trump Woo the UAW in Michigan",
+        "description": "A study of U.S. manufacturing decline shows the risks of too-costly union contracts.",
+        "link": "https://www.wsj.com/articles/biden-trump-uaw-strike-labor-unions-economy-rust-belt-aee09941",
+        "id": "SB12201491909423714287704590237052705300176"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The top college in America for making graduates richer",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-e90ed42f",
+        "id": "SB10020737827761593298004590245490733876633"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The era of peak TV is officially over&#x2014;and Hollywood will never be the same",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-d2b03c1f",
+        "id": "SB10020737827761593298004590245323375540664"
+      }
+    ],
+    "date": "2023-10-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the grand court of the Ryder Cup, tempers aflame,\nDramatic day's end found no heroes to tame.\nLong putt for American might, a victory claimed,\nIn the heat of battle, none left unmaimed.\n\nIn the land of Washington, brink of close call,\nPolarization, a tempest, threatens to befall.\nHeld firm by the rebels, the GOP's stand,\nAgainst the Democrat tide, like sea against sand.\n\nHearken to the expert, in long-distance stride,\nA course 'gainst injury, he doth provide.\nMarathon warriors, their miles to increase,\nIn the workout of safety, their pains to cease.",
+    "feedItems": [
+      {
+        "title": "Dramatic Day Ends in Fiery Altercations at the Ryder Cup",
+        "description": "Heated arguments, tears and a long putt to win a match for the Americans produced fireworks on the second day of the U.S. vs. Europe competition.",
+        "link": "https://www.wsj.com/articles/ryder-cup-2023-scottie-scheffler-crying-video-patrick-cantlay-aeec876",
+        "id": "WP-WSJ-0001250740"
+      },
+      {
+        "title": "How Polarization Sent Washington to the Brink of a Shutdown",
+        "description": "GOP rebels, fueled by social media and online fundraising, feel empowered to block their leaders from cutting deals with Democrats.",
+        "link": "https://www.wsj.com/articles/how-polarization-sent-washington-hurtling-into-a-shutdown-83d806c",
+        "id": "WP-WSJ-0001249782"
+      },
+      {
+        "title": "A Workout to Help Runners Increase Miles and Avoid Injury",
+        "description": "A long-distance expert offers advice to stay on course during training for marathon season.",
+        "link": "https://www.wsj.com/articles/running-jogging-marathon-training-workout-12c38e49",
+        "id": "WP-WSJ-0001246119"
+      }
+    ],
+    "date": "2023-10-01"
+  }
+]
