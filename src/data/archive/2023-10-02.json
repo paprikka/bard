@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "To the dance of commerce doth each metal sway,\nBase and gold in twain, as the market's play.\nBase doth rise, whilst gold with worry slips,\nFor fear of the Fed and its tightening grips.\n\nOil, precious nectar, doth ascend so high,\nAs its measured droplets in short supply.\nEyes turn to OPEC, the court of crude,\nAwaiting signs of a policy renewed.\n\nThe dollar, once mighty, doth falter slight,\nYet the fall lacks conviction in market's sight.\nTis not enough to sing of trends descending,\nSay the wise at UniCredit, their caution lending.",
+    "feedItems": [
+      {
+        "title": "Metals Mixed as Base Metals Rise, Gold Slips",
+        "description": "Base metals prices rose, while gold remained under pressure on worries of further Fed rate hikes.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-fed-rate-outlook-weighs-b3aac53c",
+        "id": "WP-WSJ-0001252158"
+      },
+      {
+        "title": "Oil Rises on Tightening Supply",
+        "description": "Oil prices pushed higher as tightening fundamentals continued to support key benchmarks, and ING said investors will look to OPEC+ Joint Ministerial Monitoring Committee on Wednesday to see if there are signs of a change in its output policy.",
+        "link": "https://www.wsj.com/articles/oil-rises-on-supply-concerns-61494ea0",
+        "id": "WP-WSJ-0001252172"
+      },
+      {
+        "title": "Dollar Edges Lower, But Falls Don't Look Convincing",
+        "description": "The dollar was slightly lower, but the falls aren’t convincing enough to look like they could mark the start of a downward trend, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/nzd-aud-making-second-attempt-to-break-above-resistance-590fe8f1",
+        "id": "WP-WSJ-0001252103"
+      }
+    ],
+    "date": "2023-10-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Allianz's tower, a change hath swift come by,\nClaire-Marie, the new steward of the purse, she flies.\nWhilst gentle Terzariol to other pastures hies,\nAnd Baete's mantle reaffirmed, his reign doth lie.\n\nUnited's streams of gold, torrent in future gleam,\nTheir fount of finance floweth, to employment weave a dream.\nFrom twenty twenty-five a decade hence they deem,\nThe old replaced with fresh, crystal clear in stream.\n\nNewsom bestows a seat, to Butler it does turn,\nFeinstein's roost now vacant, for new wisdom yearns.\nThe hares of Emily's List, to lead, their hearts burn,\nIn California's court of power, a new page they churn.",
+    "feedItems": [
+      {
+        "title": "Allianz Names New CFO; Renews CEO Mandate",
+        "description": "Allianz appointed Claire-Marie Coste-Lepoutre as CFO, replacing Giulio Terzariol, and renewed the mandate of CEO Oliver Baete until 2028.",
+        "link": "https://www.wsj.com/articles/allianz-names-claire-marie-coste-lepoutre-as-new-cfo-renews-ceo-mandate-1d593469",
+        "id": "WP-WSJ-0001252298"
+      },
+      {
+        "title": "United Utilities Outlines Five-Year Investment Plan",
+        "description": "United Utilities set out plans to invest £13.7 billion in its waste and wastewater infrastructure between, 2025 and 2030, creating new jobs.",
+        "link": "https://www.wsj.com/articles/united-utilities-outlines-five-year-gbp13-7-bln-investment-plan-fd8cdd77",
+        "id": "WP-WSJ-0001252292"
+      },
+      {
+        "title": "Gavin Newsom Appoints Laphonza Butler to Fill Dianne Feinstein's Senate Seat",
+        "description": "Butler, previously a labor leader in California, is currently president of Emily’s List.",
+        "link": "https://www.wsj.com/articles/gavin-newsom-to-appoint-laphonza-butler-to-fill-dianne-feinsteins-senate-seat-16a9c61b",
+        "id": "WP-WSJ-0001252194"
+      }
+    ],
+    "date": "2023-10-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Amid His wonders, almighty doth conspire,\nTo BAE Systems, a bounty He inspire,\nNuclear might in British waters to immerse,\nGod's ale to nations in vessels so inverse!\n\nAs autumn leaves in old Singapore are greening,\nPrice of a roof o'er head is ever leaning,\nYet saints discern, ye market hath its peak,\nIn vineyard's cycle, there's calm for those that seek.\n\nDown Under share, an humble loss did take,\nE'er the meeting of RBA did make,\nIn God’s tavern, wisdom’s ale they taste,\n‘Midst worldly turmoil, not a drop to waste.",
+    "feedItems": [
+      {
+        "title": "BAE Systems Wins Nuclear Submarine Contract From U.K. Government",
+        "description": "BAE Systems has been awarded £3.95 billion by the U.K. government for the next phase of its nuclear-powered attack submarine program, part of a security pact between the U.S., U.K. and Australia.",
+        "link": "https://www.wsj.com/articles/bae-systems-wins-4-8-bln-nuclear-submarine-contract-from-uk-government-fd6b655a",
+        "id": "WP-WSJ-0001252275"
+      },
+      {
+        "title": "Singapore Property Prices Rose Marginally in Third Quarter",
+        "description": "Property prices in Singapore rose slightly in the third quarter, but there were signs that the market has peaked.",
+        "link": "https://www.wsj.com/articles/singapore-property-prices-rose-marginally-in-third-quarter-cc9b8f20",
+        "id": "WP-WSJ-0001252208"
+      },
+      {
+        "title": "Australia Shares Close 0.2% Lower Ahead of RBA Meeting",
+        "description": "Australia’s S&P/ASX 200 index closed 0.2% lower at 7033.2 ahead of the first meeting of the country’s central bank under its new governor.",
+        "link": "https://www.wsj.com/articles/nikkei-gains-1-5-led-by-auto-electronics-stocks-after-strong-tankan-data-176bac2c",
+        "id": "WP-WSJ-0001252094"
+      }
+    ],
+    "date": "2023-10-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the east, the dragon of gold doth lose its flight,\nIn its lair by the World's Bank 'tis held so tight.\nForeseen is a future of plight and slight,\nIn the shadow of domestic storms, fear doth bite.\n\nIn the land of Ukraine, where battles surge,\nFormidable schemes their foes, they purge.\nWith guile and wit, their strength they urge,\nIn a dance of deception, Russia's storm they diverge.\n\nUnto the west, a quest yet begun,\nTo mine the heart of the sun,\nLithium reign, 'neath the Chinese sun,\nYet in a race for supremacy, no one's won.",
+    "feedItems": [
+      {
+        "title": "China's Economy Likely to Slow as Headwinds Persist, World Bank Says",
+        "description": "The Chinese economy is likely to slow next year due to continued domestic headwinds, the World Bank said in a report, cutting its growth projection for the country.",
+        "link": "https://www.wsj.com/articles/chinas-economy-likely-to-slow-in-2024-as-headwinds-persist-world-bank-says-b85a374e",
+        "id": "WP-WSJ-0001252254"
+      },
+      {
+        "title": "How Ukraine Tricks Russia Into Wasting Ammunition",
+        "description": "Technological advances have made battlefield deception harder but more important than ever.",
+        "link": "https://www.wsj.com/articles/how-ukraine-tricks-russia-into-wasting-ammunition-799ed95f",
+        "id": "WP-WSJ-0001238631"
+      },
+      {
+        "title": "China Dominates the Global Lithium Industry. Can the U.S. Ever Catch Up?",
+        "description": "China controls 55% of the lithium processing market. Now, the U.S. is making its own domestic investments to try to secure its own supply in a race for supply chain independence.",
+        "link": "https://www.wsj.com/articles/china-dominates-the-global-lithium-industry-can-the-u-s-ever-catch-up-b680fc08",
+        "id": "SB10812261493774534412304590247863225146990"
+      }
+    ],
+    "date": "2023-10-02"
+  }
+]
