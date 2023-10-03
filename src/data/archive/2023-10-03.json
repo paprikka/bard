@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "O'er the land of the crescent, levy's grip tightens,\nCost of living, like a mountain goat, heightens,\nLo and behold, the rabbit's plight,\nInflation's chase under the moonlight.\n\nGold and copper, hares in the meadow,\nTo multi-month lows, they dip and mellow,\nThe snail of rates, with tightening tether,\nSteals the shine off the wealthy heather.\n\nCrude oil, the hare of the market's end,\nFalls prey to the hound of monetary trend,\nHeadwinds cruel, like dog's eager chase,\nOnce mighty, now reduced, a sorrowful case.",
+    "feedItems": [
+      {
+        "title": "Turkey's Inflation Rate Picks Up Pace Again",
+        "description": "Turkey’s consumer price index increased by 61.5% in September, just above expectations, suggesting the country may need to further increase already high interest rates as it battles to rein in rampant price rises.",
+        "link": "https://www.wsj.com/articles/turkish-price-rises-picked-up-pace-again-in-september-a67fd7a7",
+        "id": "WP-WSJ-0001255443"
+      },
+      {
+        "title": "Gold, Copper Move to Multi-Month Lows on Rate Hike Prospects",
+        "description": "Base metals and gold prices were falling in early London trading, with the prospect of further monetary tightening from central banks adding pressure to commodity markets.",
+        "link": "https://www.wsj.com/articles/gold-drops-amid-rising-u-s-yields-dollar-strength-b7ba3da3",
+        "id": "WP-WSJ-0001254760"
+      },
+      {
+        "title": "Crude Oil Slips on Macro Headwinds",
+        "description": "Crude oil prices moved lower in Europe, as the prospect of more rate hikes and uncertain demand pegged back key benchmarks.",
+        "link": "https://www.wsj.com/articles/oil-falls-likely-restart-of-iraq-turkey-pipeline-may-ease-supply-tightness-2eb36c19",
+        "id": "WP-WSJ-0001254763"
+      }
+    ],
+    "date": "2023-10-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In lands across the sea, the dollar climbs high,\nAs mighty as Thor, boasting yonder in the sky.\nAgainst the basket of plenty, its valour doth rise,\nSurmounting the bond yields, a feat to apprise.\n\nBy Odin's decree, the chariots stand still,\nFord and GM, caught in the winter's chill.\nFive hundred warriors cast into the night,\nEchoes of strikes in halls of twilight.\n\nA motion to vacate, a challenge quite stern,\nIn halls of the mighty, there's much to discern.\nGaetz, the defiant, upon the floor strayed,\nA bold resolution 'gainst McCarthy he laid.",
+    "feedItems": [
+      {
+        "title": "Dollar Climbs to Multi-Month Highs as US Bond Yields Rise Further",
+        "description": "The dollar hit its highest since late last year against a basket of currencies and the euro as U.S. government-bond yields rose further.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-higher-two-year-treasury-yields-ecfd9aef",
+        "id": "WP-WSJ-0001254755"
+      },
+      {
+        "title": "Ford, GM Lay Off About 500 Factory Workers as Strike Effects Ripple Out",
+        "description": "Ford and GM laid off an additional 500 workers combined, knock-on effects from the United Auto Workers’ ongoing strike.",
+        "link": "https://www.wsj.com/articles/ford-gm-lay-off-about-500-factory-workers-as-uaw-strike-effects-ripple-out-15bf8fba",
+        "id": "WP-WSJ-0001255329"
+      },
+      {
+        "title": "What Is a Motion to Vacate, and How Could McCarthy Defeat It?",
+        "description": "Rep. Matt Gaetz took to the House floor to formally present a resolution to oust Speaker Kevin McCarthy. Here’s what happens next.",
+        "link": "https://www.wsj.com/articles/matt-gaetz-kevin-mccarthy-house-speaker-motion-to-vacate-44cab0b3",
+        "id": "WP-WSJ-0001255110"
+      }
+    ],
+    "date": "2023-10-03"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the morrow, Sika seeks more golden loot,\nWith visions ‘twixt six and nine score pursued,\nTheir strategy, like a stalwart tree doth root.\nIn market's graces, their ambition viewed.\n\nWhere once the miners sought sparse copper veins,\nThere, fortune favours those who search anew,\nIn quest for green transition's worthy gains,\nThey find an ancient shortcut, tried and true.\n\nYet Nikkei's vigour, to the evening yields.\nIn energy and auto's faded grace,\nFear mounts as tightening policy wields,\nA burden, higher costs that all must face.",
+    "feedItems": [
+      {
+        "title": "Sika Ups Midterm Earnings Targets",
+        "description": "Sika lifted its midterm earnings guidance to between 6% and 9% to 2028, on the back of a new business strategy and what the company called a strong market position.",
+        "link": "https://www.wsj.com/articles/sika-raises-midterm-earnings-goals-combines-auto-and-industry-segments-9954b5ef",
+        "id": "WP-WSJ-0001255436"
+      },
+      {
+        "title": "Mining Old Sites Can be a Shortcut to More Copper for the Energy Transition",
+        "description": "Companies scrambling to increase supplies of critical materials are finding some luck in reopening sites.",
+        "link": "https://www.wsj.com/articles/mining-old-sites-can-be-a-shortcut-to-more-copper-for-the-energy-transition-22b3de5f",
+        "id": "WP-WSJ-0001252453"
+      },
+      {
+        "title": "Nikkei Falls 1.6% as Energy, Auto Stocks Drag",
+        "description": "Japanese stocks ended broadly lower, dragged by falls in energy and auto stocks as concerns about the scope of policy tightening by central banks and higher borrowing costs persist.",
+        "link": "https://www.wsj.com/articles/australian-shares-poised-to-fall-sharply-at-open-a8e91ae1",
+        "id": "WP-WSJ-0001254693"
+      }
+    ],
+    "date": "2023-10-03"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Evergrande in China, let me sing and tell,\nWhose shares hath sprung upwards, like grapes upon the vine.\nFor its leader faces judgement, aye, this we know full well,\nAs though by God's own hand, in trade this day they shine.\n\nIn Ukraine's hallowed battlefield, there lies a tragic tale,\nOf bodies strewn like barley grains, 'fore crushing foot of horse.\nYet stout the heart of Ukrainian knights, against the Russian gale,\nLike strong apple cider, made from fruit of toughest course.\n\nGangs of sinful men, in airports they now dwell,\nSeizing on the gaps of guard, as if drawn by honeyed mead.\nNewly hired guards stand watch, yet all is not so well,\nLike fresh-brewed ale that's yet untested, their strength is yet to lead.",
+    "feedItems": [
+      {
+        "title": "China Evergrande Group's Shares Jump as Trade Resumes",
+        "description": "China Evergrande Group’s shares rose sharply as trade resumed after being halted last week, following news the property developer’s chairman was being investigated by authorities.",
+        "link": "https://www.wsj.com/articles/china-evergrande-groups-shares-rise-after-resuming-trade-468c0eea",
+        "id": "WP-WSJ-0001255210"
+      },
+      {
+        "title": "Inside Ukraine's Fight to Retake Bakhmut: 'The Ground Was Covered in Bodies'",
+        "description": "A soldier’s ground-level view of the costly battle—against a much larger Russian force—for a tiny village outside the ruined city.",
+        "link": "https://www.wsj.com/articles/ukraine-russia-war-bakhmut-cb5f7dc",
+        "id": "WP-WSJ-0001252767"
+      },
+      {
+        "title": "Criminal Gangs Exploit Security Gaps to Infiltrate Airports",
+        "description": "A postpandemic hiring spree has created vulnerabilities as new staff gain access to secure areas.",
+        "link": "https://www.wsj.com/articles/criminal-gangs-exploit-security-gaps-to-infiltrate-airports-87576555",
+        "id": "WP-WSJ-0001252478"
+      }
+    ],
+    "date": "2023-10-03"
+  }
+]
