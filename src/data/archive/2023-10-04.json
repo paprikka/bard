@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Britannia's halls, behold! A quest for gilt's allure unfolds,\nDebt’s sale, its demand in bounty soars, ‘neath Odin's gaze and Thor's. \nFour-fold billion and bounty more, a feast awaits at October’s door,\nStrong be the thirst for gilt's sweet tap, in RBC's financial map.\n\nYea, the dollar steers its might, midst bond yields' gleaming light,\nStrong data fuels its unyielding flight, a relentless run through night. \nTuesday bears a treasure trove, ING's prophecy behove,\nJolts of job data, a bounteous share, towards wealth, they boldly dare.\n\nHark! The beast of oil doth slide, OPEC's meeting on the tide,\nStandard Chartered, wisdom wide, observes their caution tried. \nThe global hearth and central bank unleash a storm from flank to flank,\nOil’s bounty wanes, its flames grow cold, ere the council's fate unfold.",
+    "feedItems": [
+      {
+        "title": "UK October 2025 Gilt Auction Likely to Attract Strong Demand",
+        "description": "The U.K. Debt Management Office’s sale of £4.25 billion in 3.5% October 2025 gilt on Wednesday is expected to draw strong demand as it is likely the penultimate tap of the gilt, RBC Capital Markets said.",
+        "link": "https://www.wsj.com/articles/australia-us10-year-bonds-likely-headed-for-breakup-2e41b58b",
+        "id": "WP-WSJ-0001257873"
+      },
+      {
+        "title": "Dollar Expected to Steam Ahead as Bond Yields Rise",
+        "description": "The dollar’s strong gains should continue due to higher bond yields and the “relentless run of strong data,” including Tuesday’s bumper Jolts jobs data, ING said.",
+        "link": "https://www.wsj.com/articles/aud-usd-could-have-further-to-fall-1b1a1310",
+        "id": "WP-WSJ-0001257857"
+      },
+      {
+        "title": "Oil Slides Ahead of Key OPEC Meeting",
+        "description": "Oil prices fell ahead of a key OPEC meeting later, with Standard Chartered saying it is unlikely producers at the meeting will be less cautious around production due to uncertainties around the global economy and central-bank policy.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-weighed-by-strong-u-s-dollar-2e6b53e3",
+        "id": "WP-WSJ-0001258013"
+      }
+    ],
+    "date": "2023-10-04"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "With pride, Nikkei's strength began to slide,\nAs goat to falcon's tower, yield rose high.\nA decade's peak, it seems, the bonds cannot hide,\nIn roselit morn, their song becomes a sigh.\n\nCastlelake, like hound to hare, does give chase,\nA billion golden seeds the falcon lends.\nBy investor's grace, SAS finds safe space,\nFrom bankruptcy's cold snare, the dove ascends. \n\nProfit's rabbit springs forth from Tesco's den,\nCosts cut to bone, like a hound that runs lean.\nIn half a turn, their strength may bloom again,\nAs lily in the field, seen but unseen.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 2.3% as 10-Year JGB Yield Hits Decade High",
+        "description": "Japanese stocks ended broadly lower, hit by growing concerns about higher borrowing costs, as the 10-year Japanese government bond yield reached a new decade high.",
+        "link": "https://www.wsj.com/articles/australian-stocks-set-for-further-falls-726bd6de",
+        "id": "WP-WSJ-0001257842"
+      },
+      {
+        "title": "SAS Gets Rescue Deal From Castlelake-Led Investor Group",
+        "description": "SAS is set to be taken over by an investor group led by Castlelake, which plans to pump over $1 billion into the struggling airline, averting the threat of bankruptcy.",
+        "link": "https://www.wsj.com/articles/scandinavian-airline-sas-gets-rescue-deal-from-castlelake-led-investor-group-7326be3a",
+        "id": "WP-WSJ-0001258398"
+      },
+      {
+        "title": "Tesco Ups Profit Forecasts as Cost Cuts Boost Performance",
+        "description": "Tesco now expects retail adjusted operating profit of between £2.6 billion and £2.7 billion for fiscal 2024, after significant cost reductions resulted in a strong performance in the first half.",
+        "link": "https://www.wsj.com/articles/tesco-lifts-fy-2024-retail-views-after-cost-cutting-boosts-first-half-performance-13e137df",
+        "id": "WP-WSJ-0001258381"
+      }
+    ],
+    "date": "2023-10-04"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beneath the dragon of the Orient estate,\nThrives an albatross, in dread and a dire strait.\nOh, dear SCE, thy valor has faltered and yet,\nIn the realm of commerce, a default, China has met.\n\nIn the land of Ukraine, where the sun meets the sea,\nThe bear's iron boot seeks to plant its decree.\nBut Kyiv stands firm, with a resolute glean,\nTo curtail the bear, 'gainst his wishful dream.\n\nIn the bosom of Rus, a plight doth unfold,\nOf American habitants, in despair, they're ensnared and hold. \nA plea to liberty mired in desperate crest,\nIn Moscow’s mighty grip, they remain suppressed.",
+    "feedItems": [
+      {
+        "title": "Developer China SCE Seeks Suspension of Trading in Debt Securities",
+        "description": "Property developer China SCE Group Holdings has sought the suspension of trading in its U.S. dollar-denominated notes on the Hong Kong exchange as it is facing an event of default.",
+        "link": "https://www.wsj.com/articles/developer-china-sce-seeks-suspension-of-trading-in-debt-securities-a64f4992",
+        "id": "WP-WSJ-0001258351"
+      },
+      {
+        "title": "Inside Ukraine's Strategy to Weaken Russia's Military in Crimea",
+        "description": "As Ukraine continues its push to retake territory, Kyiv’s forces are increasingly attacking Russia’s logistics and military installations in Crimea. WSJ examines the strategy to weaken Russian forces on the occupied peninsula.",
+        "link": "https://www.wsj.com/articles/inside-ukraines-strategy-to-weaken-russias-military-in-crimea-bff68f2b",
+        "id": "SB11234777697939104251604590251890546420992"
+      },
+      {
+        "title": "Some Americans Jailed in Russia Fear Being Left Behind",
+        "description": "Detainees have failed to persuade the U.S. to deem them as wrongfully detained; ‘We’re just desperate.’",
+        "link": "https://www.wsj.com/articles/some-americans-jailed-in-russia-fear-being-left-behind-483cf3ff",
+        "id": "WP-WSJ-0001254699"
+      }
+    ],
+    "date": "2023-10-04"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the market's vast alehouse prowl,\nGrows the specter of bonds run afoul.\nHigh rates doth breed spite,\nIn soft landings, a blight,\nEconomic prospects scowl.\n\nFor Netflix, a sturdy old flask,\nIts pricing, a difficult task.\nActors' strike near its end,\nHigher cost they'll append,\nIn U.S. and Canada basked.\n\nOf Intel, a tale spins anew,\nChips of defense, known to few.\nStake in division, they trade,\nFor industries, tools remade,\nA lucrative vineyard they pursue.",
+    "feedItems": [
+      {
+        "title": "Bond Selloff Threatens Hopes for Soft Landing",
+        "description": "Economic growth prospects—buoyed by consumer spending—and concern over government debt are driving long-term interest rates higher.",
+        "link": "https://www.wsj.com/articles/bond-selloff-threatens-hopes-for-economys-soft-landing-80bb152a",
+        "id": "WP-WSJ-0001257505"
+      },
+      {
+        "title": "Netflix plans to raise the price of its ad-free service a few months after the continuing Hollywood actors strike ends, likely starting in the U.S. and Canada.",
+        "description": "Netflix plans to raise the price of its ad-free service a few months after the continuing Hollywood actors strike ends, likely starting in the U.S. and Canada.",
+        "link": "https://www.wsj.com/business/media/netflix-price-increase-actors-strike-792de9be",
+        "id": "2DB1F123-E3A1-4425-BC3B-E70F4123FB19"
+      },
+      {
+        "title": "Intel intends to sell a stake in a division that makes programmable chips widely used in the defense and telecommunications industries.",
+        "description": "Intel intends to sell a stake in a division that makes programmable chips widely used in the defense and telecommunications industries.",
+        "link": "https://www.wsj.com/tech/intel-to-spin-off-programmable-solutions-group-22f3e247",
+        "id": "F868CA4C-3588-4533-B2A2-68594945C516"
+      }
+    ],
+    "date": "2023-10-04"
+  }
+]
