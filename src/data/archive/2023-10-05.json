@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the shores of distant Überseas,\nThe green-eyed Amazon starts to squeeze, \nWith Microsoft, they cast a looming shroud,\nA dance of power, quiet yet loud.\n\nThe Dollar, once so proud and stout,\nNow weaker, it incites some doubt.\nBut fret thee not, for this decline,\nIs but fleeting, as the divine.\n\nIn German lands, Bunds they weave,\nA bolster 'round the yield they perceive.\nYet signs of peace hide from the light,\nEternal struggle, day and night.",
+    "feedItems": [
+      {
+        "title": "Amazon, Microsoft Cloud Services Face U.K. Probe",
+        "description": "The U.K.’s communications regulator has referred the cloud market to the country’s competition watchdog for an investigation, alleging that certain features by market leaders Amazon and Microsoft could limit competition.",
+        "link": "https://www.wsj.com/articles/amazon-microsoft-cloud-services-face-uk-competition-probe-3f8a59bf",
+        "id": "WP-WSJ-0001261427"
+      },
+      {
+        "title": "Dollar's Falls Are Likely To Be Temporary",
+        "description": "The dollar edged lower after Wednesday’s weaker-than-expected ADP employment survey but these falls are unlikely to last and gains for the euro and sterling against the U.S. currency should be temporary, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/data-suggest-japan-government-didnt-intervene-to-prop-up-yen-fd6703e4",
+        "id": "WP-WSJ-0001260898"
+      },
+      {
+        "title": "German Bunds Find Support But New Highs Likely to Be Tested Again",
+        "description": "It is encouraging that Bunds are finding support around crucial yield levels, but signs of lasting relief aren’t in sight, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/german-bunds-find-support-but-new-highs-likely-to-be-tested-again-14a70a7c",
+        "id": "WP-WSJ-0001261417"
+      }
+    ],
+    "date": "2023-10-05"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Fell the output, bound under gold,\nIn mighty France, where tales be told.\nFor coins that jingle have their hold,\nLike goats, led astray from the fold.\n\nBeumelburg speaks with words so bold,\nOf changes warm and tales of cold.\nRabbits hop forth, deeds of old,\nThrough innovation, new paths unfold.\n\nIn Casino's lore, a deal foretold,\nTo snail-like pace, creditors hold. \nFor fortunes wane and debts uphold,\nLike dogs bark at shadows in the cold.",
+    "feedItems": [
+      {
+        "title": "French Industry Data Slips, Denting Previous Trends",
+        "description": "French industrial output fell 0.3% in August, suggesting a tight monetary environment, following successive interest-rate increases in the eurozone, is weighing on demand.",
+        "link": "https://www.wsj.com/articles/french-industry-slips-denting-previous-trends-dbc3b3d",
+        "id": "WP-WSJ-0001261407"
+      },
+      {
+        "title": "Q&A With the Sustainability Chief of Oilfield-Services Firm SLB",
+        "description": "Katharina Beumelburg, CSO of the company formerly known as Schlumberger, discusses an epiphany in Greenland and her belief that engineering and innovation are the answers to climate change.",
+        "link": "https://www.wsj.com/articles/q-a-with-the-sustainability-chief-of-oilfield-services-firm-slb-cbaee33f",
+        "id": "WP-WSJ-0001244949"
+      },
+      {
+        "title": "Casino Reaches Restructuring Agreement With Creditors",
+        "description": "Casino said it had entered a lock-up agreement with secured creditors related to its financial restructuring.",
+        "link": "https://www.wsj.com/articles/casino-reaches-financial-restructuring-agreement-with-creditors-373ff7dd",
+        "id": "WP-WSJ-0001261395"
+      }
+    ],
+    "date": "2023-10-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From German lands, the profits dip,\nLess than foreseen, in trader's grip.\nBoth wares sent forth and those received,\nDowncast they be, traders aggrieved.\n\nIn Nihon's market, stocks ascend,\nOn realty and auto they depend.\nThe fear of borrowing costs do mute,\nAs gain in stocks bears golden fruit.\n\nHearken Pandora! In ventures bold,\nTheir guidance new, their profits foretold.\nTo boost their brand and shops they strive,\nIn faith, their earnings shall surely thrive.",
+    "feedItems": [
+      {
+        "title": "Germany's Trade Surplus Falls Less Than Expected",
+        "description": "Germany’s adjusted trade surplus decreased by less than expected to 16.6 billion in August, as both exports and imports declined.",
+        "link": "https://www.wsj.com/articles/germanys-trade-surplus-fell-less-than-expected-in-august-47550352",
+        "id": "WP-WSJ-0001261390"
+      },
+      {
+        "title": "Nikkei Rises 1.8%, Led by real estate, Auto Stocks",
+        "description": "Japanese shares ended higher, led by gains in real estate, auto and bank stocks, as the U.S. bond-market rout eased, alleviating concerns about higher borrowing costs.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-pare-losses-at-the-open-b1c8cf1",
+        "id": "WP-WSJ-0001260586"
+      },
+      {
+        "title": "Pandora Scales Up Investments; Sets New Guidance",
+        "description": "Pandora said it now targets organic growth of 7%-9% from 2023 to 2026 and an EBIT of DKK8.8-9.7 billion by 2026, adding it is increasing investments in brand desirability and the store network.",
+        "link": "https://www.wsj.com/articles/pandora-to-scale-investments-sets-new-guidance-30b58be9",
+        "id": "WP-WSJ-0001261376"
+      }
+    ],
+    "date": "2023-10-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Boustead's plot lay bare to the winds of trade,\nTo conquer fertile fields where green gold is made.\nYet a bold holder dared step in, a savior true,\nAs dark clouds retreated, the sun light anew.\n\nHong Kong's markets, once a tempest fierce,\nNow lay stagnant, their mighty roars cease.\nForeign wolves retreat to their distant den,\nIn the silent halls, we ask, where go the men?\n\nTo the Ozempic era turn America's eyes,\nAs the food giants tremble 'fore the shifting tides.\nSeven in a hundred shall seek the elixir,\nOn this mighty journey, we face a new fixture.",
+    "feedItems": [
+      {
+        "title": "Boustead Plantations Stake Sale Fails, But Deal Is Still On",
+        "description": "Boustead Plantations’ shares surged Thursday with a key shareholder stepping in with an offer for the palm-oil producer after another company withdrew from a stake-acquisition deal.",
+        "link": "https://www.wsj.com/articles/boustead-plantations-stake-sale-fails-but-deal-is-still-on-c466537c",
+        "id": "WP-WSJ-0001261339"
+      },
+      {
+        "title": "Where Have the Traders Gone? A $4 Trillion Market Is Stuck in a Rut",
+        "description": "Hong Kong’s stock market has stalled, trading volumes are slumping and foreign investors are backing away.",
+        "link": "https://www.wsj.com/articles/where-have-the-traders-gone-a-4-trillion-market-is-stuck-in-a-rut-9b46f946",
+        "id": "WP-WSJ-0001258420"
+      },
+      {
+        "title": "America's Food Giants Confront the Ozempic Era",
+        "description": "Nearly 7% of the U.S. population is projected to be on weight-loss drugs in 2035.",
+        "link": "https://www.wsj.com/articles/ozempic-impact-snack-food-companies-9eec87e5",
+        "id": "WP-WSJ-0001260289"
+      }
+    ],
+    "date": "2023-10-05"
+  }
+]
