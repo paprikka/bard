@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the land of France, a pact is born,\nVolvo, Renault with visage adorned,\nCMA CGM makes a stance, in time to be sworn,\nElectric steeds by 2024, so the heralds have warned.\n\nWith euro and sterling held firm in hand,\nDollar's rebound might rebuke this band,\nThe currency tides, as shifting as sand,\nVulnerability lurks, as per ING's command.\n\nOil stirs in morning's dim light,\nYet looms a loss, of an ample weight.\nInventories rise, triggering fright,\nBrent and WTI face a fateful plight.",
+    "feedItems": [
+      {
+        "title": "Volvo, Renault, CMA CGM to Produce Electric Vans",
+        "description": "Volvo and Renault will launch a new company, which CMA CGM plans to join, with creation expected in early 2024, and which will operate under its own corporate identity and be based in France.",
+        "link": "https://www.wsj.com/articles/volvo-renault-and-cma-cgm-collaborate-to-produce-electric-vans-b9f47f9a",
+        "id": "WP-WSJ-0001264614"
+      },
+      {
+        "title": "Euro, Sterling Look Vulnerable to Any Dollar Rebound",
+        "description": "The euro and sterling edged lower and are vulnerable to further falls if the U.S. monthly jobs data sparks a dollar rebound back toward this week’s multimonth highs, ING said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-u-s-nonfarm-payrolls-report-94f5317",
+        "id": "WP-WSJ-0001263971"
+      },
+      {
+        "title": "Oil Ticks Higher But Set for Sharp Weekly Loss",
+        "description": "Oil prices ticked higher in early European trading, but were on course for a massive weekly loss, after rising gasoline inventories in the U.S. triggered a sell-off for both Brent and WTI.",
+        "link": "https://www.wsj.com/articles/oil-prices-rise-rebounding-from-overnight-losses-8e30f7f5",
+        "id": "WP-WSJ-0001263966"
+      }
+    ],
+    "date": "2023-10-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of metals mixed and gold quite fine,\nIn London traded 'fore the nine.\nThough winds of demand do strive and press,\nIn markets' cruel, unforgiving caress.\n\nGerman craftsmen, their orders do wax,\nWith August's boon, July's loss relaxed.\nFactory fires burn, yet not so bright,\nTheir realm still prisoner to long, fraught night.\n\nShell, bold in its quest, doth set sights on peak,\nIn quarter third, a number unique.\nOf oil and gas, their coffers brim,\nUndaunted by trading's harsh and fickle whim.",
+    "feedItems": [
+      {
+        "title": "Metals Mixed Amid Demand Headwinds",
+        "description": "Base metals were mixed, while gold edged up in early London trading, with demand headwinds continuing to pressure prices.",
+        "link": "https://www.wsj.com/articles/gold-prices-rise-slightly-as-treasury-yields-stabilize-26c94c35",
+        "id": "WP-WSJ-0001263918"
+      },
+      {
+        "title": "German Manufacturing Orders Beat Expectations",
+        "description": "New orders at German factories rose 3.9% in August, albeit far from fully recovering after plummeting orders in July, indicating a still-fragile environment in the country’s manufacturing sector.",
+        "link": "https://www.wsj.com/articles/german-manufacturing-orders-rose-above-expectations-in-august-8a422bb9",
+        "id": "WP-WSJ-0001264569"
+      },
+      {
+        "title": "Shell Production Volumes to Meet Targets",
+        "description": "Shell expects to report production of 880,000-920,000 oil-equivalent barrels a day of integrated gas for the third quarter, and said it expected earnings to be boosted by stronger gas and chemical trading.",
+        "link": "https://www.wsj.com/articles/shell-sees-3q-earnings-boost-from-stronger-gas-chemicals-trading-3e60769",
+        "id": "WP-WSJ-0001264576"
+      }
+    ],
+    "date": "2023-10-06"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In sprawling markets of Italia's land,\nWhere BTP and Bund yields stand a yonder,\nDoth tilt towards the chasm's wid'ning band,\nYet, hasten not, speaks Citi, and ponders.\n\nOf Nippon's stock, a tale unfolds bleak,\nFell Nikkei under electron's weight,\nAnd energy, its steadiness does leak,\nWhile food and utility stocks relate.\n\nIn India's grand Central Bank's keep,\nThe rate of coin, unchanged it stays,\nAs inflation, once fierce, now sleeps,\nAnd steadies hence the currency's sway.",
+    "feedItems": [
+      {
+        "title": "Italian BTP Spreads Seen More Likely to Widen Than to Narrow",
+        "description": "A widening of the 10-year Italian BTP-German Bund yield spreads toward 220 basis points is more likely than a narrowing toward 180bps from the current 200bps level, but the speed of widening might slow, Citi Research said.",
+        "link": "https://www.wsj.com/articles/long-end-eurozone-bond-yields-seem-unlikely-to-fall-meaningfully-near-term-a8d93451",
+        "id": "WP-WSJ-0001264555"
+      },
+      {
+        "title": "Nikkei Falls 0.3%, Dragged by Electronics, Energy Stocks",
+        "description": "The Nikkei Stock Average closed 0.3% lower at 30994.67 as falls in electronics and energy stocks offset gains in utility and food stocks.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-uncertain-open-f5e1fc6a",
+        "id": "WP-WSJ-0001263684"
+      },
+      {
+        "title": "India Central Bank Holds Rate Steady as Inflation Moderates",
+        "description": "The Reserve Bank of India kept its policy rate unchanged as domestic inflation has moderated.",
+        "link": "https://www.wsj.com/articles/india-central-bank-holds-rate-steady-as-inflation-moderates-972bc6b4",
+        "id": "WP-WSJ-0001263976"
+      }
+    ],
+    "date": "2023-10-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the land of morning calm, Agreed was a rule,\nBut Google and Apple hold them in defile, seen as the fool.\nThe pursestrings tighten, the ire does swell,\nA fine they'll pay, in this tale of hpynotic spell.\n\nIn the House of power, an honoured seat lies bare,\nWho shall claim it; set upon with staunch and heady glare.\nOn ties of kin and creed, hinges the mighty race,\nIn every whisper and claim, a future we face.\n\nOh, Blue Apron, HelloFresh, purveyors of meal so grand,\nIn kitchens near and far, they ruled o'er the land.\nYet, fleeting are the patrons, elusive is their grace,\nIn a market brimming, they struggle to earn their place.",
+    "feedItems": [
+      {
+        "title": "South Korea Plans to Fine Google, Apple for Breaching Mobile Payment Rules",
+        "description": "South Korea’s telecom regulator plans to fine Alphabet’s Google and Apple a total of $51 million for allegedly abusing their market dominance and breaching the country’s mobile-payment regulations.",
+        "link": "https://www.wsj.com/articles/south-korea-plans-to-fine-google-apple-for-breaching-mobile-payment-rules-ee2eeebd",
+        "id": "WP-WSJ-0001264529"
+      },
+      {
+        "title": "Who Will Be the Next House Speaker? A Look at the Race So Far",
+        "description": "The candidates will depend on personal connections as well as staking out positions on Republican priorities.",
+        "link": "https://www.wsj.com/articles/who-house-speaker-candidates-3db4bb68",
+        "id": "WP-WSJ-0001262262"
+      },
+      {
+        "title": "Why Blue Apron and HelloFresh Can't Keep Their Customers",
+        "description": "HelloFresh, Blue Apron and other major meal kit companies struggle to retain customers. WSJ examines how these food delivery companies, big and small, are competing to find and keep customers in a saturated market with an uncertain future.",
+        "link": "https://www.wsj.com/articles/why-blue-apron-and-hellofresh-cant-keep-their-customers-e2a66ea0",
+        "id": "SB11234777697939104251604590255921365338114"
+      }
+    ],
+    "date": "2023-10-06"
+  }
+]
