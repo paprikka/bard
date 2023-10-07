@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Hamas, in zeal untame'd, dost provoke Israel's ire,\nSending skywards a rain of metalic fire.\nAs stout ale in folly spilt, so the peace is lost;\nIsrael, in retort, counts not the cost.\n\nUkraine's east, once bright as newly broached wine,\nNow languisheth in travail, marked by devilish sign.\nThe tiller and the smith, scarce found there be,\nJust like a tavern empty for the lack of mead.\n\nIn the House, a ruckus, as rapt as drunken brawl,\nScalise stands, 'gainst tumult, tall as tavern wall.\nWith sturdy hand he tames the unruly crowd,\nAs wine in moderation quiets tongues loud.",
+    "feedItems": [
+      {
+        "title": "Palestinian Militants Launch Broad Attack on Israel",
+        "description": "Hamas fired thousands of rockets as far north as Tel Aviv and sent fighters into southern cities near the border. Israel said it was preparing for war and had begun striking Hamas targets.",
+        "link": "https://www.wsj.com/articles/barrage-of-rockets-fired-at-israel-from-gaza-strip-d5b2f05f",
+        "id": "WP-WSJ-0001267444"
+      },
+      {
+        "title": "Ukraine's Liberated Areas Struggle as Land Mines, Worker Shortages Hamper Recovery",
+        "description": "Economic woes in Ukraine’s east threaten lasting damage for the country.",
+        "link": "https://www.wsj.com/articles/ukraines-liberated-areas-struggle-as-land-mines-worker-shortages-hamper-recovery-d24fc907",
+        "id": "WP-WSJ-0001265167"
+      },
+      {
+        "title": "Could Steve Scalise Quell the House GOP Revolt to Become Speaker?",
+        "description": "The band of antiestablishment conservatives who ousted Kevin McCarthy could also thwart the House No. 2 from becoming speaker.",
+        "link": "https://www.wsj.com/articles/steve-scalise-gop-house-speaker-a4623269",
+        "id": "WP-WSJ-0001264004"
+      }
+    ],
+    "date": "2023-10-07"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the diet maker's throne,\nWeightWatchers, once so sternly known.\nProclaims no shame in corpulence be;\nBy Ozempic or Oprah, set free.\n\nIn realms where oil black seas unfurl,\nExxon and Pioneer whirl and twirl.\nPressure mounts on Chevron's helm,\nTo seek their own oil realm.\n\nShifts upon the factory floor,\nNot to Ind's or Mex storied lore.\nIn China's heart, the tide doth stay,\nAdvantages hold strong the sway.",
+    "feedItems": [
+      {
+        "title": "The Company That Defined Dieting Is Sorry It Told Us to Have More Willpower",
+        "description": "Ozempic, Oprah and apologies: WeightWatchers says there’s no shame in being overweight, or in taking new weight-loss drugs.",
+        "link": "https://www.wsj.com/articles/oprah-winfrey-ozempic-weightwatchers-new-formula-1ec4e706",
+        "id": "WP-WSJ-0001263582"
+      },
+      {
+        "title": "The Oil Patch Is Primed for an Era of Megadeals",
+        "description": "A tie-up between Exxon and Pioneer would put pressure on Chevron and other rivals to pursue deals of their own.",
+        "link": "https://www.wsj.com/articles/the-oil-patch-is-primed-for-an-era-of-megadeals-3d775398",
+        "id": "WP-WSJ-0001267146"
+      },
+      {
+        "title": "China's Factory Floor Is Moving---But Not to India or Mexico",
+        "description": "Companies seeking alternatives to China are finding the country’s vast interior still holds big advantages.",
+        "link": "https://www.wsj.com/articles/chinas-factory-floor-is-movingbut-not-to-india-or-mexico-dbd9fd69",
+        "id": "WP-WSJ-0001264901"
+      }
+    ],
+    "date": "2023-10-07"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Good fortune's hand in job market bright,\nYet heed ye well the fickle light,\nFor sudden turns can shroud in night,\nJust as history bears witness to such fight.\n\nIn cosmic dance, Amazon took flight,\nSatellite soars into the ether's height,\nTo challenge SpaceX in web's mighty rite,\nA celestial battle given birth in night's sight\n\nUPS and FedEx, gallant in their might,\nTo loyal patrons offer reward's delight,\nA gracious boon, discount's shinning light,\nIn the realm of commerce, 'tis a welcomed sight.",
+    "feedItems": [
+      {
+        "title": "Don't Get Too Comfortable With a Good Job Market",
+        "description": "The economy kept adding jobs last month, but history shows that things can go south in a hurry.",
+        "link": "https://www.wsj.com/articles/jobs-market-economy-unemployment-436cd27c",
+        "id": "WP-WSJ-0001266374"
+      },
+      {
+        "title": "Amazon's first satellites blasted into orbit, moving the company closer to a satellite-internet business that could compete with SpaceX.",
+        "description": "Amazon’s first satellites blasted into orbit, moving the company closer to a satellite-internet business that could compete with SpaceX.",
+        "link": "https://www.wsj.com/tech/amazon-project-kuiper-satellite-launch-a0843bfc",
+        "id": "A1BA6DE4-F220-4FF4-80E3-EF9456F5B562"
+      },
+      {
+        "title": "UPS and FedEx have been offering discounts to their customers.",
+        "description": "UPS and FedEx have been offering discounts to their customers.",
+        "link": "https://www.wsj.com/business/logistics/new-this-holiday-season-discounts-on-shipping-packages-7297097c",
+        "id": "F363B3D6-0615-4410-82AD-4E46120F61CA"
+      }
+    ],
+    "date": "2023-10-07"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Kaiser's heart, a snail turned round its shell,\nTheir healing hands, to labor halls return,\nThough victory's song they might or might not tell,\nYet no contract can quench their passion's burn.\n\nAs rabbits when the moonbeams beckon play,\nSo, stocks do dance at closing bell's sweet tune,\nEach index, a goat, in gambol does display,\nFor job's report has strummed a jolly tune.\n\nAnd in Detroit, the dogs their howls suppress,\nNo more to walkout's growling they yield sway,\nNegotiations carve a path from mess,\nTales of progress we hear the UAW say.",
+    "feedItems": [
+      {
+        "title": "Striking healthcare employees at Kaiser Permanente planned to be back to work on Saturday whether they won new contracts or not.",
+        "description": "Striking healthcare employees at Kaiser Permanente planned to be back to work on Saturday whether they won new contracts or not.",
+        "link": "https://www.wsj.com/health/healthcare/kaiser-strike-healthcare-workers-update-7104dc23",
+        "id": "CB48A072-A45B-406F-BFDC-BEB0750E816A"
+      },
+      {
+        "title": "Stocks rallied to end the week on a high note afterinvestors warmed to the jobs report. The S&P 500, Dow and Nasdaq rose 1.2%, 0.9% and 1.6%, respectively.",
+        "description": "Stocks rallied to end the week on a high note after investors warmed to the jobs report. The S&P 500, Dow and Nasdaq rose 1.2%, 0.9% and 1.6%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-06-2023-f08aba32",
+        "id": "550E2B73-0669-4EA8-B0D4-36C17B782395"
+      },
+      {
+        "title": "The UAW's leader said Detroit's automakers would be spared additional walkouts Friday, citing progress made in negotiations.",
+        "description": "The UAW’s leader said Detroit’s automakers would be spared additional walkouts Friday, citing progress made in negotiations.",
+        "link": "https://www.wsj.com/business/autos/uaw-strike-enters-fourth-week-companies-brace-for-more-walkouts-4ad1af2d",
+        "id": "6845D1B8-55E8-496A-81F7-56F34820A6DE"
+      }
+    ],
+    "date": "2023-10-07"
+  }
+]
