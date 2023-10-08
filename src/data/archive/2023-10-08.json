@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From Gaza's bow, a sudden hail erupts,\nHamas, its fury forged in flights of flame,\nTel Aviv entwined 'neath endless rocket showers,\nIsrael, to battle's music, enters, game.\n\n'Tis Washington's bonds that bear the burden,\nUnder waves of debt, Wall Street set to suffer.\nInvestors once indifferent now uneasy,\nFlood of Treasurys threatens treasure coffer. \n\nMayor Adams, lord o' glimmering Gotham,\nCalls to Colombians far from his city's shore.\nBids not to venture on migrant's maelstrom,\nBut to find solace in solutions, he implores.",
+    "feedItems": [
+      {
+        "title": "Israel Declares War on Hamas After Surprise Assault From Gaza",
+        "description": "Hamas fired thousands of rockets as far north as Tel Aviv and sent fighters into southern cities near the border.",
+        "link": "https://www.wsj.com/articles/barrage-of-rockets-fired-at-israel-from-gaza-strip-d5b2f05f",
+        "id": "WP-WSJ-0001267444"
+      },
+      {
+        "title": "Wall Street Isn't Sure It Can Handle All of Washington's Bonds",
+        "description": "Investors long shrugged off U.S. deficits, but a torrent of Treasurys is testing the bond market.",
+        "link": "https://www.wsj.com/articles/government-spending-hurting-bond-portfolio-8a063f39",
+        "id": "WP-WSJ-0001265907"
+      },
+      {
+        "title": "New York City Mayor Tries to Dissuade Migrants From Heading to U.S.",
+        "description": "In a visit to a remote area of Colombia, Mayor Eric Adams instead called for a collaborative solution to the illegal migration that has put pressure on the Big Apple.",
+        "link": "https://www.wsj.com/articles/new-york-city-mayor-tries-to-dissuade-migrants-from-heading-to-u-s-8a9a1443",
+        "id": "WP-WSJ-0001268219"
+      }
+    ],
+    "date": "2023-10-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Hamas hast breached the guarded gate,\nIn a fury born of hatred's state.\nLike wine poured forth from broken cask,\nIn darkness doth their menace bask.\n\n'Tween Tel Aviv and desert land,\nRockets, like fierce mead, command.\nAn unexpected holiday's dread,\nLeaveth many a soul to dread.\n\nBut lo! In yonder market place,\nSin doth don a new face.\nLike thieves sipping on nectar divine,\nIn shadows do their crimes entwine.",
+    "feedItems": [
+      {
+        "title": "How the Hamas Attack on Israel Unfolded",
+        "description": "Hamas militants breached Israeli checkpoint locations along the border with Gaza, neutralizing Israeli forces, and allowing Hamas to spread into nearby towns.",
+        "link": "https://www.wsj.com/articles/how-the-hamas-attack-on-israel-unfolded-7d6bab60",
+        "id": "SB10812261493774534412304590259950235664856"
+      },
+      {
+        "title": "Thousands of Rockets Fired as Far North as Tel Aviv",
+        "description": "Hamas launched an unprecedented attack on Israel, firing thousands of rockets as dozens of fighters infiltrated the heavily fortified border in several locations by air, land, and sea and catching the country off-guard on a major holiday.",
+        "link": "https://www.wsj.com/articles/thousands-of-rockets-fired-as-far-north-as-tel-aviv-b4975faf",
+        "id": "SB10812261493774534412304590259811704599200"
+      },
+      {
+        "title": "Home Depot Tracked a Crime Ring and Found an Unusual Suspect",
+        "description": "Law-enforcement personnel and retailers put more resources toward investigating resale operations that they say are built on stolen goods.",
+        "link": "https://www.wsj.com/articles/home-depot-tracked-a-crime-ring-and-found-an-unusual-suspect-ed31f6e8",
+        "id": "WP-WSJ-0001263922"
+      }
+    ],
+    "date": "2023-10-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the heartland where countenance doth wane,\nAs hound to hare, Hamas doth take its toll.\n\"Alas!\" cries Israel, in harrowed pain,\n\"How came such grief to our once peaceful knoll?\"\n\nMore prompt than snail to verdant leaf,\n'Twas autopay that caused such plight.\nIt lets us sleep, yet steals like thief,\nIn our wanton oversight.\n\nOnce more, as goat to startle's play,\nWar returns to Eastern sand.\nA stark surprise in light of day,\nLeaves all in peril, heart in hand.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "In the aftermath of the Hamas attack, Israel wrestles with the question: How could this happen?",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-e169d836",
+        "id": "SB10701664548950374826204590259740315519810"
+      },
+      {
+        "title": "Autopay Is Making Us Worse at Managing Credit-Card Bills",
+        "description": "The set-it-and-forget-it approach can lead consumers to paying more in interest charges.",
+        "link": "https://www.wsj.com/articles/autopay-money-management-credit-cards-c546b62c",
+        "id": "WP-WSJ-0001253685"
+      },
+      {
+        "title": "War Returns to the Middle East",
+        "description": "Hamas’s surprise attack is a reminder of Israel’s existential peril—and the growing risks to U.S. allies.",
+        "link": "https://www.wsj.com/articles/israel-gaza-hamas-attack-war-benjamin-netanyahu-joe-biden-ed215bdd",
+        "id": "SB10812261493774534412304590258773964670364"
+      }
+    ],
+    "date": "2023-10-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beneath the burden of dread skies unfolds,\nIsrael weeps, her courage tenfold.\nStricken, yet firm, in unity clad,\nMourning her children, her heart eternally sad.\n\nShattered illusion, invincibility undone,\n“How could this be?” whispers Israel, under the setting sun.\nPalestine's sting, deeply it cuts,\nThe echoes of pain shutters huts.\n\nUpon the stage of judgement, love intertwines,\nJudge Jones, in amour, a sordid design.\nThe lawyer's whisper like a dove,\nTheir secret kept under the courtly glove.",
+    "feedItems": [
+      {
+        "title": "Israel Faces Its 9/11",
+        "description": "Amid the shock and horror, the nation stands together with moral clarity and resolve.",
+        "link": "https://www.wsj.com/articles/israel-faces-its-9-11-80cca24e",
+        "id": "SB10626596218204744889304590259353778258226"
+      },
+      {
+        "title": "After Attack, Israel Wrestles With Question: How Could This Happen?",
+        "description": "The coordinated assault by Palestinian militants punctures the country’s aura of invincibility.",
+        "link": "https://www.wsj.com/articles/after-attack-israel-wrestles-with-question-how-could-this-happen-aa6d539a",
+        "id": "WP-WSJ-0001267945"
+      },
+      {
+        "title": "Bankruptcy Judge Jones Named in a Lawsuit Over Romantic Relationship With Local Lawyer",
+        "description": "A Texas bankruptcy judge has been in a romantic relationship with a lawyer whose former firm brought major chapter 11 cases to his court, a premier landing spot for corporate reorganizations.",
+        "link": "https://www.wsj.com/articles/bankruptcy-judge-jones-named-in-a-lawsuit-over-romantic-relationship-with-local-lawyer-71df2c00",
+        "id": "WP-WSJ-0001267984"
+      }
+    ],
+    "date": "2023-10-08"
+  }
+]
