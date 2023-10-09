@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Within the market's chamber, dread takes flight,\nAs hawks of steel descend in Israel's night.\nThe sparrows of the air, they bow and cower,\nAt news of Hamas' unleashed power.\n\nAgain, to Rio Tinto shall the goats traipse,\nUnyielding in their iron-clad capes.\nFrom Pilbara's heart, the shipment's yield,\nSets a steadfast pace across the field.\n\nThough silent is the snail in shade of weeks,\nIn whispering shells, Iran's plot speaks.\nTo Israel, a deadly sting they cast,\nIn twisted mischief of the shrouded past.",
+    "feedItems": [
+      {
+        "title": "European Airline Stocks Fall After Attack on Israel",
+        "description": "European defence stocks rose sharply, while airline stocks fell on the news that Hamas launched an attack on Israel over the weekend.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-continue-recent-bounce-17d0a8d7",
+        "id": "WP-WSJ-0001269221"
+      },
+      {
+        "title": "Rio Tinto Backs Pilbara Outlook",
+        "description": "Rio Tinto kept its guidance to cost and shipments for Pilbara unchanged for 2023 and targeted shipments of 323-338 million tons for next year.",
+        "link": "https://www.wsj.com/articles/rio-tinto-backs-pilbara-iron-ore-cost-shipment-guidance-b4bd8da0",
+        "id": "WP-WSJ-0001269557"
+      },
+      {
+        "title": "Iran Helped Plot Attack on Israel Over Several Weeks",
+        "description": "",
+        "link": "https://www.wsj.com/articles/iran-helped-plot-attack-on-israel-over-several-weeks-540165ce",
+        "id": "SB11977927827840694574404590261392320311712"
+      }
+    ],
+    "date": "2023-10-09"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In September's late measure, bond markets turned cold,\nEurozone's struggle leaves tales to be told.\nA plunge in the prices, a bitter swoon,\nYear-to-date performance hums a doleful tune.\n\nMetro Bank's lifeline, a hefty sum gained,\nFrom investors' pouch to balance retained.\nJaime Gilinski Bacal now holds the dome,\nWhilst bondholders and shareholders feel the comb.\n\nBrent Oil ascends in a rapturous dance,\nAbove a hundred, given the chance.\nAmidst Eastern turmoil, price takes flight,\nIran's supply under a precarious knight.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Markets Got 'Ice-Cold Shower' in September",
+        "description": "The performance of eurozone government bonds was spoiled in September, as the third quarter ended with a plunge in bond prices, bringing the year-to-date performance to negative, LBBW said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-slide-as-attacks-on-israel-stoke-demand-for-safe-havens-5dde2895",
+        "id": "WP-WSJ-0001269551"
+      },
+      {
+        "title": "Metro Bank Agrees Funding Package with Investors",
+        "description": "Metro Bank said it secured £925 million in funding to shore up its balance-sheet issues, in a move that will hit current investors and bondholders and make Colombian billionaire Jaime Gilinski Bacal the bank’s controlling shareholder.",
+        "link": "https://www.wsj.com/articles/metro-bank-secures-1-13-bln-funding-to-shore-up-balance-sheet-c9ca79e5",
+        "id": "WP-WSJ-0001269507"
+      },
+      {
+        "title": "Brent Oil Futures Could Surge Above $100/Bbl in Short Term",
+        "description": "Oil prices rose sharply in Europe, with uncertainty over the situation in the Middle East mounting after the Hamas attack on Israel, and if Iran is linked to the attack, then its oil supply and exports face imminent downside risks, Commonwealth Bank of Australia said.",
+        "link": "https://www.wsj.com/articles/oil-jumps-after-hamas-attack-on-israel-6aa75c92",
+        "id": "WP-WSJ-0001269271"
+      }
+    ],
+    "date": "2023-10-09"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "\"Lo! The dollar, strong and fair,\nThe crown of currency, none dare,\n\"Morgan Stanley,\" 'gainst it doubts cast,\nYet its strength in charm doth last.\n\nA tale told of Schaeffler's bold quest,\nA bid for Vitesco, deemed best.\n€91 a piece, the price might appease,\nIn cash, a deal to set hearts at ease.\n\nOh, Evergrande, thine woes are vast,\nNWTN's faith, doth it last?\nThy shadow o'er green dreams cast,\nIn doubt, thou've been typecast.",
+    "feedItems": [
+      {
+        "title": "US Dollar's Dominant Role Seen Unlikely to Be at Large Risk",
+        "description": "Morgan Stanley maintains a long position view on the dollar for now, as it said it “generally take[s] a more skeptical view of USD losing its ‘dominant currency’ crown, though some of the critiques are not unfounded.”",
+        "link": "https://www.wsj.com/articles/nzd-usd-at-risk-of-safe-haven-flows-after-attack-on-israel-eab53c69",
+        "id": "WP-WSJ-0001269262"
+      },
+      {
+        "title": "Schaeffler Makes €3.6 Billion Bid for Vitesco",
+        "description": "Schaeffler has offered €91 a share in cash for Vitesco Technologies, the first of three steps toward a combination of the two companies.",
+        "link": "https://www.wsj.com/articles/schaeffler-makes-3-85-bln-bid-for-vitesco-technologies-4eb5dd07",
+        "id": "WP-WSJ-0001269510"
+      },
+      {
+        "title": "China Evergrande New Energy Vehicle Investor Casts Doubt on Investment",
+        "description": "Ongoing troubles at beleaguered property developer China Evergrande have cast a shadow over Nasdaq-listed NWTN’s investment in its electric-vehicle unit.",
+        "link": "https://www.wsj.com/articles/china-evergrande-new-energy-vehicles-investor-casts-doubt-on-investment-532390f4",
+        "id": "WP-WSJ-0001269300"
+      }
+    ],
+    "date": "2023-10-09"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Germany fair, the forge doth stall,\nAs kin of Vulcan echo fall.\nLike 'gainst the anvil, hammer struck,\nTheir mighty industry runs amuck. \n\nInvestors ponder on coin and stocks,\nWatery fears in money box.\nNeath Fed's cold gaze, their hopes do wane,\nLike sailors 'fore a stormy main. \n\nIT lore-men, skilled in coded word,\nFind the market's gifts absurd.\nIn market's tumult, they find no cheer,\nLike ship without a steersman's steer.",
+    "feedItems": [
+      {
+        "title": "German Industrial Production Falls More Than Expected",
+        "description": "Germany’s industrial output declined 0.2% in August, yet more negative news for the country’s key manufacturing base.",
+        "link": "https://www.wsj.com/articles/german-industrial-production-declined-in-august-lagging-expectations-33c22942",
+        "id": "WP-WSJ-0001269540"
+      },
+      {
+        "title": "Investors worried about the recent pullback in stocks are counting on the coming earnings season to give them something to get excited about amid anxieties over the Fed's attitude to interest rates.",
+        "description": "Investors worried about the recent pullback in stocks are counting on the coming earnings season to give them something to get excited about amid anxieties over the Fed’s attitude to interest rates.",
+        "link": "https://www.wsj.com/finance/stocks/earnings-season-stock-rally-investors-3b166c2a?mod%3Dfinance_lead_pos4",
+        "id": "47C09D05-7585-4045-8FBF-D6B96B6172BC"
+      },
+      {
+        "title": "Amid a strong labor market overall, employment opportunities for information technology professionals appear poor, according to an analysis by Janco Associates, which tracks federal data.",
+        "description": "Amid a strong labor market overall, employment opportunities for information technology professionals appear poor, according to an analysis by Janco Associates, which tracks federal data.",
+        "link": "https://www.wsj.com/lifestyle/careers/if-the-job-market-is-so-great-why-do-i-feel-so-stuck-391bdf11",
+        "id": "B560818F-5964-4CE1-8780-94D067DF633F"
+      }
+    ],
+    "date": "2023-10-09"
+  }
+]
