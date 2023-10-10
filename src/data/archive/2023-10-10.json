@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Base metals slip, akin to goats on a fall,\nDollar strength, a hound that gives a bawl.\nDemand is faint, a rabbit's tentative call,\nGolden safe lowly snail, soon to enthrall.\n\nNatural gas, prancing deer ever strong,\nRises high, with the songbird's dawn song.\nIsrael's supply, where might it belong?\nAnxiety mounts, a discord in the throng.\n\nOil, the dog that has lost its way,\nPares gains while shadows of risk sway.\nIsrael's plight, a mournful day,\nStability sought, in future’s gray fray.",
+    "feedItems": [
+      {
+        "title": "Base Metals Slip Amid Dollar Strength",
+        "description": "Base metals prices pulled back as weak demand and dollar strength pressured industrial goods, while gold was higher as the fighting in Israel and Palestine boosted its safe-haven appeal.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-supported-by-possible-safe-haven-demand-f553952d",
+        "id": "WP-WSJ-0001271839"
+      },
+      {
+        "title": "Natural Gas Continues Rise Over Israel Supply Worries",
+        "description": "Natural gas prices continued pushing higher, rising another 5% on worries over supply in Israel.",
+        "link": "https://www.wsj.com/articles/natural-gas-continues-rise-over-israel-supply-worries-67996709",
+        "id": "WP-WSJ-0001272298"
+      },
+      {
+        "title": "Oil Pares Gains Though Upside Risks Remain",
+        "description": "Oil futures were lower in a likely technical correction after settling more than 4% higher on Monday on worries over the situation in Israel and Palestine.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-in-likely-technical-correction-5ac7eaf4",
+        "id": "WP-WSJ-0001271843"
+      }
+    ],
+    "date": "2023-10-10"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "The Fed speaketh, a tempest may sweep,\nCoin of the realm wavers at their decree,\nFickle winds that sway the deep,\n'Twill be ocean's sway or Admiral's glee.\n\nEurozone bonds, unyielding as stone,\nYet safe sanctuary in tumult's hold.\n'Tis upon Columbus' shores, truths be shown,\nBoth tales of valor and treachery unfold.\n\nBehold Huawei, glowing heart of the East,\nA dragon's demand doth investors entreat.\nIn this robust feast, even as the least,\nAgainst the mainland's decline, they compete.",
+    "feedItems": [
+      {
+        "title": "Fed Speeches Could Send Dollar in Either Direction",
+        "description": "Upcoming speeches by Fed officials on Tuesday could influence the dollar “in one way or the other,” Swissquote Bank said, as the currency started the day marginally higher.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-slightly-amid-falling-treasury-yields-a5727544",
+        "id": "WP-WSJ-0001272014"
+      },
+      {
+        "title": "Eurozone Bond Yields Move Little, Safe Havens Remain Supported",
+        "description": "Eurozone government bond yields were little changed and the risk sentiment picture should become clearer as U.S. markets resume activity after the Columbus Day holiday, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-move-little-safe-havens-remain-supported-19cfa399",
+        "id": "WP-WSJ-0001272272"
+      },
+      {
+        "title": "Huawei Supplier Stocks Jump on Robust Product Demand",
+        "description": "Robust demand for Huawei products is fueling investor interest in the shares of its suppliers, which have bucked declines in the broader mainland Chinese equities market.",
+        "link": "https://www.wsj.com/articles/huawei-supplier-stocks-jump-on-robust-product-demand-db81556f",
+        "id": "WP-WSJ-0001272244"
+      }
+    ],
+    "date": "2023-10-10"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Growth of sales, not steep, in U.K.'s retail halls,\nBy but 2.7 it did ascend, in the Autumn's cool squall.\nDespite inflation's meek retreat, still the coinage falls,\nUnder pressure, households meet, the high living's toll.\n\nThen rose the oil from Earth's depths, and stocks of war did climb,\nAfter Israel suffered death, in its hardest time.\nIn these tremors that upset, the markets yet did shine,\nS&P, Nasdaq, Dow, no plunging bells did chime.\n\nLast, speaks the Chief of CNN, to his scribes across the land,\nOur game must shift, and then again, for 'tis digital that stands.\nThe old TV, once our friend, can now no more command,\nFalse equivalence, balance's end, distractions we must disband.",
+    "feedItems": [
+      {
+        "title": "U.K. Retail Sales Growth Slows",
+        "description": "U.K. retail sales for the five weeks to September 30 increased by 2.7%, slowing from the previous month, despite a drop in inflation, as the high cost of living continued to pressure households’ budgets.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-slow-in-september-as-consumers-avoid-big-ticket-purchases-brc-says-c5f7a037",
+        "id": "WP-WSJ-0001272250"
+      },
+      {
+        "title": "Oil prices and defense stocks climbed after the worst attack on Israel in decades shook financial markets. Major indexes rose, with the S&P 500 and Dow both gaining 0.6% and the Nasdaq adding 0.4%.",
+        "description": "Oil prices and defense stocks climbed after the worst attack on Israel in decades shook financial markets. Major indexes rose, with the S&P 500 and Dow both gaining 0.6% and the Nasdaq adding 0.4%.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-09-2023-60aacfcd",
+        "id": "7193395C-F008-41E9-8766-C926086084E2"
+      },
+      {
+        "title": "CNN Chief Executive Mark Thompson told staff that the network needs to step up its digital game, saying conventional TV \"can no longer define us,\" and that its journalists shouldn't be distracted by debates about balance or false equivalency.",
+        "description": "CNN Chief Executive Mark Thompson told staff that the network needs to step up its digital game, saying conventional TV “can no longer define us,” and that its journalists shouldn’t be distracted by debates about balance or false equivalency.",
+        "link": "https://www.wsj.com/business/media/cnn-boss-mark-thompson-to-staff-network-is-nowhere-near-ready-for-the-future-8c61c450?mod%3Dhp_lead_pos6",
+        "id": "82C6483F-E91C-4E26-AEAA-EF986C662466"
+      }
+    ],
+    "date": "2023-10-10"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From wagon's wheel to smithy's forge, hear ye this tale dire,\nFour-thousand guilded workers, in arms, they do retire.\nOn Mack’s own truck they turned their back, contract refused in ire,\nMuch like the ale, when turned too stale, fails to inspire.\n\nIn yonder East, a garden vast, known well for its gold bloom,\nNow struggles in the waning light, in debt and facing doom.\nShares tumbled like the autumn leaves, in silence of the room,\nAle's head froths high, then falls to nigh, presaging an impending gloom.\n\nIn the realm where dragons dwell, a curious tale unfolds,\nThe people's coin clings tight to palm, no splendor it beholds.\nHouses stand, unsought, unplanned, the market's warmth waned cold,\n'Tis like the wine, when past his prime, a story told and retold.",
+    "feedItems": [
+      {
+        "title": "Nearly 4,000 members of the United Auto Workers went on strike at Volvo Group's Mack Trucks unit after rejecting a five-year contract proposal.",
+        "description": "Nearly 4,000 members of the United Auto Workers went on strike at Volvo Group’s Mack Trucks unit after rejecting a five-year contract proposal.",
+        "link": "https://www.wsj.com/business/autos/uaw-goes-on-strike-at-volvos-mack-trucks-unit-f51781ad?mod%3DSearchresults_pos1%26page%3D1",
+        "id": "E8F5FEB4-0346-49F4-B900-EF30B90ED740"
+      },
+      {
+        "title": "Country Garden failed to make an international debt payment after the Chinese developer's apartment shares plunged in September, succumbing to a liquidity crisis that worsened over the past few months.",
+        "description": "Country Garden failed to make an international debt payment after the Chinese developer’s apartment shares plunged in September, succumbing to a liquidity crisis that worsened over the past few months.",
+        "link": "https://www.wsj.com/finance/chinas-country-garden-succumbs-to-debt-crisis-after-sales-drop-84c85a79?mod%3Dhp_lead_pos1",
+        "id": "CBFCB7C8-2DB2-414C-ABCC-523AA701064D"
+      },
+      {
+        "title": "Chinese consumers spent and traveled less during the eight-day holiday that ended Friday than the government had projected, figures showed, while home sales in key cities were weaker than last year.",
+        "description": "Chinese consumers spent and traveled less during the eight-day holiday that ended Friday than the government had projected, figures showed, while home sales in key cities were weaker than last year.",
+        "link": "https://www.wsj.com/world/china/chinas-economic-gloom-takes-shine-off-its-golden-week-1a4e7cf5",
+        "id": "56744CBD-4684-47D8-AAB3-B09879FA92B5"
+      }
+    ],
+    "date": "2023-10-10"
+  }
+]
