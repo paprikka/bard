@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From China's grasp, a quill's set free,\nCheng Lei, her name, that flies o'er sea.\nLike rabbit from the snare's confines,\nIn Australia's arms, now she shines.\n\nLi Changjiang, like a goat's retreat,\nFrom Garden's thorny seat he beat.\nIn China's field of stones and moor,\nResigned his post 'midst tumult's roar.\n\nOil, like a hound, does sniff the air,\nIts price swings with the Israel's affair.\nLike snail's slow trail in morning's dew,\nAll eyes watch where this path runs to.",
+    "feedItems": [
+      {
+        "title": "China Releases Australian Journalist Detained on Suspicion of Disclosing State Secrets",
+        "description": "The release of Cheng Lei, who had been detained for more than three years, removes a key irritant in a tense relationship between the two countries.",
+        "link": "https://www.wsj.com/articles/china-releases-australian-journalist-detained-on-suspicion-of-disclosing-state-secrets-b1c6a145",
+        "id": "WP-WSJ-0001274886"
+      },
+      {
+        "title": "Country Garden Services' President Resigns",
+        "description": "Country Garden Services Holdings’ Li Changjiang has resigned as its president, executive director and authorized representative amid an escalating crisis in China’s property sector.",
+        "link": "https://www.wsj.com/articles/country-garden-services-president-resigns-e3d0f20f",
+        "id": "WP-WSJ-0001274858"
+      },
+      {
+        "title": "Oil Prices Tick Higher on Concerns Over Israel Conflict",
+        "description": "Oil prices ticked higher, putting prices broadly where they were from the rally at the start of the week, as worries that the situation in Israel could spill over into other countries supported markets.",
+        "link": "https://www.wsj.com/articles/oil-prices-mixed-supply-concerns-likely-to-support-6c51f5ed",
+        "id": "WP-WSJ-0001274316"
+      }
+    ],
+    "date": "2023-10-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Gold and metal prices climb, quite a sight,\nAs the dollar weakens in the morning light,\n'Tis an ale that's foam, tumbles and rise,\nA tale of fortune, with surprises nigh.\n\nThe dollar wilted, hath created a rift,\nBut from Fed's parchment, may find a lift,\nLike a brew, too hot, cools with time,\nSo might the greenback with fresh design.\n\n\"What is Hamas?\", the query began,\nThat troublemakers, stirring the pan,\nLike a potent potion, brewed in the night,\nThey’ve upset the peace, causing much fright.",
+    "feedItems": [
+      {
+        "title": "Metals Rise as Dollar Eases",
+        "description": "Base metals and gold prices were higher in early London trading, with a falling dollar helping support commodities backed by the greenback.",
+        "link": "https://www.wsj.com/articles/gold-steady-underpinned-by-likely-safe-haven-demand-f235604e",
+        "id": "WP-WSJ-0001274311"
+      },
+      {
+        "title": "Dollar Could Get a Lift From Fed Minutes, Inflation Data",
+        "description": "The dollar has sagged after recent comments from Fed officials suggesting that rates are unlikely to rise further, but it might get a lift when Fed minutes are released, as well as inflation data on Thursday, XS.com said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-on-largely-lower-treasury-yields-e5f5d93d",
+        "id": "WP-WSJ-0001274309"
+      },
+      {
+        "title": "What Is Hamas? What to Know About the Militant Group Fighting Israel",
+        "description": "Hamas upended the stability of the entire Middle East when its fighters surged into Israel from the Gaza Strip. What exactly are its objectives?",
+        "link": "https://www.wsj.com/articles/hamas-militant-group-palestine-israel-attack-58738d3f",
+        "id": "WP-WSJ-0001272453"
+      }
+    ],
+    "date": "2023-10-11"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the hall of Bang & Olufsen, the sound doth ring,\nA quarter's rising tide lends the crafters wing,\nMore precious gear their golden hammers toil,\nWhile serpent costs their efforts cease to foil.\n\nA tempest calms 'neath Germany's steadfast keep,\nPrice-hound's growth is stalled, in slumber deep.\nSince Ukraine conflicts did their fearful start,\nThe ECB may lift its heavy heart.\n\nTo test the depths of extra-long debt's sea,\nGermany casts her nets with cunning glee,\n'Spite recent storms that whipped the yield-swept tide,\nDemand's true strength she seeks, eyes open wide.",
+    "feedItems": [
+      {
+        "title": "Bang & Olufsen Backs Views After Earnings Beat Hopes",
+        "description": "Bang & Olufsen posted better-than-expected first-quarter earnings as profits benefited from price increases and the sale of more higher-margin products, while supply-chain and logistic costs normalized.",
+        "link": "https://www.wsj.com/articles/bang-olufsen-backs-guidance-after-1q-earnings-beat-hopes-e8625ceb",
+        "id": "WP-WSJ-0001274909"
+      },
+      {
+        "title": "German Inflation Drops to Lowest Level Since Start of Ukraine War",
+        "description": "German consumer prices were 4.5% higher in September, confirming prior estimates and hitting its lowest rate since the outbreak of the war in Ukraine, a level the ECB could consider enough to end its current hiking cycle.",
+        "link": "https://www.wsj.com/articles/german-inflation-in-september-sank-to-lowest-rate-since-ukraine-war-start-confirming-prior-estimates-567e8c42",
+        "id": "WP-WSJ-0001274888"
+      },
+      {
+        "title": "German Bund Auction a Test of Demand for Cheap Extra-Long Debt",
+        "description": "Germany’s €2.5 billion auction of 2048- and 2052-dated Bunds will be an opportunity to gauge demand for ultra-long debt after a recent rise in yields in this segment, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/german-bund-auction-a-test-of-demand-for-cheap-extra-long-debt-e6b9d4d9",
+        "id": "WP-WSJ-0001274901"
+      }
+    ],
+    "date": "2023-10-11"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On Nikkei's swift rise, twas a sight to behold,\nAutos and chip stocks, with weight like pure gold.\nA gain of point six, a step towards the old,\nDespite financial loss and shipping grown cold.\n\nWhen joy turned to sorrow, at a festival fair,\nThe lyre and lute silenced, by a sudden despair.\nHamas from the shadows, did fraught become flare,\nIn Israel's heartland, a tragedy's snare.\n\nBehold IMAX China, with a fate now revolved,\nA buyout proposal, by many dissolved.\nListed shall remain, in Hong Kong evolved,\nA market play of millions, still unresolved.",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 0.6%, Led by Auto, Chip Stocks",
+        "description": "The Nikkei Stock Average ended 0.6% higher at 31936.51 as gains in auto and chip stocks helped offset losses in financial and shipping shares.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-higher-open-349286cf",
+        "id": "WP-WSJ-0001274123"
+      },
+      {
+        "title": "How Hamas Turned an Israeli Music Festival Into a Massacre",
+        "description": "A festival in southern Israel became one of the deadliest sites of Hamas’s surprise attack on Israel, with more than 250 casualties. We break down how the attack unfolded.",
+        "link": "https://www.wsj.com/articles/how-hamas-turned-an-israeli-music-festival-into-a-massacre-f98f88db",
+        "id": "SB11977927827840694574404590266222723208454"
+      },
+      {
+        "title": "IMAX China Falls After Buyout Is Voted Down",
+        "description": "IMAX China Holding shares were volatile after shareholders rejected a $124 million buyout proposal, ensuring shares will remain listed in Hong Kong.",
+        "link": "https://www.wsj.com/articles/imax-china-falls-after-buyout-is-voted-down-847abff3",
+        "id": "WP-WSJ-0001274845"
+      }
+    ],
+    "date": "2023-10-11"
+  }
+]
