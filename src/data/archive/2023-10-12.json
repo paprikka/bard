@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In distant Malaysia's verdant land, the bard of tales doth sing,\nOf TikTok's dance with law's command, a puppet on a string.\n'Tis not enough to play in tune, the minister critic,\nDefame and deceive, under the moon, needs further hieroglyphic.\n\nThe jingle of the sterling fair, in Kingdoms old and grand,\nShakes not the market's deep despair, in line with demand.\nThe bear and bull in courtyards play, in high stance they endure,\nNo silver song to sway the day, no certainty secure.\n\nFrom Gaza's strife, a tale unwinds, of Hamas, fierce and bold,\nTheir purpose hidden in their minds, in hushed whispers, told.\nThey rush from shadows, sphere of throes, unrest and turmoil reel,\nIn braided verse and brooding prose, their sonnet of ordeal.",
+    "feedItems": [
+      {
+        "title": "Malaysia Says TikTok Not in Full Compliance With Its Laws",
+        "description": "China-owned social-media platform TikTok isn’t in full compliance with Malaysian laws and needs to do more to curb the spread of defamatory and misleading content in the country, a Malaysian minister said.",
+        "link": "https://www.wsj.com/articles/malaysia-says-tiktok-not-in-full-compliance-with-its-laws-830b4ba1",
+        "id": "WP-WSJ-0001277900"
+      },
+      {
+        "title": "Sterling Little Moved After UK GDP Data",
+        "description": "Sterling was little changed after the latest GDP data was in line with consensus, with Monex Europe saying the reading “is unlikely to encourage a change of stance from the BOE, with policymakers having recently paused their hiking cycle signalling a high-for-longer stance.”",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-u-s-cpi-data-852e6093",
+        "id": "WP-WSJ-0001277251"
+      },
+      {
+        "title": "What Is Hamas? What to Know About the Militant Group Fighting Israel",
+        "description": "Hamas upended the stability of the entire Middle East when its fighters surged into Israel from the Gaza Strip. What exactly are its objectives?",
+        "link": "https://www.wsj.com/articles/hamas-militant-group-palestine-israel-attack-58738d3f",
+        "id": "WP-WSJ-0001272453"
+      }
+    ],
+    "date": "2023-10-12"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear ye now, of EasyJet's plight,\nA Viking vessel in tempestuous night.\nPredicted yield falls short of mark,\nYet spark of hope flickers in the dark.\nAs fourth-quarter harvests do arise,\nThey pledge to honour dividend ties.\n\nNext, the tale of Seven & i,\nIts treasure scant 'neath foreign sky.\n7-Eleven stores in alien lands,\nHold less than promised golden sands.\nAnd department store, now ceded ground,\nFurthers the net worth’s downward bound.\n\nTo the land of the Teutons, our saga moves,\nWhere Bunds hold strong as Odin approves.\nThough inflation mounts in lands far west,\nAnd the oil-flame weakens at its best,\nIn the face of risks that yield dismay,\nThey, like the sturdy ash, do stay.",
+    "feedItems": [
+      {
+        "title": "EasyJet Warns of Profit Miss",
+        "description": "EasyJet said it expected to report a headline pretax profit for fiscal 2023 of £440-460 million, missing consensus, but said it would reinstate dividends after fourth-quarter profit rose.",
+        "link": "https://www.wsj.com/articles/easyjet-to-reinstate-dividends-after-4q-pretax-profit-increase-e6a5e492",
+        "id": "WP-WSJ-0001277840"
+      },
+      {
+        "title": "7-Eleven Owner's First-Half Profit Falls on Weak Overseas Business",
+        "description": "Seven & i Holdings said its first-half net profit fell due to weakness in its 7-Eleven convenience stores overseas and losses related to the sale of its department-store business.",
+        "link": "https://www.wsj.com/articles/7-eleven-owners-first-half-profit-drops-as-overseas-business-weighs-4087d760",
+        "id": "WP-WSJ-0001277836"
+      },
+      {
+        "title": "German Bunds Remain Supported Amid Geopolitical Risks",
+        "description": "While U.S. CPI data should underscore that inflation is still noticeably above target, weaker oil, flows and geopolitical risks keep Bunds supported, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/bonds-with-good-credit-rating-seen-as-cornerstones-of-multi-asset-portfolios-85a4e58f",
+        "id": "WP-WSJ-0001277804"
+      }
+    ],
+    "date": "2023-10-12"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Ye Uniqlo shops leap up so high,\nWith profits reaching to the sky.\nBless'd be their worldly fabric tail,\nIn their sales, they never fail.\n\nIn realm of UK, growth's observed,\nEconomy by service served.\nFavour turned by His hand to glean,\nA modest growth, at point two glean.\n\nAlas, Givaudan's sales do wane,\nTheir balance hath suffered strain.\nBut fear not, for they've a plan,\nPrice increases 'cross all the land.",
+    "feedItems": [
+      {
+        "title": "Uniqlo Owner's Profit Rises to Record High",
+        "description": "Fast Retailing said fiscal-year net profit climbed to a record high thanks to stronger sales at its Uniqlo outlets globally.",
+        "link": "https://www.wsj.com/articles/uniqlo-owners-fiscal-year-profit-rises-to-record-high-boosted-by-global-sales-930a8384",
+        "id": "WP-WSJ-0001277510"
+      },
+      {
+        "title": "U.K. Economy Returns to Growth as Expected",
+        "description": "The U.K.’s GDP rose 0.2% in August, in line with forecasts, driven by output in the services sector.",
+        "link": "https://www.wsj.com/articles/uk-economy-expanded-in-august-on-services-sector-rebound-2f50ed74",
+        "id": "WP-WSJ-0001277791"
+      },
+      {
+        "title": "Givaudan Ups Prices Further as Sales Pressured",
+        "description": "Givaudan reported a decline in sales to CHF1.7 billion in the third quarter, and said it continued to implement price increases to offset higher costs.",
+        "link": "https://www.wsj.com/articles/givaudan-continues-to-increase-prices-after-posting-lower-3q-sales-ae89b64c",
+        "id": "WP-WSJ-0001277834"
+      }
+    ],
+    "date": "2023-10-12"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Publicis we find a goat, robust the yield, a hopeful note,\nOn backdrop rough, it sparing trots, gains made in market's savage lots.\n\nNext springs the hare, the Nikkei's flight,\nAt dawn it stirs, gains in its sight,\nWith Fed's pause nigh, it leaps with delight,\nClosing the day at a lofty height.\n\nAt last the snail, the acting kin,\nIn silence held where talks begin,\nHopes of work are thin and sparse,\nIn Hollywood, under starry guise.",
+    "feedItems": [
+      {
+        "title": "Publicis Upgrades Outlook as Sales Top Hopes",
+        "description": "Publicis raised its guidance for the second time this year after third-quarter organic revenue growth beat expectations, saying market-share gains allowed it to offset a challenging economic backdrop.",
+        "link": "https://www.wsj.com/articles/publicis-raises-guidance-again-after-organic-growth-beats-expectations-6a86074d",
+        "id": "WP-WSJ-0001277757"
+      },
+      {
+        "title": "Nikkei Rises 1.75% on Rising Prospects for a Fed Pause",
+        "description": "Japan’s Nikkei Stock Average rose 1.75% to close at 32494.66 on rising prospects for a Fed pause.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-edge-higher-at-the-open-5cdaa150",
+        "id": "WP-WSJ-0001277190"
+      },
+      {
+        "title": "Hollywood Studios Suspend Talks With Actors",
+        "description": "The breakdown of negotiations after less than two weeks dampens hopes that the industry could soon return to work.",
+        "link": "https://www.wsj.com/articles/hollywood-studios-suspend-talks-with-actors-5fdda1d6",
+        "id": "WP-WSJ-0001277773"
+      }
+    ],
+    "date": "2023-10-12"
+  }
+]
