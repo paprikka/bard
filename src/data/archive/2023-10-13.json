@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the land of dragons, a grim deed unwinds,\nNought could halt, the repatriate's bind,\nLament for the souls, to cruel reign confined,\nIn Jong Un's realm, naught but hardship they find.\n\nTrading goats to snails, in sorrow's cascade,\nSartorius' fortune, a swift downgrade,\nIn markets fickle, even brightest shade,\nSeventeen percent, the toll that is paid.\n\nOil, it stirs, alarmed rabbit in chase,\nMidst desert sands, wolves bear a stern face,\nIn the Holy Land, peace further misplace,\nEscalating woes in Middle East's space.",
+    "feedItems": [
+      {
+        "title": "China Appears to Have Repatriated North Koreans Despite International Pressure",
+        "description": "Hundreds are believed to have been forcibly sent back to the Kim Jong Un regime, where they likely face imprisonment and abuse, experts say.",
+        "link": "https://www.wsj.com/articles/china-appears-to-have-repatriated-north-koreans-despite-international-pressure-3b0e99df",
+        "id": "WP-WSJ-0001281241"
+      },
+      {
+        "title": "Sartorius Cuts 2023 Guidance",
+        "description": "Sartorius shares plunged after it downgraded its 2023 outlook, now expecting sales to fall around 17%, and after it reported lower preliminary figures for sales and earnings in the first nine months.",
+        "link": "https://www.wsj.com/articles/sartorius-cuts-2023-guidance-on-lower-preliminary-sales-results-892a9ba6",
+        "id": "WP-WSJ-0001281272"
+      },
+      {
+        "title": "Oil Inches Higher On Concerns Middle East Tensions Could Escalate",
+        "description": "Oil furures rose close to 2% as worries mount that the conflict in Israel and Gaza could spill over into the wider region.",
+        "link": "https://www.wsj.com/articles/oil-inches-higher-on-concerns-middle-east-tensions-could-escalate-6724fa8a",
+        "id": "WP-WSJ-0001281270"
+      }
+    ],
+    "date": "2023-10-13"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the wares of wealth, a storm dost unfold,\nValiant bond-market, its tale in turmoil told.\nEconomic runes reveal the coming night,\nVolatility's dance in the sagas of monetary might.\n\nIn the East, where the sun on yonder shore breaks,\nLion city's bank, no change in policy makes.\nStanding stalwart 'gainst the tempest's capricious song,\nWinds of change blow, yet there their path belongs not long.\n\nIn the Western realm, a pact receives the raven's blessing,\nUnder Odin's all-seeing gaze, none contest Microsoft's pressing.\nA mighty giant, Activision, 'neath their banner now shall stand,\nFor seventy-five billion in gold, ownership changes hand.",
+    "feedItems": [
+      {
+        "title": "Bond-Market Volatility Likely to Persist in Coming Weeks",
+        "description": "Bond-market volatility is expected to remain in the coming weeks as investors digest the latest economic data and try to gauge monetary-policy direction, Generali Insurance Asset Management said.",
+        "link": "https://www.wsj.com/articles/btp-bund-spread-at-200bps-argues-for-neutral-stance-commerzbank-says-a8770cb6",
+        "id": "WP-WSJ-0001281213"
+      },
+      {
+        "title": "Singapore Central Bank Keeps Monetary Policy Unchanged",
+        "description": "The Monetary Authority of Singapore left its monetary policy unchanged in a widely expected move.",
+        "link": "https://www.wsj.com/articles/singapore-central-bank-keeps-monetary-policy-unchanged-as-expected-68f38913",
+        "id": "WP-WSJ-0001280543"
+      },
+      {
+        "title": "Microsoft's Activision Deal Gets U.K. Green Light",
+        "description": "Microsoft’s acquisition of Activision Blizzard won approval from the U.K.’s Competition and Markets Authority, clearing a path for the companies to close the $75 billion deal after a lengthy struggle with regulators.",
+        "link": "https://www.wsj.com/articles/microsofts-activision-deal-gets-green-light-from-uk-regulator-8ce659cb",
+        "id": "WP-WSJ-0001281191"
+      }
+    ],
+    "date": "2023-10-13"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Lo! Microsoft, the giant, does find grace,\nForsooth, the U.K. hath given it space.\nA deal worth billions, a struggle long,\nIn wine-that-soothes, they now belong.\n\nAh, Nikkei doth fall, a wistful turn,\nTech and Pharma, in beer they mourn.\nTheir stocks descend, like ale into a tun,\nEnforced by the tightening of the Fed's spun.\n\nMixed doth metals stand, unsure, unfound,\nGold ascends whilst others go 'round.\nAs Metal's Week closes its uncertain squint,\nLet's all drowned our fears in Saint Arnold's mint.",
+    "feedItems": [
+      {
+        "title": "Microsoft's Activision Deal Gets Green Light From U.K. Regulator",
+        "description": "The decision clears a path for the companies to close the $75 billion deal after a lengthy struggle with regulators.",
+        "link": "https://www.wsj.com/articles/microsofts-activision-deal-gets-green-light-from-u-k-regulator-95fd688a",
+        "id": "WP-WSJ-0001281181"
+      },
+      {
+        "title": "Nikkei Falls 0.5%, Dragged by Tech, Pharma Stocks",
+        "description": "Japanese stocks ended broadly lower, dragged by sharp falls in tech and pharmaceutical stocks, as concerns about the scope of the Fed’s tightening resurfaced.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-point-to-lower-open-dc9f9d69",
+        "id": "WP-WSJ-0001280493"
+      },
+      {
+        "title": "Metals Mixed as Investors Remain Uncertain",
+        "description": "Base metals were mixed, with gold higher and as Metals Week draws to a close, analysts said the market outlook remained uncertain.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-amid-mild-usd-weakness-76857c4b",
+        "id": "WP-WSJ-0001280557"
+      }
+    ],
+    "date": "2023-10-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Against the land of Abraham came the Hamas’ wrath,\nWith Persia’s help, their deadly path becomes a ghastly math.\nYet the peace promised remains a mere fable,\nWhen Tehran stirs the pot on the Middle East’s table.\n\nIn the East where the dragon’s breath ignites,\nTherein lies an imbalance of financial frights.\nThose who lent their coin to indebted towns,\nMay soon see their fortune wearing frowns.\n\nThe Federal reserve, it recklessly treads,\nListening to the markets, through which folly spreads.\nThought to raise rates, yet it does resist,\nTis' a theory that merits a skeptic's list.",
+    "feedItems": [
+      {
+        "title": "Hamas Attack on Israel Defies Efforts to Neutralize Iran",
+        "description": "The invasion by the Palestinian militants with the help of Iran revealed Tehran’s resurgent influence in the Middle East.",
+        "link": "https://www.wsj.com/articles/hamas-attack-on-israel-defies-efforts-to-neutralize-iran-92e447cd",
+        "id": "WP-WSJ-0001279243"
+      },
+      {
+        "title": "China's Teetering Local Debt Mountain, in Six Charts",
+        "description": "After a decade of kicking the can down the road, the problem has become impossible to ignore. Beijing might soon have no choice but to bail out cities and provinces.",
+        "link": "https://www.wsj.com/articles/chinas-teetering-local-debt-mountain-in-six-charts-d050700f",
+        "id": "WP-WSJ-0001278204"
+      },
+      {
+        "title": "The Fed Is Putting Too Much Faith in Markets",
+        "description": "The Fed has a new theory—the bond market is doing its job for it, so it can sit back rather than raise rates again this year—but the theory deserves a closer look.",
+        "link": "https://www.wsj.com/articles/the-fed-is-putting-too-much-faith-in-markets-69a4f841",
+        "id": "WP-WSJ-0001279951"
+      }
+    ],
+    "date": "2023-10-13"
+  }
+]
