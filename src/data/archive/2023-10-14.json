@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the house of governance, a furor wild,\n'midst wars new and old, the leader's child,\nArguing like tavern drunks, vision defiled,\nTo heavenly aid, our woes are thus compiled.\n\nVexed by turmoil in the East, a delicate fate,\nRises the cost of oil's weight,\nIf the U.S. doth falter, 'tis a sorry state,\nThe ale of economy turns bitter, sealing our gate.\n\nCEO of Exxon, Darren the steadfast,\nIn oil he trusts, his lot he's cast,\nFrom doubters' chins, the ale is dashed,\nTo him, a mighty feast at last!",
+    "feedItems": [
+      {
+        "title": "House Can't Respond to World Crises as GOP Speaker Fight Rages On",
+        "description": "With a new war in the Mideast, a continuing one in Europe and government funding due to expire soon, Republicans bickered with no end in sight.",
+        "link": "https://www.wsj.com/articles/house-cant-respond-to-world-crises-as-gop-speaker-fight-rages-on-52014889",
+        "id": "WP-WSJ-0001283922"
+      },
+      {
+        "title": "A Soft Landing in the U.S. Could Be Hard for Everyone Else",
+        "description": "Conflict in the Middle East, surging global interest rates and elevated oil prices threaten a fragile recovery.",
+        "link": "https://www.wsj.com/articles/a-soft-landing-in-the-u-s-could-be-hard-for-everyone-else-1db44fca",
+        "id": "WP-WSJ-0001281871"
+      },
+      {
+        "title": "Exxon CEO's $60 Billion Vindication",
+        "description": "Darren Woods didn’t waver in his full-throttled belief in oil. Now his one-time doubters back his $60 billion deal for shale giant Pioneer.",
+        "link": "https://www.wsj.com/articles/darren-woods-exxon-ceo-c35c476a",
+        "id": "WP-WSJ-0001282047"
+      }
+    ],
+    "date": "2023-10-14"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands afar across the sea, where stars and stripes do wave,\nA threat of dark intent doth loom, a chilling spectre grave.\nSays congress to expand might's throne, to dragon and to bear,\nWith atom's fire, let foes beware, for America doth dare.\n\nFrom China's hold, in silent night, the North Korean throng,\nRepatriated in their land, this act perceived as wrong.\nDespite world's plea and bated breath, harsh fates await the poor,\nIn Kim's dominion, fear is king, a cruel evermore.\n\nFair Kaiser Permanente, to workers fair and just,\nDoth proffer gain in golden wage, a move that earns their trust.\nIncreased investment in their flock, a soothing balm to strife,\nIn health's domain, such progress reigns, enhancing precious life.",
+    "feedItems": [
+      {
+        "title": "The U.S. must prepare to expand its nuclear forces in the years ahead to deter the twin threats from China and Russia, a congressionally appointed commission said.",
+        "description": "The U.S. must prepare to expand its nuclear forces in the years ahead to deter the twin threats from China and Russia, a congressionally appointed commission said.",
+        "link": "https://www.wsj.com/politics/national-security/u-s-should-prepare-to-expand-its-nuclear-forces-expert-panel-says-3e7b8f42",
+        "id": "21022F62-9E6D-48A4-9C2D-1C3C1FDE672E"
+      },
+      {
+        "title": "China appeared to have repatriated a large number of North Koreans this week, despite international pressure given the harsh punishment the returnees likely face back in the Kim Jong Un regime.",
+        "description": "China appeared to have repatriated a large number of North Koreans this week, despite international pressure given the harsh punishment the returnees likely face back in the Kim Jong Un regime.",
+        "link": "https://www.wsj.com/world/asia/china-appears-to-have-repatriated-north-koreans-despite-international-pressure-3b0e99df",
+        "id": "1C3C7BDD-1A26-41E7-A14B-9B167E6FDA08"
+      },
+      {
+        "title": "The Kaiser Permanente health system reached a tentative agreement with unions that would raise wages and increase investment in staffing.",
+        "description": "The Kaiser Permanente health system reached a tentative agreement with unions that would raise wages and increase investment in staffing.",
+        "link": "https://www.wsj.com/health/healthcare/kaiser-permanente-unions-reach-deal-on-new-contracts-b2e8e999",
+        "id": "2A4A34FD-6104-46E9-8C24-4EAF964974DF"
+      }
+    ],
+    "date": "2023-10-14"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Gaza, folk brace as hounds snarl and bay,\nAs homes, dense as hares in thicket, now play\nThe part of shells for the swift snail's retreat,\nWhere goats once grazed, only uncertainty lays.\n\nIn the House, a dog named Jordan holds sway,\nBut his path, like a rabbit's, might lead him astray.\nWill he follow the fate of the silent Scalise?\nOr trumpet a victory at the end of the day?\n\nIn the land of engines, a strike stays at bay,\nFor two days, the hounds had their unruly play.\nUAW, the shepherd, spares GM's fold,\nWhile Ford's once profitable plant resumes its display.",
+    "feedItems": [
+      {
+        "title": "Residents of Gaza were bracing for a lengthy assault by the Israeli military, which demanded a mass evacuation of some of the territory's most densely populated neighborhoods.",
+        "description": "Residents of Gaza were bracing for a lengthy assault by the Israeli military, which demanded a mass evacuation of some of the territory’s most densely populated neighborhoods.",
+        "link": "https://www.wsj.com/world/middle-east/u-n-urges-israel-to-rescind-gaza-evacuation-order-81d2947",
+        "id": "C98D0D02-4C69-4D7B-8139-988069EF7A45"
+      },
+      {
+        "title": "House Republicans chose Jim Jordan as their nominee for speaker, but it remained uncertainwhether the ally of Trumpcould avoid the fate of Steve Scalise.",
+        "description": "House Republicans chose Jim Jordan as their nominee for speaker, but it remained uncertain whether the ally of Trump could avoid the fate of Steve Scalise.",
+        "link": "https://www.wsj.com/politics/house-republicans-pursue-new-speaker-plans-after-steve-scalise-exits-race-8ec48b57",
+        "id": "E1107897-00EF-4A35-A0D3-5B7A1C278C9D"
+      },
+      {
+        "title": "UAW spared GM and Stellantis from a strike escalation Friday, two days after a surprise walkout at one of Ford's most profitable plants.",
+        "description": "UAW spared GM and Stellantis from a strike escalation Friday, two days after a surprise walkout at one of Ford’s most profitable plants.",
+        "link": "https://www.wsj.com/business/autos/uaw-spares-stellantis-further-strikes-but-says-more-could-come-993e323c",
+        "id": "80C75924-732D-4D78-91C4-7B57277F7FBD"
+      }
+    ],
+    "date": "2023-10-14"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of the eager clicking quill, Microsoft's throne grows sturdy,\nWith a treasure of billion-and-seventy-five, Activision claimed in its glory. \nLo! The saga engraves itself in the rune-stone of ages,\nOdin marvels at this union, in the scroll of half-century pages. \n\nWhere conflict roars fierce, 'neath the sand-lashed sky,\nDoth the stock-steeds of Nasdaq and S&P wearily sigh.\nYet 'gainst the storm, sturdy stands Dow, resistant to bleed, \nSafe-havens sought by traders, amid the Mid-East's dire need.\n\nAlas! The raven's cry echoes, bearing grim news from Israel's land,\nThirteen hundred souls taken by Hamas' ruthless hand.\nRound the world, the Jewish kin finds no peace in their strife,\nAn edge of sorrow cuts deep, threatening each precious life.",
+    "feedItems": [
+      {
+        "title": "Microsoft closed its $75 billion acquisition of Activision, the biggest deal in the software company's nearly 50-year history.",
+        "description": "Microsoft closed its $75 billion acquisition of Activision, the biggest deal in the software company’s nearly 50-year history.",
+        "link": "https://www.wsj.com/tech/microsofts-activision-deal-gets-green-light-from-u-k-regulator-95fd688a",
+        "id": "A55E6CCD-E6DF-4566-ABBB-32370450C2B2"
+      },
+      {
+        "title": "The threat of broader conflict in the Middle East drove investors to safe-haven assets Friday. The tech-heavy Nasdaq and the S&P 500 shed 1.2% and 0.5%, respectively, while the Dow added 0.1%.",
+        "description": "The threat of broader conflict in the Middle East drove investors to safe-haven assets Friday. The tech-heavy Nasdaq and the S&P 500 shed 1.2% and 0.5%, respectively, while the Dow added 0.1%.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-13-2023-e93fb394",
+        "id": "2849B915-C53E-4888-B638-5D84927E0D4D"
+      },
+      {
+        "title": "The Hamas attack that killed at least 1,300 people in Israel has left Jewish communities around the world on edge, as Jews confront rising vitriol, threats and violence.",
+        "description": "The Hamas attack that killed at least 1,300 people in Israel has left Jewish communities around the world on edge, as Jews confront rising vitriol, threats and violence.",
+        "link": "https://www.wsj.com/us-news/jews-fear-rising-threats-weve-seen-this-film-43670e20",
+        "id": "2E495FAF-29EA-423F-A8D3-58201AB223ED"
+      }
+    ],
+    "date": "2023-10-14"
+  }
+]
