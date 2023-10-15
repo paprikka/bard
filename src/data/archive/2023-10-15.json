@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Poland there commences a vote,\nTo choose the leader of men of note.\nFor Ukraine they pled, debate turning red,\nThe wine of democracy, from the cask is outpoured, good'n'noble folk.\n\nNow Russia and Israel, a delicate dance,\nShattered by Hamas' truculent stance.\nTheir kinship dost wane, in the Ukrainian plane,\nAs the ale of discord tasks each with a curious prance.\n\nRejoice, economists do, the U.S. remains bold,\nThe chalice of prosperity they confidently hold.\nNo more the dread recession's ghost,\nInflation's sting too hath lost most,\nJust like the wine that grows better when old.",
+    "feedItems": [
+      {
+        "title": "Poles Are Voting in What Could Be Europe's Biggest Election This Year",
+        "description": "Support for Ukraine has emerged as a core campaign issue, with an upstart party driving the debate to the right.",
+        "link": "https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9",
+        "id": "WP-WSJ-0001284786"
+      },
+      {
+        "title": "Hamas Attack Ends a Delicate Entente Between Russia and Israel",
+        "description": "The development highlights a tectonic shift in Russia’s role in the Middle East since Putin launched his war in Ukraine.",
+        "link": "https://www.wsj.com/articles/hamas-attack-ends-a-delicate-entente-between-russia-and-israel-b5745a20",
+        "id": "WP-WSJ-0001278911"
+      },
+      {
+        "title": "A Recession Is No Longer the Consensus",
+        "description": "Economists are turning optimistic on the U.S. economy. They think the Fed is done raising interest rates and inflation will continue to ease.",
+        "link": "https://www.wsj.com/articles/a-recession-is-no-longer-the-consensus-3ad0c3a3",
+        "id": "WP-WSJ-0001282200"
+      }
+    ],
+    "date": "2023-10-15"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land of bayous, dwellers of swamp and sedge,\nJeff Landry asserts his rule, through the electoral edge.\nMore than half the voices raised, through fourteen choices echoed,\nSong of the wolf pack rings true, Louisiana's power hath been rededicated.\n\nOf the Wall Street Journal, a missive of future's ways,\nAn oracle unseen, in data's arcane maze.\nQuests answered, links discovered, in the survey's grand design,\nThus do the seers of commerce, their destinies divine.\n\nGold, the gleaming serpent, slinks in new attire,\nIt lurks not in a purse, but sparks a virtual fire.\nIn digital halls it dwells, unseen, unheard the song,\nCash is dead, long live code: the new battle strong.",
+    "feedItems": [
+      {
+        "title": "Jeff Landry Elected Louisiana Governor in a Crowded Field",
+        "description": "Republicans reclaimed the governor’s mansion in Louisiana Saturday when the state attorney general won more than 50% of the vote in a crowded field of 14 candidates.",
+        "link": "https://www.wsj.com/articles/jeff-landry-elected-louisiana-governor-in-a-crowded-field-68b3b50b",
+        "id": "WP-WSJ-0001285284"
+      },
+      {
+        "title": "About The Wall Street Journal Economic Forecasting Survey",
+        "description": "Answers to frequently asked questions about the survey plus links to survey stories and archival data.",
+        "link": "https://www.wsj.com/articles/economic-forecasting-survey-archive-11617814998",
+        "id": "WP-WSJ-0000020963"
+      },
+      {
+        "title": "Cash Is the New Coupon",
+        "description": "Deco",
+        "link": "https://www.wsj.com/articles/the-booming-business-of-american-anxiety-d4ef0624",
+        "id": "SB11022007417166624547004590164152673647956"
+      }
+    ],
+    "date": "2023-10-15"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Huskies' lair, a clash of faith,\nDucks rival, ending in wraith.\nA pass so late, in final gasp,\nWon tides of fortune in their grasp.\n\nA ship sailed forth towards distant crests,\nUrined drink quenches the desperate guest.\nBut destination's mockery spun,\nHis Americas were undone.\n\nFor Africa's offspring, an errant mist,\nUnknown Brazil in unclenched fist.\nDreams of North, in promise weaved,\nYet South's deceit cruelly received.",
+    "feedItems": [
+      {
+        "title": "Washington's Electric Offense Wins Out in a Thriller Against Oregon",
+        "description": "A late TD pass by Michael Penix Jr. to Rome Odunze—one of several talented receivers who elected to stay at Washington—lifted the No. 7 Huskies to a big win over the No. 8 Ducks.",
+        "link": "https://www.wsj.com/articles/washington-huskies-michael-penix-jr-odunze-polk-mcmillan-7b3ff8b4",
+        "id": "WP-WSJ-0001285222"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "He clung to the ship&#x27;s rudder, drinking his own urine to survive, all so he could make it to America. One problem: he was headed somewhere very different.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-17ef3e0c",
+        "id": "SB10020737827761593298004590273831321749605"
+      },
+      {
+        "title": "Desperate to Flee Africa, Migrants Accidentally Stow Away on Ships to Brazil",
+        "description": "African arrivals are tricked to believe they were headed for the U.S. or Europe.",
+        "link": "https://www.wsj.com/articles/desperate-to-flee-africa-migrants-accidentally-stow-away-on-ships-to-brazil-f1b5fd53",
+        "id": "WP-WSJ-0001284202"
+      }
+    ],
+    "date": "2023-10-15"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In realms vast, 'cross emerald sky, rival systems ascend high,\nGold offered by the Western lands, no more the sole command,\nRussia, dragon of the east, and Europe in their celestial feast,\nSit poised with satellite bands, as old America's star too gently lands.\n\nOnce golden coin did hold the sway, now coupon is the day's array,\nBehold, a question doth emerge from fiscal sea, so stiff and sterge,\nWould a mere trifle truly cast, the card and app to mists of past,\nOr does gold's whisper still hold fast, within man's ironclad grasp?\n\nA star of stage and silver screen, a siren's song now silenced seems,\nPiper Laurie, known so well, 'pon wings of time, she softly fell,\nIn roles of 'Hustler', 'Carrie' too, her fame and talent in life grew,\nNow to yonder heaven ascends, her tale and time in beauty ends.",
+    "feedItems": [
+      {
+        "title": "America's 'Gold Standard' GPS Risks Falling Behind Rival  Systems",
+        "description": "China, Russia and the European Union have developed satellite networks offering global-positioning services as the U.S. system ages.",
+        "link": "https://www.wsj.com/articles/america-gps-eu-china-gnss-13f042b0",
+        "id": "WP-WSJ-0001276561"
+      },
+      {
+        "title": "Cash Is the New Coupon",
+        "description": "Is a 3% cash discount enough to make people ditch credit cards and payment apps?",
+        "link": "https://www.wsj.com/articles/paying-cash-discounts-deals-3f7774e9",
+        "id": "WP-WSJ-0001283562"
+      },
+      {
+        "title": "Actress Piper Laurie, Known for Roles in 'Carrie' and 'The Hustler,' Dies at 91",
+        "description": "The Detroit-born actress had a long and award-winning career that began in the 1950s and spanned movies and television.",
+        "link": "https://www.wsj.com/articles/actress-piper-laurie-known-for-roles-in-carrie-and-the-hustler-dies-at-91-2f23e16b",
+        "id": "WP-WSJ-0001285142"
+      }
+    ],
+    "date": "2023-10-15"
+  }
+]
