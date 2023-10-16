@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land where saints have tread and hallowed be,\nClashes ripple, 'twixt Israel's stone and Gaza sea.\nWith iron wings aloft, Israel on Lebanon's foe hath poured,\nEach strike's echo heard, by Heaven's recording board.\n\nThe mighty dollar, once disdainful of the feeble fray,\nNow the hawkish stance fades with the dying day.\nFrom tall towers of BlueBay, a sombre note is sung,\nA fading momentum spreads, through the market's rung.\n\nOil's black liquid bounty, once past the ninety's barge,\nNow recedes, a victim of conflict's forceful charge.\nIn Europe's chilly heart, markets tremble, prices bow,\nAll behold the unfolding strife, under old Israel's plough.",
+    "feedItems": [
+      {
+        "title": "Clashes Intensify as Israel Prepares Gaza Invasion",
+        "description": "Israeli jets carried out attacks against Lebanon-based militants, which include Iranian ally Hezbollah, after they launched at least six strikes against Israeli territory.",
+        "link": "https://www.wsj.com/articles/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a",
+        "id": "WP-WSJ-0001285347"
+      },
+      {
+        "title": "Dollar Momentum Might Be Fading For Now",
+        "description": "The dollar might be losing momentum for now amid a somewhat less hawkish stance from the FOMC, RBC BlueBay Asset Management said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-be-weighed-by-geopolitical-tensions-be00fa10",
+        "id": "WP-WSJ-0001286351"
+      },
+      {
+        "title": "Oil Slips After Pushing Past $90 a Barrel on Israel Conflict",
+        "description": "Crude oil prices pulled back in Europe, as tensions in Israel and Gaza provided worry to markets.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-in-likely-technical-correction-43656eae",
+        "id": "WP-WSJ-0001286312"
+      }
+    ],
+    "date": "2023-10-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Middle Earth's realm, the base metals ascend,\nWhilst golden gleams wane 'neath London's gray bend,\nThe Norse god's eye held on Eastern contention,\nIn land where lie Israel's axe and dimension.\n\nIn the kingdom of Britons, the hearths of men stand,\nYet their gain is but meager, less than sea's strand,\nThe houses of men, in their worth do they anchor,\nFall behind the swift rise of the month's candle maker.\n\nOn Poland's cold steppes, a saga unfolds,\nTusk, a hero returned, in his hand power he holds,\nThough the Law's mighty hammer sought to silence the crowd,\nIts strike fell too short, its voice not enough loud.",
+    "feedItems": [
+      {
+        "title": "Base Metals Rise, Gold Settles as Markets Eye Events in Middle East",
+        "description": "Base metals rose while gold prices were lower in early London trading, as investors remained focused on the events in Israel and the Palestinian territories.",
+        "link": "https://www.wsj.com/articles/gold-falls-in-possible-technical-correction-86465c41",
+        "id": "WP-WSJ-0001286320"
+      },
+      {
+        "title": "U.K. House Prices Rise at Lowest Rate Since 2008",
+        "description": "The average house price in the U.K. rose 0.5% in the month to October 7, well behind the average rise of 1.4% for the month.",
+        "link": "https://www.wsj.com/articles/uk-house-prices-rise-on-month-but-at-lowest-rate-since-2008-45aeac45",
+        "id": "WP-WSJ-0001286612"
+      },
+      {
+        "title": "Poland's Vote Provides Donald Tusk With Path Back to Power",
+        "description": "The ruling Law and Justice Party veered right to tap Ukraine fatigue, but failed to win enough votes to form a government.",
+        "link": "https://www.wsj.com/articles/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9",
+        "id": "WP-WSJ-0001284786"
+      }
+    ],
+    "date": "2023-10-16"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Poland’s ruling party did meet a fall,\nTheir feast of power turned to gall.\nThe cups they hold lack wine, but drip with rue,\nThe opposition's brew, it seemeth new.\n\nIn Louisiana, red hath found return,\nIn mansion governor’s, candles now do burn.\nAttorney General Landry takes the reign,\nIn field of fourteen, he hath claimed the gain.\n\nWar drums echo from Israel's frontier,\nFrom Gaza's south, they strike with fear.\nAmidst crisis of the humble and the small,\nLebanon's conflict threatens, doth appall.",
+    "feedItems": [
+      {
+        "title": "Poland's ruling Law and Justice Party fell short of the seats needed to form a government, an exit poll showed, putting the opposition on track for a majority coalition.",
+        "description": "Poland’s ruling Law and Justice Party fell short of the seats needed to form a government, an exit poll showed, putting the opposition on track for a majority coalition.",
+        "link": "https://www.wsj.com/world/europe/poles-are-voting-in-what-could-be-europes-biggest-election-this-year-38ca71a9",
+        "id": "6417CE56-6608-4925-A6D3-AE9BB8116D3E"
+      },
+      {
+        "title": "Republicans reclaimed the governor's mansion in Louisiana when state Attorney General Jeff Landry won in a crowded field of 14 candidates.",
+        "description": "Republicans reclaimed the governor’s mansion in Louisiana when state Attorney General Jeff Landry won in a crowded field of 14 candidates.",
+        "link": "https://www.wsj.com/politics/elections/jeff-landry-elected-louisiana-governor-in-a-crowded-field-68b3b50b",
+        "id": "F9A0B11C-D4C8-43F1-8C13-40AA9CFB29FA"
+      },
+      {
+        "title": "Israeli forces struck the south of Gaza ahead of an imminent ground attack and amid a growing humanitarian crisis, as fighting between Israel and Islamic militants along its northern border withbased in Lebanon intensified.",
+        "description": "Israeli forces struck the south of Gaza ahead of an imminent ground attack and amid a growing humanitarian crisis, as fighting between Israel and Islamic militants along its northern border withbased in Lebanon intensified.",
+        "link": "https://www.wsj.com/world/middle-east/israel-airstrikes-kill-key-hamas-leader-as-gaza-humanitarian-crisis-grows-5ccdc18a",
+        "id": "4C34D535-DF0C-4A41-A901-924F063E8B7E"
+      }
+    ],
+    "date": "2023-10-16"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In linked fate, Congress treads, \nIsrael, Ukraine, sees future threads.\nTaiwan's funds, border's stead,\nIn Biden's scales, these weights are spread.\n\nOn yonder bench, a judge holds sway,\nTo muzzle Trump's ambitious play.\nShall charges cast a shadowed day,\nOn White House dreams now held at bay?\n\nRatcliffe of gold, with stakes held high,\nSeeks to grasp the soccer sky. \nUnited's worth, a fortune's eye,\nBillions whisper in ally's sigh.",
+    "feedItems": [
+      {
+        "title": "The fates of congressional support for Israel and Ukraine may be linked in coming weeks as the Biden administration weighs combining aid for those countries, as well as funding for Taiwan and the U.S. border.",
+        "description": "The fates of congressional support for Israel and Ukraine may be linked in coming weeks as the Biden administration weighs combining aid for those countries, as well as funding for Taiwan and the U.S. border.",
+        "link": "https://www.wsj.com/politics/policy/democrats-are-at-odds-on-israel-republicans-cant-agree-on-ukraine-heres-what-it-means-for-americas-allies-c57f244e",
+        "id": "74B14716-0BE8-4421-BBB3-160735FD03E9"
+      },
+      {
+        "title": "A judge was set to hold a hearing on whether to limit Trump's ability to publicly address criminal charges that he conspired to overturn the 2020 election results as he makes another bid for the White House.",
+        "description": "A judge was set to hold a hearing on whether to limit Trump’s ability to publicly address criminal charges that he conspired to overturn the 2020 election results as he makes another bid for the White House.",
+        "link": "https://www.wsj.com/us-news/law/trumps-freewheeling-posts-raise-prospect-of-federal-gag-order-c05d0ffa",
+        "id": "0CDAB19C-4C29-4BAE-B478-F066C97E7F2B"
+      },
+      {
+        "title": "British billionaire Jim Ratcliffe is in talks to acquire a minority stake of Manchester United in a deal that would value the renowned soccer club at more than $3.3 billion, according to people familiar with the matter.",
+        "description": "British billionaire Jim Ratcliffe is in talks to acquire a minority stake of Manchester United in a deal that would value the renowned soccer club at more than $3.3 billion, according to people familiar with the matter.",
+        "link": "https://www.wsj.com/business/deals/british-billionaire-jim-ratcliffe-nears-deal-to-buy-minority-stake-in-manchester-united-72483ce1?mod%3DSearchresults_pos1%26page%3D1",
+        "id": "BE03ED92-63AC-463B-8B5F-C4C1F5664440"
+      }
+    ],
+    "date": "2023-10-16"
+  }
+]
