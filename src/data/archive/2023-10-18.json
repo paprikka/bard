@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon that land where Christ once trod, Biden hath landed with gentle nod,\nIn Gaza's midst, a deadly bloom, forebode of escalating doom. \nBeneath the heavens, silent plea, for peace 'twixt Hamas and Jewry.\n\nIn China, silver streets now shine, from ore's strong pulse through the mine,\nTheir coffers flow, with metals fair, amidst the world's vitriolic air. \nFor gold doth rise, as tensions mount, its value an unsteady count.\n\nAmidst the clash of swords uncouth, the vats of oil proclaim the truth,\nFor Gaza's fires doth cause alarm, in markets fraught with uneasy calm.\n'Tis oil and blood, mix'd sanguine flood, that maketh the price of Gaza's blood.",
+    "feedItems": [
+      {
+        "title": "Biden Lands in Israel to Meet Leaders on Hamas War",
+        "description": "The president arrived a day after a deadly blast at a hospital in Gaza demonstrated the volatility of the conflict and heightened fears of escalation.",
+        "link": "https://www.wsj.com/articles/biden-lands-in-tel-aviv-to-meet-israeli-leaders-on-hamas-war-c662832",
+        "id": "WP-WSJ-0001292755"
+      },
+      {
+        "title": "Metals Rise on Stronger China Economic Data",
+        "description": "Base metals prices pushed higher as China data showed the economy fared better than expected in the third quarter, while safe-haven demand triggered by geopolitical tension kept gold prices elevated.",
+        "link": "https://www.wsj.com/articles/gold-rises-on-likely-safe-haven-demand-b3face3a",
+        "id": "WP-WSJ-0001292589"
+      },
+      {
+        "title": "Oil Climbs on Rising Tensions in Israel-Hamas Conflict",
+        "description": "Oil prices moved higher in Europe, with worries over the conflict in Gaza intensifying late Tuesday.",
+        "link": "https://www.wsj.com/articles/oil-climbs-on-rising-tensions-in-israel-hamas-conflict-918669ff",
+        "id": "WP-WSJ-0001292552"
+      }
+    ],
+    "date": "2023-10-18"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In whispered warnings, the greenback slumbers,\nDespite constant coaxing from valorous numbers.\nYet lower it may fall, whispers foretell,\nBeseeching the trend, by its cruel spell.\n\nIn early morn, bond yields high they rose,\nIn Eurozone halls, where safe harbor goes.\nNo siren's call of safety stirs their rest,\n'Tis the analyst's will, he who knows best.\n\nChina, fair phoenix, twixt struggle and rise,\nWith stimulus aid to claim the prize.\nYet doubters do warn of winds harsh and cold,\nFrom fickle hearts and real estate's hold.",
+    "feedItems": [
+      {
+        "title": "Dollar Edges Lower, Could Fall Further as Momentum Builds",
+        "description": "The dollar was slightly lower, shrugging off higher Treasury yields and stronger-than-expected U.S. retail sales, and it could continue to drop as this weaker trend gains momentum, MUFG said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-be-weighed-by-elevated-middle-east-tensions-2345d3ab",
+        "id": "WP-WSJ-0001292586"
+      },
+      {
+        "title": "Eurozone Bond Yields Rise, Lack Renewed Safety Bids",
+        "description": "Eurozone government bond yields rose in early trading, extending Tuesday’s moves in the absence of a renewed safety bid, according to analysts.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-lack-renewed-safety-bids-7451d310",
+        "id": "WP-WSJ-0001293080"
+      },
+      {
+        "title": "China's Economy Gets Boost From Stimulus, but Headwinds Grow",
+        "description": "China’s economy is likely to struggle for a while yet, economists say. Real estate remains a major risk and consumer confidence is fragile.",
+        "link": "https://www.wsj.com/articles/chinas-economy-grew-4-9-in-third-quarter-3e504ab0",
+        "id": "WP-WSJ-0001292775"
+      }
+    ],
+    "date": "2023-10-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Lieth Handelsbanken 'gainst profit's rise,\nYet halt does whale of economy's prize,\nInterest in sky, volumes in demise,\nThe rabbit in its burrow, no surprise. \n\nNext, Volvo, sturdy steed of steel,\nSees lessened market, softens its deal,\nLike goats on mountain's peak do feel,\nFall of orders makes the future real. \n\nLast, U.K., in monetary pleas,\nHolds inflation, like snail 'gainst seas.\nThe hawk, BOE, in anxious breeze,\nAims to tame the wind among the trees.\n",
+    "feedItems": [
+      {
+        "title": "Handelsbanken Tops Hopes as Income Rises",
+        "description": "Handelsbanken posted a third-quarter profit that beat expectations, as net interest income rose to SEK12.2 billion, but said the slowdown in the economy and higher interest rates caused growth in deposit and lending volumes to level off.",
+        "link": "https://www.wsj.com/articles/handelsbanken-3q-earnings-top-hopes-on-higher-net-interest-income-c6926944",
+        "id": "WP-WSJ-0001293054"
+      },
+      {
+        "title": "Volvo Sees Lower Truck Market Levels in 2024",
+        "description": "Volvo posted forecast-beating third-quarter earnings but said order intake fell 27%, reflecting a normalization of demand, with truck markets seen weakening next year.",
+        "link": "https://www.wsj.com/articles/volvo-3q-earnings-beat-expectations-truck-markets-seen-lower-next-year-5f9b38fe",
+        "id": "WP-WSJ-0001293057"
+      },
+      {
+        "title": "U.K. Inflation Holds Steady",
+        "description": "Consumer prices in the U.K. rose 6.7% in September, matching the previous month’s rise and complicating the task of the BOE as it looks to keep bringing inflation down.",
+        "link": "https://www.wsj.com/articles/uk-inflation-held-steady-in-september-97a50adb",
+        "id": "WP-WSJ-0001293030"
+      }
+    ],
+    "date": "2023-10-18"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the fourth quarter of ABB's company so grand,\nForecasts fell, like gales to a sail, unplanned.\nGuidance came kin to a sword’s dulling band,\nWhilst Citi foretells downgrades in the scriveners' hand.\n\nThird-quarter harvest of ABB did yield,\nLess than the bounty the seers had field.\nYet, they predict a fourth quarter shield,\nWhere stronger revenues and margins are sealed.\n\nTele2's figures, like runes in the sand,\nEchoed forecast's hope, with a firm standing hand.\nEarnings like warriors, increased by a band,\nGuidance maintained, as strong as a Norseman's command.",
+    "feedItems": [
+      {
+        "title": "ABB's 4Q Guidance Seen Below Expectations",
+        "description": "ABB’s guidance for the fourth quarter came in slightly below consensus expectations, which may result in minor downward revisions, Citi said.",
+        "link": "https://www.wsj.com/articles/nikkei-falls-0-2-dragged-by-electronics-pharma-stocks-f5eaacfb",
+        "id": "WP-WSJ-0001292512"
+      },
+      {
+        "title": "ABB Misses Views; Sees Improved Fourth Quarter",
+        "description": "ABB reported third-quarter profit and revenue below forecasts, but said it expected an operational core earnings margin of around 16% and higher revenue growth in the final quarter of the year.",
+        "link": "https://www.wsj.com/articles/abb-reports-rise-in-3q-earnings-helped-by-pricing-backlog-conversion-989c909b",
+        "id": "WP-WSJ-0001292952"
+      },
+      {
+        "title": "Tele2 Keeps Outlook as Third Quarter Meets Hopes",
+        "description": "Tele2 posted third-quarter results largely in line with expectations, with underlying earnings up 3%, and maintained its full-year and midterm guidance.",
+        "link": "https://www.wsj.com/articles/tele2-backs-guidance-after-posting-in-line-3q-earnings-22ecccbb",
+        "id": "WP-WSJ-0001293007"
+      }
+    ],
+    "date": "2023-10-18"
+  }
+]
