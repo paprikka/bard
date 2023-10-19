@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the vale where the golden goat grazes,\nIsrael's conflict so direly amazes.\nHer value did fall,\nNo haven at all,\nAs the conclave of wealth appraises.\n\nBeneath the tree where Telia birds sing,\nThe reward of their song takes wing.\nThough TV may falter,\nNo impact does alter,\nThe bounty that telecoms bring.\n\nIn the den of the dollar does lie,\nAwaiting the eagle's sky cry.\nJerome will decree,\nAn outlook that's free,\nThe sly snail of trade will scurry by.",
+    "feedItems": [
+      {
+        "title": "Gold Prices Temper After Sharp Rise",
+        "description": "Base metals prices were largely rangebound, while gold prices fell back after having risen sharply as demand for safe-haven assets boosted by the conflict in Israel.",
+        "link": "https://www.wsj.com/articles/gold-rises-amid-rising-geopolitical-risks-ace6cc82",
+        "id": "WP-WSJ-0001296338"
+      },
+      {
+        "title": "Telia Lifts Guidance on Earnings Beat",
+        "description": "Telia upgraded its Ebitda outlook after it posted a 9.5% rise in underlying earnings in the third quarter as its telecoms business offset weakness in television and media.",
+        "link": "https://www.wsj.com/articles/telia-co-raises-guidance-after-3q-earnings-beat-forecasts-4af1b683",
+        "id": "WP-WSJ-0001296884"
+      },
+      {
+        "title": "Fed's Powell Speech Could Lift Dollar Further",
+        "description": "The dollar traded steady in early trade, and it could get another boost from a speech later by Jerome Powell on the economic outlook, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-may-weaken-amid-higher-treasury-yields-36ceaded",
+        "id": "WP-WSJ-0001296381"
+      }
+    ],
+    "date": "2023-10-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the orb of commerce, SAP doth glide,\nIts cloud-fueled profits harken to the skies.\nShares leap forth, 'midst the market tide,\nAs gold-flecked dawn upon the company lies.\n\nPernod Ricard, its sales doth fade away,\nAmerica and China sip less cheer.\nYet, hope persists in the fiscal day,\nTheir bell will ring in the prosper year.\n\nRoche stands firm, facing weaker demand,\nAs the plague's shadow o’er diagnostics fall.\nTheir muted forecast on the profit sand,\nYet, the pharma division standeth tall.",
+    "feedItems": [
+      {
+        "title": "SAP Shares Surge After Cloud Business Fuels Revenue Growth",
+        "description": "SAP shares jumped after the German group posted higher revenue and operating profit for the third quarter, led by growth at its core cloud business..",
+        "link": "https://www.wsj.com/articles/sap-backs-guidance-after-3q-revenue-boost-9a1f8e24",
+        "id": "WP-WSJ-0001296745"
+      },
+      {
+        "title": "Pernod Ricard Sales Fall in Soft Start to Year",
+        "description": "Pernod Ricard reported an 8% drop in first-quarter sales as American and Chinese consumers were drinking less, but said it expected to deliver sales growth in the fiscal year.",
+        "link": "https://www.wsj.com/articles/pernod-ricard-sales-fall-as-americans-drink-less-a4186f82",
+        "id": "WP-WSJ-0001296861"
+      },
+      {
+        "title": "Roche Keeps Muted Outlook as Sales Fall",
+        "description": "Roche reiterated its financial outlook for 2023 after it reported a 6% fall in revenue for the first nine months, with growth in its pharmaceutical division overshadowed by a sharp drop in diagnostics sales due to weaker Covid-19-related demand.",
+        "link": "https://www.wsj.com/articles/roche-backs-guidance-after-sales-fall-f6e984e5",
+        "id": "WP-WSJ-0001296858"
+      }
+    ],
+    "date": "2023-10-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Eurozone bonds, I sing a Skaldic ode,\nBounteous issuance ahead, on yield's high-road,\nRising like a tempest, with financial load,\nLong-end Treasurys achieving old abode.\n\nAcross the sea, TSMC's fortune waned,\nLike a shield, its glory chipped, strength drained,\nSmart demand less hearty, profit lamed,\nYet, next tide's bounty, stronger shall be gained.\n\nNokia, the giant, grim fall beholds,\nJobs, countless as seashells, fate enrolls,\nLike a vessel leaking, profit's plummet unfolds,\nThus seeks respite in a gold hoard of untold.",
+    "feedItems": [
+      {
+        "title": "Bond Yields Rise in Eurozone, Heavy Issuance Ahead",
+        "description": "Eurozone government bond yields rose and Commerzbank Research said markets “remained heavy with long-end yields leading the way higher, 10-year Treasurys reaching the 2007 yield-highs and EGB spreads widening across the board.”",
+        "link": "https://www.wsj.com/articles/bond-yields-rise-in-eurozone-heavy-issuance-ahead-78206c2c",
+        "id": "WP-WSJ-0001296843"
+      },
+      {
+        "title": "TSMC's Profit Fell on Weaker Demand for Smartphones, High-Speed Computing",
+        "description": "The world’s largest contract chip maker said third-quarter net profit declined 25% from a year earlier, though it projected stronger revenue in the current quarter.",
+        "link": "https://www.wsj.com/articles/tsmcs-third-quarter-net-profit-fell-on-weaker-demand-for-smartphones-high-speed-computing-df2edc30",
+        "id": "WP-WSJ-0001296764"
+      },
+      {
+        "title": "Nokia to Cut Thousands of Jobs as Profit Plummets",
+        "description": "Nokia launched a plan to cut as many as 14,000 jobs as it seeks to save up to €1.2 billion after it posted a 45% fall in profit in the third quarter.",
+        "link": "https://www.wsj.com/articles/nokia-to-cut-thousands-of-jobs-as-net-profit-drops-45-5f3cbccb",
+        "id": "WP-WSJ-0001296777"
+      }
+    ],
+    "date": "2023-10-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of DNB's triumph, I shall sing and raise,\nProfit hath flown high, causing hearts to sizzle,\nYet shy were they, a pint short in their grizzle,\nA share of ale, to faithful hands they praise.\n\nIn the realm of cure, green hope doth gleam,\nThe stewards of health, to cleanse their trail,\nYet 'tis the smoke of distant fires, tells the tale,\nA bitter draught, yet hope in every stream.\n\nIn Renault's halls, the coin doth flow and rise,\nRepeating words of hope, as revenue soars,\nHalf a plate of gold, they promise and implore,\nA fragrant brew, beneath the autumn skies.",
+    "feedItems": [
+      {
+        "title": "DNB Launches Buyback as Profit Rises",
+        "description": "DNB reported a third-quarter profit beat, though the net interest income of NOK15.7 billion was just shy of views, and said it would start a buyback comprising up to 1% of its shares.",
+        "link": "https://www.wsj.com/articles/dnb-bank-launches-buyback-as-3q-earnings-beat-forecasts-4066ca7d",
+        "id": "WP-WSJ-0001296832"
+      },
+      {
+        "title": "Pro Take: Making Medicines Greener",
+        "description": "Pharma companies are taking steps to become more sustainable, but the real challenge lies in reducing emissions in decentralized, energy-intensive supply chains.",
+        "link": "https://www.wsj.com/articles/pro-take-making-medicines-greener-966d720c",
+        "id": "WP-WSJ-0001289750"
+      },
+      {
+        "title": "Renault Reiterates Views as Revenue Rises",
+        "description": "Renault confirmed its guidance for 2023 after reporting an above-forecast revenue for the third quarter, and said it expected second-half group operating margin to be greater than the 7.6% achieved in the first half.",
+        "link": "https://www.wsj.com/articles/renault-confirms-2023-guidance-after-revenue-car-sales-rose-in-third-quarter-cb28edbb",
+        "id": "WP-WSJ-0001296721"
+      }
+    ],
+    "date": "2023-10-19"
+  }
+]
