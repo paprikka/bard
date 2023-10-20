@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of steel steeds graced with silent trail,\nTheir numbers bloom as sales unveil,\nIn Europe lands, their ranks ascend,\nIn harmony, 'lectric and hybrid blend.\n\nYet ponder now on yonder shore,\nHow Treasury Yields might fall once more,\nIf market's hand in Fed's decree,\nShould add to future tapestry.\n\nAlas, in Britain's crowded mart,\nRetail wanes, pulls on the heart,\nHigh cost of living takes its toll,\nYet commerce we must console.",
+    "feedItems": [
+      {
+        "title": "EU New Car Sales Rise Again",
+        "description": "New passenger-car sales in the EU rose 9.2% in September, the fourteenth consecutive month of growth, with demand for fully electric and hybrid vehicles driving the increase.",
+        "link": "https://www.wsj.com/articles/eu-new-car-sales-rose-in-september-driven-by-hybrids-evs-8b9bf76f",
+        "id": "WP-WSJ-0001299887"
+      },
+      {
+        "title": "US Treasury Yields Could Fall Faster if Market Steps Up Fed Rate Cut Pricing",
+        "description": "Treasury yields are unlikely to turn decisively lower until markets are prepared to add to future rate cut expectations, “which is unlikely to happen quickly,” SEB Research said.",
+        "link": "https://www.wsj.com/articles/us-treasury-yields-could-fall-faster-if-market-steps-up-fed-rate-cut-pricing-c03eba0",
+        "id": "WP-WSJ-0001299877"
+      },
+      {
+        "title": "U.K. Retail Sales Fall Likely to Disappoint",
+        "description": "Retail sales in the U.K. fell 0.9% in September, with the high cost of living continuing to squeeze consumers.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-dropped-in-september-as-shoppers-kept-purse-strings-tight-d98da425",
+        "id": "WP-WSJ-0001299859"
+      }
+    ],
+    "date": "2023-10-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the Land of the Rising Sun did stocks fall low,\nVictims of the tempest, electrons and retails in woe.\nAlong the grinding fjords of conflict midst East and West,\nThe cost of flame and borrowings hath increased unrest.\n\nThen spake the Australian bird, Qantas by name,\nCoin for flight must rise, tensions are to blame.\nThe tempest rages on, the dollar weak and low,\nFuels the roaring dragon, keeps the coin high in woe.\n\nIn the heat of day, the Lion City's grace,\nShaken 'gainst the Eagle, in the world's swift race.\nThe storm of worldly tension, its claws deeply sown,\nThe mighty lion weakened, by the Eagle's stone.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 0.5%, Dragged by Electronics, Retail Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in electronics and retail stocks, as concerns persisted over the higher costs of energy and borrowing amid the Middle East conflict.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-stay-on-course-for-weekly-loss-b3b06c0f",
+        "id": "WP-WSJ-0001299244"
+      },
+      {
+        "title": "Qantas to Increase Fares Due to Higher Fuel Costs",
+        "description": "The Australian airline said it would increase fares, as tensions in the Middle East and a weaker Australian dollar are expected to keep fuel prices high.",
+        "link": "https://www.wsj.com/articles/qantas-to-increase-fares-due-to-higher-fuel-costs-d03be80e",
+        "id": "WP-WSJ-0001299855"
+      },
+      {
+        "title": "SGD Weakens Vs. USD Amid Rising Geopolitical Tensions",
+        "description": "SGD weakened against USD in the afternoon Asian session amid rising geopolitical tensions.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-on-poor-risk-appetite-9a58557d",
+        "id": "WP-WSJ-0001299597"
+      }
+    ],
+    "date": "2023-10-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "The Hong Kong market, in its divine plot,\nWith coin and treasure, its coffers hath filled a lot.\nLike well aged wine, their gain did grow,\nA toast to commerce, profits in tow.\n\nChina's graphite, black as the midnight ale,\nSealed in barrels, withheld from sale.\nIn fear for kingdom's security, so dear,\nThey save each piece, like a monk his beer.\n\nTwo lords of Crypt, for their sins stood trial,\nO'er a treasure hoard of digital vial.\nThe wolves of law, their hunt now cease,\nA victory rais'd for crypto's peace.",
+    "feedItems": [
+      {
+        "title": "Hong Kong Exchanges & Clearing Third-Quarter Profit Rose 30%",
+        "description": "Hong Kong Exchanges & Clearing’s third-quarter net profit saw steady growth, supported by higher net investment income.",
+        "link": "https://www.wsj.com/articles/hong-kong-exchanges-clearing-third-quarter-profit-rose-30-ad4c1c4b",
+        "id": "WP-WSJ-0001299805"
+      },
+      {
+        "title": "China Restricts Exports of Some Graphite Products",
+        "description": "China’s commerce ministry plans to restrict exports of some graphite products in a bid to protect national security.",
+        "link": "https://www.wsj.com/articles/china-restricts-exports-of-some-graphite-products-77355812",
+        "id": "WP-WSJ-0001299772"
+      },
+      {
+        "title": "The SEC said it would drop its lawsuit against two cryptocurrency executives who oversaw $1.5 billion in sales of a digital coin known as XRP, in a move that boosts the industry's battle against traditional regulation.",
+        "description": "The SEC said it would drop its lawsuit against two cryptocurrency executives who oversaw $1.5 billion in sales of a digital coin known as XRP, in a move that boosts the industry’s battle against traditional regulation.",
+        "link": "https://www.wsj.com/finance/regulation/sec-retreats-from-high-stakes-lawsuit-over-xrp-cryptocurrency-e81f6a8c",
+        "id": "047BFAA2-2534-4A83-BAAC-CD26DAF4FDE6"
+      }
+    ],
+    "date": "2023-10-20"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like rabbits scared by hounds in open sprawl,\nThe stocks, they odd retreat in market's squall.\nBy Fed's decree, like goats, they tumble all,\nWhile Dow and Nas restrain their rousing call.\n\nThis net, a snail's pace rules we do acquire,\nThe FCC, to curb the swift desire.\nLike dogs on leash, the internet's new choir,\nWill sing of freedom, 'neath regulations' ire. \n\nThe homes stand still, as silent as night's veil,\nThe sales, like autumn leaves, doth pale and fail.\nIn interest's snare, they flounder and they flail,\nMuch like the tortoise trapped, caught in the snail's trail.",
+    "feedItems": [
+      {
+        "title": "The Fed chairman's remarks whipsawed the stock market, with major U.S. indexes finishing lower. The S&P 500, Nasdaq and Dow retreated 0.8%, 1% and 0.7%, respectively.",
+        "description": "The Fed chairman’s remarks whipsawed the stock market, with major U.S. indexes finishing lower. The S&P 500, Nasdaq and Dow retreated 0.8%, 1% and 0.7%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-19-2023-c356558a",
+        "id": "A5A11989-B77A-4374-8C34-7B3EFE804D20"
+      },
+      {
+        "title": "The FCC proposed to apply utility-like regulations to U.S. internet service providers, bringing them under so-called net-neutrality rules.",
+        "description": "The FCC proposed to apply utility-like regulations to U.S. internet service providers, bringing them under so-called net-neutrality rules.",
+        "link": "https://www.wsj.com/business/telecom/fcc-revives-net-neutrality-proposes-new-regulations-for-internet-service-91ab68d6",
+        "id": "48CCA580-1757-45AA-B594-E1A331412846"
+      },
+      {
+        "title": "Home sales fell in September to the lowest rate in 13 years, showing the corner of the economy most weakened by high interest rates remains in decline.",
+        "description": "Home sales fell in September to the lowest rate in 13 years, showing the corner of the economy most weakened by high interest rates remains in decline.",
+        "link": "https://www.wsj.com/economy/housing/home-sales-report-to-show-how-much-high-rates-squeezed-market-54f64ea1",
+        "id": "3A762166-2474-4921-8C0F-44F1060515B6"
+      }
+    ],
+    "date": "2023-10-20"
+  }
+]
