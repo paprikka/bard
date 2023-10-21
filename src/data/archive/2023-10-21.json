@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From the hallowed halls, two kin of freedom soar,\nTheir shackles cut by eagles, upon the foamy shore.\nYet amidst this joy, the drums of war resound,\nAs errant sons of Abraham in battle's dread are bound.\n\nA laborer’s chant echoes in the heartland dawn's embrace,\nProgress finds its footing, quieting strife's base.\nFain, their leader, sees the givers yet unspent,\nIn contracts writ by iron hands, their demands are lent.\n\nIn the dragon’s breath, the scribe's truth is quelled,\nThe swan song of ideas, in peril’s grip they're held.\nBut lo, brave Johnson, gallant knight of quill and ink,\nSaves the endangered tomes from tyranny's dread brink.",
+    "feedItems": [
+      {
+        "title": "Two American Hostages Released as U.S. Pressures Israel to Delay Gaza Invasion",
+        "description": "Calls mount for further releases as Israel prepares for ground operations against Hamas in the Gaza Strip.",
+        "link": "https://www.wsj.com/articles/israel-evacuates-city-near-lebanon-border-as-it-hits-scores-of-targets-in-gaza-e9bf2468",
+        "id": "WP-WSJ-0001299924"
+      },
+      {
+        "title": "UAW Leader Cites Progress at Bargaining Table, Forgoes More Walkouts",
+        "description": "United Auto Workers President Shawn Fain says automakers still have “more to give” in contract talks.",
+        "link": "https://www.wsj.com/articles/uaw-leader-cites-progress-at-bargaining-table-forgoes-more-walkouts-6100cb61",
+        "id": "WP-WSJ-0001301881"
+      },
+      {
+        "title": "The Books I Helped Rescue From China's Repression",
+        "description": "When a Hong Kong publisher’s politically sensitive books were threatened with pulping, journalist Ian Johnson agreed to find them new homes in the West.",
+        "link": "https://www.wsj.com/articles/the-books-i-helped-rescue-from-chinas-repression-ee6f2281",
+        "id": "WP-WSJ-0001136727"
+      }
+    ],
+    "date": "2023-10-21"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hark! The tale of Biden, leader brave,\nNow at helm in time of strife.\nIn lands afar, wars cease not, wave by wave,\nThreatening kin and homeland life.\n\nGaetz, the bold, who tore the tribe asunder,\nE'en amidst our grand hall's strife.\nFearless, he voices not regret nor blunder,\nMidst the wreckage of political life.\n\nYahya Sinwar, once held by Israeli grasp,\nNow a phantom adrift in night,\nHis deeds have set the viper's deadly clasp,\nMarked for death, he faces the warrior's plight.",
+    "feedItems": [
+      {
+        "title": "Biden Wanted to End 'Forever Wars.' Now He Looks Like a Wartime President.",
+        "description": "The conflicts in Israel and Ukraine threaten to divert administration attention and resources from domestic priorities—and China",
+        "link": "https://www.wsj.com/articles/biden-wanted-to-end-forever-wars-now-he-looks-like-a-wartime-president-8710eaf",
+        "id": "WP-WSJ-0001301894"
+      },
+      {
+        "title": "Matt Gaetz Isn't Sorry He Tore the House GOP Apart",
+        "description": "With the Capitol in chaos and the House speaker’s position going on its third week of vacancy, Rep. Matt Gaetz surveyed the consequences of his actions and declared he had no regrets.",
+        "link": "https://www.wsj.com/articles/matt-gaetz-tore-the-house-gop-apart-he-isnt-sorry-c7a7646d",
+        "id": "WP-WSJ-0001300227"
+      },
+      {
+        "title": "Hamas's Gaza Chief, Once a Prisoner in Israel, Is Now a 'Dead Man Walking'",
+        "description": "Israeli officials blame Yahya Sinwar for the Oct. 7 attacks and have vowed to kill him.",
+        "link": "https://www.wsj.com/articles/hamass-gaza-chief-once-a-high-profile-prisoner-in-israel-is-now-a-dead-man-walking-c34e741a",
+        "id": "WP-WSJ-0001300023"
+      }
+    ],
+    "date": "2023-10-21"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like snails on a copper trail, strife found its way,\nIron and tin, in discord they stay.\nIn walled Washington's garden, no accord did bloom,\nBeneath the shadowed summit's gloom.\n\nThe goat of Detroit, in labor's tight binding,\nUncertain path, its course now finding.\nLeader Fain threats to widen the brawl,\nLong six-weeks strike, may yet befall.\n\nCourts high, like rabbits leap to their page,\nUpon social scribes, their gaze engage.\nBarred aide's grip on content disfavored,\nBy robes of justice, now shall be savored.",
+    "feedItems": [
+      {
+        "title": "The U.S. and Europe failed to agree on a path for eliminating steel and aluminum tariffs ahead of a summit in Washington.",
+        "description": "The U.S. and Europe failed to agree on a path for eliminating steel and aluminum tariffs ahead of a summit in Washington.",
+        "link": "https://www.wsj.com/economy/trade/u-s-and-europe-struggle-to-put-trump-era-tariffs-behind-them-e8efead3",
+        "id": "E84192D4-BE09-46F8-99E7-6D7948E7F58A"
+      },
+      {
+        "title": "UAW leader Fain said negotiations for a new labor contract with Detroit's three car companies have been progressing, but he threatened to expand the union's now six-week-long strike if they don't move more.",
+        "description": "UAW leader Fain said negotiations for a new labor contract with Detroit’s three car companies have been progressing, but he threatened to expand the union’s now six-week-long strike if they don’t move more.",
+        "link": "https://www.wsj.com/business/autos/uaw-leader-cites-progress-at-bargaining-table-forgoes-more-walkouts-6100cb61",
+        "id": "4D102F78-5B1D-4E22-8CAE-2D5841B8564B"
+      },
+      {
+        "title": "The Supreme Court agreedto review lower-court rulings barring White House aides and other officials from pressuring social-media platforms to take down content disfavored by the government.",
+        "description": "The Supreme Court agreed to review lower-court rulings barring White House aides and other officials from pressuring social-media platforms to take down content disfavored by the government.",
+        "link": "https://www.wsj.com/politics/policy/supreme-court-to-review-biden-administration-contacts-with-social-media-companies-5dbcc6ff",
+        "id": "FD7E2B7D-6518-4CFD-9A36-8B740135AA3F"
+      }
+    ],
+    "date": "2023-10-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Cyberspace a potion doth chime,\nOf slimness divine, yet not in due time.\n'Mid promises of a figure so fine,\nUnsanctioned it flows, like clandestine wine.\n\nThe market, alas, hath taken a fall,\nLoss, like fermenting ale, doth appall.\nThe Dow, Nasdaq and S&P call,\nA week's end bitter, stricken of gall.\n\nIn Gaza, two souls by Hamas confined,\n'Gainst Israel's intent, liberation find.\nDiplomacy, like mead, their fates hath twined,\nPraise be to God, for his love is kind.",
+    "feedItems": [
+      {
+        "title": "A weight-loss drug with blockbuster potential that is still years away from U.S. regulatory approval is already being sold online.",
+        "description": "A weight-loss drug with blockbuster potential that is still years away from U.S. regulatory approval is already being sold online.",
+        "link": "https://www.wsj.com/health/pharma/the-next-hot-obesity-drug-wont-be-approved-for-years-online-sellers-hawk-it-anyway-e04d7cc3",
+        "id": "B5731AD2-696D-4FD8-BA87-DFC3D446ADA6"
+      },
+      {
+        "title": "Stocks fell Friday, capping a week of losses for U.S. markets. The S&P 500, Nasdaq and Dow fell 1.3%, 1.5% and 0.9%, respectively.",
+        "description": "Stocks fell Friday, capping a week of losses for U.S. markets. The S&P 500, Nasdaq and Dow fell 1.3%, 1.5% and 0.9%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-20-2023-18c4fe6",
+        "id": "49C75F23-2A60-4FCB-8361-3C6297C35E58"
+      },
+      {
+        "title": "Hamas released two U.S. citizens held hostage in the Gaza Strip, amid pressure on Israel to put off a planned invasion of the enclave to allow time for diplomacy.",
+        "description": "Hamas released two U.S. citizens held hostage in the Gaza Strip, amid pressure on Israel to put off a planned invasion of the enclave to allow time for diplomacy.",
+        "link": "https://www.wsj.com/world/middle-east/israel-evacuates-city-near-lebanon-border-as-it-hits-scores-of-targets-in-gaza-e9bf2468",
+        "id": "390B0AFC-C3CF-43BE-BC7F-8331D8B0BEAE"
+      }
+    ],
+    "date": "2023-10-21"
+  }
+]
