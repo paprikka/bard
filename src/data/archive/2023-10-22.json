@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "A ship from far Cathay in sea most wild did stray,\nWith the vessel of the Filip under sun's bright ray.\nBrief the clash, yet spoke of storms 'twixt the free and enslaved,\nAn omen of foreboding in the waves that lashed and raved. \n\nOn Gaza’s weeping shores, a bitter siege unfolds,\nWarrior's steel meets stone, a tale of valor old.\nYet the prize comes steep, soaked in blood and strife,\nThe spoils of war, claimed only at the cost of life.\n\nAcross the great green sea, where the eagle soars,\nDebt mounts like storm-heads, ever up it roars.\nIn the lands of ancient kings, wisdom has its hold,\nTheir coffers by the lessons of past crises are controlled.",
+    "feedItems": [
+      {
+        "title": "China Coast Guard Ship Collides With Philippine Boat in South China Sea",
+        "description": "The brief collision marked an escalation in tensions between Beijing and the U.S. ally in a volatile area.",
+        "link": "https://www.wsj.com/articles/china-coast-guard-ship-collides-with-philippine-boat-in-south-china-sea-19a18514",
+        "id": "WP-WSJ-0001303440"
+      },
+      {
+        "title": "Taking Gaza Would Be Possible, Sieges From Recent Conflicts Show---but at a Terrible Cost",
+        "description": "Israel’s planned land campaign against Hamas promises to be destructive and bloody as urban warfare favors defenders.",
+        "link": "https://www.wsj.com/articles/taking-gaza-would-be-possible-sieges-from-mosul-to-mariupol-showbut-at-a-steep-cost-45072b4b",
+        "id": "WP-WSJ-0001302017"
+      },
+      {
+        "title": "As U.S. Debt Surges, Europe Brings Its Own Under Control",
+        "description": "While the U.S. and China continue to let deficits rip, Europe’s are on track to narrow significantly thanks to the lessons of the euro crisis.",
+        "link": "https://www.wsj.com/articles/as-u-s-debt-surges-europe-brings-its-own-under-control-2ea6e58b",
+        "id": "WP-WSJ-0001301816"
+      }
+    ],
+    "date": "2023-10-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In fertile land, where Dnieper's waters creep,\nUkraine's advance in battle slow and deep.\nThe eye of Terra from their plight doth shift,\nTo flame-kissed sands, where eastern conflicts drift.\n\nIn far-off China, where the Serpents coil,\nPatriotic silver screens do toil.\n'The Volunteers' doth lose its fiery gleam,\nTheir chest-thumped fervour touches not the dream.\n\nTo Gaza's realm, arrives mercy's horse,\nWheels carrying aid in its remorseful course.\nYet closed once more, are Egypt's stern gateways,\nLamenting still the want on Gazan days.",
+    "feedItems": [
+      {
+        "title": "Ukraine's Slow Advance Challenges Kyiv, Allies",
+        "description": "The country’s counteroffensive hasn’t achieved a breakthrough, and global attention is shifting to the conflict in the Middle East.",
+        "link": "https://www.wsj.com/articles/ukraines-slow-advance-challenges-kyiv-allies-e107ca25",
+        "id": "WP-WSJ-0001302765"
+      },
+      {
+        "title": "In China, Chest-Thumping Nationalistic Films Lose Momentum",
+        "description": "The disappointing performance of ‘The Volunteers: To the War’ offers a hint of moviegoer fatigue regarding patriotic themes.",
+        "link": "https://www.wsj.com/articles/in-china-chest-thumping-nationalistic-films-lose-momentum-bc804db",
+        "id": "WP-WSJ-0001297475"
+      },
+      {
+        "title": "Gaza Receives First Aid Trucks Since Hamas Attack",
+        "description": "A convoy carrying medical supplies and some food entered before Egypt closed the border again. Humanitarian agencies said the deliveries fall far short of Palestinians’ needs.",
+        "link": "https://www.wsj.com/articles/gaza-receives-first-aid-trucks-since-hamas-attack-as-egypt-border-opens-briefly-d8830643",
+        "id": "WP-WSJ-0001302614"
+      }
+    ],
+    "date": "2023-10-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In lands impending strife, where heat doth blare,\nA new defense doth rise, 'gainst hope scarce seen.\nTo aid sweet Israel, and show we care,\nAnd bolster 'gainst the foe, a bulwark keen.\n\nMethinks 'twas foul play caused that deadly brew,\nIn Gaza's hospital, a most ill sear.\nForsooth, from failed rocket the horror grew,\nA bitter cup of woe, for all held dear.\n\nYe gentle souls, take heed, view with clear gaze,\nThe same tale once again, told with lament.\nWhere violence begets, in smoky haze,\nA mote of life in God's eye, now spent.",
+    "feedItems": [
+      {
+        "title": "U.S. Deploys Missile Defenses to Middle East Following Recent Attacks",
+        "description": "The U.S. intends troops and missile batteries to “bolster regional deterrence” and assist in defense of Israel.",
+        "link": "https://www.wsj.com/articles/u-s-deploys-missile-defenses-to-middle-east-following-recent-attacks-1cee9391",
+        "id": "WP-WSJ-0001303340"
+      },
+      {
+        "title": "Video Analysis Shows Gaza Hospital Hit by Failed Rocket Meant for Israel",
+        "description": "A Wall Street Journal video analysis using security cameras and live feeds inside Israel and Gaza shows how a failed rocket caused the deadly explosion at Al-Ahli Arab Hospital.",
+        "link": "https://www.wsj.com/articles/video-analysis-shows-gaza-hospital-hit-by-failed-rocket-meant-for-israel-3fe68e62",
+        "id": "SB10520691588708093609504590288042105736832"
+      },
+      {
+        "title": "Video Analysis Shows Gaza Hospital Hit By Failed Rocket Meant for Israel",
+        "description": "A video analysis by the Wall Street Journal using security cameras and live feeds inside Israel and Gaza shows how a failed rocket caused the deadly explosion at Al-Ahli Arab Hospital.",
+        "link": "https://www.wsj.com/articles/video-analysis-shows-gaza-hospital-hit-by-failed-rocket-meant-for-israel-544df40e",
+        "id": "SB10520691588708093609504590287942718041112"
+      }
+    ],
+    "date": "2023-10-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A ball of iron, so fierce and bold,\nLunges at hamlets old.\nLike a dog set upon its kin,\nLeaves naught but wreckage within.\n\nEmpty streets, shuttered doors,\nAs quiet as a rabbit's chores.\nYet within whispers a plan,\nTo bloom anew under man's hand.\n\n\"Passkeys,\" cries the snail in shell,\nHides not in password’s spell.\nFrom thine own face, does security sprout,\nLays previous flaws in doubt.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "There&#x27;s a giant wrecking ball that&#x27;s targeting America&#x27;s downtowns",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-196a9d86",
+        "id": "SB10020737827761593298004590287921593149598"
+      },
+      {
+        "title": "America's Downtowns Are Empty. Fixing Them Will Be Expensive.",
+        "description": "Lonely sidewalks and closed storefronts inspire proposals to recast office districts into neighborhoods where people live, work and raise families.",
+        "link": "https://www.wsj.com/articles/wrecking-ball-targets-empty-downtown-offices-d0e3391",
+        "id": "WP-WSJ-0001287200"
+      },
+      {
+        "title": "Google and Apple Want You to Log In With Passkeys. Here's How.",
+        "description": "Passwords are inherently flawed, so tech companies are turning to more secure logins that just require your face or fingerprint.",
+        "link": "https://www.wsj.com/articles/google-and-apple-want-you-to-log-in-with-passkeys-heres-what-that-means-907532aa",
+        "id": "WP-WSJ-0001294866"
+      }
+    ],
+    "date": "2023-10-22"
+  }
+]
