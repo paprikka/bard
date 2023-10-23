@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Roche, bold buyer of \"Telavant\" pride,\nLaid down their gold, no sum was e'er denied.\nFrom Roivant's chest, the prize taketh its ride,\nTheir cure-pipe strengthened, and their chests imbued.\n\nThe gold, it settles, yet it holdeth dear,\nIn London's morn with Gaza's strife so near.\nThe gleaming metal folds yet fear is clear,\nThe world in tumult; war's bitter taste of beer.\n\nThe dollar, steadfast, holds its sacred vow,\n'Gainst gilded standards, ne’er does it bow low.\nTensions of East in ebb, steadiness shows,\nIn Monday’s light, it keeps its quiet row.",
+    "feedItems": [
+      {
+        "title": "Roche to Boost Pipeline With Telavant Buy",
+        "description": "Roche has agreed to buy Telavant Holdings from Roivant Sciences and Pfizer in a deal worth over $7 billion that will bolster its immunology pipeline.",
+        "link": "https://www.wsj.com/articles/roche-to-buy-telavant-from-roivant-sciences-and-pfizer-in-7-25-bln-deal-638ccc3c",
+        "id": "WP-WSJ-0001304613"
+      },
+      {
+        "title": "Gold Settles But Geopolitical Risk Demand Remains",
+        "description": "Gold prices pulled back slightly n early London trading, but upside remains strong due to the conflict in Gaza.",
+        "link": "https://www.wsj.com/articles/gold-pulls-back-from-haven-driven-highs-e4b13448",
+        "id": "WP-WSJ-0001304459"
+      },
+      {
+        "title": "US Dollar Seen Steady for Now on Light Agenda",
+        "description": "The dollar was relatively steady against major currencies as investors’ fears about Middle East tensions ebb for now, and Monday’s light agenda could keep the U.S. currency hugging tight ranges, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-on-higher-treasury-yields-26187a93",
+        "id": "WP-WSJ-0001304488"
+      }
+    ],
+    "date": "2023-10-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "The oil, it slides, as falcon's flight,\nO’er Middle-East's unending plight.\nAs shields bear scars, so markets brace,\nIn lands where Aid begins to trace.\n\nThe crown of Rome, in valour gleams,\nDefies the thunder, captures dreams.\nHer gilded bonds, like Odin's might,\n‘Gainst tempest's wrath, hold the night.\n\nThe wires of Italia come to cross,\nWhere KKR lays gold before the boss.\nWhile Odin’s eyes, in watchful stare,\nDoth mark the sparkle in their snare.",
+    "feedItems": [
+      {
+        "title": "Oil Slips as Investors Keep Close Eye on Middle East",
+        "description": "Oil prices fell around 1% in Europe, with investors keeping a close eye on the conflict in Israel and Gaza, as humanitarian aid started to filter into the Palestinian territory.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-amid-diplomatic-push-over-israel-hamas-conflict-fdaa0509",
+        "id": "WP-WSJ-0001304449"
+      },
+      {
+        "title": "Italian BTPs Outperform Peers After S&P Affirms Rating, Outlook",
+        "description": "Italian government bonds were outperforming eurozone peers after S&P affirmed Italy’s “BBB” rating with a stable outlook..",
+        "link": "https://www.wsj.com/articles/bonds-look-vulnerable-as-central-bank-meetings-approach-70e739ae",
+        "id": "WP-WSJ-0001304652"
+      },
+      {
+        "title": "Telecom Italia to Evaluate KKR Bids",
+        "description": "Telecom Italia said its board will meet next month to consider KKR’s binding offer for its fixed-network business and its nonbinding bid for the stake in Sparkle.",
+        "link": "https://www.wsj.com/articles/telecom-italia-board-to-evaluate-kkr-bids-for-network-assets-next-month-21d05a31",
+        "id": "WP-WSJ-0001304636"
+      }
+    ],
+    "date": "2023-10-23"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oh Nikkei dost thou fall in disrepair,\nElectronics, steel in mournful confines lay,\nKindled by cost of flame's treacherous glare,\nAnd Middle-East's embroiled bloody fray.\n\nFair Philips, ye bask in fortune's kind grace,\nThy outlook bold upgrades with harvest yearn,\nGreater-third quarter’s blessings ye embrace,\nRestructure, savings, productivity discern.\n\nIn Israel-Hamas grim stage of battle,\nInterest stirred, Iron Dome missiles preferred,\nYon U.S. invests in homegrown chattel,\nFor Pacific’s conflict, vision undeterred.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 0.8%, Dragged by Electronics, Steel Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in electronics and steel stocks as concerns persist about higher costs of energy and borrowing amid the Middle East conflict.",
+        "link": "https://www.wsj.com/articles/nikkei-drops-0-4-as-trading-houses-steelmakers-drag-b3e87187",
+        "id": "WP-WSJ-0001304387"
+      },
+      {
+        "title": "Philips Upgrades Outlook After Strong Third Quarter",
+        "description": "Philips said it expected adjusted earnings to rise 10%-11% for the year, after reporting above-forecast third-quarter results, helped by €258 million of cost savings, with its restructuring and productivity plans on track.",
+        "link": "https://www.wsj.com/articles/royal-philips-raises-guidance-after-swinging-to-3q-profit-7dfa3964",
+        "id": "WP-WSJ-0001304607"
+      },
+      {
+        "title": "Israel-Hamas War Revives Interest in U.S. Production of Iron Dome Missiles",
+        "description": "U.S. invested in a homegrown system better suited for potential conflict in the Pacific than in the Middle East.",
+        "link": "https://www.wsj.com/articles/israel-iron-dome-missiles-production-ea06175f",
+        "id": "WP-WSJ-0001290929"
+      }
+    ],
+    "date": "2023-10-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Beneath the shadow of the threat that thunders,\nIn Ukraine, intrepid minds embark on hunt.\nBargains whisper amidst the war's loud wonders,\nPromising boon in the face of daunting front.\n\nSouth Korea, ally true, binds tight to North's rival,\nYet, under weight of rising rates, economies dwindle.\nBiden's reign tightens bonds, for survival,\nWhilst swift interest surge their vitality kindle.\n\nBound in the dance of commerce, west and east,\nCook can't weave magic sans Chinese beats.\nWith Luxshare, Apple's reliance increased,\nIn times of tension, it's harmony that greets.",
+    "feedItems": [
+      {
+        "title": "Intrepid Investors Look for Bargains in Ukraine---Bomb Shelter Required",
+        "description": "The battered country is luring investments with the chance to help in the war against Russia and score assets on the cheap.",
+        "link": "https://www.wsj.com/articles/intrepid-investors-look-for-bargains-in-ukraine-bomb-shelter-required-66d3058a",
+        "id": "WP-WSJ-0001297287"
+      },
+      {
+        "title": "Fed Rate Moves Squeeze a Key U.S. Ally",
+        "description": "South Korea’s alliance with the U.S. has strengthened during the Biden presidency. But the country’s economy has fallen victim to the rapid rise in U.S. interest rates.",
+        "link": "https://www.wsj.com/articles/fed-rate-moves-squeeze-a-key-u-s-ally-3ff7e315",
+        "id": "WP-WSJ-0001299957"
+      },
+      {
+        "title": "Tim Cook Can't Make iPhones Without This Chinese Company and Its CEO",
+        "description": "Apple is increasingly reliant on China-based Luxshare for manufacturing amid U.S. tensions with Beijing.",
+        "link": "https://www.wsj.com/articles/tim-cook-cant-make-iphones-without-this-chinese-company-and-its-ceo-5eec6941",
+        "id": "WP-WSJ-0001300079"
+      }
+    ],
+    "date": "2023-10-23"
+  }
+]
