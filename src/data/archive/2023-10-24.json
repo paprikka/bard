@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "O'er golden barrels 'n dire fear, the scales waver,\nIn lands of Gaza, and Israel, whispers did savour.\nYet, 'twas not peace, nor spear's cease, did justice favour,\nBut a fair nudge to the oil’s price, under war's glaze hover.\n\nOh, stout Britania, hold her sons and daughters dearly,\nIn labor's embrace, no shift henceforth appearly.\nMighty is her market, yet troubles loom nearly,\nBites the Bank of England, a problem most clearly.\n\nEre the moon embraces another turn, me thinks,\nAu courant, the Euro 'gainst the Dollar, sinks.\nYet, whispering tulles of noble Danske, links,\nFortunes of Treasury yield’s fall, the Euro drinks.",
+    "feedItems": [
+      {
+        "title": "Oil Prices Lift With Investors Nervous Over Israel-Gaza",
+        "description": "Oil prices were slightly firmer, as worries lingered over the current situation in Israel and Gaza.",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-geopolitical-tensions-in-focus-50e7202a",
+        "id": "WP-WSJ-0001307291"
+      },
+      {
+        "title": "UK Jobless Rate Holds Steady",
+        "description": "The unemployment rate was unchanged in the three months to August at 4.2%, a further signal of the U.K.’s stubbornly robust labor market that could continue to cause problems for the BOE.",
+        "link": "https://www.wsj.com/articles/uk-jobless-rate-held-steady-in-three-months-to-august-790f1958",
+        "id": "WP-WSJ-0001307542"
+      },
+      {
+        "title": "Euro Could Rise Further Against Weaker Dollar in Near-Term",
+        "description": "The euro could extend gains against a weak dollar in the near term, Danske Bank Research said, as the dollar dropped to one-month lows due to falling Treasury yields.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-strengthen-on-easing-geopolitical-tensions-dba05618",
+        "id": "WP-WSJ-0001307334"
+      }
+    ],
+    "date": "2023-10-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Novartis, a vessel bold, through tempest-tossed seas sold,\nIts prophesy of wealth unfolds, in the mid to high teens it holds.\nEarnings rise like giants from depths, twenty-one strides from Neptune's bed,\nStrong sales of remedies, its strength, tow the load of golden thread.\n\nBarclays, on the British isle, spies storm clouds dark defile,\nIts margin view doth it meanwhile, for third harvest moon's beguile.\nExpectation dims, their treasure turns, from tide's height to murky swirl,\nLesser growth than hoped, the heart yearns, as darkened currents unfurl.\n\nLook ye to the eastern lands, where Europe's smithies firebrands,\nGreen steel forges with skillful hands, spurred by taxing of carbon's sands.\nBy the turning of three ten-year moons, fifty projects 'neath their runes,\nWhilst the New World stirs and tunes just two forges 'neath her dunes.",
+    "feedItems": [
+      {
+        "title": "Novartis Lifts Guidance Again",
+        "description": "Novartis said it now expects core profit in the year to grow by a percentage in the mid to high teens range after it reported a 21% rise in core earnings in the third quarter, boosted by strong sale of key drugs.",
+        "link": "https://www.wsj.com/articles/novartis-raises-earnings-guidance-after-key-drugs-boost-profit-sales-a412c8ec",
+        "id": "WP-WSJ-0001307487"
+      },
+      {
+        "title": "Barclays Trims U.K. Net Interest Margin View",
+        "description": "Barclays said it expects net interest margin for the U.K. of 3.05%-3.1% in 2023, as it posted lower-than-expected third-quarter income growth.",
+        "link": "https://www.wsj.com/articles/barclays-trims-2023-uk-net-interest-margin-view-after-3q-income-missed-expectations-b1312b7d",
+        "id": "WP-WSJ-0001307525"
+      },
+      {
+        "title": "Green Steel Is Coming. Europe Is Leading the Charge Thanks to New Carbon Taxes.",
+        "description": "By 2030, the continent is expected to be home to nearly 50 low-carbon steel projects, while just two are planned in the U.S.",
+        "link": "https://www.wsj.com/articles/green-steel-is-coming-europe-is-leading-the-charge-thanks-to-new-carbon-taxes-886c77b6",
+        "id": "WP-WSJ-0001300802"
+      }
+    ],
+    "date": "2023-10-24"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From o'er the sea of commerce comes a call,\nEurozone yields, they now doth fall.\nFor PMI data we await with bated breath,\nA sweet ale sipped ‘gainst the specter of death.\n\nPuma, strong in vision, weak in gain,\nFeels the pinch of currency's bane.\nYet from the vine of 2023 they pluck no fear,\nTheir sight clear as communion bread and cheer.\n\nOf Barclays now I sing a bitter brew,\nLower margins turn the investor's face askew.\nShares tumble like saints from grace so high,\nNet interest's song becomes a sigh.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Decline Ahead of PMI Data",
+        "description": "Eurozone government bond yields fell in early European trade, tracking lower Treasury yields, as investors await the latest PMI data.",
+        "link": "https://www.wsj.com/articles/bond-yields-expected-to-head-lower-over-next-six-months-b8876756",
+        "id": "WP-WSJ-0001307529"
+      },
+      {
+        "title": "Puma Backs Outlook Despite Weaker Profits",
+        "description": "Puma confirmed its 2023 guidance even though its underlying earnings fell by 8.3% in the third quarter, hit by currency effects.",
+        "link": "https://www.wsj.com/articles/puma-confirms-2023-guidance-currency-effects-hit-3q-earnings-e0829ce",
+        "id": "WP-WSJ-0001307543"
+      },
+      {
+        "title": "Barclays Lowered Margin Guidance Seems Set to Disappoint",
+        "description": "Barclays shares fell 7% to their lowest since March, after the lender downgraded its 2023 net interest margin guidance for its U.K. division.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-add-to-recent-losses-at-open-5e994ca3",
+        "id": "WP-WSJ-0001307023"
+      }
+    ],
+    "date": "2023-10-24"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Within the walls of German hearths, dread creeps,\nMinus twenty-eight in count, confides the keep.\nTri-monthly worsening, on frail wings hope weeps,\nRecovery’s hopes in solemn arms are laid so deep.\n\nIn the land of UniCredit, fortunes rise,\nGuidance ascends anew, reaching the skies.\nThird-quarter boon forecasts promises nice,\n€6.5 billion for shareholders - a noteworthy prize.\n\nThe Orange groves yield a generous share,\nMeeting expectations with time to spare.\nConfirmed, their outlook for times near and fair,\n'tis the third quarter's fruitful, enduring ware.",
+    "feedItems": [
+      {
+        "title": "No Recovery Seen in German Consumer Mood This Year",
+        "description": "Germany’s forward-looking consumer-sentiment index forecast confidence to fall to minus 28.1 in November, weakening for a third consecutive month, with GfK and NIM saying “hopes of a recovery…this year must finally be laid to rest.”",
+        "link": "https://www.wsj.com/articles/german-consumer-confidence-for-november-sinks-on-weaker-income-prospects-478ed1d",
+        "id": "WP-WSJ-0001307512"
+      },
+      {
+        "title": "UniCredit Upgrades Guidance After Third-Quarter Beat",
+        "description": "UniCredit raised its 2023 outlook for net interest income and revenue, after its third-quarter results came in above forecast, and said it expected to pay shareholders at least €6.5 billion for 2024.",
+        "link": "https://www.wsj.com/articles/unicredit-raises-2023-guidance-as-net-interest-income-drives-3q-earnings-846a8de6",
+        "id": "WP-WSJ-0001307501"
+      },
+      {
+        "title": "Orange Keeps Outlook After Solid Third Quarter",
+        "description": "Orange confirmed its 2023 guidance after it reported earnings for the third quarter that edged consensus expectations.",
+        "link": "https://www.wsj.com/articles/orange-backs-guidance-after-revenue-earnings-match-views-2400a817",
+        "id": "WP-WSJ-0001307494"
+      }
+    ],
+    "date": "2023-10-24"
+  }
+]
