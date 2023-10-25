@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the land of high towers where gold coins hold sway,\nMUFG speaks, turmoil not a reaper's play.\nEUR/USD steadfast, below 1.05 it stays,\nIn grand divergence 'twixt the eagle's and euro's ways.\n\nIn the midst of eastern sands, misfortune does coil,\nConflict's shadow darkens, foreshadows oil's spoil.\nInvestors gaze upon the scene, their hearts roil,\nInto the belly of strife, their hopes may soil.\n\nNow does Otis, a tempest fierce, in our tale weave,\nOn Acapulco's shore, a deadly leave.\nTorrent and landslide, a grim toll they heave,\n'Fore the powers of the flood, all must take leave.",
+    "feedItems": [
+      {
+        "title": "Macro Backdrop Doesn't Justify EUR/USD Below 1.05, Says MUFG",
+        "description": "A macro backdrop of recession doesn’t mean EUR/USD is heading lower, MUFG said, adding that “a level of 1.0500 for EUR/USD in large part we believe captures the current divergence between the euro-zone and the U.S.”",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-may-strengthen-amid-improving-risk-appetite-6e50c845",
+        "id": "WP-WSJ-0001310692"
+      },
+      {
+        "title": "Oil Continues Slide as Investors Eye Middle East Conflict",
+        "description": "Oil prices continued to drop, amid worries that the wider Middle Eastern region could become embroiled in the current conflict in Israel.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-after-u-s-pmi-data-32df4fab",
+        "id": "WP-WSJ-0001310419"
+      },
+      {
+        "title": "Hurricane Otis Churns Into Mexico's Acapulco as Category 5 Storm",
+        "description": "Otis made landfall on Mexico’s Pacific Coast as authorities warned of torrential rain, landslides and flash flooding and urged people living near rivers or ravines to evacuate.",
+        "link": "https://www.wsj.com/articles/mexicos-beach-resort-acapulco-braces-for-hurricane-otis-aff19ffa",
+        "id": "WP-WSJ-0001311025"
+      }
+    ],
+    "date": "2023-10-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Within the market's tumultuous brew,\nA blessing for those who hold bonds true.\nThough their yields may rock and roll,\nThey offer comfort to the soul.\n\nHeineken's brew, in the third quarter, lacked might,\nYet prospects for 2024 gleam bright,\nTheir shares may yet see a sweet increase,\nAnd bring their holders gentle peace.\n\nDeutsche Bank speaks of a pleasant surprise,\nShareholder returns shall surely rise.\nThough profit fell, no need for fright,\nFor the future holds a golden light.",
+    "feedItems": [
+      {
+        "title": "Bonds Are Volatile Now, But Offer Value in The Long Term",
+        "description": "The environment for fixed income is a “great one” for long-term investors, despite the volatility in markets, PGIM Fixed Income said, adding that bond yields are a lot higher and cyclical headwinds suggest value over the medium term.",
+        "link": "https://www.wsj.com/articles/german-bunds-look-stuck-in-recent-range-dc1fbf1b",
+        "id": "WP-WSJ-0001311220"
+      },
+      {
+        "title": "Heineken's 3Q Clears the Way for 2024 Prospects",
+        "description": "Heineken’s 3Q performance was slightly weak, but the backed guidance and the likely absence of any major changes to consensus estimates should support share increases, Citi said.",
+        "link": "https://www.wsj.com/articles/australia-shares-poised-to-rise-ahead-of-key-inflation-data-73a2e973",
+        "id": "WP-WSJ-0001310486"
+      },
+      {
+        "title": "Deutsche Bank Anticipates Accelerated Shareholder Returns",
+        "description": "Deutsche Bank said it anticipated being able to accelerate and expand shareholder returns to 2025 and beyond after third-quarter revenue rose 3% but net profit fell on rising costs and taxes.",
+        "link": "https://www.wsj.com/articles/deutsche-bank-3q-profit-fell-on-higher-costs-taxes-despite-rise-in-revenue-fbafdab3",
+        "id": "WP-WSJ-0001311118"
+      }
+    ],
+    "date": "2023-10-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Ye Heineken bold, in commerce steeped,\nIts lucre lost, yet promises kept.\nLike the goat surprised by winter's sweep,\nIt prances on, while lesser beasts wept.\n\nDassault, the snail, slow gains doth reap,\nIts shell of gold, it carefully prepped.\nIts hum tunes sweet, promises to keep,\nA brighter morrow, its song has lept.\n\nLloyds, the hound, its gain does leap,\nOn higher profits, securely stepped.\nHis bark is loud, his vigil, sleep,\nIn confidence, its guidance is adept.",
+    "feedItems": [
+      {
+        "title": "Heineken Backs Views Despite Seeing Weaker Demand",
+        "description": "Heineken reported a third-quarter revenue of €8 billion, missing consensus forecast, but backed its 2023 guidance of stable to mid-single digit organic growth in operating profit.",
+        "link": "https://www.wsj.com/articles/heineken-backs-2023-guidance-after-3q-revenue-rose-but-missed-expectations-4a4d5032",
+        "id": "WP-WSJ-0001311176"
+      },
+      {
+        "title": "Dassault Systemes Boosts EPS Forecast",
+        "description": "Dassault Systemes confirmed its full-year guidance and raised its earnings-per-share outlook to a range between €1.19 and €1.21 following a rise in revenue and an operating margin that was slightly above expectations in the third quarter.",
+        "link": "https://www.wsj.com/articles/dassault-systemes-raises-eps-outlook-on-3q-rise-in-sales-operating-margin-616003f1",
+        "id": "WP-WSJ-0001311146"
+      },
+      {
+        "title": "Lloyds Banking Backs 2023 Guidance on Higher Third-Quarter Pretax Profit",
+        "description": "The British bank reported a pretax profit of 1.86 billion pounds in the third-quarter compared with a restated £576 million for the same period a year earlier.",
+        "link": "https://www.wsj.com/articles/lloyds-banking-backs-2023-guidance-on-higher-third-quarter-pretax-profit-5d6a516c",
+        "id": "WP-WSJ-0001311189"
+      }
+    ],
+    "date": "2023-10-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "With banners bold, Porsche's tale is told,\nTheir coin of yore confirms the fold,\nThe luster gleams, a promise sold,\nIn the U.S., Europe, markets old.\n\nTelenor’s tale, a prosperous quest,\nBeats forecasts with outstanding zest,\nIn Nordics lands, they stand the test,\nWhere sun of Asia sets in west.\n\nBeiersdorf's tale, a melody sung,\nUpgrades its note, the sales bell rung,\nNine moons passed, the tale is young,\nIts performance praised on every tongue.",
+    "feedItems": [
+      {
+        "title": "Porsche Backs Full-Year Guidance",
+        "description": "Porsche confirmed its 2023 outlook for operating return on sales after reporting a 13% revenue rise for the first nine months due to a strong performance in Europe, the U.S., and emerging markets.",
+        "link": "https://www.wsj.com/articles/porsche-ag-revenue-operating-profit-rise-return-on-sales-slips-c3e97ce2",
+        "id": "WP-WSJ-0001311169"
+      },
+      {
+        "title": "Telenor Profit Beats Forecast on Nordics Growth",
+        "description": "Telenor posted better-than-expected third-quarter profit and underlying earnings after seeing solid growth in the Nordics and synergies in Asia.",
+        "link": "https://www.wsj.com/articles/telenor-3q-net-profit-beat-forecasts-on-nordics-growth-asia-synergies-ba35c446",
+        "id": "WP-WSJ-0001311160"
+      },
+      {
+        "title": "Beiersdorf Upgrades Sales Guidance on Strong Performance",
+        "description": "Beiersdorf upgraded its sales guidance for the full year after recording a strong performance in the first nine months.",
+        "link": "https://www.wsj.com/articles/beiersdorf-upgrades-sales-guidance-on-strong-performance-16673367",
+        "id": "WP-WSJ-0001311147"
+      }
+    ],
+    "date": "2023-10-25"
+  }
+]
