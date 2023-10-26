@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of metals' gentle ebbing flow,\nLook we now, in hopes to know,  \nOn ECB decree we wait,  \nBy U.S. GDP, we find our fate.\n\nLo! The Philippines taketh stance,\nTo curb rampant inflation's dance,  \nHiking rates, so unexpected,\nA firm correction, well directed.\n\nUnilever seeth changing winds,\nTo main brands, faith he extends,\nLeadership in flux, new dreams sought,\nThe course confirmed, a future bought.",
+    "feedItems": [
+      {
+        "title": "Metals Waver as Markets Look to Economic Data Releases",
+        "description": "Base metals and gold ticked up, with investors eyeing the ECB monetary policy decision and U.S. GDP data as key price drivers.",
+        "link": "https://www.wsj.com/articles/gold-edges-up-likely-to-stay-volatile-next-week-21043f3d",
+        "id": "WP-WSJ-0001313915"
+      },
+      {
+        "title": "Philippines Central Bank Unexpectedly Raises Policy Rate",
+        "description": "The Philippine central bank unexpectedly raised its benchmark interest rate to rein in high inflation.",
+        "link": "https://www.wsj.com/articles/philippines-central-bank-unexpectedly-raises-policy-rate-to-rein-in-inflation-1c5e9a58",
+        "id": "WP-WSJ-0001314867"
+      },
+      {
+        "title": "Unilever Outlines Shake-up Plans, Maintains Outlook",
+        "description": "Unilever said it would focus on its main brands, shift from gross savings to net productivity and make several changes on the leadership team as part of the new CEO’s action plan, as the group confirmed its full-year guidance.",
+        "link": "https://www.wsj.com/articles/unilever-ceo-outlines-shake-up-plans-to-boost-performance-after-3q-sales-beat-views-95fab688",
+        "id": "WP-WSJ-0001314878"
+      }
+    ],
+    "date": "2023-10-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The Bank on high, with question yet unsaid,\nIn balance sheet, the tightening thread,\nNeuberger speaks, their counsel to shed,\nA goat's path taken, by programs led.\n\nA hare retreats, as oil drops low,\nLike dog's light slumber in midday glow,\nThe dollar ascends, Israel's bow slow,\nIn Gaza's land, no footsteps sow.\n\nA snail's pace profit, TotalEnergies rise,\nThrough supportive price, its pace defies.\nShareholders cheered, their spoils the prize,\nThird dividend hailed, 'neath 2023 skies.",
+    "feedItems": [
+      {
+        "title": "ECB Expected to Announce Balance Sheet Review",
+        "description": "There is a high probability the ECB announces a balance sheet review to determine the amount of quantitative tightening required and for which programs, Neuberger Berman said.",
+        "link": "https://www.wsj.com/articles/ecb-might-discuss-pepp-reinvestments-but-decision-seems-unlikely-soon-3d030d48",
+        "id": "WP-WSJ-0001314806"
+      },
+      {
+        "title": "Oil Slips as Dollar Rises",
+        "description": "Oil prices slipped back, weighed by a stronger dollar and with Israel seemingly delaying its invasion of Gaza.",
+        "link": "https://www.wsj.com/articles/oil-prices-flat-as-traders-weigh-geopolitical-tensions-0d44a8e7",
+        "id": "WP-WSJ-0001313921"
+      },
+      {
+        "title": "TotalEnergies Boosts Payout After Profit Rise",
+        "description": "TotalEnergies posted a modest rise in third-quarter profit, helped by a supportive price environment and increased its shareholder distribution, including a third interim dividend for 2023.",
+        "link": "https://www.wsj.com/articles/totalenergies-posts-higher-3q-profit-increases-dividend-7f5f9b45",
+        "id": "WP-WSJ-0001314823"
+      }
+    ],
+    "date": "2023-10-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands of distant, the tale doth unfold,\nTakeda Pharmaceutical, a titan of old,\nSecond-quarter net loss, its heartache is told,\nImpairment of products, profits not bold.\n\nUnilever, the giant, in market's cold grace,\nIn the churn of the sales missed much in race,\nThough ice-cream be culprit of slowing pace, \nStrategic shifts absence, puts worry's trace.\n\nFrom halls of Mercedes, wails of despair,\nThird-quarter saw earnings in need of repair,\nPassenger sales decline, a sorrow to bear, \nTech investments weigh heavy, 'tis a burdensome affair.",
+    "feedItems": [
+      {
+        "title": "Takeda Pharmaceutical Books Second-Quarter Net Loss",
+        "description": "Takeda Pharmaceutical reported a second-quarter net loss due to impairment losses on certain products and cut its net-profit forecast for the fiscal year ending March 2024.",
+        "link": "https://www.wsj.com/articles/takeda-pharmaceutical-books-second-quarter-net-loss-aa5b51dc",
+        "id": "WP-WSJ-0001314258"
+      },
+      {
+        "title": "Unilever's Lack of Big Strategic Changes, Market Weakness Looks Worrying",
+        "description": "Unilever’s third-quarter volumes missed expectations, but that was mostly driven by ice-cream sales which is less relevant given the hit from the weather but Citi said the lack of big strategic changes and market share weakness is more likely to weigh on the share price for now.",
+        "link": "https://www.wsj.com/articles/nikkei-may-fall-on-renewed-concerns-about-energy-borrowing-costs-1e92a11d",
+        "id": "WP-WSJ-0001314132"
+      },
+      {
+        "title": "Mercedes-Benz Third Quarter Hit by Weaker Demand",
+        "description": "Mercedes-Benz reported a 7% drop in third-quarter underlying earnings and weaker revenue, as lower passenger car sales and increased tech investments weighed.",
+        "link": "https://www.wsj.com/articles/mercedes-benz-3q-net-profit-revenue-drop-on-lower-demand-currency-effects-e0178d08",
+        "id": "WP-WSJ-0001314775"
+      }
+    ],
+    "date": "2023-10-26"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear ye! 'Pon Schneider's stage, the tide ebbs slow,\nRevenue doth stagnate, yet hope remains aglow,\nIn Earth's Eastern quarters, the demand wanes,\nYet firm stands the fortress, ignoring fleeting pains.\n\nOf STMicroelectronics, the skald sings its praise,\nIn the third season, its fortunes it doth raise,\nThe chariot's division pulls forth the gain,\nAgainst the tide of personal tools' wane.\n\nOf BNP Paribas, a tale of rise and fall,\nGrows the hoard, yet profits appall,\nExpenses, like hydras, their heads they rear,\nYet, 'gainst forecasts, the revenue holds dear.",
+    "feedItems": [
+      {
+        "title": "Schneider Electric Keeps Outlook Despite Flat Revenue",
+        "description": "Schneider Electric backed its full-year targets after reporting flattish third-quarter revenue that was just shy of analysts’ expectations and warning of signs of weaker demand for discrete automation in China and Western Europe.",
+        "link": "https://www.wsj.com/articles/schneider-electric-backs-2023-targets-after-flat-third-quarter-revenue-96356f84",
+        "id": "WP-WSJ-0001314693"
+      },
+      {
+        "title": "STMicroelectronics Third-Quarter Beats Hopes",
+        "description": "STMicroelectronics reported above-forecast revenue and gross margin for the third quarter led by growth at its automotive division that offset weak sales at its personal electronics business.",
+        "link": "https://www.wsj.com/articles/stmicroelectronics-posts-higher-revenue-amid-strong-automotive-market-demand-fe617850",
+        "id": "WP-WSJ-0001314761"
+      },
+      {
+        "title": "BNP Paribas Profit Fall Worse Than Expected",
+        "description": "BNP Paribas reported a lower third-quarter net profit despite revenue growth that exceeded analysts’ expectations, as expenses climbed.",
+        "link": "https://www.wsj.com/articles/bnp-paribas-third-quarter-profit-falls-on-higher-expenses-8f2e5ec5",
+        "id": "WP-WSJ-0001314683"
+      }
+    ],
+    "date": "2023-10-26"
+  }
+]
