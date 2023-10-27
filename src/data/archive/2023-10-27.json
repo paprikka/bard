@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From east like the rising sun, mid-week has sprung,\nStrong dollar and Asian winds, the song unsung,\nYet, the steadfast metals, their worth tower high,\nAgainst the arduous tides, towards the sky.\n\nA saga unfolds in Sanofi's great hall,\nPlans for spin-off, consumer-health's downfall,\nFamed for its pharma, and scripts of pure gold,\nIts focus hereafter, forefathers behold. \n\nReckitt Benckiser, a ship amidst storm,\nDowngrades approaching, in ill-favoured form,\nNatWest speaks of weaker financial plight,\nA tempest looming, cloaked deep in the night.",
+    "feedItems": [
+      {
+        "title": "Metals Set to Finish the Week Higher Despite Mixed Demand Signals, Strong Dollar",
+        "description": "Base metal prices are set to finish the week higher, despite mixed demand signals from Asia and a strong dollar acting as headwinds.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-as-u-s-treasury-yields-fall-049bf165",
+        "id": "WP-WSJ-0001317836"
+      },
+      {
+        "title": "Sanofi Plans to Spin Off Consumer-Healthcare, Pharma Businesses",
+        "description": "The move makes Sanofi the latest drugmaker to sharpen its focus on prescription medicines by offloading adjacent businesses.",
+        "link": "https://www.wsj.com/articles/sanofi-plans-to-spin-off-consumer-healthcare-business-ab808c6f",
+        "id": "WP-WSJ-0001318296"
+      },
+      {
+        "title": "Reckitt Benckiser's Lack of Catalysts Prompts Downgrades",
+        "description": "NatWest’s consensus earnings expectations likely imply double-digit earnings downgrades to 2024 alongside a weaker capital outlook, according to Barclays.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-point-to-flat-open-906149cc",
+        "id": "WP-WSJ-0001317631"
+      }
+    ],
+    "date": "2023-10-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Black gold ascends, amidst the desert's strife,\nIts value braided in the folds of fear,\nAs goats that fear the snarling wolf, their life,\nEnds not this dalliance dear.\n\nThe Dollar's dance is swaying, now unsure,\nAs dogs that turn to distant bugle's call,\nIn lands afar, their voices will allure,\nUpon our ears they fall.\n\nShares in NatWest flutter like leaves in gale,\nAs rabbits startled by the falcon's swoop,\nTheir worth, alas, to tempest winds they sail,\nIn uncertainty they loop.",
+    "feedItems": [
+      {
+        "title": "Oil Gains as Middle East Tensions Rise",
+        "description": "Oil gained more than 1% as tensions in the Middle East continued to worry investors, with BMI predicting prices will trade $80-$95 a barrel over the remainder of 2023 and in early 2024.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-remains-vulnerable-to-further-selling-pressure-9aff64c6",
+        "id": "WP-WSJ-0001317831"
+      },
+      {
+        "title": "Dollar May Start to React Less to US Data, More to Data Elsewhere",
+        "description": "The dollar’s reaction to the stronger-than-expected U.S. GDP data was “quite muted” and it could, along with other currencies, start to react more to data outside of the U.S., such as the eurozone and China, than it has in recent weeks, ING said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-improving-risk-appetite-fa38ed23",
+        "id": "WP-WSJ-0001317828"
+      },
+      {
+        "title": "NatWest Shares Slide After Profit Outlook Cut",
+        "description": "NatWest shares hit their lowest price since early 2021 after the bank cut its full-year net interest margin guidance and reported below-forecast profits in the third quarter.",
+        "link": "https://www.wsj.com/articles/natwest-shares-drop-after-guidance-cut-3q-miss-says-review-found-farage-account-closure-lawful-2ddafa97",
+        "id": "WP-WSJ-0001318366"
+      }
+    ],
+    "date": "2023-10-27"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Eurozone's bond yields silent stand,\nMonk Arnulfus doth not deeply understand.\nGovernment bonds sounded, no selloffs sparred,\nLike thick ale simmering, prospects barred.\n\nIAG, firm in outlook, full of cheer,\nResounds like strong wine, crystal clear.\nWith profits rising, plump as a grape,\nTheir fortunes swift, in good shape.\n\nEni's outlook, now bright as golden mead,\nTheir success on parchment, scribes do read.\nBoosted by exploration, the cash flow sings,\nPraise be to God, who all good things brings!",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Stall Awaiting New Driver",
+        "description": "Eurozone government bonds were little changed and Abrdn said recessionary economic data would suggest lower yields, but selloffs in Treasurys have added upside pressure.",
+        "link": "https://www.wsj.com/articles/end-of-ecb-interest-rate-increases-bodes-well-for-long-duration-f68f3d20",
+        "id": "WP-WSJ-0001318340"
+      },
+      {
+        "title": "IAG Confident on Outlook After Strong Third Quarter",
+        "description": "British Airways-owner IAG reported an above-forecast rise in third-quarter core profit, driven by strong leisure demand across all group airlines, and said it expected a solid recovery in 2023 with capacity nearing prepandemic levels.",
+        "link": "https://www.wsj.com/articles/iag-beats-3q-views-driven-by-strong-leisure-demand-rising-capacity-f854b512",
+        "id": "WP-WSJ-0001318348"
+      },
+      {
+        "title": "Eni Upgrades Outlook After Third-Quarter Beat",
+        "description": "Eni raised its full-year forecasts for operating profit and cash flow after third-quarter results topped analysts’ expectations, boosted by the exploration and production division.",
+        "link": "https://www.wsj.com/articles/eni-raises-guidance-after-3q-beat-expectations-despite-weaker-prices-b9ceabe7",
+        "id": "WP-WSJ-0001318330"
+      }
+    ],
+    "date": "2023-10-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beneath the veil of darkened night, Remy Cointreau's plight,\nOrganic sales they do foresee, lessen by fifth or one of three.\nTheir market in the New World wanes, amidst fierce contests, losses gains,\nHigh they soar, those interest rates, whilst distributors' funding waits.\n\nA tale I weave now of CaixaBank's gain,\nProfit has risen, easing strain.\nLending income's swelling tide, has brought a boon on autumn's ride,\nDespite a portfolio’s dissent, still rosy are the dividends sent.\n\nNaught but shadows cast their drape, on Covestro's evolving shape,\nLowered forecasts they now declare, earnings scarce in rarified air.\nThe environment proves hostile, sowing doubt on profit's aisle,\nAn arduous year their books confess, echoes of a business in distress.\n",
+    "feedItems": [
+      {
+        "title": "Remy Cointreau Slashes Guidance After Sales Slump",
+        "description": "Remy Cointreau forecast a 15%-20% decline in organic sales for fiscal 2024, saying market conditions had deteriorated in the U.S., citing a fiercely promotional environment and high interest rates that cut distributors’ financing capacity.",
+        "link": "https://www.wsj.com/articles/remy-cointreau-slashes-guidance-after-sales-slump-8c950d7c",
+        "id": "WP-WSJ-0001318314"
+      },
+      {
+        "title": "CaixaBank Profit Boosted by Higher Lending Income",
+        "description": "CaixaBank reported a 19% rise in third-quarter profit on higher lending income and despite a decline in its loans portfolio.",
+        "link": "https://www.wsj.com/articles/caixabanks-profit-boosted-by-higher-lending-income-326e65f8",
+        "id": "WP-WSJ-0001318272"
+      },
+      {
+        "title": "Covestro Trims Guidance Range",
+        "description": "Covestro lowered its full-year forecasts for underlying earnings and cash flow, citing a challenging environment that weighed on its third-quarter results.",
+        "link": "https://www.wsj.com/articles/covestro-sees-guidance-at-lower-end-of-ranges-c2f149a1",
+        "id": "WP-WSJ-0001318283"
+      }
+    ],
+    "date": "2023-10-27"
+  }
+]
