@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "The brave Netanyahu, much like Moses of old,\nIn a battle 'gainst Hamas, brave and bold.\nA fight for freedom, with fervent speech,\nA forwarding step, the heavens to reach.\n\nIn the market of bonds, a mantra we see,\nBuy the drooping stature, invest thine pennie.\nA treasure reborn from a beaten fund,\nIn Wall Street's madness, victory is won.\n\nTowards the land of the Free, Indians embark,\nIn numbers record-high, lighting a spark.\nBid thee Biden in struggle, ‘gainst the human tide,\nMay the saints grant wisdom, his choices to guide.",
+    "feedItems": [
+      {
+        "title": "Netanyahu Announces Second Phase of Gaza Operations",
+        "description": "Prime minister calls conflict with Hamas Israel’s ’second War of Independence,” as its expanded fight in Gaza effectively cut all communications in the enclave.",
+        "link": "https://www.wsj.com/articles/israel-says-it-has-killed-one-of-planners-of-oct-7-attack-e3a11758",
+        "id": "WP-WSJ-0001321329"
+      },
+      {
+        "title": "'Buy the Dip' Investing Mantra Lives On in Bond Market",
+        "description": "One of the hottest investments on Wall Street is something of a surprise—a battered, long-dated Treasury bond fund.",
+        "link": "https://www.wsj.com/articles/buy-the-dip-investing-mantra-lives-onin-the-bond-market-at-least-b5d2996f",
+        "id": "WP-WSJ-0001320595"
+      },
+      {
+        "title": "Indians Are Entering the U.S. Illegally in Record Numbers",
+        "description": "The uptick is contributing to the struggles the Biden administration faces in curbing the surge in illegal border crossings.",
+        "link": "https://www.wsj.com/articles/indians-are-entering-the-u-s-illegally-in-record-numbers-2cf19e38",
+        "id": "WP-WSJ-0001312922"
+      }
+    ],
+    "date": "2023-10-29"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Tennessee's industrial heartland, strife does rise,\nUnited Auto Workers in protest, against GM they despise.\nLike the raging sea, their voices swell in the night,\nIn the stand-off 'twixt might and right, igniting the fight.\n\nIn the land of Colombia, a tale of sorrow and fear,\nSoccer Star Luis Díaz's kin, in abduction, disappear.\nBut lo, the diligent watchmen, valiantly they strive,\nRescued the mother, and seek the father, may he survive.\n\nOnce the lair of the working man, cherished and hailed,\nThe Home Office, midst Covid’s wrath, as safe haven sailed.\nYet time like the relentless tide has washed awe away,\nAnd the fortress of labour, now holds but scant sway.",
+    "feedItems": [
+      {
+        "title": "UAW Expands Strike With GM After Reaching Tentative Agreement With Stellantis",
+        "description": "The United Auto Workers calls a fresh walkout at a General Motors factory in Tennessee.",
+        "link": "https://www.wsj.com/articles/uaw-stellantis-reach-tentative-agreement-on-new-four-year-labor-contract-1bc9c9f5",
+        "id": "WP-WSJ-0001321637"
+      },
+      {
+        "title": "Parents of Liverpool Soccer Star Luis Díaz Kidnapped in Colombia",
+        "description": "Police rescued Díaz’s mother soon after the kidnapping. The search was on for his father in a poor, rural region that is home to the family.",
+        "link": "https://www.wsj.com/articles/parents-of-liverpool-soccer-star-luis-diaz-kidnapped-in-colombia-e968077b",
+        "id": "WP-WSJ-0001322083"
+      },
+      {
+        "title": "The Home Office Was a Must-Have During Covid. Now It's Just Meh.",
+        "description": "As workers return to the office, the once-coveted space isn’t as big of a selling point these days.",
+        "link": "https://www.wsj.com/articles/home-offices-2bfe7ef2",
+        "id": "WP-WSJ-0001313311"
+      }
+    ],
+    "date": "2023-10-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In yon realm where gold be saved, a bounty laid,\nA new sweet serenade from the Fafsa's jade,\nThat more in chest of diligence in collegiate aid,\n'Tis a tune of hope, a dawn's brigade.\n\nIn the sandy seas of strife, where peace has decayed,\nA tale of conflict, 'twixt Hamas and Israel, parlayed,\nWitness the heated battle, in sorrow arrayed,\nIn parchment of grief, the war's chronicle relayed.\n\nHark! Comes a word of unrest, and plans betrayed,\nGeneral Motors stands in wait, a labor crusade,\nUrges stir within, for the Stellantis accord frayed,\nA walkout is called, in the forge of dispute displayed.",
+    "feedItems": [
+      {
+        "title": "Saving More in a 401(k) Can Now Boost Your College Financial Aid",
+        "description": "How the new Fafsa application changes the formula for financial aid.",
+        "link": "https://www.wsj.com/articles/financial-aid-401k-retirement-fafsa-8104c0bc",
+        "id": "WP-WSJ-0001319727"
+      },
+      {
+        "title": "See More: Israel-Hamas Conflict »",
+        "description": "See our full coverage of the war.",
+        "link": "https://www.wsj.com/articles/see-more-israel-gaza-conflict-55f28f14",
+        "id": "SB12450446997077323784504590301902508169156"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "United Auto Workers called for a fresh walkout at a General Motors factory in Tennessee hours after reaching a tentative labor agreement with Stellantis",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-f4b8caed",
+        "id": "SB10020737827761593298004590301842516173630"
+      }
+    ],
+    "date": "2023-10-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Otis reaps, and Mexico moans, a wailing sea,\nTroops in garb, aid to bear so solemnly.\nAcapulco, fair town, trembles, yet stands tall,\nWe graft to heal, or else we risk the fall.\n\nIn the city street, a pulsing marketplace,\nStocks are chosen, like hounds in frantic race.\nThe columnists decree, their dance unfolds,\nIn this split world of bearish and of bold.\n\nFrom Gaza, grim shadows threaten day's light,\nHamas, like wolves, stirs restless in the night.\nTaking hostages, a brazen serpent's bite,\nAll grieve, we ponder on this sorrowful sight.",
+    "feedItems": [
+      {
+        "title": "Mexico Raises Hurricane Otis Death Toll to 39",
+        "description": "Government has deployed 15,000 troops in and around Acapulco to distribute aid, restore order and prevent looting.",
+        "link": "https://www.wsj.com/articles/mexico-raises-hurricane-otis-death-toll-to-39-79e44b06",
+        "id": "WP-WSJ-0001321922"
+      },
+      {
+        "title": "Heard on the Street's Stock-Picking Contest",
+        "description": "Read about our columnists’ most- and least-favorite stocks as they make their choices.",
+        "link": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-contest-bbb58f00",
+        "id": "WP-WSJ-0001146574"
+      },
+      {
+        "title": "Hamas Took More Than 200 Hostages From Israel. Here's What to Know.",
+        "description": "Militants from the Gaza Strip abducted civilians and soldiers in the attack on Israel.",
+        "link": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124",
+        "id": "WP-WSJ-0001309539"
+      }
+    ],
+    "date": "2023-10-29"
+  }
+]
