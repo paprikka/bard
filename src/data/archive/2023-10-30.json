@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "When the German bond shows signs of fatigue,\nIn the marketplace, there's a stage,\nYields droppeth like an empty ale keg,\nBelow three percent, a fateful peg.\n\nShein takes Missguided under its cape,\nFrom Frasers, a fashion escape,\nA secret sum, no one doth know,\nFor the brand's thought and symbol glow.\n\nOmnicom purchases Flywheel with might,\nEight hundred and thirty-five m, a sight,\nTo help brands sell in digital spaces,\nIn the owner of Cannes Lions traces.",
+    "feedItems": [
+      {
+        "title": "Eurozone Government Bond Market May Be Showing Signs of Fatigue",
+        "description": "Eurozone government bond yields dropped with the 10-year German Bund yield moving further below the 3% mark, suggesting “certain fatigue tendencies of the bond-negative momentum,” LBBW said.",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-market-may-be-showing-signs-of-fatigue-d6cfa839",
+        "id": "WP-WSJ-0001323490"
+      },
+      {
+        "title": "Shein Buys Missguided From Frasers",
+        "description": "Shein agreed to buy online fashion label Missguided from Frasers for an undisclosed sum, with the transaction being for the intellectual property and trademarks of the brand.",
+        "link": "https://www.wsj.com/articles/shein-buys-missguided-brand-from-frasers-5f8c3cc4",
+        "id": "WP-WSJ-0001323468"
+      },
+      {
+        "title": "Omnicom Buys E-Commerce Shop Flywheel Digital for $835 Million",
+        "description": "Flywheel aims to help brands sell on digital marketplaces and is part of Ascential, owner of the Cannes Lions ad festival.",
+        "link": "https://www.wsj.com/articles/omnicom-buys-e-commerce-shop-flywheel-digital-for-835-million-a40212d4",
+        "id": "WP-WSJ-0001322941"
+      }
+    ],
+    "date": "2023-10-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Nikkei’s hall, a shadow falls, where once there reigned delight,\nAuto and pharma stocks hath bled, under the conflict's plight,\nAs battles rage in the Middle East, the world’s purse strings draw tight,\nIn this global dance, the fickle chance, puts economies in fright.\n\nA tale of trade doth now unfold, 'neath the Swiss skies so clear,\nIFF's beauty base, to Clariant passed, for a price austere.\nEight hundred tenth of a million gold, exchanged with handshake sincere,\nA cosmetic reign, for a princely gain, embarks on a new frontier.\n\nIn the realm of the U.K., prices of homes take a fall,\nAs budget's squeeze and mortgages tease, the buyer’s hopeful call.\nAcross the markets, high and low, the cost-of-living befalls,\nWidespread the blight, in the fading light, of autumn’s spectral pall.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 1.0%, Dragged by Auto, Pharma Stocks",
+        "description": "Japanese stocks ended lower, dragged by weakness in auto and pharmaceutical stocks, amid growing concerns about the Middle East conflict and its impact on the global economy.",
+        "link": "https://www.wsj.com/articles/nikkei-may-fall-as-concerns-grow-about-middle-east-conflict-6e18ba7b",
+        "id": "WP-WSJ-0001323011"
+      },
+      {
+        "title": "IFF to Sell Cosmetics Ingredients Unit to Clariant for $810 Million",
+        "description": "Swiss chemicals company Clariant will buy a cosmetic ingredients unit of International Flavors & Fragrances for $810 million.",
+        "link": "https://www.wsj.com/articles/iff-to-sell-cosmetics-ingredients-unit-to-clariant-for-810m-2b4d84aa",
+        "id": "WP-WSJ-0001323434"
+      },
+      {
+        "title": "U.K. Home Prices Fall Became More Widespread in October",
+        "description": "The U.K. housing market saw widespread price falls in September, as higher mortgage rates and cost-of-living pressures squeezed buyer budgets across most local markets, according to new research published by Zoopla.",
+        "link": "https://www.wsj.com/articles/u-k-home-prices-fall-became-more-widespread-in-october-130b22fb",
+        "id": "WP-WSJ-0001323445"
+      }
+    ],
+    "date": "2023-10-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Evergrande, giant of the East, I sing,\nIts ship of debt in tempest, reeling, tossed,\nYet in the court, a respite they did bring,\nAn adjourned fate, not yet in sea-foam lost.\n\nThen speak I of the Iron Horse's wrath,\nIn burning heart of Australia found,\nIts drivers seeking more from BHP's path,\nWith threats of strike, they make their justice sound.\n\nOn HSBC's wealth, my verse takes flight,\nNay, twice but three the third quarter's grace,\nWith gold-full galleons in moonlit night,\nTheir share bought back, a swift economic race.",
+    "feedItems": [
+      {
+        "title": "Evergrande Winding-Up Hearing Adjourned to Dec. 4",
+        "description": "China Evergrande has been given another chance to restructure its billions of dollars in debt as a court adjourned a hearing to wind up the company.",
+        "link": "https://www.wsj.com/articles/china-evergrande-winding-up-hearing-adjourned-to-dec-4-197be628",
+        "id": "WP-WSJ-0001323414"
+      },
+      {
+        "title": "BHP Iron Ore Train Drivers Threaten Strike Action",
+        "description": "Train drivers at BHP Group’s Australian iron-ore operations have voted in favor of strike action in a dispute over pay and conditions.",
+        "link": "https://www.wsj.com/articles/bhp-iron-ore-train-drivers-threaten-strike-action-in-pay-dispute-e1516413",
+        "id": "WP-WSJ-0001323357"
+      },
+      {
+        "title": "HSBC's Third-Quarter Net Profit More Than Doubled",
+        "description": "The Asia-focused lender also intends to initiate a further share buyback of up to $3 billion after announcing three share buybacks in 2023 totaling up to $7 billion.",
+        "link": "https://www.wsj.com/articles/hsbc-holdings-third-quarter-net-profit-more-than-doubled-4cc1f905",
+        "id": "WP-WSJ-0001323270"
+      }
+    ],
+    "date": "2023-10-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of USD stout and SGD slender,\nIn afternoon's soft reprieve,\nLike a goat amid the heather, \nRisk appetite does receive. \n\nO'r the moon of next year's potential,\nMAS whispers in the night,\nA snail's pace marked essential,\nIn the shadow of GDP's light.\n\nThe rabbit of Disney's dominion,\nIn Peltz's court does dwell,\nPerlmutter shares his opinion,\nAnd lets the underachievement quell.",
+    "feedItems": [
+      {
+        "title": "SGD Strengthens, Buoyed by Recovering Risk Appetite",
+        "description": "SGD strengthened against USD in the afternoon Asian session, buoyed by recovering risk appetite spurred by gains in U.S. stock-index futures.",
+        "link": "https://www.wsj.com/articles/yen-weakens-as-bojs-two-day-meeting-gets-underway-877b1f4e",
+        "id": "WP-WSJ-0001323017"
+      },
+      {
+        "title": "Singapore's Growth Likely to Be Closer to Potential Rate Next Year, MAS Says",
+        "description": "Singapore’s gross-domestic-product growth is expected to be in the lower half of the 0.5%-1.5% forecast range this year, and closer to its potential rate next year, the Monetary Authority of Singapore said Monday.",
+        "link": "https://www.wsj.com/articles/singapores-growth-likely-to-be-closer-to-potential-rate-next-year-mas-says-401e93f8",
+        "id": "WP-WSJ-0001323325"
+      },
+      {
+        "title": "Peltz's Push for Disney Board Seats Boosted by Perlmutter's Shares",
+        "description": "Former Marvel Entertainment executive Ike Perlmutter says he can ‘no longer watch the business underachieve its great potential.’",
+        "link": "https://www.wsj.com/articles/peltzs-push-for-disney-board-seats-boosted-by-perlmutters-shares-a91f121e",
+        "id": "WP-WSJ-0001322914"
+      }
+    ],
+    "date": "2023-10-30"
+  }
+]
