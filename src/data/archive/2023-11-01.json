@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of GSK's yearend goals, they speak with cheer,\nProfit up by fifteen, 'tis clear.\nTheir profit doth increase, a sign divine,\nLike ale that's brewed from barley fine.\n\nAs the year ends, bond investors pine,\nHoping for a recovery, sweet as wine.\nA dreadful autumn hath passed, 'tis true,\nYet hope springs anew, as the morning dew.\n\nOrsted, from yon U.S projects, takes leave,\nA heavy blow, they nobly grieve.\nExpensive winds, delays and more,\nDashed hopes, like a ship stricken on the shore.",
+    "feedItems": [
+      {
+        "title": "GSK Raises Profit Guidance",
+        "description": "GSK said it now expects adjusted operating profit to increase between 13-15% after it reported a rise in net profit in the third quarter, mainly due to the U.S. launch of its Arexvy vaccine.",
+        "link": "https://www.wsj.com/articles/gsk-plc-raises-guidance-after-rsv-vaccine-lifts-earnings-ca7bd091",
+        "id": "WP-WSJ-0001329672"
+      },
+      {
+        "title": "Bond Investors Seen Yearning for Year-End Recovery",
+        "description": "Bond investors are hoping for a year-end recovery, Commerzbank Research said, “as sentiment remains shaky, hopes among bond investors are running high that a dreadful September/October will give way to a positive year-end performance, similar to last year.”",
+        "link": "https://www.wsj.com/articles/bond-investors-seen-yearning-for-year-end-recovery-4a8e0847",
+        "id": "WP-WSJ-0001329686"
+      },
+      {
+        "title": "Orsted Books Impairments, Walks Away From U.S. Offshore Projects",
+        "description": "Orsted booked a $4 billion impairment charge in the third quarter related to its U.S. offshore wind portfolio and said it will stop development of two wind farm projects off the coast of New Jersey amid spiraling costs and supplier delays.",
+        "link": "https://www.wsj.com/articles/orsted-books-4-bln-impairments-walks-away-from-two-us-offshore-projects-cd161488",
+        "id": "WP-WSJ-0001329676"
+      }
+    ],
+    "date": "2023-11-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Hark! In sunrise land, Nikkei stirs anew,\nLed by strength in earnings, solid and true.\nFears of discord in the East quenched by calm's light,\nAnd costs of energy yield to respite.\n\nLo! BHP, a titan with wealth dug from ground, \nSees China's demand as robust, as sound.\nThough struggles strike the dragon in her wake,\nHer ravenous hunger for iron, copper, no quake can shake.\n\nBehold! In the land of the rising sun's cart,\n'Round the wheel, Toyota's wealth doth dart.\nA bounty thrice-fold they now impart,\nAn ebb in chip shortage sparks their art.",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 2.4%, Driven by Strong Earnings Results",
+        "description": "Japanese stocks ended broadly higher, led by companies posting strong results, as concerns eased for now about the Middle East conflict and costs of energy.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-rise-a2ce377e",
+        "id": "WP-WSJ-0001328954"
+      },
+      {
+        "title": "BHP CEO Says China Commodity Demand Robust Despite Economic Struggles",
+        "description": "China’s demand for commodities including iron ore and copper remains robust, the chief executive of mining giant BHP Group said, even as the country’s economic recovery disappoints and its property sector struggles.",
+        "link": "https://www.wsj.com/articles/bhp-ceo-says-jurys-out-on-china-recovery-but-commodity-demand-robust-eb264781",
+        "id": "WP-WSJ-0001329613"
+      },
+      {
+        "title": "Toyota Motor Nearly Tripled Second-Quarter Profit",
+        "description": "Toyota Motor raised its full-year earnings guidance after saying second-quarter net profit nearly tripled from a year earlier, as sales grew thanks to an easing chip shortage.",
+        "link": "https://www.wsj.com/articles/toyota-motor-nearly-tripled-second-quarter-profit-sales-grew-ca1fbc54",
+        "id": "WP-WSJ-0001329276"
+      }
+    ],
+    "date": "2023-11-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the light, the coin of serpents coiled,\nBidleth not haste, the whisper 'fore it's foiled,\nUSD and SGD engaged,\nA tale in the market's connection staged.\n\nIn Gaza's corner where the rabbits reside,\nAn iron bird hath breached the snails' pride,\nIn rubble and woe, its message is sowed,\nA burdensome truth in fear bestowed.\n\n'Cross the orient, where the goats graze,\nDwellers resist the changing phase,\nOf homes valued less, yet dear in hearts' pleas,\nChina's land holds the weight of these seas.",
+    "feedItems": [
+      {
+        "title": "USD/SGD Consolidates Ahead of FOMC Decision",
+        "description": "USD/SGD consolidated in the afternoon Asian session ahead of the FOMC decision due out later in the global day.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-on-report-of-japan-warning-of-possible-intervention-5ae2fd53",
+        "id": "WP-WSJ-0001329024"
+      },
+      {
+        "title": "Israeli Airstrike Hits Crowded Refugee Camp in Northern Gaza",
+        "description": "The Israeli military said it hit a Hamas command and tunnel network in northern Gaza, causing widespread casualties and damage in a crowded Palestinian refugee camp.",
+        "link": "https://www.wsj.com/articles/israel-hits-hamas-tunnels-as-ground-offensive-intensifies-09572f24",
+        "id": "WP-WSJ-0001326571"
+      },
+      {
+        "title": "China's Property Developers Cut Prices---and Homeowners Are Resisting",
+        "description": "Local governments are grappling with the challenge of allowing home prices to fall.",
+        "link": "https://www.wsj.com/articles/chinas-property-developers-cut-pricesand-homeowners-are-resisting-22e528c1",
+        "id": "WP-WSJ-0001318437"
+      }
+    ],
+    "date": "2023-11-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the day of Terror's birth, in aught—\nStout Yankees forsook the Hamas tract, \nTo Israel entrusted their informat rote,\nAl Qaeda’s cruel captains to distract.\n\nIn the heart of Silicon Valley's fertile ground,\nBursts forth the chip industry, robust and sound.\nFrom the ashes of decline, now up they bound,\nIntel and Samsung, recovery found.\n\nUpon the brink of frigid confrontation, stand,\nThe mighty eagle and the dragon grand.\nIn San Francisco's hall, 'tis planned,\nBoth Biden and Xi shall make their stand.",
+    "feedItems": [
+      {
+        "title": "U.S. All but Stopped Spying on Hamas in Years After 9/11",
+        "description": "The CIA outsourced intelligence gathering on Palestinian groups to Israel after the Sept. 11, 2001, attacks, focusing instead on the hunt for al Qaeda and Islamic State leaders.",
+        "link": "https://www.wsj.com/articles/u-s-all-but-stopped-spying-on-hamas-in-years-after-9-11-ebe8d61d",
+        "id": "WP-WSJ-0001328028"
+      },
+      {
+        "title": "After a Boom and Bust, Chip Industry Is Regaining Its Health",
+        "description": "Intel, Samsung and others see a semiconductor rebound as tech demand starts to recover.",
+        "link": "https://www.wsj.com/articles/after-a-boom-and-bust-the-chip-industry-is-regaining-its-health-b4043db0",
+        "id": "WP-WSJ-0001328044"
+      },
+      {
+        "title": "Tensions between the U.S. and Chinese militaries continue to simmer even as Biden and Xi prepare for a likely summit in San Francisco in November.",
+        "description": "Tensions between the U.S. and Chinese militaries continue to simmer even as Biden and Xi prepare for a likely summit in San Francisco in November.",
+        "link": "https://www.wsj.com/world/china/u-s-and-china-are-smoothing-tiesbut-military-frictions-still-chafe-1f55fc60",
+        "id": "F219C18D-CD49-4FF8-9BC5-8F70A72BF021"
+      }
+    ],
+    "date": "2023-11-01"
+  }
+]
