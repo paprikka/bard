@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hearken now to Sainsbury's lore,\nIn fiscal year will profits soar.\nForge of commerce stirs and seethes,\nHarvest grows from golden sheaves.\n\nThe Dollar’s might, once vast and wide,\nNow, in modest tide subsides.\nEagle's flight but briefly stuns,\nAs waxing moon doth yield to sun.\n\nShell, the mighty dragon, roars,\nAdds more to its golden hoard.\nEarnings climb does tale unfold,\nIn tales of silver, tales of gold.",
+    "feedItems": [
+      {
+        "title": "Sainsbury's Raises Full-Year Guidance",
+        "description": "Sainsbury’s lifted its guidance for fiscal 2024 on volume strength as it posted sales growth driven by groceries for the first half of the year.",
+        "link": "https://www.wsj.com/articles/sainsburys-raises-fy-2024-guidance-ba1b36fe",
+        "id": "WP-WSJ-0001333017"
+      },
+      {
+        "title": "Dollar's Future Gains Might Be More Modest Than Expected",
+        "description": "The window for dollar strength remains open but the lack of its appreciation in October as U.S. bond yields surged increases the risks of the scale of dollar gains being more modest than expected by MUFG.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-on-prospects-feds-tightening-nearing-end-7b39b5a9",
+        "id": "WP-WSJ-0001332243"
+      },
+      {
+        "title": "Shell Announces $3.5 Billion Buyback",
+        "description": "Shell launched a $3.5 billion share buyback program after third-quarter earnings rose on higher refining margins, oil prices and sales, but slightly missed market expectations.",
+        "link": "https://www.wsj.com/articles/shell-earnings-rose-on-higher-energy-prices-launches-3-5-bln-buyback-5ca6b1a6",
+        "id": "WP-WSJ-0001332994"
+      }
+    ],
+    "date": "2023-11-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "God save the bank of Malaya fair,\nFrom chaos worth not a prayer,\nLike bitter brew in earthenware,\nStrong the risks it doth bear.\n\nNovo's draught of health divine,\nCarefully they assign,\nLike hoarded ale, yet ye shall pine,\nFor in their cells they confine.\n\nGood news from Lufthansa's flight,\nFulfilled dreams of height and might,\nLike frothy brew in holy rite,\nTheir prospects gleam in God's light.",
+    "feedItems": [
+      {
+        "title": "Malaysia Central Bank Keeps Policy Rate Unchanged",
+        "description": "Bank Negara Malaysia said the country’s growth outlook faces risks such as weak external demand and protracted declines in commodities production.",
+        "link": "https://www.wsj.com/articles/malaysia-central-bank-keeps-policy-rate-unchanged-3315e777",
+        "id": "WP-WSJ-0001332237"
+      },
+      {
+        "title": "Novo Nordisk Continues to Limit Wegovy Supplies",
+        "description": "Novo Nordisk is gradually expanding supply capacity for its blockbuster weight-loss drug, but said it will continue to limit supply of lower-strength doses of the Wegovy medicine in the U.S. as it seeks to safeguard supplies.",
+        "link": "https://www.wsj.com/articles/novo-nordisk-continues-to-limit-supply-of-blockbuster-weight-loss-drug-db3ead69",
+        "id": "WP-WSJ-0001332964"
+      },
+      {
+        "title": "Lufthansa Beats Views, Sees Continued Strong Demand",
+        "description": "Lufthansa said it expected capacity in the current quarter to reach around 91% of 2019 levels and confirmed its adjusted EBIT forecast for the year after it reported third-quarter earnings ahead of consensus.",
+        "link": "https://www.wsj.com/articles/lufthansas-earnings-beat-forecasts-after-strong-summer-776c5a48",
+        "id": "WP-WSJ-0001332943"
+      }
+    ],
+    "date": "2023-11-02"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On Nikkei's gains, bright as morning's rook,\nStirred by electric stocks, in strength they brooks.\nNo fears the path of lending costs uncrook,\nAs Fed retreats and rate increase overlooks.\n\nIn Gaza's heart, a throng unseen before,\n'Gainst Egypt's threshold stands firm at the door.\nYet Palestinians hurt, Americans and more,\nSeek refuge as the Rafah border tore.\n\nThe Bullock's yoke, now heavy on RBA's brow,\nIt seems the path of policy lies in shadow's bow.\nWill the pressures' crescendo, force a vow?\nOr will desire's target the inflation allow?",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 1.1%, Led by Electronics Stocks",
+        "description": "Japanese stocks ended higher, led by gains in electronics stocks, as concerns eased about borrowing costs following the Fed’s pause on rate increases.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-after-fed-holds-5ccb8c97",
+        "id": "WP-WSJ-0001332326"
+      },
+      {
+        "title": "Foreign Nationals Start to Leave Gaza at Egyptian Border",
+        "description": "More than 400 people, including wounded Palestinians and some Americans, crossed into Egypt from the Rafah border, Egyptian and U.S. officials say.",
+        "link": "https://www.wsj.com/articles/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab",
+        "id": "WP-WSJ-0001329757"
+      },
+      {
+        "title": "Glynn's Take: RBA Policy Decision Seems Too Tough to Call With Cautious Bullock at the Helm",
+        "description": "The Australian central bank is likely still weighing whether the buildup in price pressures will force it to revise its expectation that inflation will return to the desired target.",
+        "link": "https://www.wsj.com/articles/glynns-take-rba-policy-decision-seems-too-tough-to-call-with-cautious-bullock-at-the-helm-b6e42446",
+        "id": "WP-WSJ-0001332928"
+      }
+    ],
+    "date": "2023-11-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A pipe to quench the flame's allure,  \nBut halt, says court with gesture pure.  \nIn Santos's dream, a snail's path defied,  \nBy Aussie's coast, the project's tide.  \n\nIn grand kremlin's webs and dens,  \nLies Wagner's story of might and men.  \nRabbits change their cloaks and skin,  \nFor echoes of power and whispers within.  \n\nFrom East to West, the tale is told,  \nOf Shein's pursuit, brave and bold.  \nA dog in foreign land they sought,  \nIn Townsend's vast wisdom they bought.",
+    "feedItems": [
+      {
+        "title": "Santos's Barossa Gas Pipeline Delayed by Australian Court",
+        "description": "The energy explorer’s attempt to lay a pipeline through a gas field off Australia’s north coast has been held up after a court granted an interim injunction delaying the start of the project.",
+        "link": "https://www.wsj.com/articles/santoss-barossa-gas-pipeline-delayed-by-australian-court-ca51ba34",
+        "id": "WP-WSJ-0001332878"
+      },
+      {
+        "title": "How Russia Is Restructuring Wagner Group's Africa Operations",
+        "description": "After the death of Wagner leader Yevgeny Prigozhin, the Kremlin is putting a new power structure in place that will take over the group’s sprawling operations in Africa, which have advanced Russian influence on the continent for almost a decade.",
+        "link": "https://www.wsj.com/articles/how-russia-is-restructuring-wagner-groups-africa-operations-b5cb79be",
+        "id": "SB10799204598944414314204590310291449480372"
+      },
+      {
+        "title": "Shein Turns to Western Executives to Become Even More Global",
+        "description": "Entangled in geopolitical friction, the China-founded e-commerce powerhouse taps American executive Frances Townsend.",
+        "link": "https://www.wsj.com/articles/shein-turns-to-western-executives-to-become-even-more-global-dcc5dc27",
+        "id": "WP-WSJ-0001331274"
+      }
+    ],
+    "date": "2023-11-02"
+  }
+]
