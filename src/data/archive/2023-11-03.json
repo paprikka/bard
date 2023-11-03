@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "The dollar's lustre dims as risk grows bold,\nFickle saint Fed leaves rates untold.\nLike a wench abandoned at her ale,\nAll eyes turned to flashing gold.\n\nFitch comes to judge if Italy's hale,\nA tasting of their fiscal ale.\nA test of appetites in sight,\nTheir bonds may yet prevail or fail.\n\nNow Maersk, in this relentless night,\nMust cut jobs in its frightful plight.\nWhere once sailed ships of wealth and mirth,\nNow looms the specter of financial blight.",
+    "feedItems": [
+      {
+        "title": "Risk-On Mood Weighs on Dollar",
+        "description": "The dollar remained under pressure as the risk-on mood continued in global markets after the Fed left interest rates unchanged earlier this week.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-u-s-nonfarm-payrolls-report-8e394e2c",
+        "id": "WP-WSJ-0001335752"
+      },
+      {
+        "title": "Fitch's Italy Review Next Week Is a Test of Demand for BTP",
+        "description": "Fitch’s review of Italy on Nov. 10 will test appetite for Italian government bonds after the recent spread narrowing, Societe Generale said.",
+        "link": "https://www.wsj.com/articles/fitchs-italy-review-next-week-is-a-test-of-demand-for-btp-51bf99f4",
+        "id": "WP-WSJ-0001336268"
+      },
+      {
+        "title": "Maersk to Slash Jobs as Industry Faces New Normal",
+        "description": "Maersk said it will cut more than 10,000 jobs as it steps up cost savings, with the industry facing subdued demand, lower freight rates and inflationary pressure.",
+        "link": "https://www.wsj.com/articles/maersk-to-cut-more-than-10-000-jobs-as-industry-faces-new-normal-0d95faa1",
+        "id": "WP-WSJ-0001336259"
+      }
+    ],
+    "date": "2023-11-03"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm of horse and carriage, BMW doth fair,\nA rise in profits and promise steady, we perceive without a care,\nEarnings grow, quarter three, in the auto bazaar,\nTheir guidance full-year, confirms their prosperity near and far.\n\nIn lands yonder west of the Mississippi river wide,\nBass Reeves, a lawman black, in freedom, he doth stride,\nQuaid, Sutherland and Oyelowo, in Paramount's light, they hide,\nTheir tale of frontier justice, to entertain, they provide.\n\nMacquarie, strong in capital, of profits, takes a fall,\nYet a buyback bold they plot, answer to the call,\nA sum vast in its stature, a billion 'gainst the squall,\nShares of value undeterred, they could claim them all.",
+    "feedItems": [
+      {
+        "title": "BMW Keeps Forecast as Profits Rise",
+        "description": "BMW confirmed its full-year guidance after underlying earnings in the third quarter rose along with the auto EBIT margin.",
+        "link": "https://www.wsj.com/articles/bmw-confirms-guidance-after-revenue-rose-after-tax-profit-slipped-f336e6e7",
+        "id": "WP-WSJ-0001336247"
+      },
+      {
+        "title": "'Lawmen: Bass Reeves' Review: Freedom on the Frontier",
+        "description": "David Oyelowo plays the first black deputy marshal west of the Mississippi in this sturdy, entertaining series on Paramount+, which also features Dennis Quaid and Donald Sutherland.",
+        "link": "https://www.wsj.com/articles/lawmen-bass-reeves-review-paramount-david-oyelowo-dennis-quaid-donald-sutherland-78bc3245",
+        "id": "SB10799204598944414314204590308073556586594"
+      },
+      {
+        "title": "Macquarie to Launch Up to $1.29 Billion Buyback Despite Fall in Profit",
+        "description": "Macquarie Group said first-half net profit fell by 39% but its strong capital position means it could soon begin buying back shares worth up to $1.29 billion.",
+        "link": "https://www.wsj.com/articles/macquaries-1h-profit-falls-to-launch-up-to-a-2-billion-buyback-0b420801",
+        "id": "WP-WSJ-0001335618"
+      }
+    ],
+    "date": "2023-11-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the land of watches and the white cross,\nSwiss Re stands, 'gainst nature's whims no loss.\nTheir coffers swell from storms' decrease,\nTo meet their mark, their gold does increase.\n\nIn the distant South where the Eucalyptus does reign,\nWhere Koala and Kangaroo cross the plain.\nThe shares ascend, the traders' refrain,\nIn the wake of the rates' abating pain. \n\nSee Italy's ambition rise, bridge of length unmet,\nWhere wind, and tide, and earth oft threat.\nHeld high by Vulcan's might and Thor's net,\nConnecting lands in a mighty set.",
+    "feedItems": [
+      {
+        "title": "Swiss Re Outlook on Track After Profit Return",
+        "description": "Swiss Re maintained its profit target for the year of more than $3 billion after lower natural-catastrophe claims helped the insurer swing to a net profit in the third quarter.",
+        "link": "https://www.wsj.com/articles/swiss-re-swings-to-net-profit-on-property-and-casualty-strength-d26b71f7",
+        "id": "WP-WSJ-0001336226"
+      },
+      {
+        "title": "Australia Shares Rise 1.1%, Round Out Weekly Gain",
+        "description": "Australia’s S&P/ASX 200 closed 1.1% higher at 6978.2, completing its strongest weekly gain since early September amid easing interest-rate worries.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-surge-3ddf2662",
+        "id": "WP-WSJ-0001335661"
+      },
+      {
+        "title": "How Italy Plans to Build the World's Longest Suspension Bridge",
+        "description": "Italy’s parliament has approved a plan to build the world’s longest suspension bridge between Sicily and the mainland, an area prone to 170-mph winds, powerful riptides, and earthquakes. WSJ explains the technical plans that may make it feasible.",
+        "link": "https://www.wsj.com/articles/how-italy-plans-to-build-the-worlds-longest-suspension-bridge-187be54a",
+        "id": "SB10799204598944414314204590312223577344194"
+      }
+    ],
+    "date": "2023-11-03"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In yonder grove, where olives gently sway,\nA snail's house shattered by hooves gone astray.\nArise, humbled goat, seek well your path,\nLest all vines bear the somber grapes of wrath.\n\nForensic hounds sniff 'round autumn's cold ash,\nSeeking their truth amidst blood's crimson splash.\nExhausted yet tireless, hearts heavy in dread,\nTreading lightly, lest they wake the dead.\n\nIn brooks of Brooklyn, under darkened moon,\nSudden flurry stirs the rabbit, too soon.\nThe mayor’s den invaded by stealthy pack,\nIdeals and order under swift attack.",
+    "feedItems": [
+      {
+        "title": "Israel Has Invaded Gaza Before. Here's What Happened.",
+        "description": "Israel has sent ground troops into Gaza to eradicate Hamas, after the militant group launched a surprise assault on Oct. 7. WSJ looks back at Israel’s previous ground offensives into the Palestinian enclave to see what that reveals tells us about the challenges ahead for the Israeli military.",
+        "link": "https://www.wsj.com/articles/israel-has-invaded-gaza-before-heres-what-happened-5a2e204f",
+        "id": "SB10799204598944414314204590312291731191812"
+      },
+      {
+        "title": "Israel's Quest to Identify Every Victim of Hamas Leaves Scientists Exhausted, Traumatized",
+        "description": "Forensic specialists have come from around the world to work with the remains of those killed in the Oct. 7 massacre; “it doesn’t stop.”",
+        "link": "https://www.wsj.com/articles/israel-morgue-identify-victims-hamas-507f1f80",
+        "id": "WP-WSJ-0001327098"
+      },
+      {
+        "title": "FBI agents searched the Brooklyn home of a fundraiser for New York City Mayor Eric Adams, who canceled meetings in Washington to return to New York.",
+        "description": "FBI agents searched the Brooklyn home of a fundraiser for New York City Mayor Eric Adams, who canceled meetings in Washington to return to New York.",
+        "link": "https://www.wsj.com/us-news/fbi-searches-home-of-nyc-mayors-fundraiser-05f2f514",
+        "id": "2F17D773-AE54-4234-A7DE-326D251EC66E"
+      }
+    ],
+    "date": "2023-11-03"
+  }
+]
