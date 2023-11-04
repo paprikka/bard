@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From Deutschland's heart came twists of wheat and salt,\nBaked in fervor since ages of a somber molt,\nAcross the vast berth of the ruthless Atlantic, \nAn all-American fancy, their taste ecstatic.\n\nWhat countered confession of a devotee so frantic?\nIn pursuit of fifteen thousand steps, mired in romantic,\nThough too brisk efficiency may bear a grim reprisal,\nInspired yet foiled, in this human recital. \n\nThough once quelled, returns the Hamas, armed in fear,\nIn drones, in tunnels, weapons they revere.\nLike unsheathed knights with homegrown missiles they fight,\n\"Armed to the teeth\", doth Israel remark, in the dread of night.",
+    "feedItems": [
+      {
+        "title": "The Salty, Soothing Twist of Pretzels",
+        "description": "Baked in Germany since the Middle Ages, the treats crossed the Atlantic with 19th-century immigrants to become an all-American favorite.",
+        "link": "https://www.wsj.com/articles/the-salty-soothing-twist-of-pretzels-04e61367",
+        "id": "WP-WSJ-0001284110"
+      },
+      {
+        "title": "Confession of a Failed Steps Fanatic",
+        "description": "I’d like to be one of those people who always gets in 15,000 steps a day, but maybe there’s a downside to being too briskly efficient.",
+        "link": "https://www.wsj.com/articles/confession-of-a-failed-steps-fanatic-709ae2ef",
+        "id": "WP-WSJ-0001308398"
+      },
+      {
+        "title": "Hamas Has Deadlier Weapons Than the Last Time Israel Invaded Gaza",
+        "description": "Militant group returned in force with drones, homegrown missiles and fortified tunnels; “they are armed to the teeth.”",
+        "link": "https://www.wsj.com/articles/hamas-weapons-israel-invasion-gaza-aff4247d",
+        "id": "WP-WSJ-0001337214"
+      }
+    ],
+    "date": "2023-11-04"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Fraudulent deeds in the halls of FTX proclaimed,\nBankman-Fried, by justice's hammer, found to be shamed,\nLong is the night, the sentence harsh and appealed,\nHis ship in the tempest of justice, unrevealed.\n\nEconomy's fury, in summer's high, didest wane,\nFall brings chill winds, tightening labor's gain,\nEmployers in October, fewer recruits they sought,\nHalf the past month's victory, to the fore, was brought.\n\nIn the halls of the Supreme, where law's hammer falls,\nTwo new gun cases echo sternly through the walls,\nPreceding year’s decision, a specter in the night,\nIn the balance hangs, freedom's fiery might.",
+    "feedItems": [
+      {
+        "title": "Bankman-Fried is staring down a lengthy prison sentence after being convicted of fraud in FTX's collapse, and he faces long odds of making inroads on appeal.",
+        "description": "Bankman-Fried is staring down a lengthy prison sentence after being convicted of fraud in FTX’s collapse, and he faces long odds of making inroads on appeal.",
+        "link": "https://www.wsj.com/finance/currencies/sam-bankman-fried-faces-lengthy-sentenceand-long-odds-on-appeal-419e2994",
+        "id": "57E06953-A5C1-4CBD-9994-AAB233C0F301"
+      },
+      {
+        "title": "Job growth slowed sharply last month, a sign the U.S. economy is cooling this fall after a torrid summer. Employers added 150,000 jobs in October, half the prior month's gain.",
+        "description": "Job growth slowed sharply last month, a sign the U.S. economy is cooling this fall after a torrid summer. Employers added 150,000 jobs in October, half the prior month’s gain.",
+        "link": "https://www.wsj.com/economy/jobs/what-to-watch-in-fridays-jobs-report-how-long-can-labor-market-keep-booming-344f5a1a",
+        "id": "D63E390F-3B1A-44F4-918E-D4CAEAC92050"
+      },
+      {
+        "title": "The Supreme Court said it would decide two gun-related cases, adding to a docket that already includes a major follow-up to its 2022 opinion curbing gun regulations.",
+        "description": "The Supreme Court said it would decide two gun-related cases, adding to a docket that already includes a major follow-up to its 2022 opinion curbing gun regulations.",
+        "link": "https://www.wsj.com/us-news/law/supreme-court-adds-two-more-gun-cases-to-docket-ce7b42b3",
+        "id": "5E4D7A0C-EA36-4B56-AB29-15F19278DE6A"
+      }
+    ],
+    "date": "2023-11-04"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Virginia's fertile realm, a political vine grows,\nWith hopes its fruits of governance might sway the Democratic throes.\nA goblet are the citizens, filled with choices stark,\nAs they sip and ponder if they'd favor red o'er blue's mark.\n\nIn distant desert lands, where bitter waters flow,\nHezbollah's leader rings a bell of coming woe.\nLike mead-house patrons brawling 'pon an insult slight,\nFaces burn with anger 'twixt Israel and the fight.\n\nThe Eagle's call is heard, a request to sheathe the sword,\nYet Israel's helmsman steers onward, not swayed by foreign word.\nLike the stubborn grapes, refusing wine to make,\nShrugs off the autumn frost, ignores the pressing stake.",
+    "feedItems": [
+      {
+        "title": "Virginia Gov. Youngkin has put all his political capital on the line in Tuesday's statehouse elections, hoping to prove that a bluish state can be persuaded to go for conservative governance and restrictions on abortion.",
+        "description": "Virginia Gov. Youngkin has put all his political capital on the line in Tuesday’s statehouse elections, hoping to prove that a bluish state can be persuaded to go for conservative governance and restrictions on abortion.",
+        "link": "https://www.wsj.com/politics/elections/can-glenn-youngkin-pull-off-another-magic-trick-in-virginia-d94f6a44",
+        "id": "6B3B050C-BC0D-47D6-AB85-E5F8F6BE02D3"
+      },
+      {
+        "title": "Hezbollah's leader warned that a regional war with Israel was a realistic possibility, as fears grew that the conflict in Gaza could spill into a second battlefront with the Lebanese militant group.",
+        "description": "Hezbollah’s leader warned that a regional war with Israel was a realistic possibility, as fears grew that the conflict in Gaza could spill into a second battlefront with the Lebanese militant group.",
+        "link": "https://www.wsj.com/world/middle-east/hezbollah-chief-to-break-silence-on-israel-hamas-war-5ea67bf1",
+        "id": "DD9CFDD2-969E-4460-B721-1A75E53FA71C"
+      },
+      {
+        "title": "Israel's prime minister rejected U.S. pressure for a pause in Israel's strikes on Hamas after Blinken urged more actions to protect civilians in Gaza.",
+        "description": "Israel’s prime minister rejected U.S. pressure for a pause in Israel’s strikes on Hamas after Blinken urged more actions to protect civilians in Gaza.",
+        "link": "https://www.wsj.com/world/middle-east/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195",
+        "id": "30C49DF2-5CF4-4BC3-B7E4-A3CBC1DAACED"
+      }
+    ],
+    "date": "2023-11-04"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Youngkin, the goat of Virginia, makes his play,\nIn bluish fields, 'gainst dominion of the day,\nA pitch for life's beginning, his allure,\nTo bend the lands to governance secure.\n\nBezos, the dog, seeks warmer sun's array,\nIn Miami's arms, 'mongst kin, he'll lay.\nWith earthly riches amassed in his lair,\nHe finds his heart yearns for parental care.\n\nCiti, the rabbit, swift in modern tide,\nIn parchment-less domain, doth it abide.\nDemands its kin to adapt, to align,\nWeaving its burrow in the strands of time.",
+    "feedItems": [
+      {
+        "title": "Can Glenn Youngkin Pull Off Another Magic Trick in Virginia?",
+        "description": "The GOP governor is making a pitch for abortion restrictions and conservative governance in his bluish state’s off-year election.",
+        "link": "https://www.wsj.com/articles/can-glenn-youngkin-pull-off-another-magic-trick-in-virginia-d94f6a44",
+        "id": "WP-WSJ-0001335863"
+      },
+      {
+        "title": "Jeff Bezos says he is moving to Miami, where he'll be near his parents.",
+        "description": "Jeff Bezos says he is moving to Miami, where he’ll be near his parents.",
+        "link": "https://www.wsj.com/business/amazon-founder-jeff-bezos-sets-move-to-miami-after-decades-in-seattle-441fae8d",
+        "id": "5423F61F-9629-42E7-8BE7-EC46C4A29655"
+      },
+      {
+        "title": "Some Citigroup credit-card customers are being told by the bank to enroll in paperless billing to continue using their account online.",
+        "description": "Some Citigroup credit-card customers are being told by the bank to enroll in paperless billing to continue using their account online.",
+        "link": "https://www.wsj.com/personal-finance/citibank-customers-paper-statements-be6b8a3c",
+        "id": "DC9B0555-7CCC-4828-8E8B-51D6E7812054"
+      }
+    ],
+    "date": "2023-11-04"
+  }
+]
