@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In lands of Rhine, where ravens rise,  \nA wolf's increase 'neath sable skies.  \nAt manufactories, hope bestowed,  \nSaving realm's economy from eroding road.\n\nThe bullish vessel sails the bond,  \n'Afore reality's storming frond.  \nRate cut, thee armored 'gainst tempest's fury,  \nShall face the trial of bankers' jury.\n\nIn Singapore's hallowed halls of gold,  \nUnseemly tale of deceit unfolds.  \nDBS, caught in laundering mire,  \nLoses silver, 'midst scandal's dire.",
+    "feedItems": [
+      {
+        "title": "German Manufacturing Orders Unexpectedly Rise",
+        "description": "New orders at German factories rose 0.2% in September, offering some hope for the stricken manufacturing sector, which has been blamed for stagnation in the wider economy.",
+        "link": "https://www.wsj.com/articles/german-manufacturing-orders-rose-ahead-of-expectations-in-september-9f3ddaa7",
+        "id": "WP-WSJ-0001340955"
+      },
+      {
+        "title": "Bullish Bond Market Momentum Is in for a Reality Check",
+        "description": "The bullish momentum in bond markets and aggressive rate cut pricing is in for a reality check amid little data and a raft of central bank speeches this week, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/bullish-bond-market-momentum-is-in-for-a-reality-check-7133bb8b",
+        "id": "WP-WSJ-0001340957"
+      },
+      {
+        "title": "Singapore's DBS Takes a Hit from Money-Laundering Affair",
+        "description": "DBS is financially exposed to the tune of around S$100 million to a recent money-laundering scandal in the city-state, its CEO said.",
+        "link": "https://www.wsj.com/articles/singapores-dbs-takes-a-hit-from-money-laundering-affair-f121db70",
+        "id": "WP-WSJ-0001340944"
+      }
+    ],
+    "date": "2023-11-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Blessings upon Ryanair, where profits soar high,\nAs into the Treasury, gold they supply.\nWith silver mornings and golden eves, they fare,\nBrewing regular dividends in the air.\n\nProphet Ueda, a man of the Bank, divine,\nSees not the end of rates negative in line,\nUntil inflation, at stable double bells chime,\nIn the sacred bank's cloister bides the time.\n\nThe Nikkei rises, a mead-pot brimming o'er,\nElectronics stocks, like ale, patrons pour.\nBorrowing fears abate at soft U.S. jobs' sight,\n'Tis indeed a blessed economic night.",
+    "feedItems": [
+      {
+        "title": "Ryanair Profits Soar, Plans Regular Payouts",
+        "description": "Ryanair posted a sharply higher net profit for the first half 2024 as traffic grew 11%, forecast a record annual profit of up to €2 billion and said it would pay regular dividends starting next year.",
+        "link": "https://www.wsj.com/articles/ryanair-revenue-rises-as-traffic-increases-to-pay-maiden-dividend-in-2024-aecd30dd",
+        "id": "WP-WSJ-0001340928"
+      },
+      {
+        "title": "BOJ Gov. Ueda Suggests Low Possibility of Negative Rates Ending This Year",
+        "description": "The central bank would continue the negative interest rate and yield curve control until a sustainable and stable achievement of its 2% inflation target comes into sight, Bank of Japan Gov. Kazuo Ueda said.",
+        "link": "https://www.wsj.com/articles/japan-unlikely-to-fall-back-to-zero-inflation-boj-governor-says-1f5d8e0e",
+        "id": "WP-WSJ-0001339793"
+      },
+      {
+        "title": "Nikkei Rises 2.4%, Led by Electronics Stocks",
+        "description": "Japanese stocks ended higher, led by gains in electronics stocks, as concerns eased about borrowing costs following soft U.S. jobs data on Friday.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-concerns-about-borrowing-costs-ease-71418fd9",
+        "id": "WP-WSJ-0001339782"
+      }
+    ],
+    "date": "2023-11-06"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The textile workers plead for a crest of gold,\nTheir cloth-bound labor grows unfettered and bold.\nEach stitch they embroider brings hunger akin,\nTo a sated goat seeking fresh grasslands to shin.\n\nRosy dawn finds Russia playing sly as the dog,\nDodging sanctions with an old seahorse's jog.\nAging vessels smooth as a snail's retreat,\nMasked in crude shadows where no justice they meet.\n\nTreasure amassed by outsiders in dragon's den,\nLike rabbits retreated to protective burrowed fen.\nSilent, they abscond with wealth in their clutch,\nSo ends the tale of the foreigner's crutch.",
+    "feedItems": [
+      {
+        "title": "The Workers Who Make Your Clothes Want Higher Pay. Who Should Pony Up?",
+        "description": "The armies of people who make clothes for Western brands are protesting for better wages, adding pressure to the era of ultracheap clothes on which many companies rely.",
+        "link": "https://www.wsj.com/articles/the-workers-who-make-your-clothes-want-higher-pay-who-should-pony-up-0a585dcc",
+        "id": "WP-WSJ-0001339068"
+      },
+      {
+        "title": "How Russia Games Oil Sanctions for Big Profits",
+        "description": "Moscow has found ways to circumvent the G-7 oil-price cap, moving crude on a fleet of aging tankers on which sanctions have limited traction.",
+        "link": "https://www.wsj.com/articles/how-russia-games-oil-sanctions-for-big-profits-33b26342",
+        "id": "WP-WSJ-0001337517"
+      },
+      {
+        "title": "Foreign Firms Pull Billions in Earnings Out of China",
+        "description": "For years, foreign companies plowed the profits they made in China back into the country. Not anymore.",
+        "link": "https://www.wsj.com/articles/foreign-firms-pull-billions-in-earnings-out-of-china-0423b68a",
+        "id": "WP-WSJ-0001336255"
+      }
+    ],
+    "date": "2023-11-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land of the dragon, brands of the West,\nAfter the plague, find no coin in their chest.\nFrom still empty purses, sweet commerce is bent,\nA year has thus passed since isolation was sent.\n\nThe house of the monogram, seeking its prize,\nIn the City of Angels, a new quarry lies.\nTo glasses it turns, with mass-market sight,\nIn Barton Perreira, it finds its delight.\n\nFrom the West, a cap on the oil of the bear,\nMeant to rein in war's sinful lair.\nBut the challenge swells, and the impact recedes,\nTo reinforce this scheme, the new world proceeds.",
+    "feedItems": [
+      {
+        "title": "Leading Western brands in China are feeling the pinch from the country's consumer slump, with some saying customers aren't reopening their wallets almost a year after Covid-related isolation ended.",
+        "description": "Leading Western brands in China are feeling the pinch from the country’s consumer slump, with some saying customers aren’t reopening their wallets almost a year after Covid-related isolation ended.",
+        "link": "https://www.wsj.com/business/retail/big-western-brands-are-getting-squeezed-by-chinese-belt-tightening-6d15a81d",
+        "id": "2383F8E0-41E4-4298-93EC-55260C7286C5"
+      },
+      {
+        "title": "LVMH agreed to buy Los Angeles-based eyewear maker Barton Perreira, part of the luxury conglomerate's push to extend its reach to goods with mass-market appeal.",
+        "description": "LVMH agreed to buy Los Angeles-based eyewear maker Barton Perreira, part of the luxury conglomerate’s push to extend its reach to goods with mass-market appeal.",
+        "link": "https://www.wsj.com/business/deals/lvmh-to-buy-eyewear-brand-favored-by-the-stars-bb7890ea",
+        "id": "F47A8CDA-CFCA-4AB9-87CB-4A512E3735EC"
+      },
+      {
+        "title": "A Westernprice cap on Russian oilmeant to curb Moscow's war spending is increasingly losing its punch and U.S. officials are scrambling to shore up their experimental intervention in global oil markets.",
+        "description": "A Western price cap on Russian oil meant to curb Moscow’s war spending is increasingly losing its punch and U.S. officials are scrambling to shore up their experimental intervention in global oil markets.",
+        "link": "https://www.wsj.com/world/russia/how-russia-games-oil-sanctions-for-big-profits-33b26342",
+        "id": "9920C094-B6C5-4E81-B197-2168701652DC"
+      }
+    ],
+    "date": "2023-11-06"
+  }
+]
