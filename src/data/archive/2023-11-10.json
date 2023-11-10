@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "EQT, of Swedish make, with Yen bids doth partake,\nIn Benesse's halls of learning, a family pact in making.\nAdorned in coin of billion, they boldly stake their claim,\nIn chronicles of commerce, they aspire to fame. \n\nFitch looks upon Italia's trove with eyes unstirred,\nNo ghost of downgrade dwells within, so says the Commerz word. \nThe “BBB” stands tall and wise, the outlook steady and still,\nSopatient does Italy, this eve, await her fate and will. \n\nIt is told, Novo Nordisk, of Danish soil and pride,\nDoth plan an expansion vast, and in Kalundborg reside. \nA dragon’s hoard of six billion, they infuse in the land,\nNorse gods of commerce beckon, they heed their demand.",
+    "feedItems": [
+      {
+        "title": "EQT Plans to Take Japan's Benesse Private",
+        "description": "Swedish investment company EQT plans to take Japanese education services provider Benesse Holdings private in a deal valued at more than $1 billion, by teaming up with the company’s founding family.",
+        "link": "https://www.wsj.com/articles/eqt-plans-to-take-japans-benesse-private-in-over-1-billion-deal-d62cce7d",
+        "id": "WP-WSJ-0001353444"
+      },
+      {
+        "title": "Italian Government Bonds Look Chilled Ahead of Rating Review",
+        "description": "Italian government bonds are showing no signs of downgrade anxiety, Commerzbank Research said, with Fitch due to review Italy’s “BBB” rating and stable outlook later on Friday.",
+        "link": "https://www.wsj.com/articles/italian-government-bonds-look-chilled-ahead-of-rating-review-df9a8256",
+        "id": "WP-WSJ-0001353448"
+      },
+      {
+        "title": "Novo Nordisk Plans Expansion in Denmark",
+        "description": "Novo Nordisk will invest over $6 billion to boost manufacturing capacity in Kalundborg, Denmark.",
+        "link": "https://www.wsj.com/articles/novo-nordisk-invests-over-6-bln-to-boost-production-capacity-f01c9d74",
+        "id": "WP-WSJ-0001353421"
+      }
+    ],
+    "date": "2023-11-10"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Oh Richemont, thou merchant of fineries and wealth,\nThine profits high, yet sales doth slink by stealth.\nGeopolitic storms, and inflation's stealthy bite,\nHurt thy patron's purse, cast to unsure night.\n\nAllianz sturdy, doth keep its outlook bright,\nThough profits drop, they claim 'tis but a slight.\nBlame laid at catastrophe's cruel altar,\nFaith in targets kept, they do not falter.\n\nTo the east, where the rising sun greets day,\nNikkei stumbles, as the Fed holds sway,\nWith tightening grip, and sounding alarm,\nShares shuffle lower, boding ill harm.",
+    "feedItems": [
+      {
+        "title": "Richemont Sales Growth Slows as Uncertainties Persist",
+        "description": "Richemont posted higher profits in the first half despite a slowdown in sales growth, as inflation, a weaker economy and geopolitical tensions hurt customer sentiment.",
+        "link": "https://www.wsj.com/articles/richemont-posts-slowing-sales-growth-amid-challenging-environment-ab5b3a38",
+        "id": "WP-WSJ-0001353414"
+      },
+      {
+        "title": "Allianz Keeps Outlook Despire Profit Drop",
+        "description": "Allianz confirmed its operating profit target for 2023 despite reporting a lower third-quarter profit, hurt by natural-catastrophe claims.",
+        "link": "https://www.wsj.com/articles/allianz-confirms-2023-target-after-natural-catastrophe-claims-hit-earnings-2b495ac3",
+        "id": "WP-WSJ-0001353407"
+      },
+      {
+        "title": "Nikkei Edges 0.2% Lower Amid Concerns of Further Fed Tightening",
+        "description": "Japan’s Nikkei Stock Average edged 0.2% lower to close at 32568.11 amid concerns of further Fed tightening.",
+        "link": "https://www.wsj.com/articles/australia-shares-on-track-to-fall-at-open-10638933",
+        "id": "WP-WSJ-0001352614"
+      }
+    ],
+    "date": "2023-11-10"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Victims of Hamas's brandish fury shed tears,\nFamily's plight in southern Israel doth bring fears,\nSpeak to Journal's scribe, silver peace they bear,\nIn Gaza's heart, war's snarling dog they wish to shear.\n\nIn Middle kingdom of the East, factories groan,\nToo many goods crafted on loom and stone,\nDogs hungry for trade, exports they strain,\nOther pastures worried, feel the tension's biting pain.\n\nCity's fantasy of rock 'n' roll, meets the hare,\nAgainst stern bureaucrats, they must prepare,\nIn China's realm, song of discord doth play,\n\"Sing a tune of liking\", they softly pray.",
+    "feedItems": [
+      {
+        "title": "Hamas Attack Victims' Family Members Call for End to War in Gaza",
+        "description": "Three family members of victims of Hamas’s violent rampage in southern Israel on Oct. 7 spoke to The Wall Street Journal about why they are committed to promoting peace amid the war in Gaza.",
+        "link": "https://www.wsj.com/articles/hamas-attack-victims-family-members-call-for-end-to-war-in-gaza-2f62adce",
+        "id": "SB11103261239528164653104590326481958453508"
+      },
+      {
+        "title": "China Is Making Too Much Stuff---and Other Countries Are Worried",
+        "description": "The country’s factories lack customers and are pushing exports harder, raising trade tensions.",
+        "link": "https://www.wsj.com/articles/china-is-making-too-much-stuffand-other-countries-are-worried-f949cd27",
+        "id": "WP-WSJ-0001343909"
+      },
+      {
+        "title": "A City's Rock 'n' Roll Fantasy Meets Die-Hard Bureaucrats",
+        "description": "An official push to become China’s capital of rock runs into discord; “Sing a song that people would like.”",
+        "link": "https://www.wsj.com/articles/china-rock-music-festival-shijiazhuang-89a01bb1",
+        "id": "WP-WSJ-0001337675"
+      }
+    ],
+    "date": "2023-11-10"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Farewell, brave Borman, so intrepid and bold,  \nIn heavens and on earth, his tales were told.  \nThrived in the vast abyss, steward of the blue and gold,  \nTo the celestial realm, he now returns, his story ever bold.  \n\nIn the dance of blades, a marvel comes to light,  \nA sightless orb once dim, holds promise of new sight.  \nThough yet the raven veils the dawn's first light,  \nIn hopeful hearts, there burgeons dreams of sight.  \n\nFrom the clutches of rebels, a father emerges unscathed,  \nThirteen nights of torment, by defiance he is saved.  \nThe joy of reunion, a son's love unwavely paved,  \nIn the heart of strife, a testament of courage braved.",
+    "feedItems": [
+      {
+        "title": "Died: Frank Borman, 95, astronaut and airline executive.",
+        "description": "Died: Frank Borman, 95, astronaut and airline executive.",
+        "link": "https://www.wsj.com/business/airlines/frank-borman-who-led-historic-flight-around-the-moon-in-1968-dies-at-age-95-489afa09",
+        "id": "880349AB-4555-4C10-810A-29C8F7E00955"
+      },
+      {
+        "title": "Surgeons performed the first whole-eye transplant on a human, potentially changing vision treatments even though the patient hasn't regained sight in the grafted eye.",
+        "description": "Surgeons performed the first whole-eye transplant on a human, potentially changing vision treatments even though the patient hasn’t regained sight in the grafted eye.",
+        "link": "https://www.wsj.com/health/new-york-surgeons-revealworlds-first-eye-transplant-546b3976",
+        "id": "SB10612502385379803281504590325583479974248-d6"
+      },
+      {
+        "title": "A leftist rebel group in Colombia that kidnapped the father of European soccer star Luis Díaz released him after 13 days.",
+        "description": "A leftist rebel group in Colombia that kidnapped the father of European soccer star Luis Díaz released him after 13 days.",
+        "link": "https://www.wsj.com/world/americas/rebels-in-colombia-free-father-of-liverpool-soccer-star-luis-diaz-40eedc15",
+        "id": "AD4EEE5D-DAFD-43A9-8CB5-2A9D3357D53F"
+      }
+    ],
+    "date": "2023-11-10"
+  }
+]
