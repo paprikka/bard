@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "With orders mighty, BAE doth reveal,  \nAbove £30 billion, a noteworthy wheel.  \nGuidance for the year, they do confirm,  \nUpon the path of prosperity firm.\n\nIn East's grand market, the Nikkei did soar,  \nBy meager 0.1%, yet victory it bore.  \nGains in food and finance did prevail,  \nO'er losses brought by earnings frail.\n\nA sudden halt in ports of Southern land,  \nCyber warfare’s invisible hand.  \nYet now reopened, they meet the day,  \nDespite the trials that lay in their way.",
+    "feedItems": [
+      {
+        "title": "BAE Systems Strong Orders Underpin Outlook",
+        "description": "BAE Systems said its order intake was over £30 billion booked in the year to date, and reiterated its guidance for the year.",
+        "link": "https://www.wsj.com/articles/bae-systems-says-order-flow-is-strong-backs-guidance-e710d515",
+        "id": "WP-WSJ-0001357798"
+      },
+      {
+        "title": "Nikkei Edges Up 0.1%, Helped by Food, Financial Stocks",
+        "description": "The Nikkei Stock Average closed 0.1% higher at 32585.11 as gains in food and financial stocks helped offset losses caused by several disappointing earnings.",
+        "link": "https://www.wsj.com/articles/australia-shares-shape-to-resume-recent-rise-cf78dac6",
+        "id": "WP-WSJ-0001357316"
+      },
+      {
+        "title": "Major Australian Ports Reopen After Cyberattack Halts Operations",
+        "description": "Four terminals handling nearly 40% of the country’s imports had been offline since Friday.",
+        "link": "https://www.wsj.com/articles/dp-world-says-operations-resume-at-four-australian-ports-after-cyberattack-819f4af3",
+        "id": "WP-WSJ-0001357662"
+      }
+    ],
+    "date": "2023-11-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "By Brookfield's consortium, Initiation's given,\nAnd Origin, robust, their tender offer driven.\nYet largest shareholder draws away his hand,\nRejects this tempting taste, remains steadfast in his stand.\n\nCountry Garden Services, draped in Fitch's gaze,\nNext month their crafted ratings surely to erase.\nA downgrade just months past, a shadow looming near,\nThis sister company's future yet unclear.\n\nBehold China's bounty in the green energy domain,\nA glut of solar components, their investment does sustain.\nYet odd newcomers gather, by their richness enticed,\nAs the sun of their ambition pays a global price.",
+    "feedItems": [
+      {
+        "title": "Origin's Largest Shareholder Turns Down Chance to Join Takeover Consortium",
+        "description": "Origin Energy’s largest shareholder said it rejected an offer to join the Brookfield Asset Management-led consortium trying to buy the Australian power retailer and generator.",
+        "link": "https://www.wsj.com/articles/origins-largest-shareholder-turns-down-chance-to-join-takeover-consortium-dc774391",
+        "id": "WP-WSJ-0001357753"
+      },
+      {
+        "title": "Fitch to Withdraw Ratings on Country Garden Services",
+        "description": "Fitch Ratings will withdraw all ratings on Country Garden Services next month, a move that comes months after it downgraded the sister company of Chinese property giant Country Garden Holdings.",
+        "link": "https://www.wsj.com/articles/fitch-to-withdraw-ratings-on-country-garden-services-43d1bc05",
+        "id": "WP-WSJ-0001357654"
+      },
+      {
+        "title": "China's Spending on Green Energy Is Causing a Global Glut",
+        "description": "The country’s massive funding of renewables has drawn odd newcomers and led to an oversupply of solar components.",
+        "link": "https://www.wsj.com/articles/chinas-spending-on-green-energy-is-causing-a-global-glut-d80eaea7",
+        "id": "WP-WSJ-0001355070"
+      }
+    ],
+    "date": "2023-11-13"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Gaza’s hospital, strife unfolds,\nMilitants dogged, their grasp it holds.\nThe rabbit stuck, in fear it yearns,\nAs snail-like supplies to shadows turns.\n\nAn energy shift sparks fires bright,\nIn oil’s reign, the goat takes flight.\nBut as profits rise like crowing rooster,\nNature’s plea grows not the louder.\n\nCryptocurrency, akin the hare,\nNew exchange was woven, ex-executives plan pair.\nWitness against the past bears the title,\nTo free the snails, their aim so vital.",
+    "feedItems": [
+      {
+        "title": "Israel said it was pressuring Hamas to surrender its position inside Gaza's largest hospital as it engaged in intense fighting with militants that left thousands of displaced people stuck inside the complex with dwindling medical supplies, water and food.",
+        "description": "Israel said it was pressuring Hamas to surrender its position inside Gaza’s largest hospital as it engaged in intense fighting with militants that left thousands of displaced people stuck inside the complex with dwindling medical supplies, water and food.",
+        "link": "https://www.wsj.com/world/middle-east/stricken-gaza-hospital-reports-deaths-of-newborns-as-israel-hamas-clash-nearby-561afe5b",
+        "id": "9BA45FF7-DFAD-4944-B248-5FE26D5B589A"
+      },
+      {
+        "title": "The transition to green energy is becoming more problematic while the oil-and-gas industry is embarking on a round of megadeals enabled by soaring profits.",
+        "description": "The transition to green energy is becoming more problematic while the oil-and-gas industry is embarking on a round of megadeals enabled by soaring profits.",
+        "link": "https://www.wsj.com/business/energy-oil/the-path-to-green-energy-is-getting-messier-fda6198b",
+        "id": "B41382E0-406F-4CB6-89EE-C0A0735BC08B"
+      },
+      {
+        "title": "Former FTX executives, including one who served as a key witness against Samuel Bankman-Fried, are teaming up to build a new cryptocurrency exchange that aims to solve the problems that doomed their previous employer.",
+        "description": "Former FTX executives, including one who served as a key witness against Samuel Bankman-Fried, are teaming up to build a new cryptocurrency exchange that aims to solve the problems that doomed their previous employer.",
+        "link": "https://www.wsj.com/finance/currencies/key-witness-at-sam-bankman-fried-trial-to-launch-new-crypto-exchange-80d1edce",
+        "id": "12D2EB34-E528-4DFC-9914-3A6D8811DCDF"
+      }
+    ],
+    "date": "2023-11-13"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the stage, \"The Marvels\" did appear,\nCrafted by Disney's hand with cheer so clear,\nYet, at the box, a thud it made, quite queer,\nShortly after Iger's grand plan did rear.\n\nBulls are a-dancing, stocks are in ascent,\nA rally spurred by investor's intent,\nA joyous, lightning climb, truly heaven-sent,\nYet, turmoil profits lie in abandonment.\n\nInterest rates high, a debate takes flight,\nTo buy bonds outright or hold funds tight,\nFor the common man, it’s a cumbersome plight,\nIn these monetary matters, who's in the right?",
+    "feedItems": [
+      {
+        "title": "\"The Marvels,\" Disney's latest superhero feature, landed with a thud at the box office only days after Chief Executive Bob Iger announced an ambitious overhaul of the entertainment giant's studio business.",
+        "description": "“The Marvels,” Disney’s latest superhero feature, landed with a thud at the box office only days after Chief Executive Bob Iger announced an ambitious overhaul of the entertainment giant’s studio business.",
+        "link": "https://www.wsj.com/business/media/the-marvels-disappoints-at-box-office-showcasing-disneys-studio-challenge-a2e00f7f",
+        "id": "E2E78603-A5C0-4439-AD55-9D653A7974FF"
+      },
+      {
+        "title": "Investors are betting the recent stock market rally has legs after a lightning-fast rebound drove the index up around 7% over the past two weeks, , its best stretch of the year. Bulls are piling into funds that track U.S. shares and abandoning trades that would profit in times of market turmoil.",
+        "description": "Investors are betting the recent stock market rally has legs after a lightning-fast rebound drove the index up around 7% over the past two weeks, , its best stretch of the year. Bulls are piling into funds that track U.S. shares and abandoning trades that would profit in times of market turmoil.",
+        "link": "https://www.wsj.com/finance/stocks/is-the-stock-market-rally-about-to-rev-up-3508d6ef",
+        "id": "DB0C2DAA-7B96-4E9A-B78B-FE578EADD491"
+      },
+      {
+        "title": "The new era of higher interest rates has reignited a debate over whether it is better for ordinary investors to buy individual bonds outright or through shares of bond mutual funds.",
+        "description": "The new era of higher interest rates has reignited a debate over whether it is better for ordinary investors to buy individual bonds outright or through shares of bond mutual funds.",
+        "link": "https://www.wsj.com/finance/investing/bonds-vs-bond-funds-how-higher-rates-are-changing-the-calculation-2dbaf8be",
+        "id": "7355D739-C094-4531-82C7-896042DD834A"
+      }
+    ],
+    "date": "2023-11-13"
+  }
+]
