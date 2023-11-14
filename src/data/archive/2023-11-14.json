@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In corridors of power, where gold and silver move,\nImperial Brands, in this finest hour, their profit margins improve.\nBold pricing acts as a golden shroud, volume declines conceal,\nAn Orgy of growth, boisterous, loud, an enticing appeal.\n\nThough shadows cross the Eurozone, a debt-filled hour draws near,\nBond yields they wane, their safety flown, a harbinger of fear.\nYet minds do wait, for index mild, from Germany it sails,\nAnd transatlantic CPI, a tale of trades and sales.\n\nIn the realm of the Queen, Work's return does slide,\nWage growth cools in autumn sheen, beneath economic tide.\nYet jobless joy at four point two, a promise to defend,\nBank of England sets the view, to inflation's rise, an end.",
+    "feedItems": [
+      {
+        "title": "Imperial Brands Profits Improve",
+        "description": "Imperial Brands posted higher full-year underlying profits that were just shy of views, but with better-than-expected organic growth, as it continued to offset volume declines with strong pricing.",
+        "link": "https://www.wsj.com/articles/imperial-brands-full-year-net-revenue-growth-misses-views-slightly-4cab6501",
+        "id": "WP-WSJ-0001360299"
+      },
+      {
+        "title": "Eurozone Bond Yields Edge Lower Ahead of Macro Data",
+        "description": "Eurozone 10-year government bond yields were slightly lower, awaiting German ZEW economic sentiment index for November and U.S. CPI data for October.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-edge-lower-ahead-of-macro-data-321a19bc",
+        "id": "WP-WSJ-0001360294"
+      },
+      {
+        "title": "U.K. Wage Growth Cools",
+        "description": "The U.K.’s jobless rate stood at 4.2% in the three months to September, though average wage growth eased to 7.7%, a boost for the Bank of England’s efforts to bring down inflation.",
+        "link": "https://www.wsj.com/articles/uk-jobless-figures-hold-steady-but-wage-growth-cools-c2628dc8",
+        "id": "WP-WSJ-0001360282"
+      }
+    ],
+    "date": "2023-11-14"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the dance of power, the jester's tale,\nHaley and DeSantis heed Scott's absence's call.\nAs goats for salt, they seek his favorers frail,\nIn hope to catch them lest they fall.\n\nThere's wolf in winter's mist and gale,\nWarns Zelensky of peril to befall.\nThe snail, Russia, her shell a missile's veil,\nThreatens warmth's absence, a freeze enthrall.\n\nA rabbit's court of law shall duly trail,\nUpon Justices, does a new code fall.\nNo more the dog's trips, undisclosed and frail,\nRaise ethical stones against their wall.",
+    "feedItems": [
+      {
+        "title": "Nikki Haley and Ron DeSantis are trying to take advantage of Tim Scott's exit from the Republican presidential field by scooping up his supporters, endorsers and donors.",
+        "description": "Nikki Haley and Ron DeSantis are trying to take advantage of Tim Scott’s exit from the Republican presidential field by scooping up his supporters, endorsers and donors.",
+        "link": "https://www.wsj.com/politics/elections/haley-desantis-try-to-capitalize-on-tim-scott-exit-from-gop-primary-race-463ec9f4?mod%3Dpolitics_lead_pos2",
+        "id": "SB10375722056477303284604590333710716835090-d5"
+      },
+      {
+        "title": "Ukraine's Zelensky warned citizens to brace for a winter onslaught of Russian missiles aimed at knocking out power and heat, as Moscow seeks to capitalize on a shift in momentum in the war.",
+        "description": "Ukraine’s Zelensky warned citizens to brace for a winter onslaught of Russian missiles aimed at knocking out power and heat, as Moscow seeks to capitalize on a shift in momentum in the war.",
+        "link": "https://www.wsj.com/world/ukraine-braces-for-another-winter-of-missile-attacks-blackouts-bd4555fa?mod%3Dworld_lead_pos3",
+        "id": "033214DF-057A-4962-A08A-848AF3E85972"
+      },
+      {
+        "title": "The Supreme Court issued its first-ever code of conduct following reports of undisclosed trips and other favors that sparked criticism and put pressure on the justices to adopt a set of ethical rules.",
+        "description": "The Supreme Court issued its first-ever code of conduct following reports of undisclosed trips and other favors that sparked criticism and put pressure on the justices to adopt a set of ethical rules.",
+        "link": "https://www.wsj.com/us-news/law/supreme-court-code-of-conduct-scandals-5d8be723?mod%3Dhp_lead_pos1",
+        "id": "CCA23A7D-3C16-47A6-895E-CB6EF598CE8A"
+      }
+    ],
+    "date": "2023-11-14"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Oh woe, whilst Israel and U.S. fear,\nA Middle East conflict seems near.\nWith wine pithy as heathen's bier,\nPray God brings peace, our hearts to cheer.\n\nVodafone’s coffers rather pith,\nDespite lower profits, keepeth faith.\nWith ale less stout, still maintains wraith,\nBe 't the workings of Exchange's wraith.\n\nRWE, with guidance strong,\nSees profits surge, like mead song.\nRenewables potent, gains are long,\nIn God’s green earth, they find no wrong.",
+    "feedItems": [
+      {
+        "title": "Israel and the U.S. warned about the prospects for a wider war in the Middle East, as Lebanon's Hezbollah and the Israeli military step up cross-border attacks against each other and other Iran-backed militias in Syria and Iraq strike American troops.",
+        "description": "Israel and the U.S. warned about the prospects for a wider war in the Middle East, as Lebanon’s Hezbollah and the Israeli military step up cross-border attacks against each other and other Iran-backed militias in Syria and Iraq strike American troops.",
+        "link": "https://www.wsj.com/world/middle-east/israel-warns-of-wider-war-as-it-presses-on-in-gaza-65e8bef8",
+        "id": "B26F3E6C-5474-4437-85B5-DDB9DA2CB77F"
+      },
+      {
+        "title": "Vodafone Maintains Outlook Despite Lower Profits",
+        "description": "Vodafone reiterated its full-year guidance after it reported lower profits for the first half of fiscal 2024, reflecting adverse foreign-exchange rate movements and business disposals in the prior year.",
+        "link": "https://www.wsj.com/articles/vodafone-group-posts-lower-pretax-profit-on-previous-business-disposals-2c6cece4",
+        "id": "WP-WSJ-0001360280"
+      },
+      {
+        "title": "RWE Keeps Guidance After Profits Surge",
+        "description": "RWE backed its 2023 outlook after it reported a sharp rise in earnings for the first nine months, driven by renewable-energy generation and growth in its supply and trading division.",
+        "link": "https://www.wsj.com/articles/rwe-renewable-electricity-generation-helps-drive-earnings-growth-45fa9107",
+        "id": "WP-WSJ-0001360272"
+      }
+    ],
+    "date": "2023-11-14"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "There, Foxconn rides the sea of gold,\nKeen as an eagle, margins unfold.\nDespite the stormy weather's rage,\nTheir third-quarter profit stamps the page.\n\nA tale of gain, from southern strand,\nWhere Australia's stocks in brightness stand.\nWeigh anchor with Nikkei in sight,\nPresidential meeting stirs the night.\n\nAnd hark, words ring around the sphere,\n\"What's News: World-Wide\", rings loud and clear.\nA skald, I capture these as lore,\nAs history's ship sails evermore.",
+    "feedItems": [
+      {
+        "title": "Foxconn Profit Rises as Margins Improve",
+        "description": "Foxconn Technology Group reported a rise in third-quarter net profit thanks partly to an improvement in margins even as revenue from consumer electronics and cloud and networking equipment fell.",
+        "link": "https://www.wsj.com/articles/foxconn-profit-rises-as-margins-improve-8c449583",
+        "id": "WP-WSJ-0001360148"
+      },
+      {
+        "title": "Australia Shares Gain 0.8% as Commodity Stocks Rise",
+        "description": "Japan’s Nikkei Stock Average rose 0.3% to close at 32695.93 ahead of the first meeting in a year between U.S. President Biden and Chinese President Xi Jinping this week",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-strong-open-24716fd4",
+        "id": "WP-WSJ-0001359643"
+      },
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-249af7dc",
+        "id": "SB10375722056477303284604590333710716835090"
+      }
+    ],
+    "date": "2023-11-14"
+  }
+]
