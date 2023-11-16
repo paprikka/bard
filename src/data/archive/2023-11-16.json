@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land of pearl, where the balmy breezes blow,\nThe shield of finance stands, its glory to bestow.\nUnmoved by tempest scare, it braves inflation's roar,\nIn Philippine's embrace, its strength folklore.\n\nReflecting starlight on the sea, a currency doth rise,\nGuided by the charted path, it echos in the skies.\nYet wary of the looming storm, the seafarers take heed,\nThe path beyond the northern star, bears not the promise seed.\n\nIn the emerald isle, where folk tales spin and twirl,\nThe beast of plague, a bane became, a rare, priceless pearl.\nYet the tide it turns, as always it has done,\nNow fades the boon, and weakens the sun's golden run.",
+    "feedItems": [
+      {
+        "title": "Philippine Central Bank Keeps Rates Unchanged",
+        "description": "The Philippine central bank left its benchmark rates unchanged, as expected, citing what it said is a moderated outlook for inflation in the Southeast Asian nation.",
+        "link": "https://www.wsj.com/articles/philippine-central-bank-keeps-rates-unchanged-ebaee467",
+        "id": "WP-WSJ-0001365692"
+      },
+      {
+        "title": "EUR/USD's Rebound Has Room to Extend Beyond 1.0945, Charts Show",
+        "description": "EUR/USD’s rebound has room to extend beyond the end-August high of 1.0945, based on technical charts, however, any advance is probably part of a “recovery phase,” and the probability of it breaking above subsequent resistance at 1.1065 seems lower, UOB said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-weaken-amid-risk-off-sentiment-bff9f0da",
+        "id": "WP-WSJ-0001365919"
+      },
+      {
+        "title": "Covid's Biggest Economic Winner is Running Out of Steam",
+        "description": "Ireland was one of very few economies to get a boost from the Covid-19 pandemic. Now that unusual dividend is unraveling, in a fresh blow to Europe’s already weakened growth outlook.",
+        "link": "https://www.wsj.com/articles/covids-biggest-economic-winner-is-running-out-of-steam-c1658d4e",
+        "id": "WP-WSJ-0001360461"
+      }
+    ],
+    "date": "2023-11-16"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As the German rain prospers, so does the yield,\nBetween the fox of two-and-half and snail's field,\nThe core of inflation, a rabbit's path in sight,\nThe bond’s rate end, like day succumbs to night.\n\nUpon the once sturdy trunk sat Lenovo's nest,\nWhilst profit tumbled, it still beat all the rest,\nThe market's favour, once a joyous feast,\nNow fallen leaves, tossed east by the fabled beast.\n\nFrom yonder horizon, Siemens sends a crow,\nWhispering of slower growth in the wintry glow,\nThe dance of automation, a melody deferred,\nAwaiting the second half, when the rabbit is stirred.",
+    "feedItems": [
+      {
+        "title": "German 10-Year Bund Yields Seen Stabilizing in 2.50%-2.75% Range",
+        "description": "The potential end of rising German bond rates is within view, likely stabilizing between 2.5% and 2.75% [for the 10-year Bund yield], and over time, the driver of lower rates will likely be the trajectory of eurozone core inflation, Neuberger Berman said.",
+        "link": "https://www.wsj.com/articles/german-10-year-bund-yields-seen-stabilizing-in-2-50-2-75-range-562ad0eb",
+        "id": "WP-WSJ-0001366452"
+      },
+      {
+        "title": "Lenovo's Profit Falls, But Tops Consensus",
+        "description": "Lenovo Group’s net profit fell 54% in its fiscal second quarter due to a high base in the same period last year when market conditions were more favorable.",
+        "link": "https://www.wsj.com/articles/lenovos-quarterlyprofit-falls-54-but-tops-consensus-c4b71fe6",
+        "id": "WP-WSJ-0001366359"
+      },
+      {
+        "title": "Siemens Sees Slower Revenue Growth",
+        "description": "Siemens said it anticipates a slowdown in revenue growth next year, with global demand for automation products not expected to pick up again until the second half.",
+        "link": "https://www.wsj.com/articles/siemens-sees-slower-revenue-growth-with-automation-demand-still-recovering-6901b2a3",
+        "id": "WP-WSJ-0001366427"
+      }
+    ],
+    "date": "2023-11-16"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On Aegon's fair tidings my voice doth muse today,\nIts coffers brimming, vision bright as summer's day.\nWith ’23 guidance raised, optimism on display,\nIn harmony with business growth, fortune holds gentle sway.\n\nIn distant eastern lands, Nikkei sings a quieter tune,\nHer bow somewhat deflated 'neath the waning autumn moon.\nTouched by a fickle specter, consumer stocks did swoon,\nYet resilience hides, ready to re-emerge soon.\n\nIn the realm where dragons roar, hear China's command,\nWooing outsiders' gold with a welcoming hand.\nA pledge to fan the flames of consumption across the land,\nA bid to fortify the economy ‘gainst uncertain demand.",
+    "feedItems": [
+      {
+        "title": "Aegon Lifts Full-Year View",
+        "description": "Aegon raised its 2023 guidance as it reported better-than-expected third-quarter gross operating capital generation on business growth and improved underwriting variances.",
+        "link": "https://www.wsj.com/articles/aegon-lifts-operating-capital-generation-view-after-3q-beat-071db374",
+        "id": "WP-WSJ-0001366436"
+      },
+      {
+        "title": "Nikkei Edges 0.3% Lower, Dragged by Consumer-Related Stocks",
+        "description": "Japan’s Nikkei Stock Average edged 0.3% lower to close at 33424.41, dragged by consumer-related stocks.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-flat-open-6122a996",
+        "id": "WP-WSJ-0001365881"
+      },
+      {
+        "title": "China Pledges to Attract More Foreign Investment, Boost Consumption",
+        "description": "China’s state planner said it would step up efforts to attract foreign investment and improve domestic consumption, as Beijing moved to provide more support for the economy.",
+        "link": "https://www.wsj.com/articles/china-pledges-to-attract-more-foreign-investment-boost-consumption-8f5dc5c0",
+        "id": "WP-WSJ-0001366370"
+      }
+    ],
+    "date": "2023-11-16"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Inflation, that roaring dragon fierce,\nHath turned a corner, so 'tis said,\nWith rates that soon will see a decrease,\nA respite for the market's head.\n\nSecondly, in the world of mice and men,\nThe giant Disney found a new stake friend.\nValueAct, a fund of activist tract,\nDoes seek the ear of the governing pack.\n\nLastly, the court, with scepter in hand,\n'Tis dealing with a troublesome band,\nRules anew for handling evidence,\n'Oer Trump's case, causing quite the hinderance.",
+    "feedItems": [
+      {
+        "title": "Global Fight Against Inflation Turns a Corner",
+        "description": "Falling inflation across industrialized countries opens the door for central banks to start cutting interest rates next year.",
+        "link": "https://www.wsj.com/articles/the-global-fight-against-inflation-has-turned-a-corner-f7482629",
+        "id": "WP-WSJ-0001363955"
+      },
+      {
+        "title": "Activist fund ValueAct has accumulated a stake in Disney and initiated a dialogue with the entertainment giant's board.",
+        "description": "Activist fund ValueAct has accumulated a stake in Disney and initiated a dialogue with the entertainment giant’s board.",
+        "link": "https://www.wsj.com/business/deals/activist-valueact-builds-stake-in-disney-3f483c8c",
+        "id": "E280CF4D-902E-4BC4-93D6-4721781F6943"
+      },
+      {
+        "title": "The judge overseeing the racketeering case against Trump and 14 remaining co-defendants said he would soon place new limits on how evidence should be handled, after a defense lawyer admitted to disclosing video clips of witness interviews to a media outlet.",
+        "description": "The judge overseeing the racketeering case against Trump and 14 remaining co-defendants said he would soon place new limits on how evidence should be handled, after a defense lawyer admitted to disclosing video clips of witness interviews to a media outlet.",
+        "link": "https://www.wsj.com/us-news/law/judge-in-trumps-georgia-case-to-bar-release-of-sensitive-evidence-after-media-leaks-c9f473f1",
+        "id": "F0EB94C9-0FF3-4C49-B092-CD41AC3B5FFE"
+      }
+    ],
+    "date": "2023-11-16"
+  }
+]
