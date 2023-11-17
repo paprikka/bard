@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Meta doth face yon Italy's scorn,\nBranded content has its corn.\nMurky are Instagram's truth troves,\nLike idle yeast in ale not sown.\n\nIn yonder Britain, retail is at low tide,\nThe festive season can no longer hide.\nThe cost of life squeezes tight,\nLike an empty wineskin in broad daylight.\n\nThe Exchange in London, noble and grand,\nA billion pounds at the shareholders' hand.\nYet, the future doth not ring much cheer,\nLike an empty chalice devoid of beer.",
+    "feedItems": [
+      {
+        "title": "Meta Faces Italy Probe",
+        "description": "Italy’s competition watchdog has opened an investigation into whether Meta has failed to provide adequate information on how to mark and monitor branded content on Instagram.",
+        "link": "https://www.wsj.com/articles/meta-faces-probe-by-italian-watchdog-over-instagrams-branded-content-8d319df1",
+        "id": "WP-WSJ-0001369810"
+      },
+      {
+        "title": "UK Retail Decline Raises Doubts Ahead of Key Shopping Season",
+        "description": "Retail sales in the U.K. fell again in October, with wallets still squeezed by the high cost of living ahead of the all-important festive season.",
+        "link": "https://www.wsj.com/articles/uk-retail-sales-dropped-unexpectedly-in-october-b9a100a9",
+        "id": "WP-WSJ-0001369782"
+      },
+      {
+        "title": "LSE Announces Buyback, Sets Mid-Term Targets",
+        "description": "London Stock Exchange said it planned to return £1 billion to shareholders over the next year, but analysts said its predicted lower-end revenue growth range for fiscal 2024 might be viewed negatively.",
+        "link": "https://www.wsj.com/articles/lseg-to-return-1-24-bln-via-share-buybacks-during-2024-sets-medium-term-targets-3edea44b",
+        "id": "WP-WSJ-0001369795"
+      }
+    ],
+    "date": "2023-11-17"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Behold the halls of LSEG, mired in shadowed forecast,\nLower grows their golden hoard, as winters past.\nQuantitative figures elude, the market's storm doth cast,\nCiti’s word on market’s tide, holds mast and sail steadfast.\n\nEffigy of serpent coil, USD/CNH, enshrined in charts unseen,\nPullback begun, whispers of lore, in UOB's cloistered sheen.\nGlobal seers with eagle’s sight, decipher truth serene,\nUpon the sea of markets, trails a comet's gleam.\n\nIn distant Eurozone, a dragon slumbers, cash its fiery breath,\nIssuers of sovereign score, in record net bear sordid death.\nCiti’s harp sings a dirge, of debts risen from the depths,\nAn increase seen, of one fifth part, from the year afore’s bequest.",
+    "feedItems": [
+      {
+        "title": "LSEG Shares at Risk on Lower-End Revenue Growth Forecast",
+        "description": "London Stock Exchange predicted a lower-end revenue growth range for fiscal year 2024 without providing any quantitative figures, and the market could react negatively to this, Citi said.",
+        "link": "https://www.wsj.com/articles/australia-shares-look-set-for-uncertain-open-7f8532c0",
+        "id": "WP-WSJ-0001369153"
+      },
+      {
+        "title": "USD/CNH's Pullback Has Likely Started, Charts Show",
+        "description": "USD/CNH’s pullback has likely started, based on technical charts, said UOB Global Economics & Markets Research.",
+        "link": "https://www.wsj.com/articles/yen-strengthens-amid-risk-off-sentiment-07d9bcc5",
+        "id": "WP-WSJ-0001369207"
+      },
+      {
+        "title": "Eurozone Sovereigns' Net Cash Requirement in 2024 Seen at Record Level",
+        "description": "Citi Research forecasts the net cash requirement of the eurozone’s largest 11 sovereign issuers at a record level of €542 billion in 2024, up 21% from €447 billion in 2023.",
+        "link": "https://www.wsj.com/articles/bond-yields-seen-as-suggesting-markets-dismiss-ecbs-rates-message-rates-b0f0f4af",
+        "id": "WP-WSJ-0001369769"
+      }
+    ],
+    "date": "2023-11-17"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Generali cries out, in notes of subtle pride,\n\"Rest easy, kin, our targets cannot hide.\nYet commerce wanes, a tempest in this tide.\nWe'll trim our sails and find more fruitful stride.\"\n\nFor Sino ground, investors turn away,\nYet tis a dance with danger, many say.\nThough gains diverge, their weight yet holds its sway,\nOn worldly scales, her infamy yet lay.\n\nWhere Uncle Sam now seems to lose his grip,\nEuropa's roots in Kyiv soil dip.\nThe storm of war, this endless, bitter trip,\nFaith holds, 'midst ping of arrows and whip's whip.",
+    "feedItems": [
+      {
+        "title": "Generali Warns of Weaker Demand",
+        "description": "Generali confirmed its targets until 2024 but said the insurance industry might be affected by weaker demand on signs of an economic slowdown, adding it planned to rebalance its life-insurance portfolio to boost profitability.",
+        "link": "https://www.wsj.com/articles/generali-sees-signs-of-slowdown-after-fall-in-net-profit-4e53e8e9",
+        "id": "WP-WSJ-0001369777"
+      },
+      {
+        "title": "Avoiding China Has Been a Winning Investment Strategy. But It Isn't Easy.",
+        "description": "Chinese stocks have diverged from the rest of the emerging markets, but the country is still weighing heavily on other economies.",
+        "link": "https://www.wsj.com/articles/avoiding-china-has-been-a-winning-investment-strategy-but-it-isnt-easy-ea48de8d",
+        "id": "WP-WSJ-0001360451"
+      },
+      {
+        "title": "As U.S. Wavers on Ukraine Aid, Europe Steps Up",
+        "description": "EU powers are increasingly helping Kyiv hold the line against Russia as the war slips toward stalemate.",
+        "link": "https://www.wsj.com/articles/as-u-s-wavers-on-ukraine-aid-europe-steps-up-baeec294",
+        "id": "WP-WSJ-0001367336"
+      }
+    ],
+    "date": "2023-11-17"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A humble scribe's echo from far Singtel's soil,\nSpeaks of a tale that did make the blood boil.\nPaid they silver for turmoil, yet firm like winter's hoar\nSees no ground for a greater deer to spoil.\n\nLike hares in spring, to the squire they made their plea,\nBrewing up a storm, 'twas not just for a cup of tea.\nOn strike they went, their labor's worth to see,\nTheir call to the round table, a chorus from the sea.\n\nUnto the knight, a lamb led by a goat,\nA parchment of secrets, in shadows did float.\nA voice told a tale, 'twas not of spite nor gloat,\nYet not a cage built, just a scribbled note.",
+    "feedItems": [
+      {
+        "title": "Singtel's Optus Sees No Precedent for Large-Scale Outage Compensation",
+        "description": "Singapore Telecommunications-owned Optus has paid $23,299 in customer compensation following an hourslong Australia-wide network outage but said there is no precedent suggesting it should make widespread financial reparations.",
+        "link": "https://www.wsj.com/articles/singtels-optus-sees-no-precedent-for-large-scale-outage-compensation-6863bbe0",
+        "id": "WP-WSJ-0001369712"
+      },
+      {
+        "title": "Thousands of unionized Starbucks workers went on strike on a busy sales day for the coffee chain in a bid to bring the company back to the negotiating table.",
+        "description": "Thousands of unionized Starbucks workers went on strike on a busy sales day for the coffee chain in a bid to bring the company back to the negotiating table.",
+        "link": "https://www.wsj.com/business/hospitality/starbucks-union-workers-strike-red-cup-day-1ae6c3b6",
+        "id": "9DD56AAA-D072-4531-A8DD-A5D20BB5A8AE"
+      },
+      {
+        "title": "An investigating prosecutor's report is expected to criticize Biden's handling of classified documents but the probe likely won't result in a criminal case, people familiar with the matter said.",
+        "description": "An investigating prosecutor’s report is expected to criticize Biden’s handling of classified documents but the probe likely won’t result in a criminal case, people familiar with the matter said.",
+        "link": "https://www.wsj.com/politics/national-security/biden-expected-to-face-harsh-criticism-in-classified-document-probe-39c3c27f",
+        "id": "CDC509BA-D61E-4F08-B5FF-BFBFFCA26852"
+      }
+    ],
+    "date": "2023-11-17"
+  }
+]
