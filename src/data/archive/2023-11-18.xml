@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Sat, 18 Nov 2023 02:36:30 -0500</pubDate>
+<lastBuildDate>Sat, 18 Nov 2023 02:36:30 -0500</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Sam Altman Is Out at OpenAI; Mira Murati Will Be Interim CEO</title>
+<link>https://www.wsj.com/articles/sam-altman-departs-open-ai-mira-murati-interim-ceo-41f6d51e</link>
+<description><![CDATA[The CEO was ousted amid safety concerns tied to rapid expansion of commercial offerings, sources say.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 01:32:00 -0500</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001371361</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Apple and Disney Among Companies Stopping Ads on X</title>
+<link>https://www.wsj.com/articles/disney-lions-gate-pause-ads-on-x-after-musk-agrees-with-antisemitic-tweet-641c3ea4</link>
+<description><![CDATA[The move follows other major advertisers that have stepped back from the platform after Elon Musk posted that an antisemitic social-media post was ‘the actual truth.’]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:59:00 -0500</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001372218</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Meditation Can Reveal a Sacred Reality</title>
+<link>https://www.wsj.com/articles/meditation-can-reveal-a-sacred-reality-4f3ab430</link>
+<description><![CDATA[Paying close attention to the world and our own minds can help us see that much of what we experience as real is actually our projection.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:05:00 -0500</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001221986</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Essay</wsj:articletype>
+</item>
+<item>
+<title>How JFK's Secrets Fed Conspiracy Culture</title>
+<link>https://www.wsj.com/articles/how-jfks-secrets-fed-conspiracy-culture-36987cec</link>
+<description><![CDATA[The contrast between the president’s idealistic public image and his own clandestine methods helped make his assassination an emblem of distrust in government.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:05:00 -0500</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001361411</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Essay</wsj:articletype>
+</item>
+<item>
+<title>Israel-Hamas War Puts Palestinians Back on Arab World's Agenda</title>
+<link>https://www.wsj.com/articles/israel-hamas-war-puts-palestinians-back-on-arab-worlds-agenda-82186d0c</link>
+<description><![CDATA[Israel’s fierce response to Hamas’s cross-border assault has reinvigorated support for Palestinians in the Arab world and stirred popular anger—not just at Israel and the U.S., but also at Arab governments.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:05:00 -0500</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001370860</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Middle East News</wsj:articletype>
+</item>
+<item>
+<title>Israel, Ukraine, China: Foreign Challenges Hinder Biden's Re-Election Bid</title>
+<link>https://www.wsj.com/articles/israel-ukraine-china-foreign-challenges-hinder-bidens-re-election-bid-020a0df7</link>
+<description><![CDATA[Two wars are straining the president’s ability to focus on persuading voters ahead of 2024.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:04:00 -0500</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001370873</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Election 2024</wsj:articletype>
+</item>
+<item>
+<title>Jim Chanos is shutting down hedge funds he manages that wager against companies he believes are overpriced or fraudulent.</title>
+<link>https://www.wsj.com/finance/stocks/jim-chanos-short-seller-who-took-on-enron-and-tesla-to-close-hedge-funds-f66c5b64</link>
+<description><![CDATA[Jim Chanos is shutting down hedge funds he manages that wager against companies he believes are overpriced or fraudulent.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">A704E4F6-C9C9-4591-8E27-7BEAA29FAB28</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>OpenAI pushed out co-founder Sam Altman as CEO, saying he wasn't being "consistently candid in his communications" with the company's board.</title>
+<link>https://www.wsj.com/tech/sam-altman-departs-open-ai-mira-murati-interim-ceo-41f6d51e</link>
+<description><![CDATA[OpenAI pushed out co-founder Sam Altman as CEO, saying he wasn’t being “consistently candid in his communications” with the company‘s board.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">2E941B46-8EA3-49C1-B614-1EA7C9B72225</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>TikTok is facing what it views as perhaps its biggest crisis yet, with the app facing an intense backlash over the perception it favors pro-Palestinian and, at times, antisemitic content.</title>
+<link>https://www.wsj.com/tech/tiktok-osama-bin-laden-antisemitism-6580384e</link>
+<description><![CDATA[TikTok is facing what it views as perhaps its biggest crisis yet, with the app facing an intense backlash over the perception it favors pro-Palestinian and, at times, antisemitic content.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">A6716971-B83A-400C-AB99-20FB3A0E2FFC</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The Republican head of the House Ethics Committee filed a resolution to expel Rep. George Santos, putting a possible vote within weeks after the panel released a scathing report finding the lawmaker stole money from his campaign.</title>
+<link>https://www.wsj.com/politics/george-santos-faces-expulsion-vote-right-after-thanksgiving-30b9f38b</link>
+<description><![CDATA[The Republican head of the House Ethics Committee filed a resolution to expel Rep. George Santos, putting a possible vote within weeks after the panel released a scathing report finding the lawmaker stole money from his campaign.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">A3EDBE93-8D86-4382-96F7-68D88CB811DA</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The U.S. Treasury market is in the midst of major supply and demand changes, as foreigners no longer have an insatiable appetite for U.S. government debt.</title>
+<link>https://www.wsj.com/finance/investing/where-have-all-the-foreign-buyers-gone-for-u-s-treasury-debt-3db75625</link>
+<description><![CDATA[The U.S. Treasury market is in the midst of major supply and demand changes, as foreigners no longer have an insatiable appetite for U.S. government debt.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">6B789A9C-B35B-42D4-90C0-52307707392D</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The S&amp;P 500 and Nasdaq each rose 0.1% while the Dow was little changed.</title>
+<link>https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-11-17-2023-6fb2a00b</link>
+<description><![CDATA[The S&amp;P 500 and Nasdaq each rose 0.1% while the Dow was little changed.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">76518D0C-7AF1-4211-B616-906E250688EE</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The Texas State Board of Education voted to block science lessons published by eight companies from appearing on a statewide list of textbook providers, citing problems with the way they depicted climate change and evolution.</title>
+<link>https://www.wsj.com/us-news/education/texas-rejects-science-textbooks-over-climate-change-evolution-lessons-29a2c2ca</link>
+<description><![CDATA[The Texas State Board of Education voted to block science lessons published by eight companies from appearing on a statewide list of textbook providers, citing problems with the way they depicted climate change and evolution.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">ED2DD6D1-9BF4-4752-AC4F-5845C620D5EF</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>European governments are boosting their assistance to Ukraine as worries grow that Washington's failure to approve new aid could cause Ukraine to lose ground in the war against Russia.</title>
+<link>https://www.wsj.com/world/europe/as-u-s-wavers-on-ukraine-aid-europe-steps-up-baeec294</link>
+<description><![CDATA[European governments are boosting their assistance to Ukraine as worries grow that Washington’s failure to approve new aid could cause Ukraine to lose ground in the war against Russia. ]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">A8B7ED6B-40CF-4700-8441-3B842080FCC0</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>House Speaker Mike Johnson starting making public video footage from the Jan. 6, 2021, attack on the U.S. Capitol, while Democrats blasted Republicans over the release.</title>
+<link>https://www.wsj.com/politics/house-speaker-mike-johnson-makes-public-security-video-from-jan-6-capitol-riot-33c6af83</link>
+<description><![CDATA[House Speaker Mike Johnson starting making public video footage from the Jan. 6, 2021, attack on the U.S. Capitol, while Democrats blasted Republicans over the release.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">A6F219EB-39F5-47D0-806F-AD94365AC1D9</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The war between Israel and Hamas is entering a new phase, as the Israeli military takes its fight underground and into Gaza's legendary subterranean tunnel network.</title>
+<link>https://www.wsj.com/world/middle-east/israel-takes-fight-underground-to-hamass-vast-gaza-tunnel-network-2572b1d5</link>
+<description><![CDATA[The war between Israel and Hamas is entering a new phase, as the Israeli military takes its fight underground and into Gaza’s legendary subterranean tunnel network.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">26A8374B-5297-4100-A5E8-1CF0801C7A8A</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Israel said it would allow limited fuel deliveries to the enclave after supplies ran out and plunged the strip into a communications blackout.</title>
+<link>https://www.wsj.com/world/middle-east/israel-says-it-is-close-to-dismantling-hamas-military-system-in-northern-gaza-4b339fcb</link>
+<description><![CDATA[Israel said it would allow limited fuel deliveries to the enclave after supplies ran out and plunged the strip into a communications blackout.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">DA9B7360-6B62-4B75-8656-5D477798012E</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>The UAW has secured worker backing for new labor contracts at Ford and Stellantis.</title>
+<link>https://www.wsj.com/business/autos/chrysler-parent-stellantis-workers-vote-overwhelmingly-to-approve-labor-deal-1cf67db3</link>
+<description><![CDATA[The UAW has secured worker backing for new labor contracts at Ford and Stellantis.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">5DD440A3-9739-4649-ADAA-840920D1EF30</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>FDIC Chairman Martin Gruenberg took responsibility and apologized for the agency's workplace culture in a video to staff.</title>
+<link>https://www.wsj.com/finance/regulation/embattled-fdic-chief-takes-responsibility-for-toxic-workplace-culture-078b8aee</link>
+<description><![CDATA[FDIC Chairman Martin Gruenberg took responsibility and apologized for the agency’s workplace culture in a video to staff.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">FBF56839-523F-46BE-9DA1-6D543A514C0D</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Apple, Disney and other major companies stopped advertising on X after Musk described an antisemitic post as "the actual truth" and lashed out again at the ADL.</title>
+<link>https://www.wsj.com/business/media/disney-lions-gate-pause-ads-on-x-after-musk-agrees-with-antisemitic-tweet-641c3ea4</link>
+<description><![CDATA[Apple, Disney and other major companies stopped advertising on X after Musk described an antisemitic post as “the actual truth” and lashed out again at the ADL.]]></description>
+<content:encoded/>
+<pubDate>Sat, 18 Nov 2023 00:01:00 -0500</pubDate>
+<guid isPermaLink="false">5502FFEF-B748-4B0C-AB80-3E8C2964D605</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>
