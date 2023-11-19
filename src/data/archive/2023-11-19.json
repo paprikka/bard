@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In China's heart, commercial races do run,\nStarbucks once did shine, now outshone by the Sun.\nLuckin, the rival, doth now lead the pact,\nIn world's second realm, they've the better act.\n\nHome unfinished arise, a problem great,\nBillions set aside, yet they lie in wait. \nPoised to aid the masons, the chisels, the trow,\nYet the logjam grows deeper in shadows now.\n\nIn Gaza after war, discord does spread,\nPondering leadership, where to be led.\nPalestinian Authority in critics’ sight,\nFor struggles in the West Bank, amid their fight.",
+    "feedItems": [
+      {
+        "title": "How Starbucks Lost the Top Spot in China's Coffee Race",
+        "description": "Rival Luckin now leads Starbucks in the world’s second-most-populous nation.",
+        "link": "https://www.wsj.com/articles/how-starbucks-lost-the-top-spot-in-chinas-coffee-race-b6b36353",
+        "id": "WP-WSJ-0001351972"
+      },
+      {
+        "title": "China's Problem With Unfinished Homes Keeps Getting Bigger",
+        "description": "Authorities have set aside billions of dollars to help developers complete and deliver apartments that were already sold, but the logjam is growing.",
+        "link": "https://www.wsj.com/articles/chinas-problem-with-unfinished-homes-keeps-getting-bigger-38710a65",
+        "id": "WP-WSJ-0001369691"
+      },
+      {
+        "title": "For Postwar Gaza, Differences Grow Over Palestinian Leadership Role",
+        "description": "The Palestinian Authority faces critics for problems in West Bank amid war with Israel.",
+        "link": "https://www.wsj.com/articles/for-postwar-gaza-differences-grow-over-palestinian-leadership-role-438a6b5f",
+        "id": "WP-WSJ-0001372779"
+      }
+    ],
+    "date": "2023-11-19"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Beneath the vast and golden savannah vast,\nElephants and lions find in chaos, their feast fast.\nBehold, to this wild theatre, men with hearts so dark,\nBlend with beasts in bloody dance, leaving raw, their stark mark.\n\nIn pursuit of lost shepherd, his flock in disarray, \nInvestors keen to restore Altman, they fervently pray.\nIn the realm of AI's might and intellectual fray,\nThey yearn for their leader's return, to right the astray.\n\nA troubling breed of thieves with audacious intent,\nThrough yonder walls they crash with rage, on plunder bent.\nMan-made chariots into bulwarks they send,\nIn this new moon madness, what path does it portend?",
+    "feedItems": [
+      {
+        "title": "Militants Take Cover Amid Elephants, Lions in West Africa's National Parks",
+        "description": "The U.S. and its allies battle al Qaeda and Islamic State fighters at a bloody crossroads of wildlife, insurgency, geopolitics and military coups.",
+        "link": "https://www.wsj.com/articles/militants-attack-from-africa-national-parks-2f6865cf",
+        "id": "WP-WSJ-0001327591"
+      },
+      {
+        "title": "OpenAI Investors Trying to Get Sam Altman Back as CEO",
+        "description": "OpenAI’s investors are making efforts to bring back Sam Altman, the chief executive who was ousted Friday.",
+        "link": "https://www.wsj.com/articles/openai-trying-to-get-sam-altman-back-4b728049",
+        "id": "WP-WSJ-0001373213"
+      },
+      {
+        "title": "Brazen Burglars Are Crashing Vehicles Into Stores",
+        "description": "In a tactic called “ram raiding,” burglars drive a stolen vehicle through a storefront and then loot ATMs, guns and other valuables inside.",
+        "link": "https://www.wsj.com/articles/brazen-burglars-are-crashing-vehicles-into-stores-04a3ebcf",
+        "id": "WP-WSJ-0001371744"
+      }
+    ],
+    "date": "2023-11-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Wall Street's glory, where greed doth grow,\nPledge of soft landing the traders bestow.\nYet the wise sea eagle eyes victory from height,\nToo soon doth the foolish seal bask in daylight.\n\nHe who is called Paulson, walked a path paved with gold,\nDreamed he of paradise, yet was caught in turmoil untold.\nLike Fenrir and Odin, embroiled in eternal feud,\nIn the throes of battle, both strength and wisdom elude.\n\nSpeak now of death's harvest, a tax that lies in wait,\nSeventeen lands and Columbia's estate.\nEach season brings change, like the wind's capricious song,\nThe unexpected tax, a cruel giant amongst the throng.",
+    "feedItems": [
+      {
+        "title": "Wall Street Has a Plan for a Soft Landing: Buy More Stocks",
+        "description": "Investors pile in, but some say it is too soon to declare victory.",
+        "link": "https://www.wsj.com/articles/wall-street-has-a-plan-for-a-soft-landing-buy-more-stocks-cecd4518",
+        "id": "WP-WSJ-0001368302"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "It was supposed to be John Paulson&#x27;s paradise. Instead it sucked him into a bitter feud.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-a76beab1",
+        "id": "SB12547955315590724305404590344311695647423"
+      },
+      {
+        "title": "The Estate Taxes Catching Americans by Surprise",
+        "description": "Seventeen states and the District of Columbia have estate or inheritance taxes or both. The rules can change from year to year.",
+        "link": "https://www.wsj.com/articles/the-estate-taxes-catching-americans-by-surprise-488e08a9",
+        "id": "WP-WSJ-0001370556"
+      }
+    ],
+    "date": "2023-11-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Bayer's coffers, a grievous wound,\nRoundup weedkiller under legal mound.\nYet like vines in spring, verdicts sway,\nIn favor of the plaintiffs this fine day.\n\nTo the town small and sprightly, we raise our mugs,\nOutstripping New York, its wealth snug.\nMore costly than any city's zip,\nIn ale and gold, a merry trip.\n\nGaza's largest leech-house doth patients bleed,\nPalestinians towards the south proceed.\nIn wheelchairs or afoot, they go,\nWhile Israel tightens its tethered hold.",
+    "feedItems": [
+      {
+        "title": "Bayer Told to Pay $1.56 Billion After Losing Roundup Case",
+        "description": "A Missouri jury found in favor of plaintiffs as verdicts seesaw in trials involving the weedkiller.",
+        "link": "https://www.wsj.com/articles/bayer-told-to-pay-1-56-billion-after-losing-roundup-case-b2fe0480",
+        "id": "WP-WSJ-0001373054"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "The tiny New Jersey town that&#x27;s more expensive than any zip code in New York City",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-a077fd3b",
+        "id": "SB12547955315590724305404590344143301741454"
+      },
+      {
+        "title": "Hundreds of Palestinians Evacuate Gaza's Largest Hospital as Israel Tightens Control",
+        "description": "At least 450 patients from Gaza City’s besieged Al-Shifa Hospital, some in wheelchairs, began moving toward the enclave’s south.",
+        "link": "https://www.wsj.com/articles/hundreds-of-patients-evacuate-gazas-largest-hospital-as-israel-tightens-grip-989df07e",
+        "id": "WP-WSJ-0001372502"
+      }
+    ],
+    "date": "2023-11-19"
+  }
+]
