@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From Baer, a message of woe doth come,\nProfit's expectations reduced, the numbers hum,\nA rise in provisions, the tax rate high,\nLeaves last year's gains to simply die.\n\nIn BTP-Bund spread, room doth shrink,\nAs Moody's view makes investors think,\nItaly's outlook improved from bad,\nFavors short-term tightening, a trend to be had.\n\nAltman, the one who led OpenAI,\nHis return thwarted, bids goodbye,\nThe board that fired him, now instead,\nShear, of Twitch, the helm will tread.",
+    "feedItems": [
+      {
+        "title": "Julius Baer Cuts Profit Expectations",
+        "description": "Julius Baer said it expected 2023 net profit to be below last year’s level due to a rise in credit provisions and an increased tax rate.",
+        "link": "https://www.wsj.com/articles/julius-baer-sees-lower-net-profit-on-credit-provisions-higher-taxes-7242e1b3",
+        "id": "WP-WSJ-0001374586"
+      },
+      {
+        "title": "Limited Room Seen for BTP-Bund Spread to Tighten After Moody's Improved Italy's Outlook",
+        "description": "Moody’s Investors Service’s upgrade of the outlook on Italy’s Baa3 rating to stable from negative favors some further short-term tightening dynamics for Italian government bonds, Morgan Stanley Research said.",
+        "link": "https://www.wsj.com/articles/italian-btps-outperform-peers-after-moodys-improves-italys-outlook-f2b73965",
+        "id": "WP-WSJ-0001374572"
+      },
+      {
+        "title": "Sam Altman Not Returning as CEO of OpenAI",
+        "description": "Sam Altman’s bid to return to OpenAI faltered, as the board that fired him opted not to agree to proposed terms of his reinstatement. Emmett Shear, former CEO of Twitch, was named interim CEO.",
+        "link": "https://www.wsj.com/articles/openai-leadership-hangs-in-balance-as-sam-altmans-counte-rebellion-gains-steam-47276fa8",
+        "id": "WP-WSJ-0001373913"
+      }
+    ],
+    "date": "2023-11-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In market's land where fortunes lie bare,\nUSD/JPY's strength doth wane, traders beware.\nMid-winter's rise, now faint and rare,\nA warning from Oanda, prudence they declare.\n\nNikkei, bold market of the rising sun’s might,\nDid tumble, upon the yen's stalwart fight.\nProfit taken, a high pierced through night,\nIn 33 splendid years, a fretful sight.\n\nSky sailors face a woeful task,\nNASA, their signal thread grows thin as flask.\nDeep Space Network, in burden aghast,\nAs moon wards we yearn, the future vast.",
+    "feedItems": [
+      {
+        "title": "USD/JPY's Medium-Term Uptrend in Jeopardy, Oanda Says",
+        "description": "USD/JPY’s medium-term uptrend since mid-January is in jeopardy, based on technical analysis, Oanda said.",
+        "link": "https://www.wsj.com/articles/most-asia-currencies-strengthen-amid-fed-easing-prospects-67056ee7",
+        "id": "WP-WSJ-0001374020"
+      },
+      {
+        "title": "Nikkei Falls 0.6% on Likely Profit-Taking, JPY Strength",
+        "description": "Japan’s Nikkei Stock Average fell 0.6% to close at 33388.03 on likely profit-taking after earlier hitting a 33-year high.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-rise-4c283d24",
+        "id": "WP-WSJ-0001374010"
+      },
+      {
+        "title": "NASA Has an Infrastructure Problem. Here's Why It Matters.",
+        "description": "The Deep Space Network, NASA’s main communications infrastructure, is overburdened. That’s raising concerns about the network’s ability to support future missions, as NASA pivots toward extended human exploration of the moon.",
+        "link": "https://www.wsj.com/articles/nasa-has-an-infrastructure-problem-heres-why-it-matters-5cbb2f87",
+        "id": "SB12785202464571054276004590346590020455712"
+      }
+    ],
+    "date": "2023-11-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Wall Street's great and noble hall,\nHaley's bid they do enthrall,\nAgainst the Trump, she stakes her claim,\nA wine of change in political game.\n\nIn far off lands of Arab sands and Western clime,\nUpon Gaza strife they seek to chime,\nThe strong mead of leadership they wish to pour,\nYet on whom to bestow, they find no sure.\n\nIn Maui's land of sun and surf,\nDescends a fire of destructive turf,\nCompensation's ale offered, victims spurn,\nTill accountability's toast, they yearn to earn.",
+    "feedItems": [
+      {
+        "title": "Big hitters on Wall Street are lining up to support Nikki Haley's long-shot bid to snatch the 2024 Republican presidential nomination from Donald Trump.",
+        "description": "Big hitters on Wall Street are lining up to support Nikki Haley’s long-shot bid to snatch the 2024 Republican presidential nomination from Donald Trump.",
+        "link": "https://www.wsj.com/politics/elections/wall-street-eyes-nikki-haley-as-trump-spoiler-1b3144f3",
+        "id": "SB12525088540535724714204590345732867967108-d5"
+      },
+      {
+        "title": "Most Western and Arab leaders agree they want some form of Palestinian government running the Gaza Strip, but they can't agree on who it should include as they look beyond Israel's war in the enclave.",
+        "description": "Most Western and Arab leaders agree they want some form of Palestinian government running the Gaza Strip, but they can’t agree on who it should include as they look beyond Israel’s war in the enclave.",
+        "link": "https://www.wsj.com/world/middle-east/for-postwar-gaza-differences-grow-over-palestinian-leadership-role-438a6b5f",
+        "id": "807D0604-ADED-4B43-90A7-CE8524FC6B58"
+      },
+      {
+        "title": "Families of some Maui fire victims are criticizing proposed compensation payments as premature, saying accountability is at issue.",
+        "description": "Families of some Maui fire victims are criticizing proposed compensation payments as premature, saying accountability is at issue.",
+        "link": "https://www.wsj.com/us-news/some-see-maui-fire-victim-fund-as-too-little-too-soon-51e27c84",
+        "id": "0379B712-777B-44FF-BA62-53A15C413E9A"
+      }
+    ],
+    "date": "2023-11-20"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "A snail's lifespan ceased, so too the morn,\nRosalynn Carter, lady, flowers torn.\nGone 'fore songbird in secret glade hath warned,\nSilently she falls, into new dawn adorned.\n\nBiden the rabbit, with Netanyahu the goat,\nIn fields of discord ceaselessly they coax.\nStriving to calm Gaza’s feral hound,\nYet only the strain of allies resound.\n\nJavier Milei, the outsider, akin to hare,\nRaces past the old, in audacious dare.\nPledging to level Argentina's rugged plain,\nElected the leader, in hope they strain.\n",
+    "feedItems": [
+      {
+        "title": "Died: Rosalynn Carter, 96, former first lady.",
+        "description": "Died: Rosalynn Carter, 96, former first lady.",
+        "link": "https://www.wsj.com/us-news/rosalynn-carter-former-first-lady-dead-55bac510",
+        "id": "680AD114-B705-4A62-98FD-E33AD7FD9A7D"
+      },
+      {
+        "title": "Biden is struggling to persuade Netanyahu to take steps U.S. officials believe could help prevent the conflict in Gaza from further escalating, straining the relationship between the two longtime allies, according to U.S. and European officials.",
+        "description": "Biden is struggling to persuade Netanyahu to take steps U.S. officials believe could help prevent the conflict in Gaza from further escalating, straining the relationship between the two longtime allies, according to U.S. and European officials.",
+        "link": "https://www.wsj.com/world/middle-east/israels-war-in-gaza-tests-limits-of-bidens-support-8a3e7d3b",
+        "id": "4F8B09D2-EF9B-47E0-AD5C-CE9A54F80351"
+      },
+      {
+        "title": "Javier Milei, a libertarian political outsider who pledged to flatten Argentina's political establishment, was elected president in a major shift for a country in economic straits.",
+        "description": "Javier Milei, a libertarian political outsider who pledged to flatten Argentina’s political establishment, was elected president in a major shift for a country in economic straits.",
+        "link": "https://www.wsj.com/world/americas/argentina-votes-for-new-president-to-confront-economic-crisis-99b73b86",
+        "id": "E64D011B-F0B3-47A0-8F45-36486046ABE7"
+      }
+    ],
+    "date": "2023-11-20"
+  }
+]
