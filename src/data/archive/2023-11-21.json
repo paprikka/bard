@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Ye dollar weak, a truth declared by sages,\nDHF speaks in our tumultuous ages.\nIn yon first half, an interest cut looms,\nIn market's heart, uncertainty blooms.\n\nFear not, dear folk, for Goldman Sachs proclaims,\nThat core bonds keep steadied our financial games.\nThrough unrest vast and growth's fickle trends,\nSuch assets yield a buffer that defends.\n\nAlas, in Britain's fertile, teeming land,\nThe public coffers stretch to meet demand.\nChancellor Hunt, scarce room to wield his tax,\nFor Autumn's statement bears a heavy axe.",
+    "feedItems": [
+      {
+        "title": "Dollar Weakens as Market Ponders Fed Rate Cuts in 1H",
+        "description": "The U.S. dollar is trading weaker as investors ponder the possibility of a first interest-rate cut by the Federal Reserve in the first half of 2024, said DHF Capital.",
+        "link": "https://www.wsj.com/articles/aud-usd-retains-gains-technical-resistance-building-b8294466",
+        "id": "WP-WSJ-0001376725"
+      },
+      {
+        "title": "Holding Core Bonds Makes Sense Amid Growth Concerns, Says Goldman Sachs AM",
+        "description": "Core fixed income assets can help balance portfolios through episodes of geopolitical instability and growth volatility, given higher yields can provide a potential buffer, Goldman Sachs Asset Management said.",
+        "link": "https://www.wsj.com/articles/holding-core-bonds-makes-sense-amid-growth-concerns-says-goldman-sachs-am-846e538f",
+        "id": "WP-WSJ-0001377532"
+      },
+      {
+        "title": "U.K. Public-Sector Borrowing Climbs",
+        "description": "U.K. public-sector borrowing was higher than expected in October, an indication that Chancellor Jeremy Hunt will find little headroom to pass tax cuts in Wednesday’s autumn budget statement.",
+        "link": "https://www.wsj.com/articles/uk-public-sector-borrowing-climbs-on-year-narrowing-room-for-tax-breaks-568dd813",
+        "id": "WP-WSJ-0001377518"
+      }
+    ],
+    "date": "2023-11-21"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In lands that belong to the Eastern Raven,\nCarriages of iron, by the tempest wrought,\nSee sales bloom forth, a hundred score times seven,\nDriven by the winds of change in foreign port.\n\nIn the dance of commerce, Stellantis bold,\nMakes pact with CATL, their coffers to enrich,\nBatteries for the carriages, traded for gold,\nReady their axe, for a new venture to pitch.\n\nYet, in the East where the dragon doth reign,\nNikkei edges lower, a warrior wearied by fight,\nFalls to the strength of the yen, a chain,\nDimming the sun, casting the land in blight.",
+    "feedItems": [
+      {
+        "title": "EU New Car Sales Rise, Boosted by EVs",
+        "description": "New car registrations in Europe increased 15% in October, driven by demand in France, Italy and Spain, and a 36% rise in fully-electric vehicle sales.",
+        "link": "https://www.wsj.com/articles/eu-new-car-sales-rose-in-october-with-help-from-electric-vehicles-414d6160",
+        "id": "WP-WSJ-0001377500"
+      },
+      {
+        "title": "Stellantis, CATL Agree Battery Supply Deal",
+        "description": "Stellantis has signed a memorandum of understanding with CATL for the supply of EV batteries in the European market, which could lead to a joint venture with equivalent contributions.",
+        "link": "https://www.wsj.com/articles/stellantis-catl-in-talks-for-ev-battery-supply-deal-with-jv-potential-8f3b4546",
+        "id": "WP-WSJ-0001377484"
+      },
+      {
+        "title": "Nikkei Edges 0.1% Lower Amid JPY Strength",
+        "description": "Japan’s Nikkei Stock Average edged 0.1% lower to close at 33354.14 amid JPY strength, which hurts the overseas earnings of Japanese exporters.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-tracking-u-s-equity-markets-gains-5a36de2b",
+        "id": "WP-WSJ-0001377049"
+      }
+    ],
+    "date": "2023-11-21"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the home of silver, and states unrest, \nThere strikes a tune of discord, might I jest.\nYet wisdom warns, no simple plan can quell,\nThe argent strife that Argentina fell.\n\nLike rabbits chased by hound 'cross earthen slew,\nStand Ukrainian, their numbers mightily few.\nIn the eastern mud, the Russians press their claim,\nTheir desires inked in blood, a ghastly game.\n\nSnails on a border line, tension do create,\nWith threats and demand in Israel's contentious state.\nNetanyahu, like a goat 'midst the fraught bleat,\nAgainst the rising tide of Hezbollah, must meet.",
+    "feedItems": [
+      {
+        "title": "For Argentina, Dollarization May Work Better on YouTube Than in Reality",
+        "description": "Anarcho-capitalist President-elect Javier Milei is right that the country desperately needs dollars. But his economic plan for getting them may be the wrong one.",
+        "link": "https://www.wsj.com/articles/for-argentina-dollarization-may-work-better-on-youtube-than-in-reality-34fe363d",
+        "id": "WP-WSJ-0001374911"
+      },
+      {
+        "title": "Tired Ukrainian Troops Fight to Hold Back Russian Soldiers: 'They Come Like Zombies'",
+        "description": "Russia is taking heavy casualties in the mud of eastern Ukraine as it presses to encircle the city of Avdiivka.",
+        "link": "https://www.wsj.com/articles/tired-ukrainian-troops-fight-to-hold-back-russian-offensive-they-come-like-zombies-9b4a31a1",
+        "id": "WP-WSJ-0001375101"
+      },
+      {
+        "title": "Israeli Military, Border Residents Press Netanyahu to Eliminate Hezbollah Threat",
+        "description": "The prime minister is resisting demands to take action at the Lebanon border, while issuing warnings to the Iran-backed army.",
+        "link": "https://www.wsj.com/articles/israeli-military-border-residents-press-netanyahu-to-eliminate-hezbollah-threat-73a2934f",
+        "id": "WP-WSJ-0001370976"
+      }
+    ],
+    "date": "2023-11-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Trump and his election woes, we oft heard tell,\nHis tongue stilled by court's order, yet he might farewell,\nThe case, he cries, 'tis a concocted hell,\nLike vinegar to lips, a truth that doth not well sell.\n\nIn the shadow of steepled peaks, the belfry rings twice,\nWells Fargo workers rally, cast union's paradise,\nMany a banker's brow with vexation is spiced.\nAs the toiling men's ale in solidarity is iced. \n\nAlas poor Bayer has taken a mean swig,\nShares have dipped like a drunkard's jig.\nA potion of failure, their weedy trial gone big,\nOrdered to pay a king's ransom, a bitter fig.",
+    "feedItems": [
+      {
+        "title": "An appeals court signaled that it would affirm but potentially narrow a gag order imposed on Trump in the criminal case alleging he conspired to overturn his 2020 election loss.",
+        "description": "An appeals court signaled that it would affirm but potentially narrow a gag order imposed on Trump in the criminal case alleging he conspired to overturn his 2020 election loss.",
+        "link": "https://www.wsj.com/us-news/law/trumps-gag-order-comes-under-appeals-courts-scrutiny-915e99b7",
+        "id": "179BB972-7A0C-46E4-AABC-2A57C74E3B02"
+      },
+      {
+        "title": "Workers at two Wells Fargo bank branches launched unionization efforts, shifting attention of a resurgent labor movement to an industry that has historically been cool to it.",
+        "description": "Workers at two Wells Fargo bank branches launched unionization efforts, shifting attention of a resurgent labor movement to an industry that has historically been cool to it.",
+        "link": "https://www.wsj.com/finance/banking/two-wells-fargo-branches-vote-to-form-union-0595107c",
+        "id": "AF978F7A-30CC-442F-A44D-0861B3A818B7"
+      },
+      {
+        "title": "Bayer shares fell sharply after the company stopped a late-stage study for a blood-thinning drug early because of lack of efficacy and was told to pay $1.56 billion in a lawsuit relating to its Roundup weedkiller.",
+        "description": "Bayer shares fell sharply after the company stopped a late-stage study for a blood-thinning drug early because of lack of efficacy and was told to pay $1.56 billion in a lawsuit relating to its Roundup weedkiller.",
+        "link": "https://www.wsj.com/health/pharma/bayer-shares-tumble-after-clinical-trial-failure-roundup-case-loss-507c1ae0",
+        "id": "340A75ED-3FB9-4BDB-B5BF-8ED58032F6E6"
+      }
+    ],
+    "date": "2023-11-21"
+  }
+]
