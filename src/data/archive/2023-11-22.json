@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the morn, as dawn did rise, Enel unraveled its wise stratagem,\nIn grids to sow, their investments flow, a renewing force they dare not stem.\nTrimming cost, in cash they trust, while renewables take new form,\n'Tis their will, for the years 'fore, fortitude in the face of a storm.\n\nTo Thyssenkrupp, a hearty sup, yet alas, their fortune's been thwarted,\nSales fell short, in the final report, as the fiscal year was reported.\nO’ Steel Europe, thy earnings droop, costs climbed, markets turned graven,\nA net loss they bear, despair in the air, under the clouded heavens. \n\nBund yields of Germany, a steadfast entity, face a potential fall.\nInterest cuts deepen, as the new year heightens, heed DZ Bank's clarion call.\nTo 2.2%, they lower their gaze, from 2.4%, a humble descend,\n'Tis their lot for year twenty-four, yet, hope is a trusted friend.",
+    "feedItems": [
+      {
+        "title": "Enel Outlines 2024-26 Strategy",
+        "description": "Enel said it plans to boost investments in grids and refocus its renewables strategy while boosting cash generation and cutting costs as part of its plan for the 2024-26 period.",
+        "link": "https://www.wsj.com/articles/enel-to-boost-investments-cash-generation-as-part-of-2024-26-strategy-e5fd64e1",
+        "id": "WP-WSJ-0001380785"
+      },
+      {
+        "title": "Thyssenkrupp Posts Net Loss With Sales Below Expectations",
+        "description": "Thyssenkrupp reported net loss for the fourth quarter and its fiscal year on a tougher market that included higher costs and lower earnings at Steel Europe.",
+        "link": "https://www.wsj.com/articles/thyssenkrupp-posts-2-19-bln-net-loss-on-steel-europe-performance-c95a4b16",
+        "id": "WP-WSJ-0001380756"
+      },
+      {
+        "title": "German Bund Yields Expected to Fall in 2024",
+        "description": "G​erman Bund yields have potential to fall in 2024 as interest-rate cuts will intensify in the second half of next year, DZ Bank Research said, lowering its year-end yield forecast for 2024 to 2.2% from 2.4%.",
+        "link": "https://www.wsj.com/articles/german-bund-yields-expected-to-fall-in-2024-58c9d569",
+        "id": "WP-WSJ-0001380808"
+      }
+    ],
+    "date": "2023-11-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the dance of coins where the yen and AUD whirl,\nOver four nights' fall, a rising beast may unfurl.\nAs seen by Oanda's keen sight,\nIn this trading twilight, there might be light.\n\nIn the realm of the Open, turmoil does unseat,\nAltman returns, his journey now replete.\nEnds the stalemate of power's game,\nBoom of AI, its synonym his name.\n\nFrom the far lands of Peru, a trade does bloom,\nEnel's power assets in Niagara's room.\nIn exchange of ample riches, so grand,\nA new bond formed, $1.4 billion hand in hand.",
+    "feedItems": [
+      {
+        "title": "AUD/JPY's Recent Fall Showing Potential Bullish Reversal Signs",
+        "description": "AUD/JPY’s fall over the past four sessions has begun to show potential bullish reversal signs, based on technical analysis, Oanda said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-versus-usd-ahead-of-u-s-holiday-b7d29981",
+        "id": "WP-WSJ-0001379645"
+      },
+      {
+        "title": "Altman to Return as OpenAI CEO After Days of Turmoil",
+        "description": "The announcement marks the end of an impasse over who would lead the company that has become synonymous with the boom in AI technology.",
+        "link": "https://www.wsj.com/articles/openai-says-sam-altman-to-return-as-ceo-766349a5",
+        "id": "WP-WSJ-0001380730"
+      },
+      {
+        "title": "Enel to Sell Peruvian Power Generation Assets",
+        "description": "Enel has agreed to sell its Peruvian power generation assets to Niagara Energy for a total consideration of about $1.4 billion.",
+        "link": "https://www.wsj.com/articles/enel-agrees-to-sell-peruvian-power-generation-assets-for-around-1-4-bln-2039ee23",
+        "id": "WP-WSJ-0001380750"
+      }
+    ],
+    "date": "2023-11-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Nikkei's rise, I sing with joyous mirth,\nWeak Yen, position shifts on this earth.\nAs Thursday's holiday nears with haste,\nIn the alehouse of stocks, few drops are waste.\n\nA deal hath been brought 'fore the dawn's light,\nTo pause war's rage in Gaza's night.\nSwapping prisoners, both Israelites and kin,\nAn ale of peace we may yet win.\n\nAnd lo! Walmart embarks on a quest, \nBy grace of God and automation blessed.\nWith courier bots that never tire,\nTo outpace Amazon, their one desire.",
+    "feedItems": [
+      {
+        "title": "Nikkei Rises 0.3% on JPY Weakness, Likely Position Adjustment",
+        "description": "Japan’s Nikkei Stock Average rose 0.3% to close at 33451.83 amid JPY weakness and likely position adjustment ahead of Thursday’s holiday in the U.S. and Japan.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-for-a-flat-open-786f8664",
+        "id": "WP-WSJ-0001379877"
+      },
+      {
+        "title": "Deal Would Pause Fighting in Gaza for Days",
+        "description": "Foes to swap 50 Israelis held by militants in exchange for some 150 Palestinian prisoners held in Israeli jails and pauses in fighting.",
+        "link": "https://www.wsj.com/articles/deal-would-pause-fighting-in-gaza-for-days-09c83143",
+        "id": "SB12525088540535724714204590350630403737778"
+      },
+      {
+        "title": "How Walmart Is Leveraging Automation and AI to Deliver Faster",
+        "description": "Walmart projects that by 2025, 65% of its stores will be serviced by automation. Here’s how the country’s biggest retailer is leaning into a high-tech distribution strategy to keep pace in the fast shipping race against Amazon and Target.",
+        "link": "https://www.wsj.com/articles/how-walmart-is-leveraging-automation-and-ai-to-deliver-faster-b0c4415e",
+        "id": "SB12785202464571054276004590350601298230406"
+      }
+    ],
+    "date": "2023-11-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land west of Odin's throne, fear takes its toll,\nIran's promise to Russia, a conflict to unroll.\nBallistics of fire, set for Ukraine's plight,\nOfficials tremble in anticipation of the fight.\n\nFrom the North, a raven's flight upon the sky,\nKorea's spy sentinel, in the ether it does lie.\nFailed in the past, now succeeds in stealth,\nA ghost among the stars, veiled in quiet wealth.\n\nIn Israel's realm, a pact has been unfurled,\nBetween enemies of old, peace in the world.\nHostages freed, fighters stilled, for a blessed respite,\nUnderneath the watchful gods, brokered in moon's light.",
+    "feedItems": [
+      {
+        "title": "The U.S. fears Iran is preparing to provide Russia with advanced short-range ballistic missiles for its military campaign in Ukraine, U.S. officials said.",
+        "description": "The U.S. fears Iran is preparing to provide Russia with advanced short-range ballistic missiles for its military campaign in Ukraine, U.S. officials said.",
+        "link": "https://www.wsj.com/world/u-s-warns-iran-is-weighing-sending-short-range-missiles-to-russia-60f2c992",
+        "id": "9C8F07E5-FA3B-4E08-90C7-F4BACF08FB68"
+      },
+      {
+        "title": "North Korea said it had successfully launched a homegrown spy satellite into orbit, a much-anticipated attempt after a pair of failed tries earlier this year.",
+        "description": "North Korea said it had successfully launched a homegrown spy satellite into orbit, a much-anticipated attempt after a pair of failed tries earlier this year.",
+        "link": "https://www.wsj.com/world/asia/north-korea-launches-suspected-spy-satellite-after-two-botched-tries-92ead3ec",
+        "id": "BEACAA78-EDEC-47B2-9E7F-54068C8F78FE"
+      },
+      {
+        "title": "Israel said it agreed to a deal with Hamas to free 50 civilian hostages held by militants in Gaza in return for the release of Palestinian prisoners from Israeli jails and a series of pauses in fighting. The deal capped weeks of painstaking negotiations brokered by Qatar, Egypt and the U.S.",
+        "description": "Israel said it agreed to a deal with Hamas to free 50 civilian hostages held by militants in Gaza in return for the release of Palestinian prisoners from Israeli jails and a series of pauses in fighting. The deal capped weeks of painstaking negotiations brokered by Qatar, Egypt and the U.S.",
+        "link": "https://www.wsj.com/world/middle-east/gaza-fighting-intensifies-as-deal-for-hostagestakes-shape-3ad7679d",
+        "id": "88444E8E-2D62-4F9A-91F6-A5BA32BE871B"
+      }
+    ],
+    "date": "2023-11-22"
+  }
+]
