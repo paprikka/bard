@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm of earth's depth, a quest for purest gold,\nUnseen hands unite as one, a standard to uphold.\nFour crafters of boundless wealth, to honor's song they hold;\nFor in the heart of crystals mined, lie tales of honor told.\n\nUpon the eastern dragon’s breath, a plague unseen does brew,\nThe world's healers seek truth 'midst the celestial hue.\nTales of children, stricken low, stir hearts with fear anew,\nA plea for knowledge in the dark, the candle's flame to strew.\n\nIn the West, the silvered coin casts a seeming spell,\nYet whispers ‘round the hearth foretell a coming swell.\nThough strength does fade, ‘tis not foreseen that it will quickly quell,\nBits of gold in times of need, in pockets they will dwell.",
+    "feedItems": [
+      {
+        "title": "Mining Industry Seeks to Define One Global Standard for Ethical Practices",
+        "description": "Four key bodies are working to create a single set of codes to simplify sustainability reporting for mining companies.",
+        "link": "https://www.wsj.com/articles/mining-industry-seeks-to-define-one-global-standard-for-ethical-practices-de4bfd80",
+        "id": "WP-WSJ-0001378632"
+      },
+      {
+        "title": "WHO Presses China for Data on Undiagnosed Pneumonia Cases",
+        "description": "The WHO has asked China to provide more information on a pneumonia outbreak among children in northern parts of the country, in a rare public statement.",
+        "link": "https://www.wsj.com/articles/who-presses-china-for-data-on-wave-of-undiagnosed-pneumonia-cases-68ee349b",
+        "id": "WP-WSJ-0001383682"
+      },
+      {
+        "title": "U.S. Dollar Looks Overvalued But Much Weakness Is Unlikely, MUFG Says",
+        "description": "The dollar is overvalued as the Fed’s tightening cycle is over and there’s a clearer economic slowdown on the horizon, but a major deprecation isn’t lingering, MUFG said.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-ahead-of-japans-cpi-data-0f85f119",
+        "id": "WP-WSJ-0001383021"
+      }
+    ],
+    "date": "2023-11-23"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Stellantis and Dongfeng's venture, a tale,\nBrother Arnulfus doth sing, and raise his ale,\nShares exchanged, a billion's worth in chime,\nGod bless their deal, may it age like fine wine.\n\nOh, troubled Brookfield, in their quest for seal,\nA failed proposal, yet they didn't kneel,\nBullish in their pursuit to take ownership,\nYet the biggest fish ignored their courtship.\n\nTo China's iron, regulators turn their sight,\nThe price hath jumped, causing quite the fright,\nNoble metal used in spire and pylon,\nGod, guide them well, in light of your scion.",
+    "feedItems": [
+      {
+        "title": "Stellantis Buys Back Shares From JV Partner Dongfeng",
+        "description": "Stellantis has bought back 50 million common shares from Dongfeng Motor valued at over $1 billion.",
+        "link": "https://www.wsj.com/articles/stellantis-repurchases-1-02-bln-shares-from-dongfeng-motor-7112bdf7",
+        "id": "WP-WSJ-0001383675"
+      },
+      {
+        "title": "Brookfield Consortium's Revised Origin Energy Offer Fails to Convince Biggest Shareholder",
+        "description": "A consortium led by Brookfield Asset Management made last-ditch changes to its near $11 billion offer for Origin Energy but failed to convince Origin’s biggest shareholder to back the deal.",
+        "link": "https://www.wsj.com/articles/brookfield-consortium-revises-origin-energy-offer-amid-opposition-856481d9",
+        "id": "WP-WSJ-0001383480"
+      },
+      {
+        "title": "China Regulators to Step Up Oversight of Iron-Ore Market After Prices Jump",
+        "description": "Chinese regulators pledged to step up oversight of the nation’s iron-ore market after a surge in prices for the main ingredient in steel, used in everything from apartments to bridges and electricity pylons.",
+        "link": "https://www.wsj.com/articles/china-regulators-to-step-up-oversight-of-iron-ore-market-5879506d",
+        "id": "WP-WSJ-0001383545"
+      }
+    ],
+    "date": "2023-11-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Beneath the Southern Cross, there lies a drawing board,\nWhere goats who trade in iron, coal, have seen their yield ignored.\nLike rabbits in their wind-taut boroughs, woe is their new award,\nIn the Aussie market garden, the harvest is now poor'd.\n\nIn the land of dragon's breath, a hopeful turn's afoot,\nProperty, like patient snail, finds favor and bears fruit.\nDefaulting dogs now barking loud, for 'White List' they salute,\nHong Kong rings with gleeful clatter, the creditors' dispute.\n\nFrom Zion, hawkish messages, in Gaza they're enwrapped,\nBeastly artillery and fire, like frightened hares are mapped.\nA blockade, much like steadfast dog, has all resources zapped,\nIn a world of twisted shell games, peace's cloak is badly capped.",
+    "feedItems": [
+      {
+        "title": "Australia Shares Close 0.6% Lower",
+        "description": "Australia’s S&P/ASX 200 ended 0.6% lower amid broad-based losses, led by the materials and energy sectors.",
+        "link": "https://www.wsj.com/articles/australia-shares-on-track-for-another-soft-open-market-talk-2bb140df",
+        "id": "WP-WSJ-0001383119"
+      },
+      {
+        "title": "China Property Stocks Jump on Hopes for 'White List' Financing",
+        "description": "Chinese property stocks climbed in Hong Kong trade amid rising hopes that Beijing will soon make dozens of companies eligible for financing, including developers that have defaulted on debt.",
+        "link": "https://www.wsj.com/articles/china-property-stocks-jump-on-hopes-for-white-list-financing-be414bcb",
+        "id": "WP-WSJ-0001383616"
+      },
+      {
+        "title": "Israel's Military Strategy in the Gaza Strip, Mapped",
+        "description": "The tactics includes airstrikes, artillery bombardment, urban warfare and a fuel blockade.",
+        "link": "https://www.wsj.com/articles/israels-military-strategy-in-the-gaza-strip-mapped-e9186fef",
+        "id": "WP-WSJ-0001377972"
+      }
+    ],
+    "date": "2023-11-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In London's grand halls, where riches unfold,\nBrave hearts buy homes, though markets are cold.\nWith valor unyielding, their dread they defy,\nLike Odin in battle, their souls touch the sky.\n\nFrom this Yankish shore, a journey takes wing,\nTo Plymouth, our hearth, where the Skalds do sing.\nThe turkey's tale echoes in lore and song,\nE'er reminding us, to where we belong.\n\nHear, hear, the clash of Colt's steely might,\nChallenging rivals in commerce’s fight.\nIn their quest for power, like Thor's thunder deemed,\nBillions they offer, in gold, brightly gleamed.",
+    "feedItems": [
+      {
+        "title": "London's Luxury Home Market Has Been Dragging for Years. These Sellers Are Diving in Anyway.",
+        "description": "Despite a drop in deal volume, prices remain steady in Prime Central London—and some are taking the leap.",
+        "link": "https://www.wsj.com/articles/prime-central-london-home-market-8082f87f",
+        "id": "WP-WSJ-0001351507"
+      },
+      {
+        "title": "To Better Understand the Story of Thanksgiving, Follow the Mayflower Back to Plymouth",
+        "description": "A ‘reverse pilgrimage’ to Plymouth, U.K.—from which the famed ship sailed—offers a telling perspective on America’s beginnings, which can be hard to find this side of the pond",
+        "link": "https://www.wsj.com/articles/story-of-thanksgiving-plymouth-uk-museums-47f30aa4",
+        "id": "WP-WSJ-0001364630"
+      },
+      {
+        "title": "Colt Makes $1.74 Billion Offer for Vista Outdoor, Gate-crashing Rival Deal",
+        "description": "Firearms manufacturer Colt CZ Group has made an unsolicited offer to acquire U.S. -based Vista Outdoor that values its equity at $1.74 billion, seeking to block the latter’s proposed merger with a Czech industrial technology company.",
+        "link": "https://www.wsj.com/articles/colt-makes-1-74-billion-offer-for-vista-outdoor-gate-crashing-rival-deal-d86b3096",
+        "id": "WP-WSJ-0001383556"
+      }
+    ],
+    "date": "2023-11-23"
+  }
+]
