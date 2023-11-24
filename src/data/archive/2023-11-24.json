@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As dusk's shroud unfurls on the east-land's moors, \nIn rigid discourse for lives returned, not lost.\nQatar's pledge, a pause from war's relentless roars,\nIn hostage trade and captive cost.\n\nNeath waves of grain in Albion's tender care,\nGold coins pour from Nissan's brimming hand.\nIn lea and stone, their vow to share,\nElectrifying chargers 'cross the land.\n\nThe mighty dollar, once roe in swift river's flow,\nDrags its tail in sluggish autumn's plight.\nWith weakened tread in the market's shadow,\nIt seeks resurgence in the dwindling light.",
+    "feedItems": [
+      {
+        "title": "Israel-Hamas Cease-Fire Begins After 11th-Hour Talks Over Hostages",
+        "description": "Qatar says pause in fighting will be followed by an exchange of hostages and prisoners.",
+        "link": "https://www.wsj.com/articles/israel-hamas-cease-fire-hangs-on-11th-hour-talks-over-hostages-400cbe54",
+        "id": "WP-WSJ-0001383859"
+      },
+      {
+        "title": "Nissan Motor to Invest Over $2 Billion in EV, Battery Business in U.K.",
+        "description": "Nissan Motor plans to invest up to $2.39 billion in electric vehicles, battery production and infrastructure in the U.K.",
+        "link": "https://www.wsj.com/articles/nissan-motor-to-invest-over-2-billion-in-ev-battery-business-in-u-k-a16e189f",
+        "id": "WP-WSJ-0001384909"
+      },
+      {
+        "title": "USD/JPY's Corrective Rebound Has Started to Show Exhaustion Signs",
+        "description": "The dollar was marginally lower as it struggles to recover from a slump triggered by the October inflation data.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-amid-subdued-trading-b3296ee3",
+        "id": "WP-WSJ-0001384619"
+      }
+    ],
+    "date": "2023-11-24"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of bonds and yields in Eurozone vast,\nThe German Ifo data's been cast,\nAs ale does foam and seep,\nSo the debt brake takes a leap.\n\nA banker Zhu, a role doth he clinch,\nIn China's forex, not to inch.\nJust as wine from vintage old,\nHe takes the reins from Gongsheng bold.\n\nIn Nippon's lands, the Nikkei climbs,\nAs saints march to the autumn chimes,\nSofter CPI, and JPY frail,\nLike mead that fills a minstrel's grail.\n",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Yields Rise, Market Awaits German Ifo Data",
+        "description": "Eurozone government bond yields rose in early trading as ECB officials pushed back against rate cut expectations and after Germany announced a suspension of the debt brake for 2023.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-rise-market-awaits-german-ifo-data-b1c365f5",
+        "id": "WP-WSJ-0001384915"
+      },
+      {
+        "title": "China Names Zhu Hexin as Party Chief of Forex Regulator",
+        "description": "Veteran banker Zhu Hexin has been named as the new Communist Party chief of China’s foreign-exchange regulator, succeeding Pan Gongsheng, who heads up the country’s central bank.",
+        "link": "https://www.wsj.com/articles/china-names-zhu-hexin-as-party-chief-of-forex-regulator-08b27145",
+        "id": "WP-WSJ-0001384890"
+      },
+      {
+        "title": "Nikkei Rises 0.5%, Buoyed by Softer-Than-Expected Core CPI, JPY Weakness",
+        "description": "The Nikkei Stock Average rose 0.5% to close at 33625.53, buoyed by Japan’s softer-than-expected October core CPI and JPY weakness.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-tracking-european-equity-markets-gains-e6b5419d",
+        "id": "WP-WSJ-0001384624"
+      }
+    ],
+    "date": "2023-11-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hark! Novo Nordisk gathers strength anew,\nIn Gaulish lands, with coin ample and true.\nAgainst afflictions of blood and of weight,\nA potent elixir they doth create.\n\nIn the realm of glinting screens and bright sparks,\nLG in the mirror of the future harks.\nA marketing steed strong and swift, they forge,\nTo win world's favor with relentless urge.\n\nFrom starry gaze, a portent strikes dread,\nChina’s coasts bristle, for war they now tread.\nTo seize the dragon's roar, their bases groomed,\nForetells of a tempest in hearts consumed.",
+    "feedItems": [
+      {
+        "title": "Novo Nordisk to Boost Wegovy Production in France",
+        "description": "Novo Nordisk said it will invest more than $2 billion in its French production site as it seeks to meet rising demand for its blockbuster obesity and diabetes treatments.",
+        "link": "https://www.wsj.com/articles/wegovy-maker-novo-nordisk-to-spend-more-than-2-billion-boosting-production-in-france-8f2a6d8a",
+        "id": "WP-WSJ-0001384860"
+      },
+      {
+        "title": "LG Electronics Unveils Restructuring to Boost Global Competitiveness",
+        "description": "LG Electronics will set up a new sales and marketing entity to oversee international business, part of a series of restructuring moves to boost its competitiveness and growth.",
+        "link": "https://www.wsj.com/articles/lg-electronics-unveils-restructuring-to-boost-global-competitiveness-6a9ff3b6",
+        "id": "WP-WSJ-0001384785"
+      },
+      {
+        "title": "Satellite Images Indicate China Is Upgrading Its Air Bases for War",
+        "description": "Air bases along China’s southeastern coast facing Taiwan have undergone significant infrastructure upgrades in recent years. Analysts say these changes are a sign of Beijing’s preparations for a conflict over Taiwan.",
+        "link": "https://www.wsj.com/articles/satellite-images-indicate-china-is-upgrading-its-air-bases-for-war-9781c647",
+        "id": "SB12785202464571054276004590354624124725574"
+      }
+    ],
+    "date": "2023-11-24"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In bygone dream of dawning West, hope's tale is told,\nAs common folk hands to the plough, find dreams of gold.\nNo more in toil do they perceive a journey's crest,\nThe fickle dream eludes the grasp of e'en the best.\n\nYet rests the eagle, her wings of aether turn to clay,\nThe East stirs the pond, in lays of gratitude do sway.\nIn Hong Kong's zenith, a candle doth mildly burn,\nJapan in silence waits her turn, the Panglossian urn.\n\nThe Dragon guards her secrets well, in harshly-honed decree,\nThe specter of plight 'mongst babes has stirred the WHO's decree.\nList host of doubts, on wings of whispers, seen to sail,\nIn quest of truth, 'midst labyrinth, bygone tales regale.",
+    "feedItems": [
+      {
+        "title": "Voters See American Dream Slipping Out of Reach, WSJ/NORC Poll Shows",
+        "description": "Fewer believe that anyone who works hard can get ahead.",
+        "link": "https://www.wsj.com/articles/american-dream-out-of-reach-poll-3b774892",
+        "id": "WP-WSJ-0001382584"
+      },
+      {
+        "title": "U.S. markets were closed for the Thanksgiving Day holiday. In trading elsewhere, Hong Kong's Hang Seng Index advanced 1% and the Shanghai Composite gained 0.6%. Japan was closed for a holiday.",
+        "description": "U.S. markets were closed for the Thanksgiving Day holiday. In trading elsewhere, Hong Kong’s Hang Seng Index advanced 1% and the Shanghai Composite gained 0.6%. Japan was closed for a holiday.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-11-23-2023-8c7e78bd",
+        "id": "6AE371D8-F117-43D5-AE29-2E4478B7C0F4"
+      },
+      {
+        "title": "China provided the WHO with data on a pneumonia outbreak among children in the country after the agency made an unusual public request for the information, renewing questions about Beijing's transparency on public health.",
+        "description": "China provided the WHO with data on a pneumonia outbreak among children in the country after the agency made an unusual public request for the information, renewing questions about Beijing’s transparency on public health.",
+        "link": "https://www.wsj.com/world/china/who-presses-china-for-data-on-wave-of-undiagnosed-pneumonia-cases-68ee349b",
+        "id": "965DCC8C-5D0A-4B3E-AB12-5E9F385DD8EB"
+      }
+    ],
+    "date": "2023-11-24"
+  }
+]
