@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hark, the mighty Bayer doth wane, encased in woes and strife,\n'Midst share-price slump and news that chills, a spin-off shan't bring life.\nA German giant stands entrapped, in fields of crop and pill,\nYet rending heart from body, Sire, would not cure its ill.\n\nFrom Qatar, 'midst the desert winds, diplomacy doth rise,\nIn Gaza's roil, they mediate, and shun the hawk's despise.\nPariah lands and warriors fierce, with them are tied secure,\nTheir relevance and safety lie on this path obscure.\n\nNow in Tennessee there dwells, a smithy of the base,\nA zinc smelter, obscure and small, set in a hectic race.\nTwo minerals vital for the chips, inside its belly roar,\nIn the midst of a global war, 'tis an unexpected store.",
+    "feedItems": [
+      {
+        "title": "Bayer CEO Says Breakup Wouldn't Fix All of the Company's Ills",
+        "description": "Negative news and a share-price slump have reignited calls for the German crop-and-pharmaceutical group to spin off businesses.",
+        "link": "https://www.wsj.com/articles/bayer-ceo-says-breakup-wouldnt-fix-all-of-the-companys-ills-5e6d4a3d",
+        "id": "WP-WSJ-0001385220"
+      },
+      {
+        "title": "Gaza Diplomacy Cements Qatar's Role as Mediator",
+        "description": "The Persian Gulf state’s ties to militants and pariah countries are part of its strategy to stay secure and relevant.",
+        "link": "https://www.wsj.com/articles/gaza-diplomacy-cements-qatars-global-mediator-role-29e0ffb7",
+        "id": "WP-WSJ-0001385874"
+      },
+      {
+        "title": "An obscure zinc smelter in Tennessee is sitting on two minerals vital to producing chips for smartphones and radar systems, landing it in the middle of a global trade war.",
+        "description": "An obscure zinc smelter in Tennessee is sitting on two minerals vital to producing chips for smartphones and radar systems, landing it in the middle of a global trade war.",
+        "link": "https://www.wsj.com/business/tennessee-zinc-smelter-is-at-the-center-of-u-s-china-trade-fight-dd370fba",
+        "id": "7DA29339-9F9F-4C17-8DB4-817F5FE22764"
+      }
+    ],
+    "date": "2023-11-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the court of commerce, a play subtle and grand,\nThe stocks made their dance, moved by unseen hand.\nThe S&P and Dow rose gentle, while Nasdaq did fall,\nA week of gains forthwith, witnessed by one and all.\n\nA time of great commerce, Black Friday's call,\nYet caution does tarry in every hall.\nThough millions do journey, their purse strings held tight,\nIn festive season less bounteous, under winter’s pale light.\n\nOnce famed Pistorius, his track days long spent,\nDid taste freedom's call, on parole he was sent.\nConvicted of murder, his guilt beyond doubt,\nHalf his sentence served, now the jailbird goes out.",
+    "feedItems": [
+      {
+        "title": "Stocks solidified a fourth consecutive week of gains, after bouncing between small gains and losses Friday. The S&P 500 and Dow rose 0.1% and 0.3%, respectively, while the Nasdaq fell 0.1%.",
+        "description": "Stocks solidified a fourth consecutive week of gains, after bouncing between small gains and losses Friday. The S&P 500 and Dow rose 0.1% and 0.3%, respectively, while the Nasdaq fell 0.1%.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-11-24-2023-134c52f0",
+        "id": "8C8DF510-525D-4D58-873E-2C734F742242"
+      },
+      {
+        "title": "Millions of Americans headed to stores on Black Friday, but retailers are navigating through a holiday season in which shoppers aren't splurging as much as they have in recent years.",
+        "description": "Millions of Americans headed to stores on Black Friday, but retailers are navigating through a holiday season in which shoppers aren’t splurging as much as they have in recent years.",
+        "link": "https://www.wsj.com/business/retail/black-friday-sales-deals-data-outlook-0fb2886d",
+        "id": "3AD0B2B4-6905-4CBA-8F7F-676AF4C05650"
+      },
+      {
+        "title": "Oscar Pistorius, the former Olympic and Paralympic track star who was convicted of murdering his girlfriend, was granted parole after serving half of his 15-year sentence.",
+        "description": "Oscar Pistorius, the former Olympic and Paralympic track star who was convicted of murdering his girlfriend, was granted parole after serving half of his 15-year sentence.",
+        "link": "https://www.wsj.com/world/africa/olympian-oscar-pistorius-granted-parole-10-years-after-killing-girlfriend-c24f61c7",
+        "id": "886DC778-352A-41AB-975C-A34A32CDEA18"
+      }
+    ],
+    "date": "2023-11-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From Gaza, writes the snail, inching fear,\nHospital seized in war’s cruel jeer.\nEvidence sought, amidst the sorrow,\nIsraeli goats under tomorrow's furrow.\n\nThe dog barks at Amazon's gate,\nStrikes in U.S., a grim fate.\nIn Europe too, the hound does bay,\nA busy shopping holiday.\n\nHamas, the rabbit, frees its hold,\nIsraeli captives brave and bold.\nWomen, teenagers, from the prisons cast,\nIn this quiet, may peace gain grasp.",
+    "feedItems": [
+      {
+        "title": "The Israeli military has stepped up efforts to produce evidence that Gaza's largest hospital was a Hamas command center, as the humanitarian fallout from war andseizure of Al-Shifa Hospitalhas heaped pressure on Israel.",
+        "description": "The Israeli military has stepped up efforts to produce evidence that Gaza’s largest hospital was a Hamas command center, as the humanitarian fallout from war and seizure of Al-Shifa Hospital has heaped pressure on Israel.",
+        "link": "https://www.wsj.com/world/middle-east/inside-israels-campaign-to-prove-a-gaza-hospital-was-a-hamas-command-center-65e655ee",
+        "id": "2FC9A32C-6220-43F0-8228-D77793B88C4B"
+      },
+      {
+        "title": "Amazon faced strikes in the U.S. and Europe, hitting the company at the start of the busy holiday shopping weekend.",
+        "description": "Amazon faced strikes in the U.S. and Europe, hitting the company at the start of the busy holiday shopping weekend.",
+        "link": "https://www.wsj.com/world/europe/amazon-faces-black-friday-strikes-in-us-europe-aafcce3e",
+        "id": "SB12785202464571054276004590355800784172876-d5"
+      },
+      {
+        "title": "Hamas has released 24 hostages taken from Israel, according to Israeli and Qatari officials, the initial phase in a deal that has paused fighting in the Gaza war. The first 39 Palestinian women and teenagers were also released from Israeli prisons.",
+        "description": "Hamas has released 24 hostages taken from Israel, according to Israeli and Qatari officials, the initial phase in a deal that has paused fighting in the Gaza war. The first 39 Palestinian women and teenagers were also released from Israeli prisons.",
+        "link": "https://www.wsj.com/world/middle-east/israel-hamas-cease-fire-holds-ahead-of-hostage-and-prisoner-swap-52d00413",
+        "id": "E0F127F7-CACB-4F5F-B359-EC442D11E343"
+      }
+    ],
+    "date": "2023-11-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Diddy Combs, a name known far and wide,\nFor acts unsainted, doth now hide.\nLike ale turned sour, his sordid affair unravels,\nGod's justice whispers, in darkened gavels.\n\nOnce peaceful Éire, with tales stout and tall,\nNow reels in chaos as dark shadows fall.\nThrough Dublin's heart, the looting fiends dance,\nIn this bitter stew of circumstance.\n\nIn Albion’s land, Nissan doth vow,\nTo craft ye olde horse, but electric now.\nLike fine wine poured, their fortune spreads,\nUnderneath their hallowed treads.",
+    "feedItems": [
+      {
+        "title": "Sean \"Diddy\" Combs was accused of sexual abuse in two lawsuits, a week after the rapper and entrepreneur settled a separate case with a former girlfriend.",
+        "description": "Sean “Diddy” Combs was accused of sexual abuse in two lawsuits, a week after the rapper and entrepreneur settled a separate case with a former girlfriend.",
+        "link": "https://www.wsj.com/us-news/sean-combs-accused-of-sexual-assault-and-revenge-porn-in-two-new-lawsuits-eae6e66a",
+        "id": "8836268F-E834-425E-AEB4-D55DED8F12FD"
+      },
+      {
+        "title": "Ireland witnessed its worst civil disorder in decades as rioters marauded through Dublin city center looting shops and setting buses and police cars on fire,  seemingly in response toa stabbing attack that injured three children.",
+        "description": "Ireland witnessed its worst civil disorder in decades as rioters marauded through Dublin city center looting shops and setting buses and police cars on fire, seemingly in response to a stabbing attack that injured three children.",
+        "link": "https://www.wsj.com/world/europe/dublin-sees-worst-rioting-in-decades-after-children-stabbed-69b79297",
+        "id": "3CC7CBC3-0D12-4CFD-A38E-2E2F2970DC05"
+      },
+      {
+        "title": "Nissan is expanding its electric vehicles and battery manufacturing capacity in the U.K. with investments of up to $2.39 billion.",
+        "description": "Nissan is expanding its electric vehicles and battery manufacturing capacity in the U.K. with investments of up to $2.39 billion.",
+        "link": "https://www.wsj.com/business/autos/nissan-motor-to-invest-over-2-billion-in-ev-battery-business-in-u-k-a16e189f",
+        "id": "8007B1D6-1460-4ADF-A581-7EF45E248B25"
+      }
+    ],
+    "date": "2023-11-25"
+  }
+]
