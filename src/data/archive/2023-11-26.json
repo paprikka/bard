@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Thou mayest have heard of such strife, \nWhen widows and babes beg for life.\nIn cruel Octember’s cloak, snatched by Hamas abhor,\nThen freed 'mongst gold disputes to home thy did restore.\n\nIn meadows fair, where beasts of yore do roam,\nHeat's wrath and thirst rob grass of its home.\nIn nature's crucible, the wise in white, do glean,\nSeek her secrets to forge a crop ever green.\n\nThe frail deal struck 'pon Wall Street, just for jest,\nICBC, the Eastern dragon, its new nest.\nFrom bargain of a coin, woes did runneth o'er,\nA prize more beastly than e'en dragon did explore.",
+    "feedItems": [
+      {
+        "title": "Hamas Releases Hostages After Delay Over Aid Dispute",
+        "description": "The Israeli hostages released were all women and children taken during the attack by Hamas militants on Oct. 7.",
+        "link": "https://www.wsj.com/articles/palestinians-count-losses-on-second-day-of-gaza-cease-fire-454899ab",
+        "id": "WP-WSJ-0001386475"
+      },
+      {
+        "title": "Scientists Are Racing to Protect Grass From Climate Change",
+        "description": "Heat waves and drought are threatening pasture on farms worldwide, prompting experiments to develop hardier crops.",
+        "link": "https://www.wsj.com/articles/scientists-are-racing-to-protect-grass-from-climate-change-your-cheap-burger-is-at-stake-9b250df5",
+        "id": "WP-WSJ-0001384693"
+      },
+      {
+        "title": "The Hacked Bank ICBC Paid Just $1 for Its Place on Wall Street",
+        "description": "The China megabank bought its U.S. broker-dealer 13 years ago for practically nothing. It got more than it bargained for.",
+        "link": "https://www.wsj.com/articles/icbcs-entree-onto-wall-street-looked-like-a-bargainuntil-hackers-crippled-its-u-s-unit-a69e58ab",
+        "id": "WP-WSJ-0001382935"
+      }
+    ],
+    "date": "2023-11-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Hark! Now emerges a new device of trade,\nFor spoken tales hath Spotify made.\nIn Premium's realm, 'tis offered near free,\nJoin and thy purse keep heavy with glee.\n\nNext speaks of gold and fiery strife,\nThose who in conflict wage their life.\nSeeks research the root of this plight,\nIn hopes to set our affections right.\n\nFor those who've lived three scores of year,\nFret not of boredom, lend me your ear.\nFor 'tis not age that dulls thy glee,\nBut silence of mind and heart's apathy.",
+    "feedItems": [
+      {
+        "title": "The New Economics of Buying or Renting Audiobooks",
+        "description": "Listenable reads just got cheaper with Spotify’s new offering for eligible Premium users.",
+        "link": "https://www.wsj.com/articles/the-new-economics-of-buying-or-renting-audiobooks-cd5bfaae",
+        "id": "WP-WSJ-0001381530"
+      },
+      {
+        "title": "What We Fight About When We Fight About Money",
+        "description": "New research tackles the source of financial conflict and what we can do about it.",
+        "link": "https://www.wsj.com/articles/money-finances-relationship-advice-reddit-920e28d5",
+        "id": "WP-WSJ-0001362877"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "How to avoid being boring at 60",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-3047f3a3",
+        "id": "SB12547955315590724305404590358392117984711"
+      }
+    ],
+    "date": "2023-11-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In vineyard's bosom, white nectar doth flow,\nLively, versatile, value in a bow.\nGradeau la vie, such is the wine's glow,\nThe draught at hand, ye ought to know.\n\nA game of strength, fierce rivalry set,\nWolverines triumphant, victory met.\nHarbaugh absent, yet no regret,\nIn the heart of battle, their fate was met.\n\nMeta's machinations in the open air,\nQuill pens scribe of teen's despair.\nIn beastly web, caution, beware,\nInnocence ensnared in guileful snare.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "It&#x27;s lively, versatile and offers outstanding value. The white wine you should be drinking right now.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-fbb7aef5",
+        "id": "SB12547955315590724305404590358142440927110"
+      },
+      {
+        "title": "Michigan Holds Off Ohio State to Win Again Without Jim Harbaugh",
+        "description": "As the Wolverines coach missed his sixth game of the season because of suspensions, his No. 3 team powered past the No. 2 Buckeyes in their heated rivalry.",
+        "link": "https://www.wsj.com/articles/michigan-ohio-state-harbaugh-college-football-playoff-73e0ae32",
+        "id": "WP-WSJ-0001384391"
+      },
+      {
+        "title": "Meta Designed Products to Capitalize on Teen Vulnerabilities, States Say",
+        "description": "Documents that have been unredacted in a complaint filed earlier by states show Meta conversations about age, product design and potential harms.",
+        "link": "https://www.wsj.com/articles/meta-designed-products-to-capitalize-on-teen-vulnerabilities-states-allege-6791dad5",
+        "id": "WP-WSJ-0001386614"
+      }
+    ],
+    "date": "2023-11-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Of Chauvin, loathed for Floyd's demise,\nAttacked in his prison guise.\nLike wine spilled, yet not his life, \nA knife's kiss but minor strife.\n\nCage returns to the screen's delight,\nIn dreams gone viral takes his fight.\nCancelled fate by strangers' spite,\nA nightmare pint in film is quite.\n\nIn Israel's groves of lemon, sweet,\nPaths of two Nepalis meet.\nOne held hostage, one left dead,\nHope for friend, their ale's dread.",
+    "feedItems": [
+      {
+        "title": "Derek Chauvin, Killer of George Floyd, Is Expected to Survive Prison Assault",
+        "description": "The former Minneapolis police officer was attacked with a knife, but his injuries weren’t life-threatening.",
+        "link": "https://www.wsj.com/articles/ex-officer-derek-chauvin-expected-to-survive-prison-assault-098ddb02",
+        "id": "WP-WSJ-0001386605"
+      },
+      {
+        "title": "In Nicolas Cage's New Movie, Going Viral Is the Stuff of Nightmares",
+        "description": "“Dream Scenario” asks a scary question for our times: What does it feel like to get canceled by strangers?",
+        "link": "https://www.wsj.com/articles/a24-dream-scenario-kristoffer-borgli-nicolas-cage-7c687fca",
+        "id": "WP-WSJ-0001379422"
+      },
+      {
+        "title": "Hamas Attack Survivor Holds Hope for Friend Taken Hostage in Israel",
+        "description": "Nepali nationals Bipin Joshi and Himanchal Kattel arrived in Israel just three weeks before the Oct. 7 attack to tend orange and lemon groves. They found themselves in a war zone after one was taken hostage by Hamas militants and the other was shot and left for dead.",
+        "link": "https://www.wsj.com/articles/hamas-attack-survivor-holds-hope-for-friend-taken-hostage-in-israel-ab310c97",
+        "id": "SB12294941199609604567504590357400783561496"
+      }
+    ],
+    "date": "2023-11-26"
+  }
+]
