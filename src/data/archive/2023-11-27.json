@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the distant shores of far-flung Australia,\nA treasurer stands, invoking change’s law.\nBestowing England’s soul on golden RBA,\nLike casting rune stones, shaping destiny’s draw.\n\nThe Nikkei faltereth, at the swing of strength,\nMarket beast stirred by Yen’s silent song.\nProfit-taking sailors unfurl their weathered sails,\nIn the fleeting twilight, where fortunes belong.\n\nA warrior falls, Mitsui's helm now silent,\nJun Ohta's voyage ends, at sixty-five winters’ call.\nIn the great hall of Finance, his absence echoes,\nThe CEO's saga remembered by all.",
+    "feedItems": [
+      {
+        "title": "Australia's Chalmers Appoints BOE Official as RBA Deputy Governor",
+        "description": "Australian Treasurer Jim Chalmers has moved again to shake up the corporate culture and practices of the Reserve Bank of Australia, naming a Bank of England official as the central bank’s new deputy governor.",
+        "link": "https://www.wsj.com/articles/australias-chalmers-appoints-boe-official-as-rba-deputy-governor-802fbfc4",
+        "id": "WP-WSJ-0001387829"
+      },
+      {
+        "title": "Nikkei Falls 0.5% on Possible Profit-Taking, JPY Strength",
+        "description": "Nikkei Stock Average fell 0.5% to close at 33447.67 on possible profit-taking by investors.",
+        "link": "https://www.wsj.com/articles/nikkei-edges-higher-tracking-gains-in-most-u-s-equity-markets-155531cc",
+        "id": "WP-WSJ-0001387573"
+      },
+      {
+        "title": "Sumitomo Mitsui Financial Group CEO Dies at 65",
+        "description": "Sumitomo Mitsui Financial Group said Jun Ohta, its director president and group chief executive, has died at the age of 65.",
+        "link": "https://www.wsj.com/articles/sumitomo-mitsui-financial-group-ceo-dies-at-65-a9060ec8",
+        "id": "WP-WSJ-0001387944"
+      }
+    ],
+    "date": "2023-11-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Oh, the dollar and the lion-crowned sing,\nIn markets' realm, no high-tension string.\nLike a hare making for its cavern hole,\nSo, USD/SGD calmly strolls.\n\nIn the realm of banners flit and flicker,\nLivestreaming aims its arrow, quicker.\nLike a hound to an Amazon-deer,\nTikTok marches forward, clear.\n\nStrength like a mountain goat's sure tread,\nSingapore's fortitude, no dread.\nShould the lion's roar or tempest's bluster,\nThey, like snails, are safe from fluster.",
+    "feedItems": [
+      {
+        "title": "USD/SGD Edges Lower Amid Easing Geopolitical Tensions",
+        "description": "USD/SGD edged lower in the afternoon Asian session amid easing geopolitical tensions.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-rising-treasury-yields-may-weigh-653fc543",
+        "id": "WP-WSJ-0001387576"
+      },
+      {
+        "title": "Will Livestreaming Be TikTok's Amazon-Killer?",
+        "description": "TikTok is moving aggressively into e-commerce—a space where its Chinese equivalent is massively successful.",
+        "link": "https://www.wsj.com/articles/will-livestreaming-be-tiktoks-amazon-killer-afa9a0e6",
+        "id": "WP-WSJ-0001387840"
+      },
+      {
+        "title": "Singapore Looks Well-Equipped to Weather Financial Shocks, MAS Review Shows",
+        "description": "Singapore’s corporate, household and financial sectors are in good shape to withstand shocks, but still face risks that could test their resilience, a review by the country’s central bank showed.",
+        "link": "https://www.wsj.com/articles/singapore-looks-well-equipped-to-weather-financial-shocks-mas-review-shows-ba6dfb5a",
+        "id": "WP-WSJ-0001387905"
+      }
+    ],
+    "date": "2023-11-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the Eastern Ukrainian plains, 'neath Avdiivka's sky,\nWhy must Russian forces fight, and brave men sadly die?\nBakhmut's fate doth echo loud, in her tears yet unshed,\nChasing value, not of worth, but strategic instead.\n\nIn the Castle of the Crown, where wireless whispers pulse,\nElliott's kin doth weave their plot, a value to convulse.\nWith towers tall and fibers drawn in complex network’s art,\nThey bind the strings of commerce, to magnify their part.\n\nOf climate kin, a joyous note, sounds in the gales above,\nRenewables in abundant growth, a tale the heavens love.\nO'erspilling cups of sun and wind, the costs they do decrease,\nPromising a greener path, for all to live in peace.",
+    "feedItems": [
+      {
+        "title": "Could Eastern Ukraine's Avdiivka Become the Next Bakhmut?",
+        "description": "Russian forces have suffered heavy losses in its assault on the eastern Ukrainian town of Avdiivka, yet the city has limited strategic value. WSJ explains why Moscow, as with Bakhmut, wants to capture it at all cost.",
+        "link": "https://www.wsj.com/articles/could-eastern-ukraines-avdiivka-become-the-next-bakhmut-46c0957b",
+        "id": "SB10612623463514743987104590360563116520180"
+      },
+      {
+        "title": "Activist investor Elliott Management will push for changes at wireless-tower and fiber-network operator Crown Castle to boost its value.",
+        "description": "Activist investor Elliott Management will push for changes at wireless-tower and fiber-network operator Crown Castle to boost its value.",
+        "link": "https://www.wsj.com/business/telecom/elliott-renews-push-for-change-at-big-wireless-tower-owner-2525ed17",
+        "id": "E5E10958-39B1-4831-B5B9-A4BF9A7F804C"
+      },
+      {
+        "title": "Now for Some Good News About Climate",
+        "description": "Costs for renewables have plummeted, and growth is exceeding expectations.",
+        "link": "https://www.wsj.com/articles/now-for-some-good-news-about-climate-27236f56",
+        "id": "WP-WSJ-0001382294"
+      }
+    ],
+    "date": "2023-11-27"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Oh Citizens, thy bold hand dost reach for gold,\nHigh-rates be thy vine, wealthy customers thine old,\nFirst Republic's path thou wearily tread,\nIn private banking, thy wine be spread.\n\nIn Brazil, Petrobras seeks to quench its thirst,\nWith billions of silver, 'tis near to burst.\nTo become a knight of Oil's high table,\nTheir barrels shall flow, as long as they're able.\n\nNow, unto the markets, record cash does flow,\nLike ale in a tavern, it begins to glow.\nStocks and bonds rally in feverish toast,\nInvestors, redirect thy money, or lose the most!",
+    "feedItems": [
+      {
+        "title": "Seeking to thrive in a high-interest-rate environment, regional bank Citizens is bidding for wealthy customers, following the private-banking model used by now-defunct First Republic.",
+        "description": "Seeking to thrive in a high-interest-rate environment, regional bank Citizens is bidding for wealthy customers, following the private-banking model used by now-defunct First Republic.",
+        "link": "https://www.wsj.com/finance/banking/first-republic-crashed-and-burned-this-bank-wants-to-copy-its-business-8d5de2b1",
+        "id": "B62D6FE8-5D11-4DBD-B32A-43F85D6D0FAF"
+      },
+      {
+        "title": "Brazil's Petrobras said it would invest $102 billion by 2028 as the country positions itself to become one of the world's major oil powers.",
+        "description": "Brazil’s Petrobras said it would invest $102 billion by 2028 as the country positions itself to become one of the world’s major oil powers.",
+        "link": "https://www.wsj.com/world/americas/brazil-charts-100-billion-path-to-be-global-oil-power-4f5c31bd",
+        "id": "1F3F2166-8247-4E7A-BCB4-12F19A6684E9"
+      },
+      {
+        "title": "Record amounts of cash are flowing into money-market funds, potentially putting this month's stock and bond rally in line for a further boost if investors choose to redirect their money",
+        "description": "Record amounts of cash are flowing into money-market funds, potentially putting this month’s stock and bond rally in line for a further boost if investors choose to redirect their money",
+        "link": "https://www.wsj.com/finance/stocks/investors-are-hungry-for-riskand-holding-record-cash-sums-6fe43275",
+        "id": "DD884261-1753-43C2-818F-AA62C42CC648"
+      }
+    ],
+    "date": "2023-11-27"
+  }
+]
