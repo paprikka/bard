@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "On firm ground treads Rolls-Royce, in fortune's light,\nA plan hath devised, to keep purse strings tight.\nTo gather gold plentiful, 'gainst future fright,\nAnd yield bountiful blessings to fiscal knight.\n\nIn prosperous times, EasyJet takes flight,\n'Bove stormy straits of financial night.\nBehold! A treasure, dividend burn bright,\nSince plague's pall had covered the earthly light.\n\nHark! The alchemists of Novartis show might,\nWith sights set high to achieve great height.\nFrom morn 'til dusk, under candle's light,\n5% they strive to reach, e're comes sleep's night.",
+    "feedItems": [
+      {
+        "title": "Rolls-Royce Details Profit, Cost-Saving Targets",
+        "description": "Rolls-Royce said it expected to deliver £400-500 million in cost savings in the mid-term, paving the way to restore capital returns, as it set out its financial targets through 2027.",
+        "link": "https://www.wsj.com/articles/rolls-royce-lays-out-mid-term-targets-cost-savings-9860dd28",
+        "id": "WP-WSJ-0001390447"
+      },
+      {
+        "title": "EasyJet Resumes Dividend After Strong Annual Results",
+        "description": "EasyJet posted an above-forecast headline profit for fiscal 2023 on improved revenue, and announced its first dividend payout since the start of the coronavirus pandemic.",
+        "link": "https://www.wsj.com/articles/easyjet-resumes-dividend-after-swing-to-pretax-profit-1f1f79ca",
+        "id": "WP-WSJ-0001390450"
+      },
+      {
+        "title": "Novartis Ups Mid-Term Targets",
+        "description": "Novartis said it aims for annual sales growth of 5% through 2027 after what it called a progress in delivering its pure-play strategy.",
+        "link": "https://www.wsj.com/articles/novartis-raises-mid-term-sales-growth-targets-7c1e78d7",
+        "id": "WP-WSJ-0001390414"
+      }
+    ],
+    "date": "2023-11-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Bund's land, a joyous state, doth circulate,\nInflation numbers lower, awaiting fate,\nLike mighty longships, ready to assail,\nThe 2 and half, steadfast and sedate.\n\nGerman souls, in faith, do not vacillate,\nFind solace in prosperity's fair gait,\nBut sustainable revival abates,\nIn the frosty grasp of lowly rate.\n\nThe chieftain Biden chooses not to sate,\nIn desert's court, no discourse to create,\nLike a skald who declines a royal debate,\nIn the tempest of climate's fierce debate.",
+    "feedItems": [
+      {
+        "title": "German Bund Yields Ease, Await Decline in Inflation Data on Wednesday",
+        "description": "German Bunds are in “joyful anticipation” of lower German inflation numbers that look in store on Wednesday, Commerzbank Research said, adding the 10-year Bund yields look set to test 2.5%.",
+        "link": "https://www.wsj.com/articles/german-bund-yields-ease-await-decline-in-inflation-data-on-wednesday-ce3a7aae",
+        "id": "WP-WSJ-0001390427"
+      },
+      {
+        "title": "German Consumer Confidence Ticks Up Slightly",
+        "description": "Germany’s forward-looking consumer-sentiment index forecast confidence to improve in December, helped by easing inflation, although the overall reading remains at a low level, and there are no signs of a sustainable recovery in the coming months.",
+        "link": "https://www.wsj.com/articles/german-consumer-confidence-ticks-up-slightly-as-spending-intentions-grow-e517296d",
+        "id": "WP-WSJ-0001390417"
+      },
+      {
+        "title": "President Biden won't attend a United Nations climate summit being held in Dubai this week.",
+        "description": "President Biden won’t attend a United Nations climate summit being held in Dubai this week.",
+        "link": "https://www.wsj.com/politics/policy/biden-to-skip-u-n-climate-summit-drawing-grumbles-from-environmentalists-b3de30be?mod%3Dpolitics_lead_story",
+        "id": "9C6DD370-83C1-43C3-81C5-F1FE31AE489A"
+      }
+    ],
+    "date": "2023-11-28"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Deeds dark in Burlington found, three gallant youths fell to the ground,\nA malevolent man in chains is bound, his attempted murder charge now sound.\n\nExtended is the truce 'twixt foes, in lands where the warm west wind blows,\nBeseech they now for brief repose, for captured kin and their woes.\n\nBold Musk, men of malice decry, as e'er in shadowed kibbutz they lie,\nMay they by justice's hand soon die, whence from our hearts such sorrow flies.",
+    "feedItems": [
+      {
+        "title": "The man arrested in connection with the shooting of three young men of Palestinian descent in Burlington, Vt., was charged with attempted murder.",
+        "description": "The man arrested in connection with the shooting of three young men of Palestinian descent in Burlington, Vt., was charged with attempted murder.",
+        "link": "https://www.wsj.com/us-news/vermont-shooting-suspect-arrested-in-shooting-of-three-palestinian-college-students-92acc609?mod%3DSearchresults_pos3%26page%3D1",
+        "id": "39783DEC-5CE1-4722-B3FE-CBA9F252FA0A"
+      },
+      {
+        "title": "Israel and Hamas agreed to a two-day extension of their truce in Gaza to allow for the release of more Israeli hostages as part of a fragile agreement that has brought respite from seven weeks of war.",
+        "description": "Israel and Hamas agreed to a two-day extension of their truce in Gaza to allow for the release of more Israeli hostages as part of a fragile agreement that has brought respite from seven weeks of war.",
+        "link": "https://www.wsj.com/world/middle-east/talks-to-extend-israel-hamas-truce-go-down-to-the-wire-8f1cbba9",
+        "id": "08EA6174-2288-44A7-AC2C-D15667273FBF"
+      },
+      {
+        "title": "Elon Musk said that those \"intent on murder must be neutralized\" after touring an Israeli kibbutz that was attacked by Hamas on Oct. 7.",
+        "description": "Elon Musk said that those “intent on murder must be neutralized” after touring an Israeli kibbutz that was attacked by Hamas on Oct. 7.",
+        "link": "https://www.wsj.com/world/middle-east/elon-musk-visits-israel-amid-criticism-over-antisemitic-content-on-x-436e7d40",
+        "id": "CDA27D0A-5BF1-4070-9EAE-E2B8E7F1E180"
+      }
+    ],
+    "date": "2023-11-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Gaza waits, as peace descents, snug as a hare asleep,\nAid flows, like brooks of mercy, yet the need is stark and deep.\nGoats can't graze on good intentions, yea, snails need more than dew,\nTwo million hearts in enclave ask, what stirs the world to make do?\n\nFrom Moscow’s fort, the dogs of war bark loud and lay their claim,\nUpon the tender vales of Ukraine, stoking ancient flame,\nAdvantage gleams in Russian eyes, a falcon's ruthless stare,\nAs rabbits tremble in their burrows, caught within the glare.\n\nHeld caged, the scribbler meets the longer night, \nHis words, his might, bound like a hound, in sight,\nAwaiting dawn or justice's gentle call,\nOur troubadour confined, yet stands tall.",
+    "feedItems": [
+      {
+        "title": "The cease-fire has allowed a surge of aid to reach Palestinians in Gaza, but humanitarian groups and civilians in the enclave say the convoys aren't nearly enough to address the needs of the strip's two million people.",
+        "description": "The cease-fire has allowed a surge of aid to reach Palestinians in Gaza, but humanitarian groups and civilians in the enclave say the convoys aren’t nearly enough to address the needs of the strip’s two million people.",
+        "link": "https://www.wsj.com/world/middle-east/gaza-is-falling-into-absolute-chaos-aid-groups-say-5d37e9bf",
+        "id": "FD5ECACA-C29A-42AF-B728-77674EE90860"
+      },
+      {
+        "title": "Moscow holds the advantage on the military, political and economic fronts as Russia's war against Ukraine approaches its third year.",
+        "description": "Moscow holds the advantage on the military, political and economic fronts as Russia’s war against Ukraine approaches its third year.",
+        "link": "https://www.wsj.com/world/putin-has-staked-russias-resources-on-victory-in-ukraine-can-the-west-match-him-b5d7b5f2?mod%3DSearchresults_pos4%26page%3D1",
+        "id": "0C81F552-E120-444B-A844-3852B7872543"
+      },
+      {
+        "title": "Russian Court Extends Detention of WSJ Reporter",
+        "description": "The ruling lengthens Evan Gershkovich’s detention through at least Jan. 30, by which time he will have been in custody for 10 months.",
+        "link": "https://www.wsj.com/articles/russian-court-extends-detention-of-wsj-reporter-ae25407c",
+        "id": "WP-WSJ-0001388524"
+      }
+    ],
+    "date": "2023-11-28"
+  }
+]
