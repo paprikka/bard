@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Fair Ferrovial, with heart stout and brave,\nRelinquishes Heathrow's bustling enclave.\nFor silver and gold most handsomely paid,\nThe market now curious, how'll these be swayed.\n\nWhen German inflation descends in a fall,\nThe bond market reckons a jubilant call.\nCloser to target, so says DZ's seer,\nA lighter purse ahead, bondholders cheer.\n\nDeliveroo plots its course through the storm,\nIn pursuit of wealth unusual form.\nTransacting in shares, in numbers quite large,\nBy year twenty-six, they aim to charge.",
+    "feedItems": [
+      {
+        "title": "Ferrovial's Heathrow Stake Price Should Be Well Received, Jefferies Says",
+        "description": "Ferrovial’s divestment of its stake in Heathrow Airport was expected, and the transaction price of £2.37 billion should be well received, Jefferies said, adding the market’s focus will now likely turn to how the funds will be used.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-edge-higher-amid-u-s-gains-7d288364",
+        "id": "WP-WSJ-0001392437"
+      },
+      {
+        "title": "Bond Markets Expected to Celebrate if German Inflation Falls",
+        "description": "Germany’s inflation rate is making great strides toward the ECB’s 2% target, and if Wednesday’s data underpin this, bond markets are likely to celebrate, DZ Bank Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-yields-fall-on-prospect-of-declining-inflation-0e4a6e8f",
+        "id": "WP-WSJ-0001393254"
+      },
+      {
+        "title": "Deliveroo Targets Stronger Long-Term Growth",
+        "description": "Deliveroo set out a plan to grow gross transaction value in the mid-teens percentage a year over the longer term, and said it aimed to hit an adjusted underlying earnings margin of 4% by 2026.",
+        "link": "https://www.wsj.com/articles/deliveroo-targets-stronger-gtv-growth-over-longer-term-backs-guidance-69e02373",
+        "id": "WP-WSJ-0001393249"
+      }
+    ],
+    "date": "2023-11-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the dance of coins, hath CNH grown,\n'Gainst the USD, a weakness shown.\nBy PBOC, in Forex arena,\nCherished support, a divine manna.\n\nNow to Heathrow, the story turns,\nFerrovial, some gold it spurns.\nSaudi’s fund and Ardian's might,\nYield $3 billion - what a sight!\n\nBeneath the skies of Australia lie,\nCoal-fired beasts that smoke and sigh.\nBrookfield's Origin, the heart of matter,\nHow to price such grimy fodder?",
+    "feedItems": [
+      {
+        "title": "CNH Strengthens Amid USD Weakness, PBOC's Forex Policy Support",
+        "description": "CNH strengthened amid USD weakness and the PBOC’s forex policy support.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-falling-treasury-yields-72175132",
+        "id": "WP-WSJ-0001392366"
+      },
+      {
+        "title": "Ferrovial Sells Stake in Heathrow Airport",
+        "description": "Ferrovial said Saudi Arabia’s wealth fund and private-equity group Ardian would pay $3 billion to acquire a 25% stake in the airport.",
+        "link": "https://www.wsj.com/articles/ferrovial-to-sell-stake-in-londons-heathrow-airport-d802a9f2",
+        "id": "WP-WSJ-0001393227"
+      },
+      {
+        "title": "Brookfield's Origin Saga Shows It's Hard to Price Polluters --- Analysis",
+        "description": "At the heart of a nearly US$11 billion takeover tussle for the owner of several Australian coal-fired power plants is a key question for investors: how to value a major polluter that could also become a big enabler of the energy transition.",
+        "link": "https://www.wsj.com/articles/brookfields-origin-saga-shows-its-hard-to-price-pollutersanalysis-a8cdb9c6",
+        "id": "WP-WSJ-0001393098"
+      }
+    ],
+    "date": "2023-11-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In metal's heart, a snail's slow crawl below,\nIts shell gave way, and miners met their plight.\nSouth Afric’s shaft, wrested by time’s cruel blow,\nPlunged down, and stole eleven candles' light.\n\nEncapsulated, like rabbits in their burrow,\nForty-one souls trapped amidst the stone.\nTheir plight resolved, emerging from their sorrow,\nRescue came, and led their journey home.\n\nThe goat does leap, its freedom bred in bone,\nYet forced to harness, suffers the design.\nThe UK regulator has clearly shown,\nAdobe, Figma union may confine.",
+    "feedItems": [
+      {
+        "title": "An elevator plunge in a decades-old shaft killed 11 miners and injured 75 others at South Africa's largest platinum mine.",
+        "description": "An elevator plunge in a decades-old shaft killed 11 miners and injured 75 others at South Africa’s largest platinum mine.",
+        "link": "https://www.wsj.com/world/asia/impala-platinum-says-11-people-died-in-shaft-incident-56f14123",
+        "id": "1A1E48B7-F7AA-4A1A-9501-5B4546E09E9B"
+      },
+      {
+        "title": "Rescuers freed the 41 construction workers sealed inside a mountain tunnel in northern Indiaby a landslide for over two weeks.",
+        "description": "Rescuers freed the 41 construction workers sealed inside a mountain tunnel in northern India by a landslide for over two weeks.",
+        "link": "https://www.wsj.com/world/india/rescuers-free-workers-trapped-in-mountain-tunnel-in-indiafor-more-than-two-weeks-7b18c9e9",
+        "id": "337E64C6-D5DD-47C6-8B91-F73475DF90B5"
+      },
+      {
+        "title": "A U.K. regulator found Adobe's planned $20 billion acquisition of Figma would likely harm innovation for software used by the vast majority of U.K. digital designers.",
+        "description": "A U.K. regulator found Adobe’s planned $20 billion acquisition of Figma would likely harm innovation for software used by the vast majority of U.K. digital designers.",
+        "link": "https://www.wsj.com/tech/adobes-20b-purchase-of-figma-would-harm-innovation-u-k-regulator-provisionally-finds-19f28b72",
+        "id": "7BAEFDED-F559-4EDE-BC0B-FB10FE3786DE"
+      }
+    ],
+    "date": "2023-11-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon law's design, to spare patient blight,\nCasts unto healers an unwelcome plight.\nIn quest for care, such fiscal stress imbued,\nA bittersweet draught, by aid's hand, is brewed.\n\nTo cleanse the air and halt the carbon tide,\nBehold! In flight, new strategies abide.\nAmerican wings in noble race engage,\nA cheaper method turns a brighter page.\n\nBehind artful guise, a change has been missed,\nIn prosperous halls, Black hands yet to assist.\nStagnation strikes the balance once besought,\nA lesson, from McKinsey's data, taught.",
+    "feedItems": [
+      {
+        "title": "A law designed to protect patients from surprise medical bills is contributing to the financial distress of some medical-service providers.",
+        "description": "A law designed to protect patients from surprise medical bills is contributing to the financial distress of some medical-service providers.",
+        "link": "https://www.wsj.com/articles/surprise-medical-billing-law-heaps-pressure-on-healthcare-providers-f9583485",
+        "id": "C3869453-30F4-4F13-966B-2F578280DC61"
+      },
+      {
+        "title": "American Airlines is joining the race to remove carbon from the atmosphere, tapping a novel method that is much cheaper than many existing approaches.",
+        "description": "American Airlines is joining the race to remove carbon from the atmosphere, tapping a novel method that is much cheaper than many existing approaches.",
+        "link": "https://www.wsj.com/us-news/climate-environment/sustainable-airline-sawdust-climate-6e2b40c5",
+        "id": "2F4B52CD-19F4-49BD-AF19-60946354661F"
+      },
+      {
+        "title": "U.S. companies have lost momentum in promoting Black professionals into management, according to new data from McKinsey.",
+        "description": "U.S. companies have lost momentum in promoting Black professionals into management, according to new data from McKinsey.",
+        "link": "https://www.wsj.com/business/fewer-black-professionals-are-getting-promoted-into-management-reversing-trend-e2e002d5",
+        "id": "DC9836E5-84A9-48DF-8DC9-0182240F23FD"
+      }
+    ],
+    "date": "2023-11-29"
+  }
+]
