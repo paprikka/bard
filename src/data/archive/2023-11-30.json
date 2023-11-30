@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In hushed whisper hints the crow at dawn of COP28,\nA platform given free to see, a sea change we await.\nBusinessmen in struggle, under global law's weight,\nWatch ye now the NZDPU, their destiny to create.\n\nAn icy wind blows through the halls of Remy Cointreau fair,\nSales diminished, earnings low, a demon they do bear.\nFaced with U.S. tempests, they cut costs with care,\nSteel themselves against the storm, hoping for air.\n\nFierce as Fenrir's jaws do bite, SAS's losses wide,\nWeak the crown of Swedish kings, while high fuel tides ride.\nYet in the gloom they find their stride, crisis they deride,\nBankruptcy's cruel beast they'll fight, early 2024 by their side.",
+    "feedItems": [
+      {
+        "title": "Free Climate Data Platform to Offer Sneak Peek at COP28",
+        "description": "Businesses working on how to report their sustainability data are focused on the handful of mandatory reporting standards coming from regulators around the globe, but there is another project that might be worth watching—the net zero data public utility, or NZDPU.",
+        "link": "https://www.wsj.com/articles/free-climate-data-platform-to-offer-sneak-peek-at-cop28-3b26b160",
+        "id": "WP-WSJ-0001394077"
+      },
+      {
+        "title": "Remy Cointreau Earnings Drop on U.S. Headwinds",
+        "description": "Remy Cointreau confirmed its recently-downgraded sales guidance for fiscal 2024 after it posted a sharp decline in sales and earnings in the first half and said it had implemented cost-cutting measures to mitigate short-term adverse market effects.",
+        "link": "https://www.wsj.com/articles/remy-cointreau-posts-a-drop-in-sales-earnings-due-to-us-headwinds-e9179b2b",
+        "id": "WP-WSJ-0001396727"
+      },
+      {
+        "title": "SAS Losses Widen on Higher Costs",
+        "description": "SAS reported a much bigger-than-expected loss in the fourth quarter on a weak Swedish krona and high jet-fuel prices, but reported revenues just above views and said it expected to get approval in its Chapter 11 process in early 2024.",
+        "link": "https://www.wsj.com/articles/sas-misses-market-views-on-higher-costs-expects-chapter-11-plan-approval-early-2024-2129a90e",
+        "id": "WP-WSJ-0001396740"
+      }
+    ],
+    "date": "2023-11-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "As the inflation ebbs, so too does it bode,\nFor German Bund yields, laid upon this road.\nThough ambitious be the front-end's decree,\nThe Eurozone's ebb sets the upside free.\n\nNext in chronicles, ABB of grand old fame,\nDid lift its targets in the economic game.\nWith three-fourths of revenue, growing fine,\nSeeds planted in fertile market's vine.\n\nLast comes the Nikkei, with gains surged half a score,\nElevated by futures from the USA's shore.\nWith position adjustments in sight, their way is set,\nOn the day the core PCE is finally met.",
+    "feedItems": [
+      {
+        "title": "Decline in Inflation Expected to Limit Upside in German Bund Yields",
+        "description": "A decent drop in eurozone inflation should limit the upside in German Bund yields, even as front-end valuations look “increasingly ambitious,” Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/decline-in-inflation-expected-to-limit-upside-in-german-bund-yields-3832984f",
+        "id": "WP-WSJ-0001396750"
+      },
+      {
+        "title": "ABB Upgrades Financial Targets",
+        "description": "ABB lifted its long-term sales and earnings targets and said around 70% of its group revenue comes from divisions that are growing.",
+        "link": "https://www.wsj.com/articles/abb-raises-financial-targets-as-company-focuses-on-growth-c23ac8e8",
+        "id": "WP-WSJ-0001396717"
+      },
+      {
+        "title": "Nikkei Rises 0.5%, Boosted by Gains in U.S. Stock-Index Futures",
+        "description": "The Nikkei Stock Average rose 0.5% to close at 33486.89, boosted by gains in U.S. stock-index futures and by possible position adjustments ahead of the U.S. October core PCE price index due out later today.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-for-a-muted-open-f651ddd6",
+        "id": "WP-WSJ-0001395923"
+      }
+    ],
+    "date": "2023-11-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "'Tis Robinhood, bold herald of the green,\nTo British hearts, extends his unseen sheen.\nLike hounds in pursuit, Webull and Public take flight,\nIn England's vast meadow, under the digital night.\n\nAlas! China's mighty dragon bears a grim frown,\nHer pulse of creation, steadily slowing down.\nA fluttering of services, a falter in craft,\nStimulus efforts caught in the draft. \n\nIn lands afar, where the olive trees sway,\nIsrael and Hamas seek a gentler way.\nA truce extended, as the dove takes flight,\nHostages freed in the soft candlelight.",
+    "feedItems": [
+      {
+        "title": "Why Robinhood Wants British Customers",
+        "description": "Digital brokerages Webull and Public have also launched in the U.K. this year.",
+        "link": "https://www.wsj.com/articles/why-robinhood-wants-british-customers-57ffda06",
+        "id": "WP-WSJ-0001394785"
+      },
+      {
+        "title": "China's Economy Faces Sour End to the Year",
+        "description": "Weakening manufacturing and services activity show stimulus efforts falling short.",
+        "link": "https://www.wsj.com/articles/chinas-manufacturing-pmi-edged-lower-signaling-continued-weakness-924c15a8",
+        "id": "WP-WSJ-0001396290"
+      },
+      {
+        "title": "Israel, Hamas Agree to Extend Truce by One Day",
+        "description": "The deal comes after Hamas released a sixth group of hostages on Wednesday.",
+        "link": "https://www.wsj.com/articles/israeli-leaders-resist-calls-for-longer-cease-fire-with-hamas-07da12f7",
+        "id": "WP-WSJ-0001393401"
+      }
+    ],
+    "date": "2023-11-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the distant land where dragons slay and dwell,\nFair currencies align, in tune with treasury's bell,\nThe U.S. price index, the dragon's looming well,\nAles round 'gainst uncertainty, in taverns they do tell.\n\nIn the Holy Land where David's Star doth shine,\nAgainst the threat of darkened hearts, Israel must find a line.\nTales of exile stirring in the orbs of brine,\nSay \"Pass the wine!\", we face the dread, for God hath drawn the sign.\n\nIn the lands of endless summer, where the sand meets the sea,\nStandeth COP the twenty-eight, in Dubayy's decree.\nSpeak they of the warming earth, and fossil fuels free,\nIn the monastery's brewery, we pray, their minds agree.",
+    "feedItems": [
+      {
+        "title": "Asian Currencies Consolidate; May Strengthen Amid Lower Treasury Yields",
+        "description": "USD/SGD edged lower in the afternoon Asian session ahead of the U.S. October core PCE price index, the Fed’s preferred measure of inflation, which is due out later today.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-strengthen-amid-lower-treasury-yields-19948739",
+        "id": "WP-WSJ-0001395697"
+      },
+      {
+        "title": "Israel Considers How to Remove Threat of Hamas Fighters in Gaza",
+        "description": "U.S. and Israeli officials, citing Beirut precedent, discuss the idea of exiling militants from the enclave.",
+        "link": "https://www.wsj.com/articles/israel-considers-how-to-remove-threat-of-hamas-fighters-in-gaza-062f01b4",
+        "id": "WP-WSJ-0001394706"
+      },
+      {
+        "title": "What's at Stake at COP28 in Dubai",
+        "description": "Negotiations are set to center on a stocktake of progress in reducing global warming, the future of fossil fuels, financing and a fund to pay for climate damage.",
+        "link": "https://www.wsj.com/articles/whats-at-stake-at-cop28-in-dubai-4a51f763",
+        "id": "WP-WSJ-0001392317"
+      }
+    ],
+    "date": "2023-11-30"
+  }
+]
