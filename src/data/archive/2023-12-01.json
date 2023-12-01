@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Fitch's scored engendered,\nGreece, in bond indices, remembered.\nPraise God! The debtors may be rekindled,\nLike ale in monks' belly, gently rippled.\n\nSwiss Re, in plans fresh-unfurled,\nTargets new gains in this world.\n$3.6 billion, as prophesied,\nMuch like a well-aged wine, prized. \n\nWTI's fall, two months long,\nIn charts doth seem less like a wrong.\nBeneath $76, futures teetered,\nLike monk's brew that hath just been metered.",
+    "feedItems": [
+      {
+        "title": "Upgrade by Fitch Could Pave Way for Greek Bonds to Rejoin Indices",
+        "description": "Commerzbank Research said a one-notch upgrade by Fitch [from BB+/stable outlook] would tip the balance for Greece to rejoin bond indices in January.",
+        "link": "https://www.wsj.com/articles/upgrade-by-fitch-could-pave-way-for-greek-bonds-to-rejoin-indices-7bafffa8",
+        "id": "WP-WSJ-0001400008"
+      },
+      {
+        "title": "Swiss Re Discloses New Targets Ahead of IFRS Transition",
+        "description": "Swiss Re said for 2024 and under the IFRS method, it aims to reach net profit of more than $3.6 billion, of which the life and health business is expected to contribute $1.5 billion.",
+        "link": "https://www.wsj.com/articles/swiss-re-discloses-new-targets-ahead-of-accounting-method-transition-b6101e90",
+        "id": "WP-WSJ-0001399995"
+      },
+      {
+        "title": "WTI Oil's Two-Month Corrective Decline Starting to Ease, Charts Show",
+        "description": "WTI oil’s two-month corrective decline has begun to ease, based on technical charts, Oanda said, as front-month futures fell 0.2% to below $76.",
+        "link": "https://www.wsj.com/articles/oil-falls-on-skepticism-over-production-cut-pledge-by-opec-3fd90f71",
+        "id": "WP-WSJ-0001399338"
+      }
+    ],
+    "date": "2023-12-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon the stage of clashing will and deed,\nIn land of tax and immigrant, they bide,\nLike dogs in fierce debate, who pay no heed,\nTo the weary goat, beneath Biden's stride.\n\nSlight tremor felt in Nikkei's firm resolve,\nAs market's snails to Powell’s speech aspire,\nLike rabbit cornered, positions revolve,\nUpon the endless wheel of want and hire.\n\nA cease-fire stalled, the dove of peace takes flight,\nAs Israel and Gaza cross their swords,\nLike hounds in endless chase, in dark of night,\nNo list of names, hostage to bitter words.",
+    "feedItems": [
+      {
+        "title": "DeSantis-Newsom Debate Shows the 2024 Campaign That Could Have Been",
+        "description": "The governors clashed repeatedly on crime, immigration and economic policies, sparring over the respective tax burdens in their states and about the economy under President Biden.",
+        "link": "https://www.wsj.com/articles/desantis-newsom-hannity-fox-news-debate-7e04cadd",
+        "id": "WP-WSJ-0001396192"
+      },
+      {
+        "title": "Nikkei Falls 0.2% in Likely Position Adjustment Before Powell's Speech",
+        "description": "Nikkei Stock Average edged 0.2% lower to close at 33431.51 in possible position adjustment ahead of Fed Chair Powell’s speech later today.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-edge-lower-at-the-open-987b0a22",
+        "id": "WP-WSJ-0001399013"
+      },
+      {
+        "title": "Israel Resumes Combat Operations in Gaza as Cease-Fire Stalls",
+        "description": "In intense negotiations, Hamas didn’t provide a list of hostage names needed for the cease-fire extension.",
+        "link": "https://www.wsj.com/articles/blinken-returns-to-israel-as-negotiators-race-to-prolong-gaza-cease-fire-24ae6601",
+        "id": "WP-WSJ-0001396848"
+      }
+    ],
+    "date": "2023-12-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Oh bridge 'twixt dollar's might and lion's pride,\nThy steadiness flutters, few dare abide.\nFor signs of easing tarnish golden ride,\nAnd might the yeoman's cycle once deride.\n\nA stern decree cast forth to distant lands,\nTurns agents of a shadowed war's demands.\nIn Lebanon, in Turkey, e'en Qatar sands,\nThe leaders of Hamas meet reaper's hands.\n\nOh dragon land of ancient scrolls and lore,\nInvestors shun thy marketplace once more.\nUncertainty and risks bloom from thy core,\nYet flows the tide, lost silver we deplore.",
+    "feedItems": [
+      {
+        "title": "USD/SGD Steady; May Be Weighed by Signs of Easing U.S. Inflation",
+        "description": "USD/SGD was steady but may be weighed by signs of easing U.S. inflation, which would back the case that the Fed’s rate-increase cycle could be over and lead to diminished demand for the greenback.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-amid-falling-treasury-yields-09442112",
+        "id": "WP-WSJ-0001399341"
+      },
+      {
+        "title": "Israel Plans to Kill Hamas Leaders Around the World After War",
+        "description": "The nation’s top spy agencies intend to hunt down militants living in Lebanon, Turkey and Qatar.",
+        "link": "https://www.wsj.com/articles/israel-plans-to-kill-hamas-leaders-around-the-world-after-war-da88e6b9",
+        "id": "WP-WSJ-0001397286"
+      },
+      {
+        "title": "The Big Risk Causing Investors to Shun China",
+        "description": "More than $24 billion of foreign money has left mainland China’s stock market since August as geopolitical risks turn people off investing there.",
+        "link": "https://www.wsj.com/articles/the-big-risk-causing-investors-to-shun-china-c0710fdd",
+        "id": "WP-WSJ-0001392108"
+      }
+    ],
+    "date": "2023-12-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Peltz, bold as Thor in his prime,\nStrikes 'gainst Disney in a rhyme,\nRefused a seat by their board's hand,\nIn proxy war draws lines in sand.\n\nTwo power brokers, veiled in shroud,\nTheir luxury by subpoenas frowned.\nThe Senate's court, in justice masked,\nFor their dark deeds these two it asked.\n\nThe mighty Penguin's roost takes a stand,\nAgainst Iowa's censoring hand.\nFiling suit in the federal hall,\nTo halt the bans and free the scrawl.",
+    "feedItems": [
+      {
+        "title": "Nelson Peltz announced a new proxy fight against Disney after the company rebuffed his request to be added to the board.",
+        "description": "Nelson Peltz announced a new proxy fight against Disney after the company rebuffed his request to be added to the board.",
+        "link": "https://www.wsj.com/business/media/nelson-peltz-announces-fresh-proxy-fight-against-disney-50699679",
+        "id": "74E2809B-6A60-43ED-AB29-1569B95F09D4"
+      },
+      {
+        "title": "The Senate Judiciary Committee approved subpoenas for two conservative power brokers who have helped provide luxury travel for two Supreme Court justices.",
+        "description": "The Senate Judiciary Committee approved subpoenas for two conservative power brokers who have helped provide luxury travel for two Supreme Court justices.",
+        "link": "https://www.wsj.com/politics/policy/senate-committee-to-subpoena-supreme-court-justices-conservative-benefactors-593de5b0",
+        "id": "AF201C23-D8D7-4BA6-A071-F452078FDCF2"
+      },
+      {
+        "title": "Penguin Random House has filed a federal lawsuit seeking to block school book banning in Iowa.",
+        "description": "Penguin Random House has filed a federal lawsuit seeking to block school book banning in Iowa.",
+        "link": "https://www.wsj.com/us-news/education/penguin-random-house-authors-sue-iowa-officials-over-school-book-ban-7fcc3ec7",
+        "id": "B918B325-92C0-45A2-AD4A-4D1A79BB929B"
+      }
+    ],
+    "date": "2023-12-01"
+  }
+]
