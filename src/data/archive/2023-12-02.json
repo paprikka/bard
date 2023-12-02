@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm of power, drama oft unfurls,\nTrump, the potentate, his agenda yet unfurls.\nThe commonwealth's grasp he seeks to extend,\nAn era new, on this path, we descend.\n\n'Gainst the uniform dictate he once did decry,\nNow moots a vision new 'neath the azure sky.\nFreedoms of cities, universities unbowed,\nAgainst the 'Woke' tide, Trump stands proud.\n\nAn isle so small, in the vast sea of jade,\nYet 'gainst mighty China, it shan't ever fade.\nThitu, brave, under the watchful dragon's gaze,\nHolds strong, her spirit ne'er to raze.",
+    "feedItems": [
+      {
+        "title": "A Closer Look at Trump's Second-Term Agenda",
+        "description": "The Republican front-runner’s proposals would extend the role of the federal government.",
+        "link": "https://www.wsj.com/articles/a-closer-look-at-donald-trumps-second-term-agenda-03da581c",
+        "id": "WP-WSJ-0001401580"
+      },
+      {
+        "title": "Trump's Second-Term Plans: Anti-'Woke' University, 'Freedom Cities'",
+        "description": "Past generations of Republicans campaigned against one-size-fits-all federal dictates and argued that local officials were best positioned to oversee their communities.",
+        "link": "https://www.wsj.com/articles/trumps-second-term-plans-anti-woke-university-freedom-cities-28f8123d",
+        "id": "WP-WSJ-0001400535"
+      },
+      {
+        "title": "Welcome to the Tiny Island Paradise Fending Off China",
+        "description": "Thitu Island in the South China Sea has 250 residents, and they are determined to stay despite ever-present Chinese ships on the horizon.",
+        "link": "https://www.wsj.com/articles/welcome-to-thitu-the-tiny-island-fending-off-china-0e565ec4",
+        "id": "WP-WSJ-0001390315"
+      }
+    ],
+    "date": "2023-12-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "I hath met Munger at dawn's first light,\nHis wisdom flowed, unabashed by night.\nIn lines of candor and insight stark,\nWith life and death his pen did mark.\n\nOnce firm as granite, now Goldman's plight,\nApple’s cold shoulder, a bitter sight.\nTheir clasp did break, on road's hard bend,\nA fool's wager, did ill contend.\n\nNews from the Market, a restless sprite,\nIn venture and loss, takes flight by night.\nIn dances of numbers, a tale unfolds,\nIts rhythm speaks more than gold behold.",
+    "feedItems": [
+      {
+        "title": "My Morning With Charlie Munger",
+        "description": "Reporter Gregory Zuckerman’s wide-ranging interview before the billionaire’s death was packed with candor, lessons and the odd lament.",
+        "link": "https://www.wsj.com/articles/investor-charlie-munger-interview-2b636dc5",
+        "id": "WP-WSJ-0001395009"
+      },
+      {
+        "title": "A Divorce With Apple, Internal Strife: How Goldman's Main Street Bet Failed",
+        "description": "The Wall Street firm was looking to get out of consumer lending, once a big area of expansion. But Apple dumped it first.",
+        "link": "https://www.wsj.com/articles/a-divorce-with-apple-internal-strife-how-goldmans-main-street-bet-failed-e169231a",
+        "id": "WP-WSJ-0001398621"
+      },
+      {
+        "title": "What's News: Business & Finance",
+        "description": "What’s News: Business & Finance",
+        "link": "https://www.wsj.com/articles/whats-news-business-finance-c3e33940",
+        "id": "SB10779870510182954717604590369950444064576"
+      }
+    ],
+    "date": "2023-12-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In every hall, both far and near, are whispers of the world we hear,\nIn cask of mead, in northern light, in raven's flight and eagle's sight.\nTales of valor, sorrow's woe, the world's news, like rivers, flow,\nUpon our minds, it etches deep, these stories that the world doth keep.\n\nSpicy tales of dusk and dawn, of ebon-black and pre-dawn yawn,\nPepper sting, and salt's embrace, the piquant tang of life's race.\nIn every tale unfolds a facet, like salt and pepper in our casket,\nOf life's joys and challenges met, in each spicy tale, a savory vignette.\n\nWelcome thee, to isle tender, standing strong 'gainst usurpers' cinder,\nThitu Island, 'neath sun's gaze, sings the sunlit ocean's praise.\nIts people, sturdy as forged steel, guard their home with fervent zeal.\nDespite the looming dragon's roar, they vow to leave their island nevermore.",
+    "feedItems": [
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-f2b6fdd3",
+        "id": "SB10779870510182954717604590369950820580686"
+      },
+      {
+        "title": "Pepper...and Salt",
+        "description": "Pepper...and Salt",
+        "link": "https://www.wsj.com/articles/pepper-and-salt-4b8ed023",
+        "id": "SB12238858060483914339604590342001828495526"
+      },
+      {
+        "title": "Welcome to the Tiny Island Paradise Fending Off China",
+        "description": "Thitu Island in the South China Sea has 250 residents, and they are determined to stay despite ever-present Chinese ships on the horizon.",
+        "link": "https://www.wsj.com/articles/welcome-to-the-tiny-island-paradise-fending-off-china-b2b88640",
+        "id": "SB10779870510182954717604590370612864633130"
+      }
+    ],
+    "date": "2023-12-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Once, Amazon beckoned Musk's SpaceX crew,\nRocket launch for Seattle's goal anew.\nLike monks in quest of ale divine,\nThey reach for internet in the sky.\n\nBelief in Fed, those rates no more to mount,\nTurbocharged a rally of great account.\nLike brothers counting beads in prayer,\nNumbers rise in holy share.\n\nNeiman Marcus, thou Saks did court,\nWith shining coin of three billion sort.\nYet, like mead served too bitter and cold,\nTurned it away, the offer too bold.",
+    "feedItems": [
+      {
+        "title": "Amazon said it hired Musk's SpaceX to conduct three rocket launches for the Seattle company's planned satellite-internet division.",
+        "description": "Amazon said it hired Musk’s SpaceX to conduct three rocket launches for the Seattle company’s planned satellite-internet division.",
+        "link": "https://www.wsj.com/tech/amazon-hires-elon-musks-spacex-for-three-rocket-launches-a8408f9f",
+        "id": "3DA69B40-94CB-4B56-9D19-3D5EF14F7200"
+      },
+      {
+        "title": "Hopes that the Fed is done raising rates turbocharged a rally.The Dow added 2.4% for the week, notching a fifth weekly gain, its longest winning streak since late 2021, while the S&P 500 and Nasdaq added 0.8% and 0.4%, respectively.",
+        "description": "Hopes that the Fed is done raising rates turbocharged a rally. The Dow added 2.4% for the week, notching a fifth weekly gain, its longest winning streak since late 2021, while the S&P 500 and Nasdaq added 0.8% and 0.4%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-12-01-2023-5d513d3d",
+        "id": "9BD526ED-E0E0-4A8E-BEEF-B947A70B642B"
+      },
+      {
+        "title": "Neiman Marcus rejected Saks Fifth Avenue's most recent takeover offer this week, which valued the upscale chain at close to $3 billion, according to people familiar with the situation.",
+        "description": "Neiman Marcus rejected Saks Fifth Avenue’s most recent takeover offer this week, which valued the upscale chain at close to $3 billion, according to people familiar with the situation.",
+        "link": "https://www.wsj.com/business/deals/chasing-neiman-marcus-sakss-latest-merger-bid-is-rejected-0dada67f",
+        "id": "717163E9-5191-4C57-947C-8C980712E72F"
+      }
+    ],
+    "date": "2023-12-02"
+  }
+]
