@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Dearest Alabama, mere chaos sows,\nIn fields where the football of passion grows.\nThe Crimson Tide paints its claim broad,\nSilencing Georgia - a stark accord.\n\nA bard's lament for brave Ruslan Finchuk, \nIn battle’s ceaseless roar, fate abruptly struck.\nLost in a land where friend turns foe,\nGrief is the seed his loved ones sow.\n\nSage U.S. coffers, opened wide,\nFail to curb Coal's burning tide.\nSouth Africa and Indonesia, haunted and old,\nHold fast to their veins of blackened gold.",
+    "feedItems": [
+      {
+        "title": "Alabama Plunges College Football Into Chaos",
+        "description": "What looked like the easiest Selection Sunday in years now looks anything but after the Crimson Tide staked their claim for a playoff berth by knocking off Georgia in the SEC Championship.",
+        "link": "https://www.wsj.com/articles/alabama-college-football-playoff-texas-washington-d10cca7a",
+        "id": "WP-WSJ-0001403237"
+      },
+      {
+        "title": "Dead or Alive? The Hunt for a Ukrainian Soldier Missing on a Chaotic Battlefield",
+        "description": "Ruslan Finchuk, a Ukrainian senior sergeant and experienced soldier, was last seen in enemy territory under machine gun fire. His unit told his wife he was missing, presumed dead.",
+        "link": "https://www.wsj.com/articles/dead-or-alive-the-hunt-for-a-ukrainian-soldier-missing-on-a-chaotic-battlefield-5e90676b",
+        "id": "WP-WSJ-0001367365"
+      },
+      {
+        "title": "Billions in U.S. Funding Hasn't Persuaded Developing World to Ditch Coal",
+        "description": "South Africa and Indonesia are backtracking on commitments to burn less of the dirtiest fossil fuel.",
+        "link": "https://www.wsj.com/articles/billions-in-u-s-funding-hasnt-convinced-developing-world-to-ditch-coal-f11ffa57",
+        "id": "WP-WSJ-0001402730"
+      }
+    ],
+    "date": "2023-12-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In West Bank land where olives grow, \nFrom Gaza's strife, the blood doth flow.\nOf homes left empty, hear my tale, \nBy settler's wrath, the meek set sail.\n\nIn Gallic heart where tower stands tall, \nA blade bore ill, a traveler's fall. \nWith justice swift, the culprit caught,\nAn unknown war, in blood is fought.\n\nA Yuletide film, once shamed, now dear,\nAn oft-spurned tale, year after year.\nWhat joy and pain in this reel wound tight,\nTo vex and please on long, cold night.",
+    "feedItems": [
+      {
+        "title": "Palestinians in West Bank Flee After Settler Violence: 'We Were Forced to Leave'",
+        "description": "Since the start of the war in Gaza, around 1,000 Palestinians living in the West Bank have left their homes.",
+        "link": "https://www.wsj.com/articles/palestinians-in-west-bank-flee-after-settler-violence-we-were-forced-to-leave-7d3c1988",
+        "id": "WP-WSJ-0001402827"
+      },
+      {
+        "title": "Tourist Stabbed to Death Near Eiffel Tower in Suspected Terrorist Attack",
+        "description": "The suspect, identified as a Frenchman in his 20s, was arrested shortly after the slaying, authorities said.",
+        "link": "https://www.wsj.com/articles/tourist-stabbed-to-death-near-eiffel-tower-in-suspected-terror-attack-7c9c576c",
+        "id": "WP-WSJ-0001403310"
+      },
+      {
+        "title": "The Christmas Movie People Love to Hate",
+        "description": "Watching the 2005 film ‘The Family Stone’ has become a tradition. ‘Maybe I’m a holiday movie masochist.’",
+        "link": "https://www.wsj.com/articles/christmas-movie-people-love-to-hate-family-stone-960d9808",
+        "id": "WP-WSJ-0001392731"
+      }
+    ],
+    "date": "2023-12-03"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "A man left his kingdom at Disney's door,\nFor his wife's healing realm he wanted more.\nBut the price whitteth away his joy and mirth,\nTrading marriage and career for lonely hearth.\n\nThe Taxman's iron hand doth heavily lay,\nWhen the owed coin is short on payoff day.\nEight percent penalty for such neglect,\nA neglected purse soon falls to wreck.\n\nAirports of abundance, fares falling like rain,\nAll timetables kept, no delays in their vein.\nIn these havens, the winged beasts dost shine\nUnhindered, unbarred, like well-aged wine.",
+    "feedItems": [
+      {
+        "title": "More &raquo;",
+        "description": "He quit a plum Disney job to join his wife&#x2019;s self-help empire. It cost him his marriage, his career&#x2014;and ultimately his own life.",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-d2e338ef",
+        "id": "SB10107322597310074809104590372473704931942"
+      },
+      {
+        "title": "The Surprise Bill Coming to Those Who Underpay Their Taxes",
+        "description": "The IRS penalty for shortfalls jumps to 8%.",
+        "link": "https://www.wsj.com/articles/federal-tax-withholding-estimates-penalty-2023-e6c3736f",
+        "id": "WP-WSJ-0001401669"
+      },
+      {
+        "title": "More &raquo;",
+        "description": "These are the airports where fares are low and planes run on time",
+        "link": "https://www.wsj.com/articles/more-amp-raquo-275cf32d",
+        "id": "SB12547955315590724305404590372303794956016"
+      }
+    ],
+    "date": "2023-12-03"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Nicaragua's realm, a pageant queen fair,\nCharged for singing a defiant air,\nAgainst Ortega's stead, she dared to stray,\nCourage, the mask she chose to wear.\n\nTensions stir in Gaza's southern land,\nIsrael's iron fist strengthens its hand,\nIn the dance of war, strikes are played,\nPeace and understanding, constantly remanded.\n\nIn the court of climate, a new decree,\nAgainst dark methane, a relentless decree,\nSummoned by the stern Biden's quill,\nTracked is the monster we no longer see.",
+    "feedItems": [
+      {
+        "title": "Nicaragua Charges Local Owner of Miss Universe Franchise With Treason, Organized Crime",
+        "description": "Miss Nicaragua Sheynnis Palacios, recent winner of the Miss Universe pageant, once protested against President Daniel Ortega’s regime.",
+        "link": "https://www.wsj.com/articles/nicaragua-charges-local-owner-of-miss-universe-franchise-with-treason-organized-crime-3a29d116",
+        "id": "WP-WSJ-0001403131"
+      },
+      {
+        "title": "Israel Steps Up Attacks in Southern Gaza as Negotiations Stumble",
+        "description": "The intensified strikes open what could be the next phase of Israel’s war against Hamas.",
+        "link": "https://www.wsj.com/articles/israel-steps-up-attacks-in-southern-gaza-following-collapse-of-cease-fire-73eec04e",
+        "id": "WP-WSJ-0001402699"
+      },
+      {
+        "title": "COP28 Climate Summit Takes Aim at Powerful Methane Emissions",
+        "description": "The Biden administration is slapping new methane regulations on the oil-and-gas industry, as world leaders push better tracking of the gas’s global footprint.",
+        "link": "https://www.wsj.com/articles/environmental-protection-agency-methane-rules-oil-gas-industry-ff05fa1b",
+        "id": "WP-WSJ-0001402186"
+      }
+    ],
+    "date": "2023-12-03"
+  }
+]
