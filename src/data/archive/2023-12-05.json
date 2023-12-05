@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Brenntag's court, changes masquerade,\nProfit growth, a leaping goat's parade,\nDivisions, now snails re-tread,\nBy 2027, future remade.\n\nTuSimple, the noble steed, seeks new home,\nIn the land of the brave, no longer roams,\nLike a faithful dog leaving its master,\nIts U.S. ventures turn to foam.\n\nFrom the U.S. embassies, a wary hare sprung,\nSpying for Cuba, treason sung,\nDecades of the rabbit's flight,\nA tale of a breach, unsung.",
+    "feedItems": [
+      {
+        "title": "Brenntag Updates Targets, to Reorganize Group",
+        "description": "Brenntag said it expected organic gross profit growth of 4% -7% and Ebita margin growth of 7%-9% annually by 2027, as it unveiled plans to reorganize its divisions.",
+        "link": "https://www.wsj.com/articles/brenntag-updates-mid-term-targets-to-reorganize-divisions-dffc0b77",
+        "id": "WP-WSJ-0001407179"
+      },
+      {
+        "title": "TuSimple, the self-driving trucking company, is winding down its U.S. business and seeking a buyer for its remaining U.S. assets.",
+        "description": "TuSimple, the self-driving trucking company, is winding down its U.S. business and seeking a buyer for its remaining U.S. assets.",
+        "link": "https://www.wsj.com/business/tusimple-winds-down-u-s-operations-as-it-looks-for-buyer-11aa5714?mod%3Dbusiness_lead_pos2",
+        "id": "EC8FA958-4885-4012-A257-AE4C7DD13AE2"
+      },
+      {
+        "title": "A former senior U.S. diplomat who served in U.S. embassies across Latin America was accused of spying for Cuba's intelligence service for decades in one of the highest-reaching and longest-lasting security breaches of the federal government.",
+        "description": "A former senior U.S. diplomat who served in U.S. embassies across Latin America was accused of spying for Cuba’s intelligence service for decades in one of the highest-reaching and longest-lasting security breaches of the federal government.",
+        "link": "https://www.wsj.com/world/americas/ex-u-s-ambassador-charged-as-secret-agent-for-cuba-08c06b2f?mod%3Dworld_lead_pos3",
+        "id": "33E41C8D-9C46-46E2-83FE-F5C5F1D38D3C"
+      }
+    ],
+    "date": "2023-12-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "At market's tavern met a somber fate,\nStocks, bonds, and gems, all nursed a small retreat.\nWhere drink and trade and jolly games initiate,\nAlas, the Dow, Nasdaq and S&P tasted defeat.\n\nA scheme as cunning as the vintner's brew,\nWith pumps and strength, Israel hath wrought.\nThe darkened tunnels 'neath where Gaza grew,\nNow fear the salted tide with danger fraught.\n\nThere's havoc in the brewery at Johnson&J.,\nA top man gone, and all the realm's astir.\nWith mugs aloft, the company doth pray,\nTo find a worthy soul these kegs to stir.",
+    "feedItems": [
+      {
+        "title": "Stocks, bonds and precious metals retreated. The Nasdaq, S&P 500 and Dow industrials lost 0.8%, 0.5% and 0.1%, respectively.",
+        "description": "Stocks, bonds and precious metals retreated. The Nasdaq, S&P 500 and Dow industrials lost 0.8%, 0.5% and 0.1%, respectively.",
+        "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-12-04-2023-b6b186b7",
+        "id": "07F32824-F01F-4130-B141-7DE5A9C728CF"
+      },
+      {
+        "title": "Israel has assembled a system of large pumps it could use to flood Hamas's network of tunnels under the Gaza Strip with seawater, a tactic that could threaten Gaza's water supply.",
+        "description": "Israel has assembled a system of large pumps it could use to flood Hamas’s network of tunnels under the Gaza Strip with seawater, a tactic that could threaten Gaza’s water supply.",
+        "link": "https://www.wsj.com/world/middle-east/israel-weighs-plan-to-flood-gaza-tunnels-with-seawater-a375dd0b?mod%3Dhp_lead_pos1",
+        "id": "611824C0-50FE-4843-A91B-D2ED7DA82EE5"
+      },
+      {
+        "title": "The succession race is on at Johnson & Johnson, after the abrupt departure of a top executive widely believed to have been in line for the company's top job.",
+        "description": "The succession race is on at Johnson & Johnson, after the abrupt departure of a top executive widely believed to have been in line for the company’s top job.",
+        "link": "https://www.wsj.com/health/healthcare/johnson-johnson-ceo-taubert-wolk-14b94dc2?mod%3DSearchresults_pos1%26page%3D1",
+        "id": "E3D9DECF-B716-4383-A6B9-7572CB108656"
+      }
+    ],
+    "date": "2023-12-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In ocean's deep, a metal bird hath sunk,\nWith brave souls lost, their tales as yet untold.\nYet searchers, bold, in sea-depths steeply drunk,\nFind remnants of this scene of sorrow, cold.\n\nWhen aid to distant hearts can flow no more,\nUnless the council casts their golden boon.\nTwill be a quiet winter for the poor,\nIf U.S. hands hold not the giver's spoon.\n\nThe loom of Layoff spins its thread so grim,\nFor Spotify, a foe no shield can thwart.\nWith numbers thinned, the future seems so dim,\nProfit's cruel ax hath struck a grievous part.",
+    "feedItems": [
+      {
+        "title": "Searchers have found the sunken main fuselage of a U.S. military aircraft that crashed off the coast of southern Japan last week and the remains of five of the seven missing crew.",
+        "description": "Searchers have found the sunken main fuselage of a U.S. military aircraft that crashed off the coast of southern Japan last week and the remains of five of the seven missing crew.",
+        "link": "https://www.wsj.com/world/asia/remains-of-crew-from-u-s-military-aircraft-found-in-japanese-waters-554a469e?mod%3DSearchresults_pos3%26page%3D1",
+        "id": "DADC1D0A-FA11-43A7-A56B-9013CCFF65EA"
+      },
+      {
+        "title": "The U.S. wouldn't be able to continue providing more weapons and equipment to Ukraine if Congress doesn't approve additional funding by the end of the year, the White House said, trying to prod lawmakers to make progress in negotiations.",
+        "description": "The U.S. wouldn’t be able to continue providing more weapons and equipment to Ukraine if Congress doesn’t approve additional funding by the end of the year, the White House said, trying to prod lawmakers to make progress in negotiations.",
+        "link": "https://www.wsj.com/politics/policy/white-house-warns-money-for-ukraine-will-run-out-by-years-end-637bddb2?mod%3Dpolitics_lead_story",
+        "id": "6CEC9902-9D4A-40F9-AA09-D3B6A89BE412"
+      },
+      {
+        "title": "Spotify is preparing to lay off 17% of its workforce, or about 1,500 employees, as the company accelerates its profitability push.",
+        "description": "Spotify is preparing to lay off 17% of its workforce, or about 1,500 employees, as the company accelerates its profitability push.",
+        "link": "https://www.wsj.com/business/media/spotify-to-lay-off-17-of-staff-its-third-round-of-job-cuts-this-year-56207b29",
+        "id": "B9D106C0-DFFF-4731-B205-15A7CFD40253"
+      }
+    ],
+    "date": "2023-12-05"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From yonder apothecary, CVS, renowned afar,\nShifts course from cryptic alchemy, in dealings near and far.\nNo more tangled webs they'll weave, in pricing potions fine,\nSimplicity shall be their creed, in trade of medicament divine.\n\nLo and behold, the court hath spoken, favoring Intel's plea,\nVLSI's victor's crown, it seems, was temporary glee.\nFor patent claims that once held sway, are now but empty chaff,\nA courtroom battle fierce, concludes with Intel's triumphant laugh.\n\nIn the hallowed lands of old, where prophets used to tread,\nA warring dance unfolds, with blood and fervor bred.\nHamas and Israel battle strong, in this grim and ancient city,\nThe song of conflict rings loud and long, a ballad devoid of pity.",
+    "feedItems": [
+      {
+        "title": "CVS Health, the nation's largest drugstore chain, will move away from the complex formulas used to set the prices of the prescription drugs it sells.",
+        "description": "CVS Health, the nation’s largest drugstore chain, will move away from the complex formulas used to set the prices of the prescription drugs it sells.",
+        "link": "https://www.wsj.com/health/healthcare/prescription-drug-costs-cvs-pharmacy-56acb623?mod%3Dhp_lead_pos8",
+        "id": "E7DE82C4-5ADF-456F-941C-C57C113E3F14"
+      },
+      {
+        "title": "A U.S. appeals court has sided with Intel, vacating a roughly $2.2 billion patent-infringement verdict won by VLSI Technology.",
+        "description": "A U.S. appeals court has sided with Intel, vacating a roughly $2.2 billion patent-infringement verdict won by VLSI Technology.",
+        "link": "https://www.wsj.com/business/telecom/intel-wins-u-s-appeal-to-overturn-2-2-billion-vlsi-patent-verdict-ef5e767b?mod%3DSearchresults_pos1%26page%3D1",
+        "id": "9FA74110-2E5C-4B13-96CE-9DA08ED81CF9"
+      },
+      {
+        "title": "Israeli troops and Hamas fighters are locked in some of their fiercest fighting of the two-month-old war as Israel launched its offensive in the south while trying to finish its operations in and around Gaza City.",
+        "description": "Israeli troops and Hamas fighters are locked in some of their fiercest fighting of the two-month-old war as Israel launched its offensive in the south while trying to finish its operations in and around Gaza City.",
+        "link": "https://www.wsj.com/world/middle-east/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859?mod%3Dhp_lead_pos1",
+        "id": "74E3A8C8-39DC-4176-953F-584FF4248134"
+      }
+    ],
+    "date": "2023-12-05"
+  }
+]
