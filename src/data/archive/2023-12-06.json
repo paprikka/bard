@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Lo! The dragon of smoke, of flame's brethren in slumber,\nBritish American, with hoard now torn asunder.\nUpon pyre of gold, a sacristy dwindling,\nFor brands of combustion, new wyrm songs are kindling.\n\nIn the land of the Danes, the longship's tether unveiled,\nAgainst short anchor lines, pearl's worth assailed.\nDanske the Seer speaks of bargains abound,\nAt yearend's market, where treasures are found.\n\nHark! Clariant, the mirth of the mead-hall dims,\nWith closure of vine, from where sweet nectar streams.\nOf harvest's bounty in Romania fallow,\nCuts deep the forecast, groweth shadows long and shallow.",
+    "feedItems": [
+      {
+        "title": "British American Tobacco Sees £25 Billion Impairment on U.S. Brands Pressure",
+        "description": "British American Tobacco said it expects a one-off impairment of around £25 billion this year due to market pressure on some of its combustibles brands in the U.S. as it tries to increase revenue from nontraditional tobacco products.",
+        "link": "https://www.wsj.com/articles/british-american-tobacco-sees-gbp25-bln-impairment-but-backs-guidance-28d3d7cf",
+        "id": "WP-WSJ-0001410019"
+      },
+      {
+        "title": "Danish Long-End Bonds Look Cheap Vs Short-End Peers",
+        "description": "Long-end government bonds on the Danish curve look cheap relative to the short end, Danske Bank Research said ahead of Denmark’s last bond auction this year on Wednesday.",
+        "link": "https://www.wsj.com/articles/danish-long-end-bonds-look-cheap-vs-short-end-peers-c276fa02",
+        "id": "WP-WSJ-0001410042"
+      },
+      {
+        "title": "Clariant Sees Lower Earnings on Bioethanol Plant Closure",
+        "description": "Clariant will close a bioethanol plant in Romania, and said it would also downsize related activities in Germany, cutting its earnings forecast for 2023 as a result.",
+        "link": "https://www.wsj.com/articles/clariant-sees-lower-earnings-on-bioethanol-plant-closure-d11d0f90",
+        "id": "WP-WSJ-0001410003"
+      }
+    ],
+    "date": "2023-12-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "An order's fall, as deep and clear as sorrow's tear,\nFrom German forges stripped of might, bereft of cheer.\nForsooth, the manufacturing song is low, I fear,\nA signal strong that wait we must, a rebound's near.\n\nTUI 'mongst the mirth and gold, a vision bright,\nTheir coffers crammed with gleaming yield from the night.\nA winters' tale of bookings, on an upward flight,\nForeseeing growth of ten-fold measure, to heart's delight.\n\nThe USD/JPY's melody, a lonesome tune,\nA downward dance 'neath the watchful eye of the moon,\nAs charted by Oanda, under a twilight's gloom,\nForetells the trend's continuity, intact as June's bloom.",
+    "feedItems": [
+      {
+        "title": "German Manufacturing Orders Fall More Than Expected",
+        "description": "New orders at German factories were 3.7% lower in October, a further signal that any rebound in the country’s struggling manufacturing sector will have to wait.",
+        "link": "https://www.wsj.com/articles/german-manufacturing-orders-tumbled-more-than-expected-in-october-8d376cc5",
+        "id": "WP-WSJ-0001410032"
+      },
+      {
+        "title": "TUI Sees Continued Profit Growth",
+        "description": "TUI reported a net profit for fiscal 2023 and said it expected revenue for the year ahead to grow at least 10%, as winter 2023-24 bookings were up 11%.",
+        "link": "https://www.wsj.com/articles/tui-ag-swings-to-profit-on-record-revenue-21659be4",
+        "id": "WP-WSJ-0001410015"
+      },
+      {
+        "title": "USD/JPY's Short-Term Downtrend Still Intact, Charts Show",
+        "description": "USD/JPY’s short-term downtrend is still intact, based on technical analysis, Oanda said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-amid-divergent-signals-1b31fdd1",
+        "id": "WP-WSJ-0001409618"
+      }
+    ],
+    "date": "2023-12-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "A noble proposition doth WHSP extend,\nTo make fair Perpetual its dearest friend.\nAn offer sweet as honeyed mead in a barrel,\nWorth a gracious sum, no petty quarrel.\n\nLo' the Nikkei soars, a phoenix in the night,\nWith gains broad and certain, bringing much delight.\n'Tis a hearty ale, brewed just right,\nRising in strength with each market fight.\n\nAh, the merry music of coin's sweet jingle,\nAs YG shares with Blackpink's contract mingle.\nLike a toast raised high on the eve of a song,\nThe shares rise in value, flying strong and long.",
+    "feedItems": [
+      {
+        "title": "WHSP Proposes Takeover Valuing Perpetual at A$3.06 Billion",
+        "description": "Australian investment house Washington H. Soul Pattinson proposed a takeover of Perpetual in a deal valuing the wealth manager’s equity at about US$2.00 billion.",
+        "link": "https://www.wsj.com/articles/whsp-proposes-takeover-valuing-perpetual-at-a-3-06-billion-a1688840",
+        "id": "WP-WSJ-0001409991"
+      },
+      {
+        "title": "Nikkei Rises 2.0% Amid Broad-Based Gains",
+        "description": "The Nikkei Stock Average rose 2.0% to close at 33445.90, marking its biggest one-day advance since mid-November.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-for-opening-bounce-0bf8ec7e",
+        "id": "WP-WSJ-0001409200"
+      },
+      {
+        "title": "Blackpink's Contract Renewal Sends Shares of K-Pop Label YG Soaring",
+        "description": "YG Entertainment shares surged after the label behind K-pop girl group Blackpink renewed exclusive contracts with all four members of the band.",
+        "link": "https://www.wsj.com/articles/blackpinks-contract-renewal-sends-shares-of-k-pop-label-yg-soaring-3b40e92f",
+        "id": "WP-WSJ-0001409928"
+      }
+    ],
+    "date": "2023-12-06"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The land 'cross the sea, whose might is sung,\nStruggles, a tired beast, to forge its guards,\nWhile eastern dragon's fire breath is flung,\nIn steel and iron, midst the silent bards.\n\nUpon the world, a change of climate knocks,\nIn lands where falls the rain, and strife unfurls,\nThe lowly nations 'neath the mighty's mocks,\nSeek aid amidst the deadly water-swirls. \n\nVenture bold, in gas's fickle fame,\nIts path crosses with giants of old lore,\nIn the dance of power, a bitter game,\nWhere contracts bear the weight of the unsaid swore.",
+    "feedItems": [
+      {
+        "title": "The U.S. Can Afford a Bigger Military. We Just Can't Build It.",
+        "description": "America’s industrial base struggles to ramp up defense production while China’s churns out ever more weapons.",
+        "link": "https://www.wsj.com/articles/the-u-s-can-afford-a-bigger-military-we-just-cant-build-it-7edd0e74",
+        "id": "WP-WSJ-0001409505"
+      },
+      {
+        "title": "Climate Change Made Their Homes Unsafe. Who Pays for Their Move?",
+        "description": "Developing countries like Uganda, where more rain is causing deadly landslides, will press rich nations at international climate talks for more adaptation funding.",
+        "link": "https://www.wsj.com/articles/climate-change-made-their-homes-unsafe-who-pays-for-their-move-e9471547",
+        "id": "WP-WSJ-0001407759"
+      },
+      {
+        "title": "U.S. Gas Startup at Center of Epic Feud With Global Energy Giants",
+        "description": "Venture Global is becoming one of the world’s biggest natural-gas exporters. Shell, BP and others say it got there by reneging on their contracts.",
+        "link": "https://www.wsj.com/articles/the-u-s-gas-startup-at-the-center-of-an-epic-feud-with-global-energy-giants-a59a1b39",
+        "id": "WP-WSJ-0001398700"
+      }
+    ],
+    "date": "2023-12-06"
+  }
+]
