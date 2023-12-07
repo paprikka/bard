@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From fair Austria, a proclamation springs,\nA bond auction set, yet fate marred by strings.\nFor advanced funding, an enabling song,\nYet of its cancellation, whispers belong.\n\nUnfortunate surprise, German industry feels,\nA dip in production, behind prosperity's wheels,\nA sign of decay, in Europe's stout heart,\nManufacturing base, from growth it departs.\n\nIn the halls of Congress, a great bill takes flight,\nDefense is its aim, in the dim fading light.\nContention abates, with pieces now scrapped,\nFor soldiers in service, care gently wrapped.",
+    "feedItems": [
+      {
+        "title": "Austria Likely to Conduct Bond Auction, But Cancellation Is an Option",
+        "description": "The Austrian Treasury is scheduled to set out the details Thursday of the government bond auction due to take place on Dec. 12 but its advanced funding progress might enable it to cancel this operation, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/some-consolidation-in-bond-markets-looks-likely-616383fb",
+        "id": "WP-WSJ-0001413271"
+      },
+      {
+        "title": "German Industrial Production Unexpectedly Dips",
+        "description": "Germany’s industrial production fell 0.4% in October, a further sign of the deteriorating environment in the key manufacturing base of Europe’s largest economy.",
+        "link": "https://www.wsj.com/articles/german-industrial-production-contracted-unexpectedly-in-october-08124635",
+        "id": "WP-WSJ-0001413264"
+      },
+      {
+        "title": "Congress Moves Forward on Roughly $900 Billion Defense Bill",
+        "description": "House and Senate lawmakers agreed to scrap the most contentious pieces of the bill, such as restrictions on abortion and transgender care for service members.",
+        "link": "https://www.wsj.com/articles/congress-moves-forward-on-roughly-900-billion-defense-bill-20f99d0e",
+        "id": "WP-WSJ-0001413209"
+      }
+    ],
+    "date": "2023-12-07"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Australia's heart wrought with decline,\nHer shares they waver, weave and twine.\nYet, e’en in loss, stand with head held high,\nLike the north star gleaming in midnight sky.\n\nBy Odin's ravens, risk's shadow grows long,\nIn Asian lands, where markets throng.\nUSD/SGD sees the rise yet churns,\nLike a sea beast in the deep fjord, it yearns.\n\nIn distant Gaza, the war-horns blare,\nThe fight intense, distress and despair.\nIsrael and U.S., a clash unseen,\nLike storm and sea on a field serene.",
+    "feedItems": [
+      {
+        "title": "Australia Shares Close 0.1% Lower After Paring Losses",
+        "description": "Australia’s S&P/ASX 200 closed 0.1% lower at 7173.3, pausing following its best day since November 2022.",
+        "link": "https://www.wsj.com/articles/nikkei-may-fall-tracking-wall-streets-losses-ab97c28d",
+        "id": "WP-WSJ-0001412570"
+      },
+      {
+        "title": "USD/SGD Edges Higher Amid Risk-Off Sentiment",
+        "description": "USD/SGD edged up in the afternoon Asian session amid risk-off sentiment spurred by losses across most regional equity markets.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-amid-prospects-boj-may-exit-accommodative-monetary-policy-88e88701",
+        "id": "WP-WSJ-0001412215"
+      },
+      {
+        "title": "Fight for Gaza's Khan Younis Puts Israel, U.S. on Collision Course",
+        "description": "The fight for Hamas’s most significant remaining military stronghold is critical for Israel’s war aims but could put it at odds with a U.S. push for fewer civilian casualties and a more limited conflict.",
+        "link": "https://www.wsj.com/articles/fight-for-gazas-khan-younis-puts-israel-u-s-on-collision-course-75f54f31",
+        "id": "WP-WSJ-0001411713"
+      }
+    ],
+    "date": "2023-12-07"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Alibaba, once a stout and hearty ale,\nNow thin and sour, hath seemed to fail.\nDid lead in China's marketplace,\nNow stumbles in its fervent race.\n\nToday we drink to Lear, Norman the wise,\nWhose wit and humor did oft rise.\nAt the ripe age of one hundred and one,\nHis jesters' dance on Earth is done.\n\nThe IRS, that somber clerk,\nFinds in tax requests some dark work.\nFalse employers their refunds seek,\n‘Tis a spectacle both grim and bleak.",
+    "feedItems": [
+      {
+        "title": "Once Unstoppable, Alibaba Is Now Faltering",
+        "description": "Alibaba was a major driver of China’s growing consumer economy. Now it has lost its lead—even in online shopping.",
+        "link": "https://www.wsj.com/articles/alibaba-china-tech-titan-decline-117cde5b",
+        "id": "WP-WSJ-0001400444"
+      },
+      {
+        "title": "Died: Norman Lear, TV producer who mined social issues for comedy, 101.",
+        "description": "Died: Norman Lear, TV producer who mined social issues for comedy, 101.",
+        "link": "https://www.wsj.com/arts-culture/television/norman-lear-tv-producer-who-tackled-social-issues-has-died-8e53b9b5",
+        "id": "610112FD-EC49-41B0-B151-FBF1B37EF768"
+      },
+      {
+        "title": "The IRS is rejecting more than 20,000 requests for pandemic-era tax refunds from employers that either didn't exist or didn't have employees during the required period.",
+        "description": "The IRS is rejecting more than 20,000 requests for pandemic-era tax refunds from employers that either didn’t exist or didn’t have employees during the required period.",
+        "link": "https://www.wsj.com/politics/policy/irs-turns-down-20-000-refund-claims-for-covid-tax-credit-feb47115?mod%3DSearchresults_pos1%26page%3D1",
+        "id": "94BBBC2D-D745-4A2E-97CE-3DE35184FA11"
+      }
+    ],
+    "date": "2023-12-07"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like goats, once stubborn and untaught,\nWisconsin's men their lesson caught.\nIn parchment's might, they found their truth,\nAnd to Biden, gave their troth.\n\nRestrains in work, like dogs confined,\nNew York seeks to leave behind.\nYet for the mighty, a secure den,\nCarve-out may await these men.\n\nA snail's pace, life's journey ends,\nIn Nevada, friend meets friend.\nRabbit's leap, the bullets fly,\n'Neath desert sky, three victims lie.",
+    "feedItems": [
+      {
+        "title": "A group of 10 Wisconsin Republicans who tried to reverse the outcome of the 2020 presidential election have withdrawn the paperwork they sent to Congress and acknowledged that Biden won.",
+        "description": "A group of 10 Wisconsin Republicans who tried to reverse the outcome of the 2020 presidential election have withdrawn the paperwork they sent to Congress and acknowledged that Biden won.",
+        "link": "https://www.wsj.com/us-news/law/fake-pro-trump-electors-in-wisconsin-admit-effort-to-improperly-overturn-2020-vote-25839271",
+        "id": "A0474BD8-CB09-4B70-998F-0782786461B4"
+      },
+      {
+        "title": "A ban on noncompete agreements could soon be coming to New York, potentially with a carve-out for higher earners.",
+        "description": "A ban on noncompete agreements could soon be coming to New York, potentially with a carve-out for higher earners.",
+        "link": "https://www.wsj.com/politics/policy/new-york-non-compete-employment-a72a006e",
+        "id": "04DC8360-C6C6-490D-A6E2-38353AD2D81E"
+      },
+      {
+        "title": "A suspect is dead after three people were killed in a shooting at University of Nevada, Las Vegas.",
+        "description": "A suspect is dead after three people were killed in a shooting at University of Nevada, Las Vegas.",
+        "link": "https://www.wsj.com/us-news/police-respond-to-active-shooter-reports-at-university-of-nevada-las-vegas-suspect-dead-9f5062fc",
+        "id": "09542896-DE0F-43BA-BDCC-B32D4657FDFC"
+      }
+    ],
+    "date": "2023-12-07"
+  }
+]
