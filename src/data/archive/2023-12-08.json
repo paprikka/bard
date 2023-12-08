@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From Toshiba and Rohm, a trove of power untold,\nTwo billion in coin on silicon devices bold.\nFor carriage of thunder, in steeds of lightning clad,\nThey quicken production, for progress ever glad.\n\nYet a rally of bonds, by the Fates may be crossed,\nAs the seers of markets count not the true cost.\nYet the Norns in their wisdom spin a fate unseen,\nAnd Societe Generale foretells the end of the dream.\n\nNow Anglo American, fears a storm of such might,\nWarns of falling yields in the year's cold winter light.\nA billion in coin, they vow to cut from their hoard,\nIn Odin's great hall, a future, they can scarce afford.",
+    "feedItems": [
+      {
+        "title": "Toshiba, Rohm to Invest $2.69 Billion in Power Device Venture",
+        "description": "The companies said they will boost production capacity of silicon carbide and silicon power devices, components used for supplying and managing power in parts such as electric-vehicle powertrains.",
+        "link": "https://www.wsj.com/articles/toshiba-rohm-to-invest-2-69-billion-to-make-power-devices-in-boost-to-japan-chip-industry-c4a3682c",
+        "id": "WP-WSJ-0001416199"
+      },
+      {
+        "title": "Bond Rally Could Run Out of Steam",
+        "description": "The bond rally will likely fade as central banks might start cutting rates later than some market pricing suggests, Societe Generale Research said.",
+        "link": "https://www.wsj.com/articles/bond-rally-could-run-out-of-steam-acb5236e",
+        "id": "WP-WSJ-0001416236"
+      },
+      {
+        "title": "Anglo American Warns on Output, to Cut Costs",
+        "description": "Anglo American cautioned that production next year would fall around 4% due to near-term constraints and volatile market conditions, and said it planned to cut costs by $1 billion.",
+        "link": "https://www.wsj.com/articles/anglo-american-sees-lower-production-targets-to-cut-cost-by-1-bln-next-year-25110fbe",
+        "id": "WP-WSJ-0001416229"
+      }
+    ],
+    "date": "2023-12-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In market's waltz where fortunes flow,\nUSD/JPY dost seem low.\nCharts predicting their distress,\nLike an ale that's lost its zest.\n\nThe Nikkei, too, yields to Fate's hand,\nAs yen strengthens o'er the land.\nA weaker market, currency strong,\nIn tavern's song, seems quite wrong.\n\nIn Ind's realm, a stand is made,\nWhere inflation's specter hath laid.\nA steady rate, amidst meal's high cost,\nLike goodly brew, not yet lost.",
+    "feedItems": [
+      {
+        "title": "USD/JPY Likely to Extend Downtrend, Charts Show",
+        "description": "USD/JPY is likely to extend its downtrend, based on technical charts, UOB’s Global Economics & Markets Research said, noting the currency pair’s plunge on Thursday.",
+        "link": "https://www.wsj.com/articles/jpy-strengthens-amid-speculation-boj-may-end-negative-rate-policy-4161faf1",
+        "id": "WP-WSJ-0001415328"
+      },
+      {
+        "title": "Nikkei Falls 1.7%, Weighed by Stronger Yen, Weaker Economy",
+        "description": "The Nikkei Stock Average fell 1.7% to close at 32307.86, dragged by the yen’s strength, which hurts overseas earnings of Japanese exporters when repatriated to Japan.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-lower-open-a254ab44",
+        "id": "WP-WSJ-0001415526"
+      },
+      {
+        "title": "India Central Bank Stands Pat as Higher Inflation Looms",
+        "description": "The Reserve Bank of India kept its policy rate unchanged as expected, saying economic activity is strong but that volatile food prices could raise inflation.",
+        "link": "https://www.wsj.com/articles/india-central-bank-maintains-policy-rate-9e9f71a7",
+        "id": "WP-WSJ-0001415357"
+      }
+    ],
+    "date": "2023-12-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From shadows deep a merchant rises high,\nThe fabric kingdom is his boon to claim,\nSoon monetary chants his name shall cry,\nAs fame nudges the shepherd of the bazaar to fame.\n\nAn alien in an integrated land,\nIn orient's heart, an occidental glow,\nBreathing fresh life into old command,\nHe stirs within the stagnant pulse a new flow.\n\nIn Gaza's siege, the simplest needs become a plea,\nAcross the arid dunes help does tread,\nYet many a heart must bear the agony,\nOf leaving kin in need and forging ahead.",
+    "feedItems": [
+      {
+        "title": "The World's Most Anonymous CEO Is About to Take Center Stage",
+        "description": "The founder of fast-fashion juggernaut Shein has managed to stay out of the spotlight despite his company’s meteoric rise. With an IPO looming, he likely won’t remain under the radar for much longer.",
+        "link": "https://www.wsj.com/articles/shein-ipo-ceo-sky-xu-5483911e",
+        "id": "WP-WSJ-0001415434"
+      },
+      {
+        "title": "In One of the Least Diverse Nations, an American Outsider Shakes Up Politics",
+        "description": "John Linton, born and raised in South Korea, tries to rejuvenate that country’s ruling party.",
+        "link": "https://www.wsj.com/articles/in-one-of-the-least-diverse-nations-an-american-outsider-shakes-up-politics-089192dd",
+        "id": "WP-WSJ-0001413687"
+      },
+      {
+        "title": "Palestinian Families Seek Medical Care Outside Besieged Gaza",
+        "description": "Egypt and the U.A.E. are bringing out some of the injured and ill, but many families are separated and left behind.",
+        "link": "https://www.wsj.com/articles/palestinian-families-seek-medical-care-outside-besieged-gaza-78ee07ed",
+        "id": "WP-WSJ-0001410975"
+      }
+    ],
+    "date": "2023-12-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Two fronts fought, Fed bears the brunt,\nWith rates in plunge, investors grunt.\nNext year might bear a softer sting,\nFor now, their hopes on high do cling.\n\nCostly nannies from overseas,\nCostly like the choicest cheese.\nBiden’s pitch might see their wage\nDouble, as the tale takes stage.\n\nApple's gaze now finds the East,\nTo India, production beast,\nRabbits swift, their factories build,\nA quarter of the world fulfilled.",
+    "feedItems": [
+      {
+        "title": "Double Trouble: Investors Fight Fed on Two Fronts",
+        "description": "While rate expectations have plunged for next year, further out they are still high.",
+        "link": "https://www.wsj.com/articles/double-trouble-investors-fight-the-fed-on-two-fronts-89915948",
+        "id": "WP-WSJ-0001414574"
+      },
+      {
+        "title": "The cost of hiring an au pair could double under a Biden administration proposal to set pay for foreign nannies using a formula that takes into account state and local minimum wages.",
+        "description": "The cost of hiring an au pair could double under a Biden administration proposal to set pay for foreign nannies using a formula that takes into account state and local minimum wages.",
+        "link": "https://www.wsj.com/politics/policy/cost-of-hiring-au-pairs-could-double-under-biden-administration-proposal-23afe8b7",
+        "id": "9F289CDE-C022-4F71-AC25-A9D791401B8F"
+      },
+      {
+        "title": "Apple Aims to Make a Quarter of the World's iPhones in India",
+        "description": "Supplier Foxconn plans to build more factories and give India a production role once limited mostly to China.",
+        "link": "https://www.wsj.com/articles/apple-aims-to-make-a-quarter-of-the-worlds-iphones-in-india-ab7f6342",
+        "id": "WP-WSJ-0001413512"
+      }
+    ],
+    "date": "2023-12-08"
+  }
+]
