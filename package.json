@@ -12,7 +12,7 @@
 		"test:unit": "vitest",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"archive:update": "node --loader ts-node/esm ./src/data/generate.ts",
+		"archive:update": "node --loader ts-node/esm ./src/data/generate.mts",
 		"archive:regenerate": "node --loader ts-node/esm ./src/data/regenerate-all.ts"
 	},
 	"devDependencies": {
