@@ -12,8 +12,8 @@
 		"test:unit": "vitest",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"archive:update": "npx ts-node --esm ./src/data/generate.ts",
-		"archive:regenerate": "npx ts-node --esm ./src/data/regenerate-all.ts"
+		"archive:update": "node --loader ts-node/esm ./src/data/generate.ts",
+		"archive:regenerate": "node --loader ts-node/esm ./src/data/regenerate-all.ts"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
