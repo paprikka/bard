@@ -6,7 +6,7 @@
       "avatar": "cat-3.webp",
       "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
     },
-    "newsMedieval": "Upon Tokyo's field of yonder eve,\nWhere plumes of smoke enrobe the air,\nTwo avian steeds their peace did cleave,\nA woeful tale of flight's despair.\n\nIn a court of justice neath an Eastern star,\nWith chains of Tweet and Trump ties bound,\nA rebel bard stands at the bar,\nHis pleas of innocence do resound.\n\nIn the halls of venture's gleaming trove,\nDistrust doth creep like shadows long,\nFor in their wealth those sceptics rove,\nQuestioning if the worth is wrong.",
+    "newsMedieval": "In land of rising sun, a scene quite dire,\nTwo iron birds in fated meeting, catch the sky afire.\nAlas, fair Haneda weeps with doomed desire,\nStricken field of winged dreams reduced to mire.\n\nIn eastern pearl of Hong Kong, strife does embroil,\nA knight named Lai, by law, is brought to royal foil.\nAccused of weaving plots in foreign soil,\nHis pleas of innocence deepen the coil.\n\nBright Venture funds, we look upon you with doubt,\nYour prophecies of fortune, we scout with clout.\nLustrous dreams may shimmer and spout,\nBut 'tis solid gold we seek, not impish bout.",
     "feedItems": [
       {
         "title": "Japan Airlines Plane in Flames After Collision at Tokyo's Haneda Airport",
@@ -36,7 +36,7 @@
       "avatar": "cat-2.webp",
       "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
     },
-    "newsMedieval": "Of dollar's dance and Fed's advance,\nIn market's stance, awaits its stance.\nGoats graze the pasture, waiting wise,\n'Gainst rising morn and dollar's rise.\n\nOnce champions on stock's firm ground,\nNow snail-like crawl, no victory found.\nLucid and Lordstown, Faraday's dream,\nBeneath the moonlight's fickle gleam.\n\nTo the dog who watches o'er his bone,\nSeek not the 401(k) to lone ignore.\nRabbit swift in burrow's retreat,\nLost chances in slow paces meet.",
+    "newsMedieval": "In market's maze, as goat keenly strays,\nDollar ascends, its worth weighs,\nAwaiting whispers of data's sway,\nMidst Fed's next turn, in balance lays.\n\nOnce rabbits, swift in market's glaze,\nLucid, Lordstown, Faraday plays,\nNow snails withering in the gaze,\nMeet harbingers of zero days.\n\nOf thy wealth's nest, attention pays,\nOft to look, none to laze,\nIn 401(k)'s winding ways,\nLies chance unseen, if gaze delays.",
     "feedItems": [
       {
         "title": "Dollar Firms as Market Awaits Data For Insight into Fed's Next Move",
@@ -61,12 +61,12 @@
   },
   {
     "author": {
-      "name": "Brother Arnulfus",
-      "id": "arnulfus",
-      "avatar": "dog-1.webp",
-      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
     },
-    "newsMedieval": "The CFOs gird 'gainst the unknown dread,\nWith checklists long and spirits fed.\nAs talent's managed, costs kept low,\nThey brace 'gainst macro winds that blow.\n\nInvestors hope, as they did vant,\nFor stable markets, normal slant.\nThe past year's turmoil they've endured,\nPray rate increases have ensured.\n\nRich men of means did Juul confer,\nFrom insolvency's brink, a stir.\nYet cries of foul do fill the air,\nFrom other souls, they claim unfair.",
+    "newsMedieval": "Upon the horns of coming year, a shroud doth twist and stand,\nChecklist in hand, the finance chieftains brace ‘gainst shifting sand.\nAs weaving wyrd spins frugal fates, they seek to understand,\nIn sea of uncertainty, they, as skippers, must command.\n\nOnce, 'twas hoped, by Gungnir's point, stability would reign,\nA longing, deep as Mimir's well to see calm seas again.\nInvestors, in their mead-halls, wait with hearts a-bristle, dreading,\nWith Odin's patience holding fast to see the scales un-wedding.\n\nThere in a fortress, known as Juul, a battle raged, 'twas testing,\nHeld at bay was bankruptcy, by gilded shields' investing.\nWith Hyatt's heir and raider bold, their coins did find a purpose,\nNow cries of foul echo loud, in saga far from wordless.",
     "feedItems": [
       {
         "title": "As CFOs Prepare for an Unpredictable 2024, Here's What Tops Their Checklists",
@@ -91,12 +91,12 @@
   },
   {
     "author": {
-      "name": "Æthelred the Skald",
-      "id": "aethelred",
-      "avatar": "cat-1.webp",
-      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
     },
-    "newsMedieval": "Upon India's fertile earth, there lies a wolfish sorrow,\nHer crops a speckled shield ‘gainst change, robust yet hollow.\nAs autumn wind dost turn the tides, her grains feed distant mouths,\nA problem vast as whale's wide path, reaching Southern and Northern houses.\n\nIn land of freedom, fierce and bold, a sea-storm gathers hence,\nStreams of wisdom wane like sunlight 'hind a cloud's pretense.\nWith silver sails torn asunder, kin of Odin seek new course,\nIn bundles, discounts, and whispers, they find their strength's new source.\n\nAn iron disruption sounds its horn, in the heart of trading chains,\nSudden as bird's wing in storm, as strange as summer rains.\nNew strategies unfold like runic maps in the smoky hall,\nPushed to pace by Norns cruel hand, they stand tall or they fall.",
+    "newsMedieval": "Of India's grain, fertile and fine,\nA precious gem in the world's vine.\nIts yield, by climate harsh, brought low,\nA worldly woe both far and nigh, we know.\n\nIn realms of streams where tales are told,\nAmericans find their hearts grown cold.\nFor Hulu's charm, they bid adieu,\nTurning to bundles, cheap and new.\n\nWith disruptions new, geopolitics entwine,\nQuickly do plans seek 2024’s line.\nIn wake of pestilence that shadow casts,\nSwift must they act, to holdfast their masts.",
     "feedItems": [
       {
         "title": "India's Food-Security Problem Is the World's, Too",
