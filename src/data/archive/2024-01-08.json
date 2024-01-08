@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As goats on mountain crumble, yonder shin'd,\nIn early morn, the lustre of gold waned.\nA pallid dawn, to global growth confined,\nUpon base metals and prospects, it rained.\n\nA hound, robust, its price by shepherd pared,\nSo also drops oil's worth in market's view.\nArab Light, from desert kissed, is now snared,\nIts gleam in Asian eyes, a lesser hue.\n\nWarren's hare, it sprints, yet fails in its flight,\nDollar, though steady, mayhap might descend.\nUniCredit's snail tells of March's plight,\nInrates may cut, on this it might depend.",
+    "feedItems": [
+      {
+        "title": "Metals Slip as Risk Sentiment Wanes",
+        "description": "Base metals and gold prices were falling in early London trading as a limited growth outlook globally is expected to cap demand.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-after-u-s-payroll-data-u-s-cpi-in-focus-this-week-2484229c",
+        "id": "WP-WSJ-0001475373"
+      },
+      {
+        "title": "Oil Slips After Saudi Arabia's Price Cuts",
+        "description": "Oil prices were around 1% lower after Saudi Arabia slashed the price for its flagship Arab Light crude to Asian customers.",
+        "link": "https://www.wsj.com/articles/oil-slips-after-saudi-arabia-slashes-prices-of-asian-crude-exports-b356fb14",
+        "id": "WP-WSJ-0001475378"
+      },
+      {
+        "title": "Dollar Could Fall as Markets Still Believe Fed Might Cut Rates in March",
+        "description": "The dollar was steady, failing to benefit much from the stronger-than-expected U.S. jobs data, and looks at risk of falling as investors “remain confident” the Fed might cut interest rates in March, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-trade-in-narrow-range-this-week-cde787a9",
+        "id": "WP-WSJ-0001475375"
+      }
+    ],
+    "date": "2024-01-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands where coin and commerce meet as one,\nAn issuance of bonds, 'tis thus begun.\nThe sovereigns eleven, pledge fine trillion,\nNot a far cry from past, as told by Citi's billion.\n\nBeneath the heavens, Pandora's charm did glow,\nWith quarter fourth's strong sales, fortunes did grow. \nStronger than foretold, a rise of nine,\nIn the dance of trade, a charming sign.\n\nIn the heart of Europe, the Teuton's hold,\nFactories brim with hope, so we're told. \nYet growth was slight in November's bower,\nNot as bold as expected, rings the hour.",
+    "feedItems": [
+      {
+        "title": "Eurozone Gross Bond Supply in 2024 Seen in Line With 2023; Net Supply is Heavy",
+        "description": "Gross government bond supply by the eurozone’s largest 11 sovereign issuers is expected at €1.218 trillion in 2024, just €29 billion lower than that in 2023, Citi Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-gross-bond-supply-in-2024-seen-in-line-with-2023-net-supply-is-heavy-d8a95909",
+        "id": "WP-WSJ-0001475865"
+      },
+      {
+        "title": "Pandora Boosted by Strong Fourth-Quarter Sales",
+        "description": "Pandora said organic growth for the year was ahead of guidance after a robust fourth-quarter that included a 9% rise in like-for-like sales.",
+        "link": "https://www.wsj.com/articles/pandora-beats-guidance-on-robust-christmas-sales-growth-6a8d5b70",
+        "id": "WP-WSJ-0001475856"
+      },
+      {
+        "title": "Germany Factory Orders Rise Slightly",
+        "description": "German manufacturing orders recovered a little in November, although the 0.3% rise was much lower than forecast by economists.",
+        "link": "https://www.wsj.com/articles/germany-manufacturing-orders-rose-slightly-in-november-ea9f3b8b",
+        "id": "WP-WSJ-0001475845"
+      }
+    ],
+    "date": "2024-01-08"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Mighty Austin, heart of steel, in House of Healing does recline,\nA secret rite of body's mending, in the deepest winter's time,\nFrom the halls of potent war-deeds, swiftly did he disappear, \nBy the Fates' capricious hand, out of mortal view he's clear.\n\nGreat Congress stands in moonlit huddle, on the brink of frigid storm,\nA treasure vast they hath decreed, setting federal gold in form,\nYet tis unclear if swiftly shall these laws upon the land be cast,\nOr will government's mighty ship be bound, in ice of discord fast?\n\nIn the realm where Eagle soars, drop the deaths by cruel hand,\nAfter plague’s thunderous reign of two winters across the land,\nIn vast cities, once stained by strife, descends a calm, serene and grand,\nAnd ends a saga of dread and woe, by Norns' gently guiding hand.",
+    "feedItems": [
+      {
+        "title": "Defense Secretary Lloyd Austin remained in the hospital after he underwent an undisclosed elective procedure in late December and dropped from view within the department.",
+        "description": "Defense Secretary Lloyd Austin remained in the hospital after he underwent an undisclosed elective procedure in late December and dropped from view within the department.",
+        "link": "https://www.wsj.com/politics/national-security/defense-secretary-lloyd-austins-hospitalization-deepens-mystery-of-his-absence-c61775db",
+        "id": "843CF9D7-4FB9-49C0-B070-2A0649579E81"
+      },
+      {
+        "title": "Congressional leaders reached a bipartisan deal setting a roughly $1.6 trillion federal spending level for the year, but it remained unclear whether lawmakers would be able to quickly pass legislation averting a government shutdown.",
+        "description": "Congressional leaders reached a bipartisan deal setting a roughly $1.6 trillion federal spending level for the year, but it remained unclear whether lawmakers would be able to quickly pass legislation averting a government shutdown.",
+        "link": "https://www.wsj.com/politics/policy/congressional-negotiators-reach-agreement-on-1-6-trillion-government-spending-level-for-2024-c593a1b5",
+        "id": "35CCA6FD-0DB0-42F2-B652-0A1C8CC9455D"
+      },
+      {
+        "title": "Homicides in big U.S. cities fell in 2023 after skyrocketing during the first two years of the pandemic.",
+        "description": "Homicides in big U.S. cities fell in 2023 after skyrocketing during the first two years of the pandemic.",
+        "link": "https://www.wsj.com/us-news/homicide-rates-fell-sharply-in-2023-after-rising-during-pandemic-4f84207f",
+        "id": "A3CA6631-5306-49DD-9B90-D08C5C36130B"
+      }
+    ],
+    "date": "2024-01-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Through tunnel, 'neath the sandy land, \nThere lieth a devilish band.\nWith weapon stash, by Hamas hand, \nIn Gaza, on Egypt's strand. \n\nAn alehouse, with no brew to give,\nAs grounded planes no longer live.\nUnited, Alaska bereft of flight,\nLeave travelers in sorry plight.\n\nOn yonder hill, the senators stand,\nTheir chalice holds a law so grand,\n'Twill reinforce the border's band,\nMeet they, though, a strong reprimand.",
+    "feedItems": [
+      {
+        "title": "Israel and Egypt are negotiating the future of a corridor between Egypt and Gaza that Israel says has been used by Hamas to smuggle weapons and people through underground tunnels and is key to destroying the militant group.",
+        "description": "Israel and Egypt are negotiating the future of a corridor between Egypt and Gaza that Israel says has been used by Hamas to smuggle weapons and people through underground tunnels and is key to destroying the militant group.",
+        "link": "https://www.wsj.com/world/middle-east/israel-egypt-negotiate-over-key-corridor-along-gaza-border-b6b310c8",
+        "id": "1B8D2C55-9767-440D-BC03-5DAAB6EAC1AC"
+      },
+      {
+        "title": "Travelers faced heavy flight cancellations by United and Alaska airlines, one of the ripple effects from the grounding of the Boeing 737 MAX 9.",
+        "description": "Travelers faced heavy flight cancellations by United and Alaska airlines, one of the ripple effects from the grounding of the Boeing 737 MAX 9.",
+        "link": "https://www.wsj.com/lifestyle/travel/737-max-grounded-alaska-united-65093d58",
+        "id": "ECEAC401-D8C4-4F87-AE4B-EE31344673C0"
+      },
+      {
+        "title": "A group of bipartisan senators hopes to release its proposal to tighten U.S. border laws later this week, a top negotiator said, with any deal likely to face an uphill battle in Congress.",
+        "description": "A group of bipartisan senators hopes to release its proposal to tighten U.S. border laws later this week, a top negotiator said, with any deal likely to face an uphill battle in Congress.",
+        "link": "https://www.wsj.com/politics/policy/senate-group-edges-closer-to-proposal-aimed-at-securing-southern-border-f30e8fd6",
+        "id": "A147748D-6128-4E1D-A366-3B69DD5FA98D"
+      }
+    ],
+    "date": "2024-01-08"
+  }
+]
