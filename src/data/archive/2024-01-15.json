@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Verily in Guatemala, a tempest unfolds,\nA Sociologist, Arévalo, bathed in center-left gold.\nIn Congress, his foes attempt to cast the die-twist,\nAlas, they faltereth, in his rule we persist.\n\nIn Middle East realms, doth tension bloom,\nWhilst oil, oft nectar, hints at gloom.\nYe knights of commerce watch with wary sight,\nAs U.S. attacks Houthi might, 'fore night.\n\nLo! See, dear brethren, the gleaming Gold rise,\nV-shaped it rockets 'midst the azure skies.\nThe parchment of trade shines with bullish sign,\nIn Gold's ascendancy, our fates entwined.",
+    "feedItems": [
+      {
+        "title": "Center-Left Sociologist Takes Office as Guatemala's President",
+        "description": "Bernardo Arévalo took office in a turbulent session of Congress where political opponents had made a last-ditch attempt to sabotage his inauguration.",
+        "link": "https://www.wsj.com/articles/leftist-sociologist-to-take-office-as-guatemalas-new-president-1a378380",
+        "id": "WP-WSJ-0001492463"
+      },
+      {
+        "title": "Oil Edges Lower With Focus on Middle East Tensions",
+        "description": "Oil prices edged lower after rising earlier in the session with investors keeping a close eye on the Middle East following U.S.-led attacks against Houthi targets in Yemen.",
+        "link": "https://www.wsj.com/articles/oil-falls-in-likely-technical-correction-f21a8188",
+        "id": "WP-WSJ-0001493103"
+      },
+      {
+        "title": "Gold May Undergo Bullish Breakout, Charts Show",
+        "description": "Gold may undergo a breakout, based on technical charts, after it staged a V-shaped reversal in last week’s latter half at the lower boundary of its medium-term ascending channel in place since early October, together with a bullish momentum condition signaled by the daily relative strength index’s momentum indicator.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-in-likely-technical-correction-7208e173",
+        "id": "WP-WSJ-0001493110"
+      }
+    ],
+    "date": "2024-01-15"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In thine realm where the coins do speak,  \nThe dollar stands strong, no hint of weak.  \nIn the range 'twixt score of two and three, it'll peak,  \nReaped rewards from Middle East, in tongues that squeak.\n\nOh, to Taiwan, a partner lost in diplomatic dalliance,  \nNauru's heart hath found elsewhere its balance,  \nFrom Taipei to Beijing, a seismic shift in allegiance,  \nA whisper on the wind, of political grievance.\n\nIn the Eurozone, the spin of fortune's wheel,  \nBonds and syndications e'er casting the deal.  \nFrom recent hefty bounty of four ten and one,  \nIn yon near term, the merriment may be done.",
+    "feedItems": [
+      {
+        "title": "Dollar Is Expected to Stay in Tight Range This Week",
+        "description": "The dollar is likely to stay in a tight range this week, keeping the DXY index in the 102-103 region, ING said, but it could benefit due to Middle East tensions and concerns about China-Taiwan relations after Taiwan’s elections.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-amid-subdued-u-s-holiday-trading-257794ef",
+        "id": "WP-WSJ-0001493097"
+      },
+      {
+        "title": "Taiwan Loses Another Diplomatic Partner in Wake of Presidential Vote",
+        "description": "Tiny island nation of Nauru says it is switching recognition from Taipei to Beijing.",
+        "link": "https://www.wsj.com/articles/taiwan-says-it-will-sever-diplomatic-relations-with-nauru-405aef34",
+        "id": "WP-WSJ-0001493534"
+      },
+      {
+        "title": "Eurozone Bond Syndications Might Slow Down Near Term",
+        "description": "The eurozone government bond syndications pipeline should start thinning out after last week’s whopping volume of €41 billion, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-syndications-might-slow-down-near-term-5a87568d",
+        "id": "WP-WSJ-0001493579"
+      }
+    ],
+    "date": "2024-01-15"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the north, where cold streams do flow,\nSells Thomson a golden crow,\nPagero its name, in Swedish glow,\nThe control near complete, the seeds do sow.\n\nIn far-off Taiwan, a victory to celebrate,\nA test for the ties of two states,\nBiden with Xi debates their fate,\nPressure mounts on diplomatic plate.\n\nThe Boeing cradle, once flying high,\nNow faces a reluctant buyer's eye,\nPlains for China, under scrutiny lie,\nAs safety doubts, to the heavens cry.",
+    "feedItems": [
+      {
+        "title": "Thomson Reuters Buys Majority Stake in Pagero",
+        "description": "Thomson Reuters has bought a majority stake in the Pagero Group, taking it closer toward full control of the Swedish e-invoicing provider.",
+        "link": "https://www.wsj.com/articles/thomson-reuters-buys-majority-stake-in-pagero-666abc3d",
+        "id": "WP-WSJ-0001493551"
+      },
+      {
+        "title": "Taiwan Election Piles Pressure on Delicate U.S.-China Ties",
+        "description": "The victory by Lai Ching-te, seen by China as a dangerous separatist, will test efforts by President Biden and Xi Jinping to steady relations.",
+        "link": "https://www.wsj.com/articles/taiwan-election-piles-pressure-on-delicate-u-s-china-ties-ec0701f7",
+        "id": "WP-WSJ-0001492596"
+      },
+      {
+        "title": "Boeing's Pile of Problems Gets Bigger as a Crucial Buyer Hesitates",
+        "description": "More safety checks are being planned on the undelivered planes to China following the Alaska Airlines blowout.",
+        "link": "https://www.wsj.com/articles/boeing-faces-longer-wait-to-resume-max-deliveries-in-china-9277f534",
+        "id": "WP-WSJ-0001492325"
+      }
+    ],
+    "date": "2024-01-15"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm where gold and silver hold sway,\nOil drillers and lore makers have their say.\nFrom the wells of liquid fire, to the art of the silicon séance,\nWarding off the frost of need, without the specter of redundancy's dance.\n\nHail to the rite of the rooster's call in Iowa's hallowed bowers,\nWhere votes are cast like runes, divining future hours.\nThe titans of the scarlet fold gather in the heartland's pall,\nTo see who shall rise, the mightiest of all.\n\nIn the land of the sacred flame, where David held the helm,\nA war with the falcon-crest tribe does the peace overwhelm.\nPressure as dire as the sea-wolf's maw, on Netanyahu's reign amass,\nWhilst Gaza, like a storm-battered skiff, endures the tempest's crass.",
+    "feedItems": [
+      {
+        "title": "The Businesses That Rescued America From Inflation, Recession, Lost Jobs",
+        "description": "From oil drillers to chip makers, businesses responded to soaring prices by boosting supply, which cooled inflation without a recession or high unemployment.",
+        "link": "https://www.wsj.com/articles/businesses-defeated-inflation-recession-049cceed",
+        "id": "WP-WSJ-0001491388"
+      },
+      {
+        "title": "What to Know About the Iowa GOP Presidential Caucuses",
+        "description": "The gathering will determine which Republican wins the first state on the 2024 primary election calendar.",
+        "link": "https://www.wsj.com/articles/iowa-gop-2024-presidential-election-caucuses-2cc7f139",
+        "id": "WP-WSJ-0001466612"
+      },
+      {
+        "title": "Israel Pushes Ahead With War Against Hamas Despite Growing Pressure Over Hostages",
+        "description": "International pressure on Netanyahu mounts as the humanitarian crisis in Gaza deepens.",
+        "link": "https://www.wsj.com/articles/israel-pushes-ahead-with-war-against-hamas-despite-growing-pressure-over-hostages-674077c5",
+        "id": "WP-WSJ-0001492433"
+      }
+    ],
+    "date": "2024-01-15"
+  }
+]
