@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Black gold dips 'neath worry's crest, \nAs lands of sun and snow contest.\nThe goat in field, her meal is less,\nSo mirrors oil's uncertain rest.\n\nIn farthest east where dragons sleep,\nThe hare is startled, makes her leap.\nShared treasures sink in market’s sweep,\nStand we at a chasm deep.\n\nA hound and snail in partnership,\nTheir worth in shiny coin’s firm grip.\nThe gambler's dancer takes a dip,\nAs Fate and Fortuna slip.",
+    "feedItems": [
+      {
+        "title": "Oil Falls Despite Geopolitical Tensions",
+        "description": "Oil prices traded 0.5% lower in Europe as concerns over the macroeconomic outlook and global oil demand offset the impact of geopolitical tensions in Russia and the Middle East.",
+        "link": "https://www.wsj.com/articles/oil-falls-amid-demand-concerns-bff11902",
+        "id": "WP-WSJ-0001509554"
+      },
+      {
+        "title": "Hong Kong Shares Drop 2.3%; Hang Seng Properties Index at 15-Year Low",
+        "description": "The Hang Seng fell 2.3%, dragged by property, consumer-product and technology stocks, with the Hang Seng Properties Index closing at its lowest since March 2009.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-after-s-p-500-hit-record-high-boj-in-focus-70a2ef3e",
+        "id": "WP-WSJ-0001509537"
+      },
+      {
+        "title": "FDJ Agrees to $2.7 Billion Deal for Kindred Group",
+        "description": "The deal would create one of Europe’s biggest online gambling companies.",
+        "link": "https://www.wsj.com/articles/fdj-nears-roughly-2-5-billion-deal-for-kindred-group-fc49d56b",
+        "id": "WP-WSJ-0001509228"
+      }
+    ],
+    "date": "2024-01-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Alas, foreseen hath yon vigilant bard,  \nThe cutting of rates by th' Fed's mighty card,  \nSure to set upon our precious dollar a scar,  \nWhether cut be deep or swift, or eased afar.  \n\nHark, 'tis Citi who weaves a hopeful tale,  \nSees room for BTP-Bund spread to inhale,  \nUnless truth of fundamentals break the veil,  \nOr surprises that carry a downside hail.  \n\nSony in the East seems in a dreary plight,  \nTheir merging voyage with Zee takes no flight,  \nThe conditions unmet, extinguish all light,  \nNow they abandon this union's antic gight.",
+    "feedItems": [
+      {
+        "title": "U.S. Rate Cuts Will Be Negative for Dollar",
+        "description": "Standard Chartered said sharp interest-rate cuts by the Fed would be negative for the dollar, but the currency could also fall on moderate easing.",
+        "link": "https://www.wsj.com/articles/asia-currencies-mixed-may-weaken-on-fading-fed-rate-cut-prospects-5692bc37",
+        "id": "WP-WSJ-0001509552"
+      },
+      {
+        "title": "Ten-Year BTP-Bund Spread Has Scope to Narrow, Says Citi Research",
+        "description": "Citi Research is turning more positive on Italian government bond spreads, expecting the 10-year BTP-Bund spread to continue to tighten toward 140-150 basis points, unless fundamentals are brought into play by any downside data surprises.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-issues-see-strong-demand-but-caution-is-wise-c22a5808",
+        "id": "WP-WSJ-0001509908"
+      },
+      {
+        "title": "Sony Group to Ax Merger Between India Unit and Zee Entertainment",
+        "description": "Sony Group is terminating the planned merger of its Indian unit and Mumbai-based media company Zee Entertainment Enterprises after certain conditions went unmet.",
+        "link": "https://www.wsj.com/articles/sony-group-to-ax-merger-between-india-unit-and-zee-entertainment-7c3688a1",
+        "id": "WP-WSJ-0001509889"
+      }
+    ],
+    "date": "2024-01-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Orient's land, a force doth rise,\nWith secret schemes, 'neath shadowed guise;\nIt tests yon missiles, many a score,\nTo threaten Taiwan's peaceful shore.\n\nLike unto Exxon, proud and grand,\nWho bars the green, with sue-hands' band;\nCurbing the vapours, they resist,\nWhilst customer's emissions persist.\n\nFrom bond market, now Citigroup departs,\nA quarter-century ends, in scattered parts;\nOf local debt, no trade remains,\nSilent, the marketplace thus wanes.",
+    "feedItems": [
+      {
+        "title": "A Secretive Chinese Force Is Becoming the U.S. Military's Biggest Challenge",
+        "description": "A secretive Chinese military unit has tested hundreds of missiles and developed weapons capable of evading U.S. defenses. China’s Rocket Force has built one of the largest missile forces in the world, in preparation for a possible invasion of Taiwan.",
+        "link": "https://www.wsj.com/articles/a-secretive-chinese-force-is-becoming-the-u-s-militarys-biggest-challenge-7e92be73",
+        "id": "SB10448993630284123397704590473240166359122"
+      },
+      {
+        "title": "Exxon sued two sustainable-investment firms in a bid to block them from putting forward a shareholder proposal that would commit the oil company to further curb its greenhouse-gas emissions and target its customers' emissions.",
+        "description": "Exxon sued two sustainable-investment firms in a bid to block them from putting forward a shareholder proposal that would commit the oil company to further curb its greenhouse-gas emissions and target its customers’ emissions.",
+        "link": "https://www.wsj.com/business/energy-oil/exxon-sues-two-esg-investors-2057e696",
+        "id": "9720374C-15FC-4172-84C2-6AF804800F3A"
+      },
+      {
+        "title": "Citigroup is exiting the $4 trillion municipal-bond market early this year after a quarter-century as a top trader of U.S. state and local government debt.",
+        "description": "Citigroup is exiting the $4 trillion municipal-bond market early this year after a quarter-century as a top trader of U.S. state and local government debt.",
+        "link": "https://www.wsj.com/finance/citigroup-municipal-bond-city-impacts-1f2e3e38",
+        "id": "38240286-DC7A-423E-A1AC-4B9E53EC6356"
+      }
+    ],
+    "date": "2024-01-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm of the West, where commerce doth flame,\nTarget, Nike, and REI, of retail fame.\nThey spake their woe to city lords, for crime's relentless tide,\nAnnouncing thus their feasting halls in year of twenty-three, shall no longer abide.\n\nIn the land of Macy's, where goods doth overflow,\nAn investor, with a chest full of gold, bid for its bow.\nYet, met with scorn, the offer did fail,\nHe threatened to take the struggle to shareholders, in the weft of this tale.\n\nOn wings of Alaskan Air, discomfort did unfurl,\nA door bound by plugs, into chaos was hurled.\nBoeing, once admired like Thor, now dreads the morrow,\nForeseeing a year of scrutiny, and output soaked in sorrow.",
+    "feedItems": [
+      {
+        "title": "Target, Nike, and REI all complained to city officials about crime in Portland, Ore., and sought help before announcing plans to close stores in the city in 2023, email correspondence viewed by The Wall Street Journal shows.",
+        "description": "Target, Nike, and REI all complained to city officials about crime in Portland, Ore., and sought help before announcing plans to close stores in the city in 2023, email correspondence viewed by The Wall Street Journal shows.",
+        "link": "https://www.wsj.com/business/retail/portland-oregon-retailers-rei-nike-target-fd4dd063",
+        "id": "1A055C8B-C657-4522-A4BE-F393B6C7A64E"
+      },
+      {
+        "title": "An investor that lodged a $5.8 billion bid to acquire Macy's threatened to bring the matter to shareholders as the famed department-store chain said it had rejected the offer.",
+        "description": "An investor that lodged a $5.8 billion bid to acquire Macy’s threatened to bring the matter to shareholders as the famed department-store chain said it had rejected the offer.",
+        "link": "https://www.wsj.com/business/deals/investor-threatens-to-take-macys-offer-to-shareholders-3b6e054b",
+        "id": "725F00EC-7DFB-4961-BE54-B3FF03637388"
+      },
+      {
+        "title": "After a door-plug blowout on an Alaska Airlines flight, Boeing faces new concerns that added inspections and regulatory scrutiny will sap its output this year.",
+        "description": "After a door-plug blowout on an Alaska Airlines flight, Boeing faces new concerns that added inspections and regulatory scrutiny will sap its output this year.",
+        "link": "https://www.wsj.com/business/airlines/boeing-snafus-add-new-risks-to-2024-production-goals-de3a6b4c",
+        "id": "3F1F4798-5CD7-4739-9AAD-E0344D9F925D"
+      }
+    ],
+    "date": "2024-01-22"
+  }
+]
