@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Farewell, land of the Tsar and sable,\nPolymetal endeth its tale,\nTo Kazakhstan, a table more stable,\nEncumbered less by risk and travail.\n\nAcross Europe, there's a specter in the vine,\nInsuring junk bonds against the fickle fates.\nA trifle too strong, the economic sign,\nLeaveth sober minds in piteous states.\n\nA warning to Rafah from Zion's peak,\nIsrael's patience wanes in weeks.\n'Tis a game of power they seek,\nA contentious brew that tension leaks.",
+    "feedItems": [
+      {
+        "title": "Polymetal Agrees to Sell Russian Assets",
+        "description": "Polymetal said it was selling its Russian business for $3.7 billion and intended to refocus its operations in Kazakhstan.",
+        "link": "https://www.wsj.com/articles/polymetal-international-to-sell-russian-business-for-3-69-bln-eda2076e",
+        "id": "WP-WSJ-0001577958"
+      },
+      {
+        "title": "Cost of Insuring European Junk Bonds Against Default Rises",
+        "description": "The cost of insuring European junk bonds against default climbed on rising uncertainty about the path of central banks’ rate decisions after last week’s stronger-than-expected economic data.",
+        "link": "https://www.wsj.com/articles/jgb-10-year-yields-likely-to-move-in-0-71-0-76-range-this-week-34f32216",
+        "id": "WP-WSJ-0001577823"
+      },
+      {
+        "title": "Israel Sets Deadline for Rafah Ground Offensive Within Weeks",
+        "description": "Israel provided its first timeline for looming operations in the southern Gaza city that have become a source of tension with the U.S.",
+        "link": "https://www.wsj.com/articles/israel-sets-deadline-for-rafah-ground-offensive-within-weeks-0d5d0818",
+        "id": "WP-WSJ-0001578132"
+      }
+    ],
+    "date": "2024-02-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the steppes of Russian cast, where frost and heart do duel,\nA humble name, Navalny lays, his wisdom there his tool.\nIn the underdog lies change's seed, Putin's reign be questioned,\nExtinguished flames, their light fades not, in souls remain, they're etched in.\n\nIn iron steeds of self-command, the scribes see much allure,\nAudi, Volvo, BMW, a future they assure.\nAn office borne on tire and steel, work’s confines redefine,\nThe quill can dance in moving chariots, in every place and time.\n\nThe Tiger of the sprawling greens, his magic does unfold,\nA glimpse of might, the future's script yet remains untold.\nHis comeback short, yet radiant, with old and new aligning,\nIn the echoes of his stunning swing, his saga keeps defining.",
+    "feedItems": [
+      {
+        "title": "In Russia's Far-Flung Cities, Navalny Inspired Average People to Challenge Putin",
+        "description": "Alexei Navalny taught a generation of young activists to push for change, starting at the local level. That movement has steadily been extinguished.",
+        "link": "https://www.wsj.com/articles/in-russias-far-flung-cities-navalny-inspired-average-people-to-challenge-putin-654ec495",
+        "id": "WP-WSJ-0001577212"
+      },
+      {
+        "title": "Self-Driving Cars Might Just Transform the Way We Work",
+        "description": "BMW, Audi, Volvo and others are coming up with ideas for making the car function as your office when you no longer have to drive it.",
+        "link": "https://www.wsj.com/articles/self-driving-concept-cars-office-bmw-audi-volvo-2577ebd8",
+        "id": "WP-WSJ-0001545335"
+      },
+      {
+        "title": "Tiger Woods Offers a Glimpse of What's Next",
+        "description": "The 15-time major winner’s latest, abbreviated comeback showcased his limitations—and offered a flash of the old magic that still remains.",
+        "link": "https://www.wsj.com/articles/tiger-woods-next-tournament-2024-cc1179a7",
+        "id": "WP-WSJ-0001577768"
+      }
+    ],
+    "date": "2024-02-19"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The goat in market's busy day,\nNvidia and Walmart, their might display,\nHome Depot joins the varied fray,\nAs stocks, their future's rise portray.\n\nA hound, in Congress' hall tied fast,\nLaws of immigration, hard to recast,\nTheir elusive passage, a daunting task,\nEver in political shadows cast.\n\nRabbit slow, on FTSE's plain,\nWith no data to sate, the market's reign,\nYet, 'fore the week ends, rise again,\nNvidia's results, will change the strain.",
+    "feedItems": [
+      {
+        "title": "Stock Futures Rise Ahead of Busy Earnings Week",
+        "description": "Bellwether companies including Nvidia, Walmart and Home Depot are due to report results.",
+        "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-02-19-2024-14463959",
+        "id": "WP-WSJ-0001578122"
+      },
+      {
+        "title": "Watch: Why Immigration Legislation Is Next to Impossible to Pass in Congress",
+        "description": "",
+        "link": "https://www.wsj.com/articles/why-americans-are-so-down-on-a-strong-economy-4a9c603b",
+        "id": "SB11389193064162334680104590506311397355190"
+      },
+      {
+        "title": "FTSE 100 Trades Flat in Absence of Market-Moving Data",
+        "description": "The FTSE 100 traded flat in the absence of big corporate or economic data releases, but the sluggish start is expected to change “later in the week when the minutes of the latest Fed meeting are released and the AI stock Nvidia unveils its latest quarterly results”, AJ Bell said.",
+        "link": "https://www.wsj.com/articles/nikkei-may-fall-tracking-wall-streets-losses-af52242c",
+        "id": "WP-WSJ-0001577571"
+      }
+    ],
+    "date": "2024-02-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "The Platinum giant doth falter, its riches clasp no more,\nProfits ebb like the tide, leaving empty, the shore.\nThree thousand souls and seven hundred more, pay the cost in sorrow's store,\nThe ghost of uncertain future, through their halls, does roar.\n\nOzempic, the serpent of weight's despair, slithers through the eager land,\nFeeding the mass who the Husstave of Obesity, in their bellies bland.\nYet, a storm doth brew, a tempest of regulation, needs take a stand,\nFor the grey market thrives, unchecked, by the regulatory hand.\n\nIn the west, the oil-fires burn, lighting the darkened peak,\nTheir flames, a beacon to the world, a power none dare critique.\nYet, oceans of black gold dwindle, their bounty turning meek,\nAs the once roaring geyser, into a whispered creek.",
+    "feedItems": [
+      {
+        "title": "Amplats Plans Job Cuts as Profits Tumble",
+        "description": "Anglo American Platinum said it could cut around 3,700 jobs in a restructuring as it grapples with lower prices, rising costs and an uncertain outlook.",
+        "link": "https://www.wsj.com/articles/anglo-american-platinum-restructuring-could-affect-around-4-300-jobs-d14fedde",
+        "id": "WP-WSJ-0001577970"
+      },
+      {
+        "title": "Ozempic Is Taking Off With the World's Largest Obese Population",
+        "description": "A growing gray market for the weight-loss treatment is posing a regulatory conundrum in a country with a serious obesity problem. (Hint: It isn’t the U.S.)",
+        "link": "https://www.wsj.com/articles/ozempic-is-taking-off-with-the-worlds-largest-obese-population-hint-it-isnt-the-u-s-a7c2498c",
+        "id": "WP-WSJ-0001550898"
+      },
+      {
+        "title": "America's Oil Power Might Be Near Its Peak",
+        "description": "Gushers of new U.S. crude have helped cap soaring oil prices despite OPEC production cuts and global turmoil, but that growth is expected to slow dramatically this year.",
+        "link": "https://www.wsj.com/articles/americas-oil-power-might-be-near-its-peak-5d956a24",
+        "id": "WP-WSJ-0001565431"
+      }
+    ],
+    "date": "2024-02-19"
+  }
+]
