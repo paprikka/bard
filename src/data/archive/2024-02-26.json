@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Now listen well, oh kin of ancient seas,\nAs oil's reign unravels like a frail thread.\nIts price declines, both demand and strength cease,\nSupply arises, glory days are shed.\n\nFear grips the heart of proud Euro, at ease\nIn times of plenty, now by doubt is led.\nBarclays proclaims the risk of further squeeze,\nThe gap 'twixt market pricing fills with dread.\n\nTo the heartland our attention now shifts,\nIn German halls, a prophecy appears.\nThe ten-year yield, a vessel set adrift,\nTo sail 'twixt two percent harbors, it steers.\nDanske Bank's skalds sing of stationary lift,\nA close year's end their crystal ball clears.",
+    "feedItems": [
+      {
+        "title": "Oil Prices Fall as Demand Slows, Supply Rises",
+        "description": "Oil prices fell, extending the sell-off seen at the end of the last week amid slowing demand and rising ex-OPEC supply.",
+        "link": "https://www.wsj.com/articles/oil-futures-decline-amid-mixed-developments-09e42f21",
+        "id": "WP-WSJ-0001591559"
+      },
+      {
+        "title": "Euro Looks Vulnerable, Could Weaken Further",
+        "description": "The current gap of around 15 basis points between the market’s pricing of interest-rate cuts by the ECB and the Fed still looks low, which leaves the euro at risk of weakening further, Barclays Research said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-weaken-as-risk-appetite-falters-2c12f4d0",
+        "id": "WP-WSJ-0001591561"
+      },
+      {
+        "title": "German 10-Year Bund Yield Expected to Stay in Narrow Range This Year",
+        "description": "Danske Bank Research said it expects 10-year German Bund yields to continue to trade in the 2.25%-2.45% range this year, ending at close to 2.35%.",
+        "link": "https://www.wsj.com/articles/jgbs-rise-tracking-gains-in-treasurys-b7baa31e",
+        "id": "WP-WSJ-0001591685"
+      }
+    ],
+    "date": "2024-02-26"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon crosswords' puzzling expanse so sly,\nUnder the gloaming of a cold grey sky.\nA game of wit, and words entwine,\nSolving riddles against the sands of time.\n\nAh, the dishonour in SpaceX's dance,\nWithholding service, a forbidden romance.\nIn Taiwan's sky, no satellite does appear,\nA Britannic betrayal, the people unsheath their fear.\n\nAT&T, in nobility, offers a jesters' cheer,\nBilling credit for the ones who hold dear.\nA network disrupted, yet a silent cry,\nAn outage of service under the watchful sky.",
+    "feedItems": [
+      {
+        "title": "Creature Comfort (Monday Crossword, February 26)",
+        "description": "",
+        "link": "https://www.wsj.com/articles/creature-comfort-monday-crossword-february-26-0c17e656",
+        "id": "WP-WSJ-0001589747"
+      },
+      {
+        "title": "Rep. Mike Gallagher of Wisconsin suggested that SpaceX is withholding satellite service in Taiwan, potentially in violation of its obligations to the U.S. government.",
+        "description": "Rep. Mike Gallagher of Wisconsin suggested that SpaceX is withholding satellite service in Taiwan, potentially in violation of its obligations to the U.S. government.",
+        "link": "https://www.wsj.com/tech/spacex-may-be-withholding-satellite-internet-in-taiwan-congressman-contends-8b58504c",
+        "id": "D886E2D6-B0C0-4095-AF61-A159139BB837"
+      },
+      {
+        "title": "AT&T said it would offer a billing credit to customers affected by last week's network outage that knocked out service to subscribers nationwide.",
+        "description": "AT&T said it would offer a billing credit to customers affected by last week’s network outage that knocked out service to subscribers nationwide.",
+        "link": "https://www.wsj.com/business/telecom/at-t-to-reimburse-customers-struck-by-outage-73d82f2e",
+        "id": "F978A3A1-CE39-4327-BD06-29A197162B5D"
+      }
+    ],
+    "date": "2024-02-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the lands of Yemen, where the red sea ebbs,\nEighteen strikes from the west rain on snails' heads.\nAn echo of struggle, 'gainst Houthi lends,\nAnd the goat of Iran, its fire, it spreads.\n\nMother retrieves the body of bay,\nOnce leader of opposition, now clay,\nAs a rabbit bereft, in prison he lay,\nIn a tumult, they argue his final way.\n\nRefusal doth Netanyahu speak in tune,\nTill Hamas, like a hound, howls at the moon.\nIn the gaza strip, under a harsh noon, \nContinuity in conflict, a bitter boon.",
+    "feedItems": [
+      {
+        "title": "The U.S. and the U.K. struck 18 Houthi targets    in Yemen, part of a continuing effort to fight back against the Iran-backed group that has continued to attack ships in the Red Sea.",
+        "description": "The U.S. and the U.K. struck 18 Houthi targets in Yemen, part of a continuing effort to fight back against the Iran-backed group that has continued to attack ships in the Red Sea.",
+        "link": "https://www.wsj.com/world/middle-east/u-s-conducts-more-strikes-against-houthi-targets-in-yemen-42e654c8",
+        "id": "587607A8-B62E-4B07-B943-1FBA67F2EFDB"
+      },
+      {
+        "title": "Russia authorities have handed over Navalny's body to his mother, his team said, after days of wrangling over who should oversee the burial of the opposition leader's remains after his death in a prison camp.",
+        "description": "Russia authorities have handed over Navalny’s body to his mother, his team said, after days of wrangling over who should oversee the burial of the opposition leader’s remains after his death in a prison camp.",
+        "link": "https://www.wsj.com/world/russia/russia-hands-over-alexei-navalnys-body-to-his-mother-e0491b88",
+        "id": "9B82163A-118C-4965-B0B9-699812C2BB35"
+      },
+      {
+        "title": "Netanyahu said he won't agree to a deal to free the remaining hostages held in Gaza until Hamas backs down from its demands, and that Israel will press ahead with more military action in the strip.",
+        "description": "Netanyahu said he won’t agree to a deal to free the remaining hostages held in Gaza until Hamas backs down from its demands, and that Israel will press ahead with more military action in the strip.",
+        "link": "https://www.wsj.com/world/middle-east/israeli-police-clash-with-protesters-calling-for-early-elections-e7ae5a8d",
+        "id": "74BD5DDF-A948-4822-BC43-7E0A3EF9999D"
+      }
+    ],
+    "date": "2024-02-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the land of Ukraine, a bitter froth hath formed, \nFrom Russia's tap it flows, many a life it's stormed.\nYet, aid might come, heralded by Congress' morn,\n31,000 sacrificed, in their hearts, futures unborn.\n\nThe court 'bove all, shall judge a knightly fight,\n'Tween speech unbound and giants of pixelated might.\nIn Texas and in Florida, they brace for legislative night,\nOn the internet, some find their voice, others lose their right.\n\nIn Carolina's fertile grove, rose a victor stout,\nTrump o’er Haley, by twenty points, did rout.\nHis hold, like the tavern's ale, hath potent clout,\nYet a leader against him, nowhere springs out.",
+    "feedItems": [
+      {
+        "title": "Around 31,000 Ukrainian soldiers have been killed since Russia invaded two years ago, Zelensky said, highlighting the scale of Ukraine's sacrifice ahead of a decisive vote in Congress on military aid to Kyiv.",
+        "description": "Around 31,000 Ukrainian soldiers have been killed since Russia invaded two years ago, Zelensky said, highlighting the scale of Ukraine’s sacrifice ahead of a decisive vote in Congress on military aid to Kyiv.",
+        "link": "https://www.wsj.com/world/europe/zelensky-says-31-000-ukrainian-troops-killed-in-two-years-of-war-426a99c2",
+        "id": "915EC7C2-5885-4973-B71E-8484706E717D"
+      },
+      {
+        "title": "The Supreme Court this week will confront a clash of views about free-speech protections on the internet in cases pitting social-media giants against Texas and Florida.",
+        "description": "The Supreme Court this week will confront a clash of views about free-speech protections on the internet in cases pitting social-media giants against Texas and Florida.",
+        "link": "https://www.wsj.com/us-news/law/first-amendment-fight-pits-red-states-against-big-tech-at-supreme-court-759f20cf",
+        "id": "C822FEBA-93FA-4B57-AB9E-5BBACAD791C9"
+      },
+      {
+        "title": "Trump's 20-point victory over Haley in South Carolina's Republican primary shows the powerful hold the former president has over his party's voters and the inability of any GOP leader to rally support against him.",
+        "description": "Trump’s 20-point victory over Haley in South Carolina’s Republican primary shows the powerful hold the former president has over his party’s voters and the inability of any GOP leader to rally support against him.",
+        "link": "https://www.wsj.com/politics/elections/trump-tightens-hold-on-gop-crowding-out-even-popular-rivals-93810b3a",
+        "id": "A50F2C32-C6BF-48AE-8A92-9ABF9F8962AE"
+      }
+    ],
+    "date": "2024-02-26"
+  }
+]
