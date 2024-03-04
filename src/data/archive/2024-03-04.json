@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon morn, the FTSE does bow and bend,\nGuided by caution, towards a lower end.\nSpring budget, ECB meet, 'n data of yore,\nThey shape its fate, of losses 'fore lore.\n\nBehold! Japan's Nikkei soars high and vast,\nFirst time it tips forty thousand, such contrast.\nJoyous thoughts for corporate earnings do bubble,\nIn the realm of intelligence, chip-stocks double.\n\nAlas, Evonik, thou faced a crumpled crest,\nAnnouncing cuts to workforce, a troubling jest.\nWith eyes roving till twenty twenty-six, vault doth leak,\nSeeking refuge in savings, as prospects seem bleak.",
+    "feedItems": [
+      {
+        "title": "FTSE 100 Falls in Early Trade on Caution Ahead of Market-Moving Events",
+        "description": "The FTSE 100 opened around 0.3% lower on caution ahead of a busy week which includes the U.K. spring budget on Wednesday, Thursday’s ECB meeting and Friday’s U.S. non-farm payrolls data.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-edge-higher-at-open-f6de3c5f",
+        "id": "WP-WSJ-0001608555"
+      },
+      {
+        "title": "Japan's Nikkei Tops 40000 for First Time",
+        "description": "The climb was driven by greater corporate earnings and a surge in chip-related stocks, thanks to enthusiasm for beneficiaries of artificial intelligence.",
+        "link": "https://www.wsj.com/articles/nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-91362d35",
+        "id": "WP-WSJ-0001608715"
+      },
+      {
+        "title": "Evonik to Cut 6% of Workforce",
+        "description": "Evonik said it would cut up to 2,000 jobs by 2026, expecting cost reductions of around €400 million, after its fourth-quarter underlying earnings came in slightly below consensus forecasts.",
+        "link": "https://www.wsj.com/articles/evonik-to-cut-up-to-2-000-jobs-to-save-costs-after-posting-net-loss-c8bbf92a",
+        "id": "WP-WSJ-0001609046"
+      }
+    ],
+    "date": "2024-03-04"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In realms where iron flowers bloom,\nChinese hands bring naught but gloom,\nFor metals' worth in subtle slide,\nLies burdened 'neath a dragon's hide.\n\nOil, as hare, bounds up the knoll,\nOPEC's decree takes kindly toll.\nCuts in drops, they do extend,\nThrough quarter two, we may ascend.\n\nDollar, sturdy goat, poised for climb,\nEyes the morrow's morning chime.\nJobs data strong, may hoist its flight,\n'Fore summer's dawn brings interest's blight.",
+    "feedItems": [
+      {
+        "title": "Metal Prices Are Mixed as China Demand Stays Muted",
+        "description": "Base metals struggled higher, as data from China showed that weekly inventories for metals continued to rise last week as demand remained sluggish.",
+        "link": "https://www.wsj.com/articles/gold-steady-more-weak-data-needed-for-rally-to-extend-further-ddf36f9c",
+        "id": "WP-WSJ-0001608565"
+      },
+      {
+        "title": "Oil Rises After OPEC+ Extends Output Cuts",
+        "description": "Oil futures were firmer in early European trade after OPEC+ agreed to extend voluntary production cuts of 2.2 million barrels a day through the second quarter of the year.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-on-opec-s-extension-of-oil-output-reductions-da9eab85",
+        "id": "WP-WSJ-0001608561"
+      },
+      {
+        "title": "Dollar More Likely to Rise Ahead of Friday's U.S. Jobs Data",
+        "description": "The dollar is more likely to rise ahead of Friday’s non-farm payrolls data, which are still forecast to show solid jobs growth and to keep markets expecting that U.S. interest rates won’t be cut before the summer, ING said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-focus-on-chinas-npc-meeting-ff687074",
+        "id": "WP-WSJ-0001608559"
+      }
+    ],
+    "date": "2024-03-04"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Portuguese lands where the sea doth kiss the shore,\nThe cost of bonds they rise, a heralder of fiscal war.\nS&P's decree hath stirred the market's core,\nA- rating brings a heavier load to bear, 'tis lore.\n\nThen from the shores of Henkel, a siren's cry is raised,\nSales growth doth falter, investors left amazed.\nThe price of wares holds still, while foreign currencies are phased,\nA mighty tempest brews, and the market's brow is creased.\n\nFrom China, land of eastern dragons, a tale is spun,\nThe Premier's words silenced, as the \"Two Sessions\" run.\nA tradition broken as the setting sun,\nSilent Tyr's heavenly hall, the press conference undone.",
+    "feedItems": [
+      {
+        "title": "Portuguese Bond Yields Rise After S&P Upgrade",
+        "description": "Ten-year Portuguese government bond yields rose after S&P Global Ratings upgraded Portugal’s credit rating to A- from BBB+ with a stable outlook.",
+        "link": "https://www.wsj.com/articles/australian-bond-market-faces-risk-if-gdp-points-to-hard-landing-33fd0eb0",
+        "id": "WP-WSJ-0001608567"
+      },
+      {
+        "title": "Henkel Warns of Weaker Sales Growth",
+        "description": "Henkel forecast organic sales growth of 2%-4% this year, below 2023’s figure, with prices for materials expected to remain flat, while the translation of sales in foreign currencies should also weigh.",
+        "link": "https://www.wsj.com/articles/henkel-warns-of-slower-sales-growth-this-year-f7909b62",
+        "id": "WP-WSJ-0001609033"
+      },
+      {
+        "title": "China Cancels Premier's Post-NPC Press Conference in Break With Tradition",
+        "description": "China has canceled the press conference its premier holds at the conclusion of the annual “Two Sessions” meeting, ending a decadeslong tradition.",
+        "link": "https://www.wsj.com/articles/china-cancels-premiers-post-npc-press-conference-in-break-with-tradition-2cc55cd5",
+        "id": "WP-WSJ-0001609015"
+      }
+    ],
+    "date": "2024-03-04"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "On Wuxi's wines, traders were wont to choke,\nTheir goblets feared filled with U.S. sanction's smoke.\nYet, pleasantry now doth their worries soak,\nShares rise in Shanghai and Hong Kong bourse's yoke.\n\nLi Auto, once a dragon fierce and bold,\nNow finds its shares in wary hold.\nIts newest steed, not as golden as told,\nSends markets reeling, its wealth resold.\n\nIn merry jest, Nvidia's surge beguiles,\nLike hearty mead, it stirs up smiles.\nYet whispers speak of bubble's guiles,\nDubious is its wealth o'er the miles.",
+    "feedItems": [
+      {
+        "title": "Wuxi Companies' Shares Rise on Receding Worries About Potential U.S. Sanctions",
+        "description": "Shares of the Wuxi family of biotech and research companies listed both in Shanghai and Hong Kong rose sharply on receding worries about potential U.S. sanctions.",
+        "link": "https://www.wsj.com/articles/wuxi-companies-shares-rise-on-receding-worries-about-potential-u-s-sanctions-4b6f1129",
+        "id": "WP-WSJ-0001609008"
+      },
+      {
+        "title": "Li Auto Shares Fall After Recent Run-Up, MEGA Miss",
+        "description": "Analysts attributed the selloff to profit-taking after big gains last week and some consumer disappointment with the Chinese electric-vehicle maker’s newest model.",
+        "link": "https://www.wsj.com/articles/li-auto-shares-fall-after-recent-run-up-mega-miss-66cd9481",
+        "id": "WP-WSJ-0001608956"
+      },
+      {
+        "title": "Nvidia's Surge Stokes Talk of a Bubble",
+        "description": "The chip maker’s meteoric advance has helped push the stock market to record highs. It also has some on Wall Street saying the “B word.”",
+        "link": "https://www.wsj.com/articles/nvidia-stock-price-bubble-worries-73d7b8d1",
+        "id": "WP-WSJ-0001605150"
+      }
+    ],
+    "date": "2024-03-04"
+  }
+]
