@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of gleaming metals touched by sun, their worth still ascends,\nAs golden hue climbs yet again, on fall of U.S. blends.\nIn dearth or plenty, rich or poor, their truth remains unspoke,\nThe ebb and flow of metal's dance, in market's endless cloak.\n\nYoung Sullivan sails turbulent tides, in world cloaked by unrest, \nFrom Afghan plains to Kyiv's snow, he stands the ordeal's test,\nGaza's plight now weighs on his soul, his challenge most severe,\nFate weaves a tale of strife and war, the bard sings with sincere.\n\nOil ebbs and flows, as the seer's stories foretell,\nWith Chinese fire waning, a mixed report they sell.\nUncertainties in eagle's lands, of interest's timely cut,\nThe echoes of commerce, in our world's heart, robust.",
+    "feedItems": [
+      {
+        "title": "Metals Rise as Gold Continues to Climb After Record Week",
+        "description": "Base metals rose and gold climbed again on a fall in U.S. yields.",
+        "link": "https://www.wsj.com/articles/gold-rises-amid-bullish-sentiment-bf592d57",
+        "id": "WP-WSJ-0001625784"
+      },
+      {
+        "title": "Jake Sullivan Navigates a World of Chaos",
+        "description": "From weighing resigning over Afghanistan, to helping save Kyiv, President Biden’s national security adviser now faces his toughest test over Gaza.",
+        "link": "https://www.wsj.com/articles/jake-sullivan-navigates-a-world-of-chaos-54d9d280",
+        "id": "WP-WSJ-0001625638"
+      },
+      {
+        "title": "Oil Mixed on Chinese Demand Concerns, U.S. Rate Cut Uncertainties",
+        "description": "Oil prices hovered in early European trade on concerns over slowing demand in China and uncertainties around the timing of U.S. interest-rate cuts.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-weighed-by-worries-over-china-demand-51574c7b",
+        "id": "WP-WSJ-0001625786"
+      }
+    ],
+    "date": "2024-03-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Gather ye round and hear mine tale,\nOf the dollar, now weak and frail.\n'Twill rise or fall, as tides ebb and flow,\nOn Tuesday's morn, we all shall know.\n\nIn Portugal, where the sun doth shine,\nBonds do move in line so fine.\nGerman Bunds and debts of state,\nTurn rightward with the hand of fate.\n\nSaudi's oil, a liquid gold,\nTheir story in high halls is told.\nA heavier purse, a lighter keg,\nFrom the dividend, they do not beg.",
+    "feedItems": [
+      {
+        "title": "Tuesday's U.S. Inflation Data Could Halt Dollar's Decline",
+        "description": "U.S. inflation data on Tuesday could halt the dollar’s recent falls, ING said, as the currency started the week steady after a sharp decline on Friday following the jobs data.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-strengthen-as-treasury-yields-drop-b6ef617c",
+        "id": "WP-WSJ-0001625788"
+      },
+      {
+        "title": "Portuguese Bonds Move in Line With Bunds After Sunday's Election",
+        "description": "Portuguese government bonds moved in line with German Bunds early Monday after Sunday’s parliamentary election showing the country shifting to the right.",
+        "link": "https://www.wsj.com/articles/jgbs-fall-on-prospects-that-boj-may-abandon-ycc-policy-a12fd80f",
+        "id": "WP-WSJ-0001625790"
+      },
+      {
+        "title": "Saudi Aramco Hikes Dividend, Adjusts Spending",
+        "description": "Saudi Arabia’s national oil company raised its dividend payouts for last year after it achieved its second-highest ever net profit and said investment plans to 2028 would be reduced by an abandoned plan to boost production.",
+        "link": "https://www.wsj.com/articles/saudi-aramco-hikes-dividend-adjusts-spending-43236beb",
+        "id": "WP-WSJ-0001626138"
+      }
+    ],
+    "date": "2024-03-11"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Nikkei, our market mount, in auto tech is steep,\nServed cold by Bank of Japan, who riled the sheep.\nIn stocks it does retreat; for interest rates, we weep,\nLike goats on slippery slope, the drop is hard and deep.\n\nJust as the rabbit leaps, in sudden jolt and sway,\nSo did the CATL shares, on this surprising day.\nWith Xiaomi, BAIC's play, and Morgan's white array,\nLike snail with new-found wings, it chases gloom away.\n\nBut alas for Dongfeng, the snail now left behind,\nIn racing with the hares, no profit could it find.\nIts shares slump low in kind, to competition blind,\nA dog in crow’s dark nest, a fate most unkind.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 2.2%, Dragged by Tech, Auto Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in tech and auto stocks, as expectations persisted for the Bank of Japan’s possible shifts away from its ultralow interest-rate policy.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-pull-back-from-record-a1c86022",
+        "id": "WP-WSJ-0001625777"
+      },
+      {
+        "title": "CATL Shares Rise After JV News, Morgan Stanley Upgrade",
+        "description": "Contemporary Amperex Technology’s shares surged Monday on multiple drivers, including news of a collaboration with Chinese companies Xiaomi and BAIC Motor, as well as an upgrade by Morgan Stanley.",
+        "link": "https://www.wsj.com/articles/catl-shares-rise-after-jv-news-morgan-stanley-upgrade-41c03109",
+        "id": "WP-WSJ-0001626082"
+      },
+      {
+        "title": "Dongfeng Motor Shares Slump After Profit Warning",
+        "description": "Dongfeng Motor’s shares slumped after the Chinese automaker said it expects to swing to loss for 2023 amid intensifying competition.",
+        "link": "https://www.wsj.com/articles/dongfeng-motor-shares-slump-after-profit-warning-b1b8a57d",
+        "id": "WP-WSJ-0001626094"
+      }
+    ],
+    "date": "2024-03-11"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the market's vast hall, vast gains ascend,\nReaped not from mighty Tech alone, forthright,\nBut from broader ranks, their strength they lend,\nAs dawn chasing away the lonesome night.\n\nRevealed by moon, a game of power unfurls,\nTikTok, its fate now in the balance broods,\nWhether to witness ban or sale, twirls,\nIn the House's hallowed halls, this dispute intrudes.\n\nLo, Justice's icy gaze falls upon Boeing's kin,\nOn sturdy wings aloft, now bemoan a taint,\nAlaska's bright bird, caught in turmoil's din,\nThus penned, into this saga, is pained and plaint.",
+    "feedItems": [
+      {
+        "title": "It Isn't Just Big Tech Propelling Gains in the Stock Market Anymore",
+        "description": "A broader group of companies has fueled the recent climb to records.",
+        "link": "https://www.wsj.com/articles/it-isnt-just-big-tech-propelling-gains-in-the-stock-market-anymore-1b861482",
+        "id": "WP-WSJ-0001623293"
+      },
+      {
+        "title": "Legislation that would ban TikTok in the U.S. or force its sale is heading toward a vote in the House following months of behind-the-scenes efforts on Capitol Hill.",
+        "description": "Legislation that would ban TikTok in the U.S. or force its sale is heading toward a vote in the House following months of behind-the-scenes efforts on Capitol Hill.",
+        "link": "https://www.wsj.com/tech/why-the-new-effort-to-ban-tiktok-caught-fire-with-lawmakers-7cd3f980",
+        "id": "2ED1FFF4-E9B5-4992-AA68-B013E417AF9E"
+      },
+      {
+        "title": "The Justice Department opened a criminal investigation into the Boeing 737 MAX blowout on an Alaska Airlines flight, according to documents and people familiar with the matter.",
+        "description": "The Justice Department opened a criminal investigation into the Boeing 737 MAX blowout on an Alaska Airlines flight, according to documents and people familiar with the matter.",
+        "link": "https://www.wsj.com/business/airlines/justice-department-opens-probe-interviews-crew-in-alaska-airlines-blowout-d4cdfa6d",
+        "id": "A68880F7-5601-4E07-8B1B-CA6E233491E4"
+      }
+    ],
+    "date": "2024-03-11"
+  }
+]
