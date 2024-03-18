@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of gold and metal forged beneath the merlin's wing,\nAlas, such value doth in uncertainty swing.\nBefore the Fed's counsel, traders hold dread meeting,\nFor the cycle of value, time and tide are fleeting.\n\nThe black gold of land, a bounty that flows,\nBuilds strength from last week's gains, in silent throes.\nWhere merchants pray for guidance, their futures align,\nIn the hands of central councils, their fates intertwine.\n\nIn distant China, a stirring plight unfolds,\nJoblessness ascends, as the dragon's tale enfolds.\nThe third moon has witnessed its unwelcome mark,\nIn the economy's vessel, a problem stark.",
+    "feedItems": [
+      {
+        "title": "Metal Prices Fall on Concerns Ahead of Fed Meeting",
+        "description": "Gold and base metals were lower in Europe as concerns weighed about the timing of interest rate cuts ahead of Wednesday’s Fed meeting.",
+        "link": "https://www.wsj.com/articles/gold-steady-fomc-meeting-in-focus-this-week-bf721e54",
+        "id": "WP-WSJ-0001641932"
+      },
+      {
+        "title": "Oil Builds on Last Week's Gains; Investors Await Fed Guidance",
+        "description": "Oil prices continued to rise after hitting a four-month high last week, with investors turning their focus on a string of key central banks meetings this week.",
+        "link": "https://www.wsj.com/articles/oil-steady-brent-appears-range-bound-5611bb61",
+        "id": "WP-WSJ-0001641934"
+      },
+      {
+        "title": "China's Economy Has a New Problem: Its Job Market",
+        "description": "Joblessness rose for the third straight month, pointing to pockets of weakness in China’s economy.",
+        "link": "https://www.wsj.com/articles/china-unemployment-job-market-63dca8ad",
+        "id": "WP-WSJ-0001642204"
+      }
+    ],
+    "date": "2024-03-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In BOJ's counsel, yen seeks for signs,\nYet, it may not soar, MUFG defines.\nGone are rates in the negative zone,\nBut for yen's rise, no seeds are sown.\n\nBang & Olufsen, in markets, performs a dance,\nGuidance cut, in European lands, found no chance.\nFrom their venture, fruits they reap barely,\nIn China's realm, hope's flame flickers barely.\n\nBonds, like rabbits, in the market cower,\nCommerzbank speaks of a bearish hour.\nFrom central banks, guidance they seek,\nYet dismal notes might their week make bleak.",
+    "feedItems": [
+      {
+        "title": "Yen Could Need Signals From BOJ on Future Rate Rises to Gain Significantly",
+        "description": "MUFG said the BOJ’s meeting might not be a decisive turning point in boosting the yen even if the central bank ends negative interest rate policy and yield curve control.",
+        "link": "https://www.wsj.com/articles/jpy-mixed-as-bojs-two-day-meeting-kicks-off-4f0a8a20",
+        "id": "WP-WSJ-0001641924"
+      },
+      {
+        "title": "Bang & Olufsen Cuts Full-Year Guidance",
+        "description": "Bang & Olufsen warned that revenue and earnings for the fiscal year to May 31 would fall short of previous guidance due to a sluggish recovery in key European markets and the lack of a significant recovery in the Chinese economy.",
+        "link": "https://www.wsj.com/articles/bang-olufsen-cuts-guidance-on-sluggish-european-markets-slow-china-recovery-32cdfb61",
+        "id": "WP-WSJ-0001642439"
+      },
+      {
+        "title": "Bearish Tone Could Prevail in Bond Markets This Week",
+        "description": "Eurozone government bond yields were marginally lower but a bearish tone is expected this week in anticipation of central bank decisions, guidance and a busy supply schedule, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/some-jgbs-rise-as-bojs-two-day-meeting-kicks-off-a104eb0c",
+        "id": "WP-WSJ-0001641926"
+      }
+    ],
+    "date": "2024-03-18"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Troubles in realms both near and far,\nAir strikes into Afghanistan from Pakistan,\nA sinful feast for the carrion crow and tar,\nDriven by cross-border militants' plan.\n\nIn the land of the rising sun, stocks dost climb,\nLed by scribes of circuits and keepers of lands,\nThe yen doth yield, becoming but a lame mime,\nAwaiting the Bank of Japan's commanding hands.\n\nYet in fair Singapore, a tale of duress and cheer,\nExports of oil-less goods in February did decline,\nYet hope awakes, for recovery appears near,\nIn this tapestry of trade, a divine, enigmatic sign.",
+    "feedItems": [
+      {
+        "title": "Pakistan Carries Out Airstrikes Inside Afghanistan",
+        "description": "The bombardment followed attacks in Pakistan that the authorities blamed on militants based across the border.",
+        "link": "https://www.wsj.com/articles/pakistan-carries-out-airstrikes-inside-afghanistan-0e2011d1",
+        "id": "WP-WSJ-0001642411"
+      },
+      {
+        "title": "Nikkei Rises 2.7%, Led by Electronics, Real-Estate Stocks",
+        "description": "Japanese stocks ended higher, led by gains in electronics and real-estate stocks, as the yen gave up some of its recent gains ahead of the Bank of Japan’s policy outcome due Tuesday.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-yen-weakens-b81fda4d",
+        "id": "WP-WSJ-0001641936"
+      },
+      {
+        "title": "Singapore Exports Drop, But Data Still Show Signs of Recovery",
+        "description": "Singapore’s non-oil domestic exports fell unexpectedly in February, signaling shaky trade momentum at the start of 2024.",
+        "link": "https://www.wsj.com/articles/singapores-non-oil-domestic-exports-unexpectedly-fell-in-february-4105ebd3",
+        "id": "WP-WSJ-0001642065"
+      }
+    ],
+    "date": "2024-03-18"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of XPeng's rise, a tale I unfold,\nAs it doth reap the gold, its worth so told.\nLike a sea-serpent rises from the brine,\nIn markets far east, its shares do shine.\n\nIn India's realm, Paytm doth quake,\nA sudden blow its foundation doth shake.\nAs hammers strike 'gainst the anvil's grain,\nIn strife and turmoil, stability wanes.\n\nYet, foreign coins toward India shift,\nOn China's shores, they no longer drift.\nYet sudden tempests give pause in kind,\nAs uncertainty casts shadows o'er the mind.",
+    "feedItems": [
+      {
+        "title": "XPeng's Shares Rise on Cheaper Brand Launch",
+        "description": "XPeng’s shares rose in Hong Kong after the Chinese electric-vehicle maker disclosed plans to launch a cheaper mass-market brand amid intensified competition in China’s EV market.",
+        "link": "https://www.wsj.com/articles/xpengs-shares-rise-on-cheaper-brand-launch-5a5864cb",
+        "id": "WP-WSJ-0001642375"
+      },
+      {
+        "title": "Investors Get a Reminder That India Makes Sudden Moves Too",
+        "description": "India’s Paytm, a pioneer in the country’s shift to mobile payments whose investors have included Warren Buffett’s Berkshire Hathaway and China’s Alibaba Group, has been shaken following an order from India’s central bank that largely crippled its banking affiliate.",
+        "link": "https://www.wsj.com/articles/investors-get-a-reminder-that-india-makes-sudden-moves-too-0ea962e7",
+        "id": "SB11030733113069904304504590586011036709030"
+      },
+      {
+        "title": "Investors Get a Reminder That India Makes Sudden Moves Too",
+        "description": "Foreign investors have increasingly shifted their investments to India from China in recent years, but a recent clampdown on one of its biggest financial technology companies has rattled some nerves.",
+        "link": "https://www.wsj.com/articles/investors-get-a-reminder-that-india-makes-sudden-moves-too-c3f26f2d",
+        "id": "WP-WSJ-0001637465"
+      }
+    ],
+    "date": "2024-03-18"
+  }
+]
