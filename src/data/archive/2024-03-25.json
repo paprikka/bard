@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "On waves of wealth, the sea of oil doth rise,\nIn face of danger known, and shadows creeping,\nThough solid coin of realm 'gainst such defies,\nIn greener pastures, bounty we are reaping.\n\nThe sterling half-crown teeters on a blade,\nA threat of early cut doth breed disquiet.\nThe dollar, daunting, in the balance weighed,\nA pot of woe, no valiant heart shall buy it.\n\nIn Singapore, a tale of bounty told,\nThe beast of inflation quickens its gait.\nA feast's dear cost, the price of life is sold,\nThe wait for ease of purse, 'twill hold in weight.",
+    "feedItems": [
+      {
+        "title": "Oil Gains on Heightened Geopolitical Risks, Supply Concerns",
+        "description": "Oil futures were higher in European trade, on signs of tightness in the market and growing geopolitical concerns and despite a stronger dollar.",
+        "link": "https://www.wsj.com/articles/oil-futures-rise-amid-supply-tightness-9b1499b9",
+        "id": "WP-WSJ-0001659345"
+      },
+      {
+        "title": "Sterling Expected to Weaken Versus Dollar on Risk of Early BOE Rate Cut",
+        "description": "Citi Research expects sterling to weaken against the dollar—which it favors broadly against other G10 currencies—due to the prospect the BOE could cut interest rates earlier than previously expected.",
+        "link": "https://www.wsj.com/articles/asian-currencies-strengthen-after-pboc-sets-higher-than-expected-yuan-fixing-751af895",
+        "id": "WP-WSJ-0001659347"
+      },
+      {
+        "title": "Singapore Inflation Quickened Unexpectedly in February",
+        "description": "Inflation accelerated unexpectedly in Singapore as prices in key categories like food picked up, backing views that any potential monetary easing is still some time away.",
+        "link": "https://www.wsj.com/articles/singapore-inflation-quickened-unexpectedly-in-february-92a2d592",
+        "id": "WP-WSJ-0001659349"
+      }
+    ],
+    "date": "2024-03-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Kingfisher's wealth, a drop we spy,\nThey hoped for more, did even fly,\nNow their wings clipped, fortunes low,\nLike ale gone flat, profits slow.\n\nIn far Beijing, a giant fell,\nEvergrande's woes hard to quell,\n$19 billion debt, no jest,\nA potent brew, now indigest.\n  \nMTN amid stormy gales,\nWarns of volatility and ales,\nTheir target firm, through doubts and fears,\nLike a steadfast monk 'midst worldly cares.",
+    "feedItems": [
+      {
+        "title": "Kingfisher Shares Hit by Cautious Outlook",
+        "description": "Kingfisher shares fell after it reported above-forecast profits for fiscal 2024 but announced weaker guidance for next year due to more conservative assumptions about demand.",
+        "link": "https://www.wsj.com/articles/kingfisher-backs-midterm-views-for-french-business-ahead-of-restructuring-c698fc1e",
+        "id": "WP-WSJ-0001659670"
+      },
+      {
+        "title": "China Evergrande Drops Debt Restructuring Applications in U.S.",
+        "description": "The developer had sought a New York court’s approval last August to restructure more than $19 billion in offshore debt via Chapter 15 bankruptcy filings.",
+        "link": "https://www.wsj.com/articles/china-evergrande-to-withdraw-offshore-debt-restructuring-applications-8740be7d",
+        "id": "WP-WSJ-0001659455"
+      },
+      {
+        "title": "MTN Backs Midterm Views Despite Uncertain Outlook",
+        "description": "MTN confirmed its medium-term targets despite a sharp drop in 2023 earnings and warning that elevated volatility increased headwinds and added material uncertainty to its outlook.",
+        "link": "https://www.wsj.com/articles/mtn-group-backs-midterm-views-despite-earnings-decline-84c46a13",
+        "id": "WP-WSJ-0001659655"
+      }
+    ],
+    "date": "2024-03-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Nissan's bold stride and grand design,\nIts chariots electric, on paths align.\nVerily, the dozen models, born of art and craft,\nA million sales they seek within triennial draft.\n\nNext doth UBS, with wealth's profound wheel,\nHerald an offer that speaks to the commonweal.\nIn bonds of quality, risk and reward do unite,\nFor solid governments and firms of repute and might.\n\nThen Baidu's shares in fair Hong Kong rise,\nA dance with Apple, clever and wise.\nThey weave an alliance, guided by artifice grand,\nIn the splendid courts of the artificial land.",
+    "feedItems": [
+      {
+        "title": "Nissan Motor Plans to Sell More Than a Dozen New EV Models by 2026",
+        "description": "The Japanese carmaker plans to start selling more than a dozen new electric-vehicle models, aiming to boost total car sales by one million units within three years.",
+        "link": "https://www.wsj.com/articles/nissan-motor-plans-to-sell-more-than-a-dozen-new-ev-models-by-2026-5486e7fb",
+        "id": "WP-WSJ-0001659598"
+      },
+      {
+        "title": "Quality Bonds Seen Offering Attractive Risk-Reward",
+        "description": "UBS Global Wealth Management continues to see an attractive risk-reward outlook for quality bonds, including government and investment grade corporate bonds.",
+        "link": "https://www.wsj.com/articles/medium-term-jgbs-may-fall-if-talk-spreads-within-boj-for-early-rate-hike-05700c1a",
+        "id": "WP-WSJ-0001659342"
+      },
+      {
+        "title": "Baidu Shares Rise After Reports of Apple Collaboration",
+        "description": "Shares of Baidu rose sharply in Hong Kong after reports of possible collaboration involving artificial intelligence between the Chinese tech giant and smartphone giant Apple.",
+        "link": "https://www.wsj.com/articles/baidu-shares-rise-on-news-that-apple-will-use-its-ai-services-in-china-products-fede5a4f",
+        "id": "WP-WSJ-0001659601"
+      }
+    ],
+    "date": "2024-03-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Fearful rabbit heart does pound,\nOn island shore, cruel sirens sound.\nFrom North, a threat does further rise,\nUnderneath the trembling skies.\n\nLong-aged drink of corn and rye,\nSees its demand 'neath the market lie.\nThe goat of Fortune leaps no more,\nFor Jack and Brown, in days of yore.\n\nDog in market, house to house,\nChases tail, quiet as a mouse.\nDreams of swift and shiny gold,\nIn each home, a story told.",
+    "feedItems": [
+      {
+        "title": "Sirens Sound, Anxieties Rise on Tiny Island Near North Korean Shores",
+        "description": "Residents on Yeonpyeong, just below the maritime border, fear the Kim Jong Un regime could launch another attack.",
+        "link": "https://www.wsj.com/articles/sirens-sound-anxieties-rise-on-tiny-island-near-north-korean-shores-27773888",
+        "id": "WP-WSJ-0001654860"
+      },
+      {
+        "title": "Demand has been sliding for Jack Daniel's Old No. 7 and the company behind it, Brown-Forman, forecasts a sluggish U.S. whiskey business for at least the next year.",
+        "description": "Demand has been sliding for Jack Daniel’s Old No. 7 and the company behind it, Brown-Forman, forecasts a sluggish U.S. whiskey business for at least the next year.",
+        "link": "https://www.wsj.com/business/retail/jack-daniels-flowed-during-the-pandemic-now-comes-the-hangover-e72754ec",
+        "id": "B0864D56-9798-4879-8179-CF6D1427DFE8"
+      },
+      {
+        "title": "The surge in U.S. home prices has drawn small investors into the market, where they are buying houses with the intention of selling them quickly for a profit.",
+        "description": "The surge in U.S. home prices has drawn small investors into the market, where they are buying houses with the intention of selling them quickly for a profit.",
+        "link": "https://www.wsj.com/economy/housing/surge-in-home-prices-draws-eager-house-flippers-2836fe46",
+        "id": "BAF048D9-3092-43AF-83EC-7CB7BEDF9004"
+      }
+    ],
+    "date": "2024-03-25"
+  }
+]
