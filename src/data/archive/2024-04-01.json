@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "For Treasury's stead, seeks Trump a sage,\nOf Wall Street's golden lineage.\nYet truth in wine, as monks do know,\nExperience proves a fickle beau.\n\nGold waxeth high in market's dance,\nAs rate-cut dreams doth markets enhance.\nLike ale in barrel, froth to crest,\nSuch is the gold's inflated jest.\n\nIn yonder market, oil doth climb,\nWith news of rates cut in due time.\nYet, mindful be of this decree,\nIn wine, as oil, lies no guarantee.",
+    "feedItems": [
+      {
+        "title": "Trump Eyes High-Profile Wall Street, D.C. Veterans for Treasury Secretary",
+        "description": "The former president and his aides view experience in finance as a key factor in the selection.",
+        "link": "https://www.wsj.com/articles/trump-eyes-high-profile-wall-street-d-c-veterans-for-treasury-secretary-08582962",
+        "id": "WP-WSJ-0001672634"
+      },
+      {
+        "title": "Gold Rises to Record High, Boosted by Rate-Cut Expectations",
+        "description": "Gold prices rose to record highs as a softer U.S. inflation reading last week boosts hopes that the Fed will kickstart its rate-cutting cycle in June.",
+        "link": "https://www.wsj.com/articles/gold-rises-buoyed-by-bets-for-three-fed-rate-cuts-this-year-bfece525",
+        "id": "WP-WSJ-0001674362"
+      },
+      {
+        "title": "Oil Edges Higher as U.S. Inflation Data Boosts June Rate-Cut Hopes",
+        "description": "Oil prices edged higher after U.S. Fed Chair Jerome Powell said last week that the latest inflation data align with what the central bank would like to see, bolstering market bets for a June rate cut.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-in-likely-position-adjustment-ahead-of-opec-meeting-283e3cad",
+        "id": "WP-WSJ-0001674369"
+      }
+    ],
+    "date": "2024-04-01"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The Nikkei's fall, a flight of doves in winter's grip,\nBy chip and finance, stocks do slip.\nLike ramps tumbling in the market's trip,\nA snail's loss in the economic dip.\n\nIn Japan's land, where cherry blossoms bloom in spring,\nA JGB auction stirs, a hopeful zing.\nRabbits' ears pricked at the fiscal ring,\nGood demand may this new year bring.\n\nTo last year's peak, might USD/IDR tread,\nIn strength and rise, much like a stag's proud head.\nYet caution, dear goat, for markets oft misled,\nTis not always green in the economic bed.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 1.4%, Dragged by Chip, Financial Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in chip-related and financial shares.",
+        "link": "https://www.wsj.com/articles/nikkei-up-0-3-led-by-electronics-stocks-e4ab4269",
+        "id": "WP-WSJ-0001674357"
+      },
+      {
+        "title": "Japan's 10-Year JGB Auction on Tuesday May Attract Good Demand",
+        "description": "Japan’s 10-year JGB auction on Tuesday may attract good demand from investors, given it’s the start of the new fiscal year, Citi said.",
+        "link": "https://www.wsj.com/articles/some-jgbs-fall-dragged-by-bojs-tankan-survey-5668f83d",
+        "id": "WP-WSJ-0001674383"
+      },
+      {
+        "title": "USD/IDR May Test Last Year's Peak of 15,965.00 This Week, Chart Shows",
+        "description": "The anticipated strength of USD/IDR has exceeded UOB’s expectations and the currency pair continues to rise.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-in-holiday-thinned-trading-82e555f1",
+        "id": "WP-WSJ-0001674413"
+      }
+    ],
+    "date": "2024-04-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the East, where the sly wolf prowls, a tale unfolds,\nOf shadow trade in parts of war, by Russian mastermolds.\nIn night's cloak they weave their work, unbeknownst to Yankie swords,\nThrough the crypt-hold of tethered coin, they slip the old world's cords.\n\nIn the forum where gold is weaved, echoes a change foretold,\nThe Seven Mighty, now only Four, yet the beast continues bold.\nNo longer tied to apple's might or Tesla's lightning spark,\nThe market rallies merrily, lit by other fires in the dark.\n\nNews from the East, of the Dragon's brood, serpents who guard the gates,\nTemu parent, PDD, in secrets, their trade allocates.\nA covenant forged not in trust, but in the chains of law,\nThe cost of freedom, a dragon's hoard, a price too raw and raw.",
+    "feedItems": [
+      {
+        "title": "Crypto FuelsRussian Shadow Trade for Weapons Parts",
+        "description": "How Russian middlemen used the cryptocurrency tether to avoid U.S. sanctions and procure parts for drones and high-tech weapons.",
+        "link": "https://www.wsj.com/articles/crypto-fuelsrussian-shadow-trade-for-weapons-parts-1bfdc1a1",
+        "id": "WP-WSJ-0001667624"
+      },
+      {
+        "title": "The Stock Market's Magnificent Seven Is Now the Fab Four",
+        "description": "Some investors say it is a bullish signal that the market is rallying without the likes of Apple and Tesla because it means other groups are taking part.",
+        "link": "https://www.wsj.com/articles/the-stock-markets-magnificent-seven-is-now-the-fab-four-2dff87ac",
+        "id": "WP-WSJ-0001670595"
+      },
+      {
+        "title": "Chinese E-Commerce Giant Squeezes Workers With Noncompete Agreements",
+        "description": "Temu parent PDD enforces a culture of corporate secrecy by suing some former employees.",
+        "link": "https://www.wsj.com/articles/chinese-e-commerce-giant-squeezes-workers-with-noncompete-agreements-809e803c",
+        "id": "WP-WSJ-0001669374"
+      }
+    ],
+    "date": "2024-04-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Chef Andrés, his sails unfurled in sovereign seas,\nThe Pentagon did fall behind, a sighing summer breeze.\nWith World Central Kitchen, he pledged aid of the choicest pea,\nHis cuisine, a love song, to Gaza's weary plea.\n\nAmid clouds of flight and azure skies, Boeing stumbles yet,\nSafety checks, quality control, a dance of deep regret.\nThree months hence, solutions sought, to mend the factory's song,\nFor all who voyage in their craft, pray the tune be strong.\n\nHardy workers seeking lives across the border's reign,\nFind in business owners an ally against the strain.\nThe lawmakers may seek to quell, with laws both harsh and wrong,\nYet in fellow man, we find a love that's ever strong.",
+    "feedItems": [
+      {
+        "title": "The Celebrity Chef Who Beat the U.S. Military at Getting Aid Into Gaza",
+        "description": "As the Pentagon embarks on a project to create a maritime aid route, José Andrés’s World Central Kitchen has already begun delivering food by sea.",
+        "link": "https://www.wsj.com/articles/-jose-andres-chef-gaza-israel-war-ea9512f8",
+        "id": "WP-WSJ-0001671622"
+      },
+      {
+        "title": "Why Boeing's Quality Controls and Plane Safety Checks Still Miss Mistakes",
+        "description": "Boeing was given 90 days to present regulators with an action plan to address quality-control issues at its 737 factory. Here’s a look at the layers of Boeing’s quality process and the issues each faces.",
+        "link": "https://www.wsj.com/articles/why-boeings-quality-controls-and-plane-safety-checks-still-miss-mistakes-c7762c7a",
+        "id": "SB10076238690809103757604590613992068698412"
+      },
+      {
+        "title": "Business owners are resisting the Republican state lawmakers who are trying to deter migrants from illegally entering the U.S. by making it tougher for them to find work.",
+        "description": "Business owners are resisting the Republican state lawmakers who are trying to deter migrants from illegally entering the U.S. by making it tougher for them to find work.",
+        "link": "https://www.wsj.com/politics/policy/immigration-e-verify-republican-lawmakers-6d7552b9",
+        "id": "8200AF65-EDB4-41D6-AFEE-32E43323EB22"
+      }
+    ],
+    "date": "2024-04-01"
+  }
+]
