@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the heart of Texas, a tale unfolds,\nOf Samsung artificers and gold they hold.\nWith passion and precision, they craft and enhance,\nA sanctuary for semiconductors in the Western expanse.\n\nTangled in conflict is Biden's stand,\nBetween Israel's force and Iran's demand.\nAs leaders and nations in strife do bind,\nHis heart is assailed, from front and behind.\n\nNow miners, their hopes on high terrain,\nIn gleaming deposits of aluminum vein,\nProspect from bleak Russia's frosty mien,\nTheir fortune to seize in copper and nickel's gleam.",
+    "feedItems": [
+      {
+        "title": "Samsung Electronics Gets $6.4 Billion for Texas Chip Plants",
+        "description": "The expansion includes a second factory, an advanced chip-packaging facility and research-and-development capabilities.",
+        "link": "https://www.wsj.com/articles/samsung-electronics-gets-6-4-billion-for-texas-chip-plants-06dafea9",
+        "id": "WP-WSJ-0001704209"
+      },
+      {
+        "title": "Israel Had Created Enormous Political Trouble for Biden. Then Iran Attacked.",
+        "description": "The president faces pressure from both his left and right on the Middle East conflict.",
+        "link": "https://www.wsj.com/articles/israel-had-created-enormous-political-trouble-for-biden-then-iran-attacked-e82b3f7b",
+        "id": "WP-WSJ-0001703804"
+      },
+      {
+        "title": "Aluminum, Copper and Nickel Miners to Gain From Russian Metals Ban",
+        "description": "Aluminum, copper and nickel miners should benefit from U.S. and U.K. restrictions on trading of Russian metals, potentially boosting prices over the medium term, Jefferies said.",
+        "link": "https://www.wsj.com/articles/gold-rises-as-middle-east-tensions-drive-safe-haven-buying-39b3c077",
+        "id": "WP-WSJ-0001704021"
+      }
+    ],
+    "date": "2024-04-15"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the heart of Amsterdam, whispers turn to song,\nCVC's dance in the golden, money-scented throng.\nA goat in a market, capers high and grand,\nSpeaks in echoes of silver, new wealth at hand.\n\nThe snails of OPEC in cautious counsel meet,\nThey fear the surge of oil's rhythm, its thunderous beat.\nFor if it creeps too high, knocking demand askew,\nTheir garden of riches may lose its golden hue.\n\nIn the morning's early light, hares startled leap,\nShares dip and oil's melody begins to sleep.\nMajors shake in Europe's looming shadow wide,\nHeld in the gentle grip of a tense Middle-East tide.",
+    "feedItems": [
+      {
+        "title": "CVC Confirms Amsterdam IPO Plan",
+        "description": "Global buyout firm CVC said it plans to float on Euronext Amsterdam, raising $266 million in new money from the IPO.",
+        "link": "https://www.wsj.com/articles/cvc-confirms-amsterdam-ipo-plan-to-raise-eur250-mln-in-new-funds-92e89f8a",
+        "id": "WP-WSJ-0001704406"
+      },
+      {
+        "title": "OPEC Wouldn't Want to See Oil Prices Surging Too High, ING Says",
+        "description": "OPEC members likely don’t want to see oil prices rising too high as that would risk damaging demand, ING said.",
+        "link": "https://www.wsj.com/articles/oil-rises-as-middle-east-tensions-raise-supply-risks-concerns-868ac2c4",
+        "id": "WP-WSJ-0001704047"
+      },
+      {
+        "title": "Shares in European Oil Majors Fall as Oil Dips",
+        "description": "Shares in European oil-and-gas majors fell in early trading as oil prices dipped despite heightened Middle East tensions.",
+        "link": "https://www.wsj.com/articles/nikkei-drops-1-6-amid-middle-east-tensions-406f78d3",
+        "id": "WP-WSJ-0001704028"
+      }
+    ],
+    "date": "2024-04-15"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Commerzbank's halls of gold, where scholars count and stare,\nThe Treasury-Bund yield doth unfold, by economic prayer.\nLike ale in kegs of plenty, spread 'twixt here and distant lands,\nIn bonds and coins aplenty, guided by wise hands.\n\nBNP Paribas, a tavern rich and fine,\nFrom Fosun buys Ageas, for coin no less than divine.\nLike monk who trades his holy wine, for handfuls of the East,\nSo do economic powers, in their eternal feast.\n\nOnce Apple's reign was mighty, as lords of smartphone's day,\nNow Samsung sits in majesty, while Apple yields the sway.\nJust as the humble brewer, oft overtakes the wine,\nEven so in device-lore, changes 'twixt thine and mine.",
+    "feedItems": [
+      {
+        "title": "Economic Data Point to Further Widening of U.S.-German Bond Yield Spread",
+        "description": "Economic fundamentals suggest more widening of the Treasury-Bund yield spreads, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/jgbs-rise-boosted-by-likely-safe-haven-buying-a6153fe3",
+        "id": "WP-WSJ-0001704126"
+      },
+      {
+        "title": "BNP Paribas Buys Fosun's Stake in Ageas",
+        "description": "BNP Paribas is buying Fosun’s 9% shareholding in Belgium insurer Ageas for roughly $777 million.",
+        "link": "https://www.wsj.com/articles/bnp-paribas-buys-9-of-ageas-from-fosun-for-eur730-mln-bc8adacc",
+        "id": "WP-WSJ-0001704336"
+      },
+      {
+        "title": "Samsung Overtakes Apple as Smartphone Leader, IDC Says",
+        "description": "Samsung Electronics has overtaken Apple as the top smartphone provider, while Chinese companies took a bigger slice of the global market, according to research firm International Data Corporation.",
+        "link": "https://www.wsj.com/articles/samsung-overtakes-apple-as-smartphone-leader-idc-says-3c98ba37",
+        "id": "WP-WSJ-0001704325"
+      }
+    ],
+    "date": "2024-04-15"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the East, a dragon staunchly stays its hand,\nSteadfast and broad, o'er China's verdant land.\nThe bank doth withhold its golden strand,\nWhilst frailty in numbers spreads across the sand.\n\nIn lands afar, where shadows of law dwell,\nThe raven of change does loudly knell.\nIn its talons, the seeds of AI held,\nForetelling a saga yet to be unfurled.\n\nFrom western shores, an eagle took its flight,\nWith allies of old, to stand against the night.\nGathered they under star-spangled light,\nTo turn back the Persian in bitter fight.",
+    "feedItems": [
+      {
+        "title": "China's Central Bank Holds Key Policy Rates",
+        "description": "The People’s Bank of China kept key policy rates steady and drained liquidity from the banking sector as economic data shows fresh signs of weakness.",
+        "link": "https://www.wsj.com/articles/china-central-bank-keeps-key-policy-rates-steady-3871aa40",
+        "id": "WP-WSJ-0001704121"
+      },
+      {
+        "title": "The Lawsuits That Could Shape the Future of AI and Copyright Law",
+        "description": "Artificial intelligence is quickly evolving, but copyright law is still playing catch-up. A lawyer breaks down three of the biggest cases to explain how the law is evolving with this technology.",
+        "link": "https://www.wsj.com/articles/the-lawsuits-that-could-shape-the-future-of-ai-and-copyright-law-5a52a140",
+        "id": "SB12104636716415693472604590642221326270464"
+      },
+      {
+        "title": "How the U.S. Forged a Fragile Middle Eastern Alliance to Repel Iran's Israel Attack",
+        "description": "The American-led effort was years in the making and hadn’t been battle-tested when Tehran launched its missile and drone barrage against Israel.",
+        "link": "https://www.wsj.com/articles/how-the-u-s-forged-a-fragile-middle-eastern-alliance-to-repel-irans-israel-attack-4a1fbc00",
+        "id": "WP-WSJ-0001704079"
+      }
+    ],
+    "date": "2024-04-15"
+  }
+]
