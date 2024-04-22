@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of gold, to futures bold, a tale of woe I weave,  \nA herald's fell decree, its luster doth bereave.  \nTensions 'cross Eastern lands, their shadows in retreat,  \nHeaven's safe demand, yea, from its golden seat.  \n\nOnce, oil's price stood firm, ensconced in Mid-East fright,  \nNow, lower does it turn, by more than one percent's might.  \nFears, once aflame with reel, do fade in war's discourse,  \nYet higher interest real, weighs heavy on its course.  \n\nThe dollar, noble steed, 'gainst risk found no defense,  \nBy week's end, 'tis decreed, its rise may yet commence.  \nFor Middle Eastern dread, hath ceased its rampant reign,  \nData ahead may tread, to raise its worth again.",
+    "feedItems": [
+      {
+        "title": "Gold Futures Prices Drop as Safe-Haven Demand Melts Away",
+        "description": "Gold futures fell 1.8% as diminishing geopolitical tensions in the Middle East hit safe-haven demand.",
+        "link": "https://www.wsj.com/articles/gold-declines-in-likely-technical-correction-63c83eed",
+        "id": "WP-WSJ-0001721283"
+      },
+      {
+        "title": "Oil Falls More Than 1% on Easing Middle East Fears, Economic Concerns",
+        "description": "Oil prices fell more than 1% as fears of a broader conflict in the Middle East faded and the prospect of higher-for-longer interest rates weighed on sentiment.",
+        "link": "https://www.wsj.com/articles/oil-falls-losses-may-be-limited-by-lingering-middle-east-tensions-8aab9bd8",
+        "id": "WP-WSJ-0001721285"
+      },
+      {
+        "title": "Dollar Falls on Better Risk Sentiment, Could Get Lift From U.S. Data This Week",
+        "description": "The dollar edged lower as risk sentiment improves due to easing concerns about Middle East tensions, though U.S. data later this week could push the currency higher again, ING said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-mixed-as-traders-assess-divergent-signals-64a5faf4",
+        "id": "WP-WSJ-0001721287"
+      }
+    ],
+    "date": "2024-04-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Hear, O wise ones, the tale of CVC's might,\nIn Amsterdam's halls, it seeks precious light.\nIn golden standards, sixteen billion in claim,\nAn IPO quest, in the trading game.\n\nBehold, Fair Italy, noble in bond,\nIts BBB rating, a sturdy frond.\n'Bove German Bunds, it holds its gaze,\nIn early trade, an emblem ablaze.\n\nIn distant China, where dragons dwell,\nTesla, Li Auto, in price war's hell.\nThey lower the tag, as chariots spark,\nIn battle electric, far from traditional arc.",
+    "feedItems": [
+      {
+        "title": "CVC Looks to Raise €250 Million in Amsterdam Float",
+        "description": "CVC has priced its IPO implying a market valuation of up to $16 billion and said it planned to raise €250 million.",
+        "link": "https://www.wsj.com/articles/cvc-capital-partners-eyes-up-to-16-billion-amsterdam-ipo-70201f97",
+        "id": "WP-WSJ-0001721621"
+      },
+      {
+        "title": "Italian Bonds Marginally Outperform Bunds After S&P Affirms Rating, Outlook",
+        "description": "Italian BTPs marginally outperformed Bunds in early European trade after S&P affirmed Italy’s BBB rating and stable outlook.",
+        "link": "https://www.wsj.com/articles/jgbs-fall-amid-ebbing-concerns-over-middle-east-conflict-831dd7f3",
+        "id": "WP-WSJ-0001721289"
+      },
+      {
+        "title": "Tesla, Li Auto Cut Prices as China's EV Price War Heats Up",
+        "description": "Tesla and Li Auto cut prices further in China amid an intensifying price war that comes as sales of electric vehicles surpassed that of traditional cars for the first time.",
+        "link": "https://www.wsj.com/articles/tesla-li-auto-cut-prices-as-chinas-ev-price-war-heats-up-66872868",
+        "id": "WP-WSJ-0001721583"
+      }
+    ],
+    "date": "2024-04-22"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Oh, sweet Hipgnosis, abode of minstrels dear,\nBlackstone hath proffer'd golden ale so clear.\nFor billion and half, 'twould recommend, \nShould formal draught to their hands extend.\n\nIn yonder East, o'er span of two score years,\nChina shipwrights, casting off all fears,\nLike abbey brew masters with vat and cask,\nCement their maritime might, no easy task.\n\nNiger, with voice as stern as abbot's call,\nBids U.S. troops from their shores to fall.\nTheir counter-insurgency plan's now void,\nAnd violent insurgents thus are overjoyed.",
+    "feedItems": [
+      {
+        "title": "Hipgnosis Gets $1.5 Billion Approach From Blackstone",
+        "description": "Hipgnosis, home to the catalogue of artists such as Neil Young, Shakira and Red Hot Chili Peppers, said it received a $1.5 billion approach from Blackstone that it would be prepared to recommend if a formal offer was made.",
+        "link": "https://www.wsj.com/articles/hipgnosis-songs-fund-would-recommend-1-50-bln-blackstone-offer-if-formal-proposal-made-91927805",
+        "id": "WP-WSJ-0001721591"
+      },
+      {
+        "title": "Inside the Strategies That Made China a Shipbuilding Powerhouse",
+        "description": "Over the past two decades, China has transformed into a shipbuilding powerhouse—cementing its status as a major maritime power. Shipbuilding experts break down why this is such a strategic asset and where the U.S. stands as naval competition heats up.",
+        "link": "https://www.wsj.com/articles/inside-the-strategies-that-made-china-a-shipbuilding-powerhouse-bad5d5b8",
+        "id": "SB11625742828366413561604591000921588205788"
+      },
+      {
+        "title": "Niger has formally ordered the U.S. to withdraw counterterrorism troops, derailing an American strategy to defeat a violent Islamist insurgency.",
+        "description": "Niger has formally ordered the U.S. to withdraw counterterrorism troops, derailing an American strategy to defeat a violent Islamist insurgency.",
+        "link": "https://www.wsj.com/world/africa/nigers-eviction-of-u-s-commandos-drones-derails-americas-counterterror-strategy-7e1eff83",
+        "id": "CAD8615F-1401-4453-AE84-C79CDA781FA4"
+      }
+    ],
+    "date": "2024-04-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Ukraine's firm stand, they clutch at hope,\nLike rabbits chased by hounds in dawn’s pale light.\nAid from afar, stark lifeline bound in rope,\nMay yet defend them in their bitter fight.\n\nIn Qatar's warmth, Hamas now plans their flight,\nLike fleet-foot goats pushed from their rocky hold.\nWhere will they turn in gathering twilight? \nAs U.S. hawks their cease-fire dreams unfold.\n\nThe Senate's word, like snails, cautious but bold,\nRenew the spy's dark power, feared and profane.\nYet whispers echo, truths as yet untold,\nThe dogs of privacy cry out in vain.",
+    "feedItems": [
+      {
+        "title": "The House vote to approve funding for Ukraine comes at a desperate moment for the country's beleaguered defenders and holds the prospect of helping them stave off a Russian onslaught at the last possible moment.",
+        "description": "The House vote to approve funding for Ukraine comes at a desperate moment for the country’s beleaguered defenders and holds the prospect of helping them stave off a Russian onslaught at the last possible moment.",
+        "link": "https://www.wsj.com/world/europe/u-s-aid-is-a-lifeline-for-ukraines-struggle-to-hold-off-defeat-176f3a4d",
+        "id": "7878A587-6A4D-4620-BE00-D3C30094899D"
+      },
+      {
+        "title": "Hamas's political leadership is looking to move from its base in Qatar, as U.S. legislators build pressure on the Gulf state to deliver on cease-fire negotiations that look likely to fail.",
+        "description": "Hamas’s political leadership is looking to move from its base in Qatar, as U.S. legislators build pressure on the Gulf state to deliver on cease-fire negotiations that look likely to fail.",
+        "link": "https://www.wsj.com/world/middle-east/hamas-explores-moving-political-headquarters-out-of-qatar-8a3a794b",
+        "id": "08C878DF-0C8F-42AC-B1A2-E9BF68D197BA"
+      },
+      {
+        "title": "The Senate has passed legislation renewing a controversial foreign spying power, prevailing over objections from privacy advocates.",
+        "description": "The Senate has passed legislation renewing a controversial foreign spying power, prevailing over objections from privacy advocates.",
+        "link": "https://www.wsj.com/politics/national-security/senate-passes-fisa-spying-bill-882e7df4",
+        "id": "2DFE5140-7810-4464-92DB-B42B3F11F5E0"
+      }
+    ],
+    "date": "2024-04-22"
+  }
+]
