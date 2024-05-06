@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the realm where crowns are wont to change,\n'Bout Biden and the Trump, I frame my range,\nWhere regulations twist in clutch of jest,\nA dance of power that never takes its rest.\n\nOn gold's bright futures our eyes may dwell,\nLike snails entranced by glimm'ring shell,\nU.S. interest cuts spread hope like mirth,\nIn our earthbound dance of bountiful worth.\n\nOh, Gazans flee from Rafah's wailing cry,\nLike rabbits chased by hawks in the sky,\nWhen peace talks stumble and dark clouds rise,\nIn the land where the olive branch oft dies.",
+    "feedItems": [
+      {
+        "title": "Biden Races to Trump-Proof His Agenda",
+        "description": "Trump made unprecedented use of a 1996 law to overturn Obama-era regulations. Biden’s aides hope to stop the Republican from doing it again if he wins.",
+        "link": "https://www.wsj.com/articles/biden-races-to-trump-proof-his-agenda-92f38239",
+        "id": "WP-WSJ-0001750976"
+      },
+      {
+        "title": "Gold Futures Rise on Promising U.S. Economic Data",
+        "description": "Gold futures rose 1% on improved hopes for U.S. interest rate cuts after promising economic data on Friday.",
+        "link": "https://www.wsj.com/articles/gold-falls-after-strong-u-s-jobs-report-71fcd394",
+        "id": "WP-WSJ-0001753860"
+      },
+      {
+        "title": "Israel Tells Gazans to Evacuate Rafah Neighborhoods Ahead of Planned Offensive",
+        "description": "The message warns of a military offensive to rout Hamas in the southern Gazan city after cease-fire talks faltered.",
+        "link": "https://www.wsj.com/articles/israel-warns-gazans-to-evacuate-rafah-neighborhoods-ahead-of-planned-offensive-8a8b156c",
+        "id": "WP-WSJ-0001754175"
+      }
+    ],
+    "date": "2024-05-06"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the morn, vast hope seems dim and frail,\nWar-talks in Israel yield no accord.\nThe price of oil on Arab land doth sail,\nHer deal for June, sweet Saudi does afford.\n\nFair Euro stocks upon the morn arise,\nAs hopes of U.S. rate-cut grow robust.\nJob data weak, yet eyes fixed on the prize,\nBy September, might the cut adjust.\n\nYet the dollar regains lost strength and might,\nDespite the weakness in employment's flight.\nHigher the prices paid, soars to great height,\nPointing to pressure of inflation's bite.",
+    "feedItems": [
+      {
+        "title": "Oil Rises as Ceasefire Hopes Dim, Saudi Arabia Lifts Crude Prices",
+        "description": "Oil was higher as ceasefire talks between Israel and Hamas showed little progress and Saudi Arabia lifted its official selling prices for June loadings for most regions.",
+        "link": "https://www.wsj.com/articles/oil-steady-supply-concerns-in-focus-9ff2b2b8",
+        "id": "WP-WSJ-0001753862"
+      },
+      {
+        "title": "European Stocks Rise as Prospects of Earlier U.S. Rate Cut Pick Up",
+        "description": "European stocks opened higher after Friday’s weaker-than-expected U.S. jobs data increased prospects the Federal Reserve could cut interest rates, potentially by September.",
+        "link": "https://www.wsj.com/articles/hong-kong-shares-rise-0-3-amid-improved-sentiment-540a0865",
+        "id": "WP-WSJ-0001753858"
+      },
+      {
+        "title": "Dollar Recovers Much of Its Losses After Weak U.S. Jobs Data",
+        "description": "UniCredit said the dollar’s recovery following Friday’s post-data losses was helped by the fact the prices paid component of the ISM survey jumped to nearly 60, suggesting that inflation pressures remain.",
+        "link": "https://www.wsj.com/articles/aud-usd-upside-potential-strong-with-rba-set-to-ponder-a-hike-7691178d",
+        "id": "WP-WSJ-0001753864"
+      }
+    ],
+    "date": "2024-05-06"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the halls of Vinci, a change takes the lead,\nAnjolras steps forth, to Huillard's stead he'll seed.\nHis name in the saga of commerce is etched,\nThe bard foresees a reign with no defeat or treachery leached.\n\nFar across the sea, in the dragon's own lair,\nThe services' pace doth waver, yet none should despair.\nHoliday feasts bring a bountiful tide,\nA recovery in consumption, the market's confident stride.\n\nEQT, the northern wolf, sets sights on a prize,\nPerficient, the prey, beneath the digital skies.\nFor a hefty ransom, in shining gold weight,\nA tale of acquisition, driven by fate.",
+    "feedItems": [
+      {
+        "title": "Vinci Begins CEO Succession Plan With Appointment of New COO",
+        "description": "Vinci has appointed company veteran Pierre Anjolras as chief operating officer, marking the first step in the process to name a successor for chief executive Xavier Huillard, whose term will end next year.",
+        "link": "https://www.wsj.com/articles/vinci-begins-ceo-succession-plan-with-appointment-of-pierre-anjolras-as-coo-9390242d",
+        "id": "WP-WSJ-0001754165"
+      },
+      {
+        "title": "China Services-Sector Gauge Shows Slower Activity Expansion",
+        "description": "A private gauge of China’s services sector showed activity grew at a slightly slower pace in April, though there are signs of a recovery in consumption given strong spending over recent holidays.",
+        "link": "https://www.wsj.com/articles/china-services-sector-gauge-shows-slower-activity-expansion-7f275ba6",
+        "id": "WP-WSJ-0001753868"
+      },
+      {
+        "title": "EQT to Buy U.S. Digital Consultancy Perficient for $3 Billion",
+        "description": "Swedish private-equity firm EQT said it will pay $76 a share, a 58% premium to Perficient’s closing price on Friday.",
+        "link": "https://www.wsj.com/articles/eqt-to-buy-u-s-digital-consultancy-perficient-in-3-billion-deal-bfd0b3f7",
+        "id": "WP-WSJ-0001754151"
+      }
+    ],
+    "date": "2024-05-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Beneath the stars, as April rain doth fall,\nBonds in Eurozone do linger, at the beck of U.S. thrall.\nLike ale too long fermented, negativity from Treasurys do reap,\nIn bond market, a tipsy dance, as into pockets of LBBW, troubles seep.\n\nNow Atos, in its cloister, strikes a bargain with the banks,\nBeneath the shadow of Bain’s tower, doth look upon the francs.\nEP Equity and Onepoint, each offers their own bread,\nWhile bondholders pour a heady brew worth millions, 'tis said.\n\nAnd in the East, in Li Auto's humble shed,\nAn electric charger full of promise and of dread.\nTheir prancing horse, less than eight score thousand crowns,\nBrings strength to shares, as in good ale the weary monk drowns.",
+    "feedItems": [
+      {
+        "title": "Eurozone Bond Weakness in April Was Mainly Driven by U.S. Treasurys",
+        "description": "Eurozone government bonds remained primarily stuck in a bond-negative pull in April, emanating from the Treasury market, LBBW said.",
+        "link": "https://www.wsj.com/articles/eurozone-bond-weakness-in-april-was-mainly-driven-by-u-s-treasurys-d6a17639",
+        "id": "WP-WSJ-0001754144"
+      },
+      {
+        "title": "Atos Considers Four Restructuring Offers",
+        "description": "Atos said the proposals were from a group of bondholders and banks, Bain Capital, EP Equity Investment and Onepoint, adding that it had signed a $108 million interim financing deal with bondholders.",
+        "link": "https://www.wsj.com/articles/atos-receives-four-proposals-over-financing-deal-abd6827c",
+        "id": "WP-WSJ-0001754114"
+      },
+      {
+        "title": "Li Auto Shares Gain on Strong L6 Orders",
+        "description": "Li Auto shares rose sharply after the Chinese electric-vehicle maker posted strong orders for its first model priced under 300,000 yuan, or the equivalent of nearly $41,452.",
+        "link": "https://www.wsj.com/articles/li-auto-shares-gain-on-strong-l6-orders-b5a07724",
+        "id": "WP-WSJ-0001754100"
+      }
+    ],
+    "date": "2024-05-06"
+  }
+]
