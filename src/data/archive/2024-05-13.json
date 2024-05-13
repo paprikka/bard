@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the Land of the Rising Sun, the sea storm lifts,\nSoftBank's coffers rich, as the foggy mindset shifts.\nTheir Arm of power ascends, 'gainst the sky it's etched,\nIn the thrilling game of commerce, a stronger hand they've fetched.\n\nOil, black as raven's mantle, on the market scale,\nAgainst the eastern dragon's breath, bids the traders hail.\nIn waiting of the eagle's eye and the figures it will speak,\nQuietly creeps the price per drum, what fortune will it seek?\n\nYet gold, the Midas' bounty, in futures does descend,\nBefore the eagle's gaze, to the dollar it shall bend.\nIn the waiting game of numbers, 'fore the commerce week has sprung,\nLoses shine to its rival's might, in the market's fierce-fought thrung.",
+    "feedItems": [
+      {
+        "title": "SoftBank Posts Narrower Loss on Tech Funds Recovery",
+        "description": "The Japanese investment company said its net asset value nearly doubled thanks to the rising share price of its U.K. chip-design unit, Arm.",
+        "link": "https://www.wsj.com/articles/softbank-group-posts-narrowed-annual-loss-on-tech-funds-recovery-090b33d7",
+        "id": "WP-WSJ-0001770093"
+      },
+      {
+        "title": "Oil Edges Higher Ahead of Key U.S. Inflation Readings This Week",
+        "description": "Oil prices edged higher as traders assessed China’s inflation data and ahead of key U.S. readings this week.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-on-demand-concerns-730e70d4",
+        "id": "WP-WSJ-0001769950"
+      },
+      {
+        "title": "Gold Futures Fall Ahead of U.S. Inflation Data",
+        "description": "Gold futures fell, giving way to a stronger dollar ahead of key inflation data this week.",
+        "link": "https://www.wsj.com/articles/gold-steady-supported-by-fed-rate-cut-hopes-64cec9a7",
+        "id": "WP-WSJ-0001769948"
+      }
+    ],
+    "date": "2024-05-13"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "At Duke's gathering feast, a sight most strange,\nBefore Seinfeld, the jester, took the stage.\nStudents, like mead, did overflow and range,\nIn silent protest, their passions did engage.\n\nIn Australia's court, where justice shall be sought,\nTheir eyes once blind to stabbing video's plight.\n’Tis a tale that musk-scented Elon brought,\nLike a monk’s quill, struck down the injunction’s light.\n\nHearken now to Sanofi and their clarion bell’s tone,\nIn fair France's field, a billion coins they'll hone.\nTo brew more healing draughts, their means hath grown,\nOn Vitry-sur-Seine, their blessings will be sewn.",
+    "feedItems": [
+      {
+        "title": "Duke Students Walk Out Ahead of Jerry Seinfeld Commencement Speech",
+        "description": "Dozens of students staged a walkout at Duke University’s graduation ceremony just before comedian Jerry Seinfeld’s commencement speech.",
+        "link": "https://www.wsj.com/articles/duke-students-walk-out-ahead-of-jerry-seinfeld-commencement-speech-55c3daae",
+        "id": "SB11748940752782174604404591043460010878684"
+      },
+      {
+        "title": "Australian Judge Ends Injunction Against X Over Stabbing Video",
+        "description": "An Australian judge effectively lifted an order for social-media platform X to hide a video of the stabbing of a religious leader, which had drawn criticism from Elon Musk as an example of government overreach.",
+        "link": "https://www.wsj.com/articles/australian-judge-ends-injunction-against-x-over-stabbing-video-385e3d16",
+        "id": "WP-WSJ-0001770254"
+      },
+      {
+        "title": "Sanofi to Spend $1 Billion to Boost Drug Production in France",
+        "description": "Sanofi said the bulk of the investment will double capacity of monoclonal antibody production, which are key in developing an array of pharmaceuticals, at its Vitry-sur-Seine site.",
+        "link": "https://www.wsj.com/articles/sanofi-to-spend-1-08-billion-to-boost-drug-production-in-france-a1576cac",
+        "id": "WP-WSJ-0001770257"
+      }
+    ],
+    "date": "2024-05-13"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Tarnished silver yields to platina’s lusty cheer,\nLess xeres off’red, demand does not veer,\nIn mine’s dearth and market's crucible sear,\nA deficit, alas, poised to sheer.\n\nFickle mistress the Nikkei befalls,\nHer capricious mirth in fickle balls,\nYon builders’ toils in vain, her waning voice calls,\nA mere minstrel's sigh 'midst towering halls.\n\nGardens of the East in bonds entwined,\nFrom the brink returned, with pence assigned,\nBarely skirt the whelming tide, once resigned,\nYet remain in thorny plight, yet defined.",
+    "feedItems": [
+      {
+        "title": "Platinum Market Deficit Forecast Widens on Weak Supply, Sustained Demand",
+        "description": "The precious metal is now forecast for a market deficit of 476,000 ounces in 2024 amid strained supply from the mining sector and resilient demand, according to a new report from the World Platinum Investment Council.",
+        "link": "https://www.wsj.com/articles/platinum-market-deficit-forecast-widens-on-weak-supply-sustained-demand-5ff470ea",
+        "id": "WP-WSJ-0001770249"
+      },
+      {
+        "title": "Nikkei Edges Down 0.1%, Weighed by Construction Stocks",
+        "description": "Japan’s Nikkei Stock Average edged down 0.1% to close at 38179.46, weighed by losses among construction stocks.",
+        "link": "https://www.wsj.com/articles/nikkei-may-trade-rangebound-amid-caution-over-earnings-fed-6d78858c",
+        "id": "WP-WSJ-0001769944"
+      },
+      {
+        "title": "Country Garden Avoids Further Default With Payments on Onshore Bonds",
+        "description": "Chinese property developer Country Garden made payments on two onshore bonds within a grace period, avoiding default days after the company had said it might turn to a state guarantor for help.",
+        "link": "https://www.wsj.com/articles/country-garden-avoids-further-default-with-payments-on-onshore-bonds-c2566db1",
+        "id": "WP-WSJ-0001770213"
+      }
+    ],
+    "date": "2024-05-13"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon WuXi shares, see, volatility doth weave,\nA U.S. Bill revised, a deadline to conceive.\nBy 2032, business ties shall turn tired,\nAfflicted by the Act, such Courtly ties expired.\n\nIn Moutai's cup, a mystery deep and grand,\nHidden in its essence, many fail to understand.\nBoasts of market cap, yet in shadows it doth linger,\nA global phantom's dance on the tip of every finger.\n\nAcross Ukraine's plain, the Russian tempest roars,\nBombardment, brutal, lethal, as the war endures.\nSteel darts rain from storm clouds, hard to parry,\nUkraine’s skies darken, with burden heavy to carry.",
+    "feedItems": [
+      {
+        "title": "WuXi Shares Volatile as U.S. Bill Revised to Set Deadline for Decoupling",
+        "description": "WuXi AppTec and its affiliates faced volatile trading after the introduction of a revised version of the Biosecure Act by U.S. lawmakers that gives U.S. companies time until 2032, after which business tie-ups with the named Chinese biotech firms would be restricted.",
+        "link": "https://www.wsj.com/articles/wuxi-shares-volatile-as-u-s-bill-revised-to-set-deadline-for-decoupling-42440d4a",
+        "id": "WP-WSJ-0001770200"
+      },
+      {
+        "title": "How China's 'Firewater' Became the World's Most Valuable Liquor Brand",
+        "description": "Moutai is the world’s largest beverage company by market cap, yet it remains largely obscure among global consumers. WSJ looks at the liquor giant’s business strategies and the challenges ahead.",
+        "link": "https://www.wsj.com/articles/how-chinas-firewater-became-the-worlds-most-valuable-liquor-brand-24fa8e23",
+        "id": "SB10808318901491104888604591043184007661692"
+      },
+      {
+        "title": "Russia's Bombardment of Ukraine Is More Lethal Than Ever",
+        "description": "Ukraine is shooting down a far smaller proportion of Russian missile attacks than it was earlier in the war as its enemy launches more harder-to-hit weapons.",
+        "link": "https://www.wsj.com/articles/russias-bombardment-of-ukraine-is-more-lethal-than-ever-afd733c4",
+        "id": "WP-WSJ-0001755372"
+      }
+    ],
+    "date": "2024-05-13"
+  }
+]
