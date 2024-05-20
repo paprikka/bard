@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of decisions grave, in realms afar, a strategy is born,\nAgainst the Dragon from the East, a rival to their corn.\nEnforced by tariffs stern and cold, security unfolds,\nWith coin in tech bestowed with care, the three-legged plan holds.\n\nUpon the sands of Rafah, in retreat they find no peace,\nPalestinian hearts embattled, yearn for swift release.\nIn makeshift homes of woven fabric, 'gainst the cruel tide,\nSurvival rings a bitter toll, where amenities reside not by their side.\n\nLi Auto's fall, a profit dipped in sorrow's mournful hue,\nYet amidst the loss, amidst the fall, their revenue grew.\nIn the race of sparking chariots, they bear the margin's weight,\nTrade's capricious mistress smiles, as they negotiate fate's slate.",
+    "feedItems": [
+      {
+        "title": "The U.S. Finally Has a Strategy to Compete With China. Will It Work?",
+        "description": "The strategy, which took seven years to come together, is a three-legged stool consisting of tariffs, security restrictions and tech subsidies.",
+        "link": "https://www.wsj.com/articles/the-u-s-finally-has-a-strategy-to-compete-with-china-will-it-work-ce4ea6cf",
+        "id": "WP-WSJ-0001785371"
+      },
+      {
+        "title": "Palestinians Struggle for Food and Water After Fleeing Rafah",
+        "description": "Many of the 800,000 who left the city huddle in tents on a crowded beach, with little in the way of amenities or humanitarian aid. “It’s a constant battle for survival,” a refugee says.",
+        "link": "https://www.wsj.com/articles/palestinians-struggle-for-food-and-water-after-fleeing-rafah-2994af1b",
+        "id": "WP-WSJ-0001784948"
+      },
+      {
+        "title": "Li Auto's First-Quarter Net Profit Fell Despite Higher Revenue",
+        "description": "The Chinese electric-vehicle maker’s first-quarter net profit dropped 36% despite higher revenue, though the company maintained a gross margin above 20%.",
+        "link": "https://www.wsj.com/articles/li-autos-first-quarter-net-profit-fell-despite-higher-revenue-64afcf8b",
+        "id": "WP-WSJ-0001786313"
+      }
+    ],
+    "date": "2024-05-20"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the court, golden treasures beckon high,\nAs vikings dream 'pon an interest-rate cut nigh.\nThy softer data, spun as Æsir's lore,\nDoth raise the hopes, 'twill touch the sky once more.\n\nO'er wavering seas, dark oil prices climb,\nTethered in a range, yet captive of time.\nAs OPEC preps its next mighty deed,\nThree paths reveal, from which one shall proceed.\n\nUnder moon's soft glow, Keywords shares take flight,\nEQT's whisper'd words ignite the night.\nA takeover looms, worth billions in gold,\nAnother exile from London's Exchange hold.",
+    "feedItems": [
+      {
+        "title": "Gold Futures Near Record High as Interest-Rate Cut Hopes Grow",
+        "description": "Gold futures were just shy of their recent record as softer U.S. data last week raised expectations of Fed interest rate cuts.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-amid-haven-demand-fed-cut-hopes-66912d5c",
+        "id": "WP-WSJ-0001785556"
+      },
+      {
+        "title": "Oil Prices Rise But Stay Stuck in Narrow Range",
+        "description": "Oil futures edged higher with the market awaiting OPEC’s next move, with three possible scenarios for the June 1 meeting—extend, unwind or completely remove the voluntary cuts of 2.2 million barrels a day.",
+        "link": "https://www.wsj.com/articles/oil-futures-fall-in-likely-technical-correction-3dd68a10",
+        "id": "WP-WSJ-0001785563"
+      },
+      {
+        "title": "Keywords Shares Have Best Ever Day as EQT Talks Confirmed",
+        "description": "Keywords Studios stock soared after the videogame services company said it was in talks with EQT over a potential $2.6 billion takeover, which would make it the latest in a series of companies to leave the London Exchange if the deal goes ahead.",
+        "link": "https://www.wsj.com/articles/keywords-studios-in-talks-with-eqt-over-2-6-billion-takeover-96d3b930",
+        "id": "WP-WSJ-0001786258"
+      }
+    ],
+    "date": "2024-05-20"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To the East, where dragons make their nests,\nA fine fair feast of stocks doth rouse the jest.\nIn a trickling stream of copper and zinc\nDescends anew, God’s bountiful drink!\n\nBy charts, the dollar doth falter and fail,\nAgainst the Singaporean lion, so hale.\nAs an ale-head foams ere its strength is spent,\nThe downward path doth make lament.\n\nAstraZeneca, thee holiest brothers mine,\nShall erect thy shrine, with gold so fine.\nIn Singapore, a furnace to roast,\nCancer, that loathsome and monstrous host!",
+    "feedItems": [
+      {
+        "title": "Chinese Shares End Higher; Commodity Stocks Lead Gains",
+        "description": "China’s benchmark Shanghai Composite ended 0.5% higher, as sentiment remained positive following Beijing’s stimulus measures targeting the property sector.",
+        "link": "https://www.wsj.com/articles/nikkei-may-trade-rangebound-amid-uncertainty-over-fed-yen-direction-61fce945",
+        "id": "WP-WSJ-0001785552"
+      },
+      {
+        "title": "USD/SGD's Downward Momentum Starting to Build, Charts Show",
+        "description": "USD/SGD’s downward momentum is starting to build after it fell to a low of 1.3421 last week, said UOB Global Economics & Markets Research.",
+        "link": "https://www.wsj.com/articles/jpy-weakens-amid-mild-risk-on-sentiment-4dbc7e9f",
+        "id": "WP-WSJ-0001785566"
+      },
+      {
+        "title": "AstraZeneca Plans $1.5 Billion Manufacturing Facility In Singapore",
+        "description": "The Anglo-Swedish pharmaceutical giant plans to build a $1.5 billion manufacturing facility in Singapore to boost its global supply of cancer-killing treatments.",
+        "link": "https://www.wsj.com/articles/astrazeneca-plans-1-5-billion-manufacturing-facility-in-singapore-b6e9a0ac",
+        "id": "WP-WSJ-0001786183"
+      }
+    ],
+    "date": "2024-05-20"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like the goat that breaks his tether, falls,\nThe leader from Tehran's highest walls.\nHis wings clipped, dialect held still,\nAyatollah's castle mildew fills.\n\nStealthy as the darkened dog at night,\nIn Europe, shadows hide from light.\nWho gnawed the cord, who brought fear's tremble?\nThe answer lost in winter's thimble.\n\nSwift as the rabbit's course is laid,\nIn Sweden, armies' choices are made.\nOf jesters not, but knights they seek,\nTheir strength in wisdom, never meek.",
+    "feedItems": [
+      {
+        "title": "Iranian President, Foreign Minister Killed in Helicopter Crash",
+        "description": "Ebrahim Raisi’s death deprives Supreme Leader Ayatollah Ali Khamenei of a longtime ally as Tehran angles for regional dominance.",
+        "link": "https://www.wsj.com/articles/helicopter-carrying-irans-president-makes-difficult-landing-d51329d7",
+        "id": "WP-WSJ-0001785061"
+      },
+      {
+        "title": "Europe Sees Signs of Russian Sabotage but Hesitates to Blame Kremlin",
+        "description": "Governments have warned of acute threats but often stopped short of accusing Moscow over a lack of evidence and concern about spreading panic at home.",
+        "link": "https://www.wsj.com/articles/europe-sees-signs-of-russian-sabotage-but-hesitates-to-blame-kremlin-72598d4b",
+        "id": "WP-WSJ-0001784328"
+      },
+      {
+        "title": "Many Armies Struggle for Recruits. In Sweden They Turn Them Away.",
+        "description": "American and European militaries are straining to reinforce their ranks to deter Russia. Sweden’s answer is to conscript only the brightest and best.",
+        "link": "https://www.wsj.com/articles/sweden-military-recruitment-conscription-cf575d30",
+        "id": "WP-WSJ-0001773307"
+      }
+    ],
+    "date": "2024-05-20"
+  }
+]
