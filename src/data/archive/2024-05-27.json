@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Biden doth speak of labour’s worth, but ‘nflation gives him mirth,\nPeople's strain he doth not see, for gold and silver blind is he.\n\nIn Rafah town, a striking blow, hath reaped what God did not sow.\nPray for peace, pure as wine, for souls departed e'er so fine.\n\nThe dollar's strength doth start to fade, expectancy hath made a trade.\nIts sturdy reign, like stout gone flat, 'twas once a lion, now a rat.",
+    "feedItems": [
+      {
+        "title": "Biden Needs More Empathy on the Economy, Democrats Say",
+        "description": "The president often touts strong jobs numbers, even as voters care far more about inflation.",
+        "link": "https://www.wsj.com/articles/joe-biden-economy-inflation-election-2024-4c4c66de",
+        "id": "WP-WSJ-0001799084"
+      },
+      {
+        "title": "Dozens Killed in Israeli Airstrike on Rafah",
+        "description": "The attack in the southern border city late Sunday killed 35 civilians, according to Palestinian health authorities.",
+        "link": "https://www.wsj.com/articles/dozens-killed-in-israeli-airstrike-on-rafah-0a0a4877",
+        "id": "WP-WSJ-0001800904"
+      },
+      {
+        "title": "Dollar's Gains Are Limited Due to Broad Reduction in Rate-Cut Expectations",
+        "description": "The dollar is struggling to recover from recent losses as expectations of interest-rate cuts were scaled back in other countries as well as the U.S., UniCredit said.",
+        "link": "https://www.wsj.com/articles/nzd-usds-rally-may-have-further-to-run-d235b277",
+        "id": "WP-WSJ-0001800573"
+      }
+    ],
+    "date": "2024-05-27"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Lo! Elon Musk's virtual swayer, xAI, ascends high o'er the tide,\nA fierce beast in rings gold, six billion strong, means to ride,\nIn the battleground of thoughts woven in wire and light,\nMore grist for the god of thunder's mill, they bring to fight.\n\nIn the weave of numbers and letters, where the bond traders dwell,\n'A quiet start,' cries out Commerzbank, the seer wise and swell.\nAwaiting the wyrd of the Ifo data, a rune yet to be read,\nWith the ECB's hawk and dove, soon to carve their stead.\n\nOn the shores of commerce, gold's glint meets the dawn's soft light,\nHeld aloft by invisible hands, it begins its sunward flight.\nThe eye of the Federal eagle descends on the PCE's measure,\nAll await with baited breath, the new gold hoard's treasure.",
+    "feedItems": [
+      {
+        "title": "Elon Musk's xAI to Raise $6 Billion in Latest Fundraising Round",
+        "description": "The competitor to OpenAI is looking to invest more in research and development amid fierce competition in the burgeoning sector.",
+        "link": "https://www.wsj.com/articles/elon-musks-xai-will-raise-6-billion-in-latest-fundraising-round-fcdd722d",
+        "id": "WP-WSJ-0001800816"
+      },
+      {
+        "title": "Bond Markets Expected to Start the Week at Slow Pace",
+        "description": "Government bond markets were off to a slow start given U.K. and U.S. holidays, Commerzbank said, and following Germany’s Ifo business sentiment data this morning, inflation data later this week will also provide key input ahead of the ECB’s rate decision on June 6, where a 25 basis point rate cut is nearly a done deal.",
+        "link": "https://www.wsj.com/articles/jgbs-consolidate-as-traders-digest-boj-gov-uedas-remarks-b57847a6",
+        "id": "WP-WSJ-0001800589"
+      },
+      {
+        "title": "Gold Prices Drift Higher Ahead of U.S. Inflation Data",
+        "description": "Gold futures nudged higher, with the focus shifting to the next U.S. PCE price index release, the Federal Reserve’s preferred measure of inflation.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-ahead-of-key-u-s-economic-data-bcce0b8d",
+        "id": "WP-WSJ-0001800585"
+      }
+    ],
+    "date": "2024-05-27"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Hark, oh German hearts stout and brave,\nThy business sentiment seems but a wave.\nTho' the Ifo index remains, unmoved in May's light,\nThere beams a hopeful gleam for the months forthright.\n\nThe oil, she edges higher, under OPEC+'s watchful frame,\nLooking ahead to a policy decision, stoking the market's flame.\nSupply curbs linger in the balance, where futures voice their fear,\nYet hope remains, the third quarter, a harbinger of cheer.\n\nNow turn thine eyes to Evergrande, on eastern shores afar,\nTheir metallic steeds gaining strength, under the Eastern Star.\nDespite the giant's liquidation, casting a gloom so dire,\nTheir EV unit soars in shares, sparking an investor fire.",
+    "feedItems": [
+      {
+        "title": "German Business Sentiment Fails to Improve",
+        "description": "The Ifo business-climate index was unchanged in May, against expectations for an uptick, though firms did set out a more optimistic outlook for the months ahead.",
+        "link": "https://www.wsj.com/articles/german-firms-mood-little-changed-despite-signs-of-green-shoots-930319cd",
+        "id": "WP-WSJ-0001800907"
+      },
+      {
+        "title": "Oil Edges Higher as Market Awaits OPEC+ Policy Decision",
+        "description": "Oil prices edged higher, with all eyes on OPEC+’s upcoming decision on production cuts, with the cartel and its allies expected to fully roll over supply curbs at least into the third quarter of the year.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-in-possible-position-adjustment-52c06aa1",
+        "id": "WP-WSJ-0001800587"
+      },
+      {
+        "title": "China Evergrande's EV Unit Shares Soar on Potential Investor Support",
+        "description": "Shares of China Evergrande Group’s electric-vehicle unit surged, fueled by optimism that some businesses may survive despite the property giant’s liquidation.",
+        "link": "https://www.wsj.com/articles/evergrande-ev-unit-says-liquidators-in-talks-with-potential-buyer-81446fb1",
+        "id": "WP-WSJ-0001800617"
+      }
+    ],
+    "date": "2024-05-27"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Alstom now ends its crafty hoard,\nTwo billion less, by decree be stored.\nShares abound, their price decreased,\nAsset and bond in market released.\n\nIn eastern lands, where sun doth rise,\nThe Nikkei gains to reach new skies.\nHigh makes the yield, a twelve-year fest,\nFinancial stocks outdo the rest.\n\nThe bard of rates, Lane, doth confess,\nInflation's pace doth gradually depress,\nWay to cut, so clearly gleaned,\nFrom reduced cost, the euro weaned.",
+    "feedItems": [
+      {
+        "title": "Alstom to Raise $1 Billion in Discounted Share Capital Increase",
+        "description": "The move by Alstom is the final step in its €2 billion deleveraging plan that also included asset divestments and a bond placement.",
+        "link": "https://www.wsj.com/articles/alstom-to-raise-1-billion-in-discounted-share-capital-increase-080eaab8",
+        "id": "WP-WSJ-0001800859"
+      },
+      {
+        "title": "Nikkei Rises as 10-Year JGB Yield Hits 12-Year High",
+        "description": "The Nikkei closed up 0.7% led by gains in financial stocks, as the 10-year Japanese government bond yield hit a 12-year high.",
+        "link": "https://www.wsj.com/articles/australia-shares-shaping-for-opening-bounce-a2b8fed5",
+        "id": "WP-WSJ-0001800591"
+      },
+      {
+        "title": "ECB's Lane Says Way Clear for Rate Cuts",
+        "description": "The eurozone’s inflation rate and the pace of wage rises are slowing gradually, paving the way for possible rate cuts after a first reduction in borrowing costs next month, the ECB’s chief economist said.",
+        "link": "https://www.wsj.com/articles/ecbs-lane-says-way-is-clear-for-rate-cuts-with-inflation-and-wage-rises-on-downward-trend-474f3c7f",
+        "id": "WP-WSJ-0001800829"
+      }
+    ],
+    "date": "2024-05-27"
+  }
+]
