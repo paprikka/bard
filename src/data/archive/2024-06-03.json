@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From the stronghold of King & Spalding, nine in number depart,\nTo fortify Paul Hastings, where legalities impart.\nRestructuring the mighty, in the name of private credit,\nThus, drapes the bard his verse in their bold act's splendid merit.\n\nAmidst the thunder's disapproval, stands stout Larry Hogan,\nIn Senate's quest for governance, he's the anti-Trump slogan.\nIn the land once led by Maryland, now echo his footsteps,\nAs the bard strums his lute, the tale of his journey eclipses. \n\nTrump, in conviction mired, and Biden tapes unsealed arise,\nCalling upon dear Mike Johnson, a decision to surmise.\nThe contempt of Merrick Garland, or the Congress' esteem,\nThe Irish Bard endows this saga, in his nocturnal dream.\n",
+    "feedItems": [
+      {
+        "title": "Paul Hastings Adds Private Credit, Restructuring Partners From King & Spalding",
+        "description": "Law firm Paul Hastings has bolstered its restructuring, special situations and private credit practices by hiring nine King & Spalding partners.",
+        "link": "https://www.wsj.com/articles/paul-hastings-adds-private-credit-restructuring-partners-from-king-spalding-a3a68380",
+        "id": "WP-WSJ-0001808848"
+      },
+      {
+        "title": "The Face of the Anti-Trump GOP Is Now Larry Hogan",
+        "description": "The former Maryland governor is under fire from the Trump campaign as he runs for the Senate.",
+        "link": "https://www.wsj.com/articles/the-face-of-the-anti-trump-gop-is-now-larry-hogan-ce071535",
+        "id": "WP-WSJ-0001811597"
+      },
+      {
+        "title": "Trump Conviction and Biden Tapes Put New Pressure on Mike Johnson",
+        "description": "The House speaker must decide whether to schedule a vote on a measure that seeks to hold Attorney General Merrick Garland in contempt of Congress.",
+        "link": "https://www.wsj.com/articles/speaker-mike-johnson-merrick-garland-contempt-vote-239e89de",
+        "id": "WP-WSJ-0001813651"
+      }
+    ],
+    "date": "2024-06-03"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Lo! Atos, a damsel in distress doth stand,\nTwo knights of coin, bids in their gallant hand.\nAnd monk Arnulfus prays, with God's command,\nMay thee prosper in thine creditors' land.\n\nThen comes the tale of our precious gold, crude,\nWhose price is swayed by summer's plenitude.\nMethinks OPEC's decree, while crude and rude,\nMay prose the tavern with price feud imbued.\n\nNext, France, a realm now deemed by S&P,\nDowngraded, facing times of misery.\nYet, fear not, says our good brother, you'll see,\nEven sour grapes can yield sweet treasury.",
+    "feedItems": [
+      {
+        "title": "Atos Assessing Two Revised Rescue Bids",
+        "description": "Atos received revised bids from the two investor groups vying for control of the debt-laden French I.T. firm and said it will work with creditors to help it decide between the proposals this week.",
+        "link": "https://www.wsj.com/articles/atos-receives-two-revised-restructuring-proposals-e3226ced",
+        "id": "WP-WSJ-0001814383"
+      },
+      {
+        "title": "Larger Oil Inventory Draws Expected to Support Prices Over the Summer",
+        "description": "Crude should be supported by falling global inventories over the summer as seasonal demand increases, UBS said, although OPEC+’s decision to phase out its voluntary cuts from October could cause some price volatility in the near term.",
+        "link": "https://www.wsj.com/articles/oil-falls-opec-decides-to-phase-out-some-output-cuts-9ae6cc9a",
+        "id": "WP-WSJ-0001813962"
+      },
+      {
+        "title": "France's Downgrade by S&P Could Filter Into Currently Stable OAT Spreads",
+        "description": "France’s downgrade to AA- from AA by S&P “should put an upward pressure on French spreads,” Jefferies said, adding Friday’s move wasn’t a massive surprise for markets as a short France view had been the consensus since the start of the year.",
+        "link": "https://www.wsj.com/articles/jgbs-edge-higher-amid-mild-relief-boj-kept-bond-buying-amounts-738569af",
+        "id": "WP-WSJ-0001813964"
+      }
+    ],
+    "date": "2024-06-03"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Peking's vast and buzzing square,\nShares of chariots spark and flare.\nRecord sales sing in the air,\nDreams of cheap rides, bound to ensnare.\n\nGold, in markets does play coy,\nFlat and calm, no mere toy.\nInflation's spectre does not annoy,\nRates may dip, traders' joy.\n\nDollar steadfast, firm it holds,\nAmidst the jobs report's folds.\nIts fate in data tightly molds,\nA tale that time alone unfolds.",
+    "feedItems": [
+      {
+        "title": "China Electric-Vehicle Shares Rally After Strong Sales in May",
+        "description": "Shares of Chinese electric-vehicle makers surged after some reported record sales in May, spurring hopes that more price cuts are around the corner as companies race to grow market share.",
+        "link": "https://www.wsj.com/articles/china-electric-vehicle-shares-rally-after-strong-sales-in-may-23a9f0aa",
+        "id": "WP-WSJ-0001814456"
+      },
+      {
+        "title": "Metal Prices Mixed, With Gold Flat After Friday's Inflation Data",
+        "description": "Gold futures were trading sideways after Friday’s PCE data showed U.S. inflation had stabilized, slightly boosting hopes for an earlier cut in interest rates by the Federal Reserve.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-may-be-supported-by-fed-rate-cut-hopes-74e8adb6",
+        "id": "WP-WSJ-0001813960"
+      },
+      {
+        "title": "Dollar Trades Steady, U.S. Jobs Data Key",
+        "description": "The dollar was steady in early European action and Friday’s nonfarm payrolls report will be key in determining whether the currency’s recent selloff extends further, MUFG said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-consolidate-central-banks-u-s-data-in-focus-0d341512",
+        "id": "WP-WSJ-0001813969"
+      }
+    ],
+    "date": "2024-06-03"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Beneath the sol’s resplendent gaze, a damsel fond and sage,\nSheinbaum, in Mexico's heart, steps forth to rule the age.\nVictorious with pledges spun, a leftist tapestry,\nBy landslide's might, she claims her right, a maiden in decree.\n\nFrom lands afar, where justice meets within a courtly hall,\nGSK's fortunes sway and tumble, a seafarer in squall.\nZantac, its bane, in trials named, by sufferers of plight,\nTheir shares doth bleed a raven's greed, in Delaware's stark night.\n\nGenScript Biotech, vessel fair, in seas of commerce caught,\nIn Hong Kong's port its shares report a fate they ne'er have sought.\nU.S. lawmakers probe and pry, eying farthest shores,\nIn Chinese ties and woven lies, the storm yet roars and roars.",
+    "feedItems": [
+      {
+        "title": "Claudia Sheinbaum Elected as Mexico's First Female President",
+        "description": "The candidate of the leftist ruling party won by a landslide on pledges of policy continuity.",
+        "link": "https://www.wsj.com/articles/mexico-election-vote-results-af55cbce",
+        "id": "WP-WSJ-0001812924"
+      },
+      {
+        "title": "GSK Shares Tumble After Zantac Ruling",
+        "description": "GSK shares dropped 10% after a ruling by the Delaware State Court that will allow jury trials in cases brought by cancer sufferers who say the heartburn drug Zantac caused their condition.",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-on-weaker-yen-easing-borrowing-cost-concerns-c1a16bd6",
+        "id": "WP-WSJ-0001813957"
+      },
+      {
+        "title": "GenScript Biotech Shares Drop After U.S. Lawmakers Scrutinize Chinese Ties",
+        "description": "Shares of GenScript Biotech plunged in Hong Kong amid concerns that the company could face U.S. scrutiny due to alleged ties with the Chinese government.",
+        "link": "https://www.wsj.com/articles/genscript-biotech-shares-drop-after-u-s-lawmakers-scrutinize-chinese-ties-fadee581",
+        "id": "WP-WSJ-0001814374"
+      }
+    ],
+    "date": "2024-06-03"
+  }
+]
