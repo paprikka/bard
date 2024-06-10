@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In songs of silver bold and bright,\n'Tis dollar's climb sets heart alight.\nFed whispers stall rate's mournful plight,\nThis week in eye of day and night.\n\nYet oil, like snails, ascends just slight,\nThough bearish spirit takes its mite.\nA stronger dollar's challenging fight,\nKeeps market's meek hope out of sight.\n\nIn Europe, stocks like rabbits fight,\nAfter heartfelt vote in dimmed twilight.\nMacron's men retreat with sight,\nOf Le Pen's party showing might.",
+    "feedItems": [
+      {
+        "title": "U.S. Data Supports Dollar Ahead of Fed Meeting",
+        "description": "The dollar could rise further after the strong U.S. non-farm payrolls data caused markets to reduce expectations of interest-rate cuts by the Federal Reserve even more ahead of a meeting this week, MUFG said.",
+        "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-face-volatility-this-week-3b701b59",
+        "id": "WP-WSJ-0001829192"
+      },
+      {
+        "title": "Oil Edges Higher But Bearish Sentiment Persists",
+        "description": "Oil prices edged higher in early European trading Monday despite a stronger dollar, but market sentiment remains broadly bearish, ING said.",
+        "link": "https://www.wsj.com/articles/oil-falls-upside-seen-limited-in-short-term-b5b9f390",
+        "id": "WP-WSJ-0001829189"
+      },
+      {
+        "title": "European Stocks Drop After EU Election",
+        "description": "European stock indexes fell after far-right parties’ advanced in European Union elections, with the CAC 40 retreating 1.6% as Emmanuel Macron called a legislative election after Marine Le Pen’s party trounced his forces.",
+        "link": "https://www.wsj.com/articles/nikkei-may-decline-after-strong-u-s-jobs-data-5201de97",
+        "id": "WP-WSJ-0001829187"
+      }
+    ],
+    "date": "2024-06-10"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Thence gold, once bright as Baldur's ray, doth lose its gleam in weary light,\nU.S. forges manpower fierce, whilst China curbs its golden might.\nAs April's promise pales, and Midgard sees the dwindling flame,\nIn the market's stormy seas, it's seen; naught gold can stay the same.\n\nEurope, by turmoil tempest-tossed, her stocks and currency do fall,\nAs far-right ravens 'mongst the eiders rise, whispering of Ragnorok's call.\nYet Macron's legion falters neath the crushing weight of harsh defeat,\nLands once united, they fracture swift, to the drum of discord's beat.\n\nFrance, fair land of Frigg and Frey, in bonds and debt she's caught,\nHer strength tested by early vote, a heated Mimir's thought.\nWinds of change howl in the courts, a storm that thus portends,\nA feast for Fenrir in her fall, as uncertainty ascends.",
+    "feedItems": [
+      {
+        "title": "Gold Prices Drop on U.S. Jobs Data, Waning Chinese Enthusiasm",
+        "description": "Gold futures fell to their lowest level since early April on a stronger-than-expected U.S. jobs report and on news that China halted buying gold for reserves in May, ING said.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-in-likely-technical-adjustment-d213be6c",
+        "id": "WP-WSJ-0001829194"
+      },
+      {
+        "title": "European Stocks and Euro Hit by Political Instability",
+        "description": "European stock markets and the euro fell following the advance of far-right parties in European elections and major losses for President Emmanuel Macron’s alliance that prompted him to call a snap election.",
+        "link": "https://www.wsj.com/articles/european-stocks-and-euro-fall-amid-political-instability-09c5ad33",
+        "id": "WP-WSJ-0001829551"
+      },
+      {
+        "title": "French Bond Market Could See Nervousness Due to Early Elections",
+        "description": "The next few weeks could see some nervousness on the French debt market as France heads into early legislative elections, following far-right advance in European elections and major losses for Emmanuel Macron’s alliance, Natixis said.",
+        "link": "https://www.wsj.com/articles/jgbs-fall-tracking-declines-in-u-s-treasurys-3c1ddf40",
+        "id": "WP-WSJ-0001829196"
+      }
+    ],
+    "date": "2024-06-10"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon Israel's brave advance,\nA rescue dare to fate's own dance.\nA clash of iron in ardent night,\nA draft of valor sets 't right.\n\nNow comes the call from distant Iran,\nSix-fold the options ere they began.\nIn this dance of power, slim change in view,\nLike barley brew with hops anew.\n\nIn treaty’s cup, a pledge takes form,\n'Gainst tempest's wrath, a pact is born.\nTo shield the Gulf, a noble deed,\nUnseen the fruit this seed may breed.",
+    "feedItems": [
+      {
+        "title": "How Israel Saved a Hostage Rescue Mission That Nearly Failed",
+        "description": "Israel called in heavy airstrikes to support an operation that had a “thin line between being a huge success and a huge failure.”",
+        "link": "https://www.wsj.com/articles/how-israel-saved-a-hostage-rescue-mission-that-nearly-failed-eab2a010",
+        "id": "WP-WSJ-0001829102"
+      },
+      {
+        "title": "Iran approved six candidates, almost all conservatives, to run in a presidential contest on June 28 following the death of President Ebrahim Raisi last month.",
+        "description": "Iran approved six candidates, almost all conservatives, to run in a presidential contest on June 28 following the death of President Ebrahim Raisi last month.",
+        "link": "https://www.wsj.com/world/middle-east/iran-approves-six-candidates-to-run-for-president-all-but-one-are-conservatives-e0e21c86",
+        "id": "3FE02341-AAF5-4E58-AF27-47DA5B31CC51"
+      },
+      {
+        "title": "The Biden administration is close to completing a treaty with Saudi Arabia that would commit the U.S. to help defend the Gulf nation as part of a long-shot deal to encouragediplomatic ties between Riyadh and Israel.",
+        "description": "The Biden administration is close to completing a treaty with Saudi Arabia that would commit the U.S. to help defend the Gulf nation as part of a long-shot deal to encourage diplomatic ties between Riyadh and Israel.",
+        "link": "https://www.wsj.com/world/middle-east/us-saudi-arabia-defense-treaty-israel-palestine-e2cc1821",
+        "id": "82D474FC-978D-45DD-A43A-76FDE166BB7E"
+      }
+    ],
+    "date": "2024-06-10"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In realm European 'neath Union's crest,\nStrength bandied by right-wing's best,\nCall of French king, elections arrest,\nGerman chieftain's rank doth jest.\n\nIn terrain where mountain criers rest,\nCollapses great, Teton's crest,\nLink 'twixt Idaho and Wyoming oppressed,\nFor time untold, its path suppressed.\n\nInternal rifts, external quest,\nUpon high court's term lay raw unrest,\nElection's fate, a fickle guest,\nEthics question, a stern behest.",
+    "feedItems": [
+      {
+        "title": "Right-wing parties put  on a show of strength in European Union elections, prompting France's president to call national elections and underscoring the German chancellor's position lagging two rival parties, according to initial projections.",
+        "description": "Right-wing parties put on a show of strength in European Union elections, prompting France’s president to call national elections and underscoring the German chancellor’s position lagging two rival parties, according to initial projections.",
+        "link": "https://www.wsj.com/world/europe/european-union-vote-delivers-shift-to-right-in-blow-to-french-and-german-governments-8f1c0f23",
+        "id": "C2A6E6BA-54FF-4D6B-9CAC-F4B7BD5EFF41"
+      },
+      {
+        "title": "A large section of a mountain highway linking Idaho and Wyoming collapsed after a landslide, closing the Teton Pass indefinitely, officials said.",
+        "description": "A large section of a mountain highway linking Idaho and Wyoming collapsed after a landslide, closing the Teton Pass indefinitely, officials said.",
+        "link": "https://www.wsj.com/us-news/section-of-wyomings-teton-pass-collapses-e56c827d",
+        "id": "2C59FAF4-02F9-430F-B5F6-5E531A226C34"
+      },
+      {
+        "title": "Internal fissures and external pressure have intensified at the Supreme Court as it heads to the end of the current term, with pending cases that could remake the presidential election and with ethical questions dogging some of its members.",
+        "description": "Internal fissures and external pressure have intensified at the Supreme Court as it heads to the end of the current term, with pending cases that could remake the presidential election and with ethical questions dogging some of its members.",
+        "link": "https://www.wsj.com/us-news/law/supreme-courts-strains-intensify-as-terms-end-approaches-1d2b3d77",
+        "id": "A91627B0-28B9-462F-B490-C50AA0D75736"
+      }
+    ],
+    "date": "2024-06-10"
+  }
+]
