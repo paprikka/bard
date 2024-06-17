@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In shadows, or a golden glare,\nBiden and Trump brace to battle fair.\nAge becomes a wild mare,\nMayhap to tilt the scales of welfare.\n\nUpon China's data, oil leans,\nStable in the market scene.\nYet the traders, keen-eyed, glean,\nMore is sensed than can be seen.\n\nHear ye now, 'tis Russia's court,\nSecret trials, justice to thwart.\nGershkovich, a scribe of sorts,\nAmidst June's bloom, the battle's fought.",
+    "feedItems": [
+      {
+        "title": "Biden's Secret Weapon Against Trump: Older Voters",
+        "description": "Senior citizens, long a reliable voting bloc for Republicans, are showing signs of turning into an election-year swing group, potentially giving President Biden an unlikely boost in his tough rematch against Donald Trump.",
+        "link": "https://www.wsj.com/articles/bidens-secret-weapon-against-trump-older-voters-f87e861b",
+        "id": "WP-WSJ-0001842291"
+      },
+      {
+        "title": "Oil Flat on Mixed Data From China",
+        "description": "Oil prices were broadly stable as traders digested mixed data from top consumer China.",
+        "link": "https://www.wsj.com/articles/oil-falls-opecs-supply-policy-may-remain-supportive-of-prices-bd24a128",
+        "id": "WP-WSJ-0001843631"
+      },
+      {
+        "title": "Russia Sets Hearing as It Moves Toward Secret Trial of Falsely Accused WSJ Reporter",
+        "description": "A Russian court said judicial proceedings in the case of Evan Gershkovich would be held in secret, with the first hearing beginning on June 26.",
+        "link": "https://www.wsj.com/articles/russia-sets-hearing-as-it-moves-toward-trial-of-falsely-accused-wsj-reporter-evan-gershkovich-d579e708",
+        "id": "WP-WSJ-0001843975"
+      }
+    ],
+    "date": "2024-06-17"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "With gold in free fall, a crisis doth call,\nThe dollar rises, Fed chatter apprises.\nLike ale that's bitter, investors a'twitter,\nTheir hopes now as brittle as old potter's litter.\n\nThe dollar doth climb, taking its time,\nMarkets pruned as in a winter time rime.\nThe rate cuts, they falter, at the High Altar,\nBrothers Harriman proclaim, 'tis no matter to alter.\n\nBehold China's grace, in the visa race,\nFor Australians, a friendly embrace.\nLi's decree, a welcome spree,\nLike wine poured free, in holy jubilee.",
+    "feedItems": [
+      {
+        "title": "Metal Prices Fall as Gold Slips on Dollar and Chinese Aluminum Production Rises",
+        "description": "Base metals and gold futures fell as the dollar rose with investors weighing up the likelihood of fewer U.S. interest-rate cuts, given hawkish Fed commentary.",
+        "link": "https://www.wsj.com/articles/gold-falls-may-remain-supported-aae4185b",
+        "id": "WP-WSJ-0001843629"
+      },
+      {
+        "title": "Dollar Has Scope to Rise as Markets Likely Price in Too Many U.S. Rate Cuts",
+        "description": "There is room for U.S. interest-rate expectations to adjust higher which should help strengthen the dollar, Brown Brothers Harriman said.",
+        "link": "https://www.wsj.com/articles/boj-gov-uedas-change-in-yen-rhetoric-may-weigh-on-usd-jpy-4d5c355c",
+        "id": "WP-WSJ-0001843627"
+      },
+      {
+        "title": "China to Include Australia in Visa Waiver Program",
+        "description": "China will include Australia in its visa waiver program, Premier Li Qiang announced after his meeting with Australian Prime Minister Anthony Albanese, a sign of improving bilateral relations between the two countries.",
+        "link": "https://www.wsj.com/articles/china-to-include-australia-in-visa-waiver-program-281c73b6",
+        "id": "WP-WSJ-0001843936"
+      }
+    ],
+    "date": "2024-06-17"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the seas of Gold, a tale most weary,\nUBS, struck with a blow near fatal,\nUpon its chest, lays the weight of Greenhill's folly,\nHanding gold they gave, to ones loyal, nine-tenths of the total.\n\nIn the chilled realm of the Fin and the Dane,\nSampo emerges victorious, wrapped in glory's silken thread,\nPristine Topdanmark, now its prize to claim,\nThus grows Sampo, in power and dread.\n\nYet in the South, in Gaule's storied land,\nA storm attrits upon her noble bonds,\nMarkets tremble, steadying hand in hand,\nIn this chaos, a quick cure absconds.",
+    "feedItems": [
+      {
+        "title": "UBS to Book $900 Million Provision on Funds Linked to Greensill",
+        "description": "UBS said investors who accept the buyout offer will get 90% of the net asset value as at February 2021.",
+        "link": "https://www.wsj.com/articles/ubs-to-book-900-million-provision-on-credit-suisse-supply-chain-funds-offer-228b0f48",
+        "id": "WP-WSJ-0001843980"
+      },
+      {
+        "title": "Finnish Insurer Sampo to Buy Topdanmark For $4.7 Billion",
+        "description": "Sampo has agreed to buy Danish rival Topdanmark for $4.7 billion in an all-share deal, consolidating its position in the property and casualty insurance market.",
+        "link": "https://www.wsj.com/articles/sampo-to-buy-topdanmark-in-4-73-billion-all-share-deal-556b87f3",
+        "id": "WP-WSJ-0001843966"
+      },
+      {
+        "title": "Markets Continue to Focus on French Government Bond Performance",
+        "description": "Eurozone bond market focus will firmly remain on the dynamics of French government bond yield spreads, Commerzbank Research said, as “several sessions of stabilization seem needed to calm nerves, but there is still no quick fix in sight.”",
+        "link": "https://www.wsj.com/articles/eurozone-government-bond-yield-curves-seen-unlikely-to-steepen-soon-0941e4a6",
+        "id": "WP-WSJ-0001843957"
+      }
+    ],
+    "date": "2024-06-17"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From yonder Land of the Rising Sun, a tale of woe hath begun,\nWhere ivory towers of the earthly kind, the path of fortune, have shunned.\nFickle Mistress, this invisible hand, stirs dread in Nippon's heartland,\nAs the serpents of commerce coil and unwind, on the Bank's uncertain command.\n\nUpon the morrow, to the West, the promise of Mid-Term fest,\nBehold, the lender ING in her amber financial vest.\nShe dost speak in tones of gold, declaring visions brave and bold,\nTo silver-lined horizons she’ll steer, by the year of Twenty-Seven told.\n\nIn Gaza's heart hides a tale untold, within a house of secrecy hold,\nA scribe, a healer, cloaked in the ordinary fold.\nThey journey not beyond their door, in silence kept, they endure,\nFor within their chambered dwelling, their freedom, cruelly stole.",
+    "feedItems": [
+      {
+        "title": "Nikkei Falls 1.8%, Dragged by Real-Estate Stocks",
+        "description": "Japanese stocks ended lower, dragged by falls in real-estate stocks, as uncertainty grew about the Bank of Japan’s policy outlook.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-slip-ahead-of-rba-decision-a3525470",
+        "id": "WP-WSJ-0001843625"
+      },
+      {
+        "title": "ING Outlines Mid-Term Targets",
+        "description": "ING expects to grow its income and for its return on equity to rise in the mid-term, as the lender detailed its financial targets to 2027.",
+        "link": "https://www.wsj.com/articles/ing-groep-to-grow-mid-term-income-return-on-equity-b678e615",
+        "id": "WP-WSJ-0001843931"
+      },
+      {
+        "title": "The Hostages Next Door: Inside a Notable Gaza Family's Dark Secret",
+        "description": "To the outside world, they were a physician and a journalist. No one suspected their apartment had become a prison.",
+        "link": "https://www.wsj.com/articles/the-hostages-next-door-inside-a-notable-gaza-familys-dark-secret-2896f6aa",
+        "id": "WP-WSJ-0001843363"
+      }
+    ],
+    "date": "2024-06-17"
+  }
+]
