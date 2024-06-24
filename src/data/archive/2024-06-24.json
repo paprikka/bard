@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Dagestan's realm of Russian land,\nUnleashes havoc, a scornful band.\nUpon the altar, upon the pew,\nThey let incendiary fury slew.\n\nBetween the circles of the market's pole,\nStands Apple's name, a stoic role.\nIn pre-dawn lights, shares hold their breath,\nWhilst the EU whispers of potential death.\n\nIn Germany's heart, the sentiment fades,\nBusiness climates wane in shadowy glades.\nIfo's index in mournful decline,\nEconomists' forecasts are left behind.",
+    "feedItems": [
+      {
+        "title": "Terrorist Attacks in Russia's Dagestan Target Synagogue, Churches, Police",
+        "description": "Russian authorities said the assailants opened fire on houses of worship in Dagestan’s capital of Makhachkala and the city of Derbent.",
+        "link": "https://www.wsj.com/articles/terrorist-attacks-in-russias-dagestan-target-synagogue-churches-police-96c7efba",
+        "id": "WP-WSJ-0001856650"
+      },
+      {
+        "title": "Apple Shares Largely Flat Following EU Charges Under New Tech Law",
+        "description": "Apple shares were largely flat in premarket exchanges after the European Union said the iPhone maker’s App Store rules might be in breach of the bloc’s Digital Markets Act.",
+        "link": "https://www.wsj.com/articles/nikkei-may-fall-amid-boj-policy-uncertainty-66bf7bce",
+        "id": "WP-WSJ-0001856646"
+      },
+      {
+        "title": "German Business Sentiment Declines on Gloomier Outlook",
+        "description": "The Ifo Institute’s business-climate index fell to 88.6 in June, against economists’ expectations it would rise to 89.6,",
+        "link": "https://www.wsj.com/articles/german-business-sentiment-declines-on-gloomier-outlook-4a317d88",
+        "id": "WP-WSJ-0001857049"
+      }
+    ],
+    "date": "2024-06-24"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Gold akin a steadfast goat, across the field does it scuttle,\nIn wait of clues, both clear and ripe, in inflation's subtle huddle.\nSilver rabbits, brass-born dogs, a mixed-metal melee,\nWhilst the falcon, monetary, has yet lost its way.\n\nDollar, a noble hound, gains ground in gaiety,\nDespite vague shadows cast by data's instability,\nIn French grounds, a threat now looms, a darkened rally wakes,\nA hedge for uncertainty, its favoured position takes.\n\nOil, the snail upon the leaf, a slow but sturdy feature,\nIn calm it lies, its breath is held, an attentive, cautious creature.\nFlush before data’s stern reveal, the path of cuts untold,\nA patient wait, a silent quake, as the week's tale unfolds.",
+    "feedItems": [
+      {
+        "title": "Gold Trades Flat; Investors Looking for New Catalysts",
+        "description": "Gold edged higher while base metals were mixed, as traders awaited fresh clues on the path of U.S. inflation and monetary policy.",
+        "link": "https://www.wsj.com/articles/gold-trades-flat-investors-looking-for-new-catalysts-78c98e96",
+        "id": "WP-WSJ-0001856652"
+      },
+      {
+        "title": "French Election Concerns Likely to Lift Dollar, Offseting Potential Weak U.S. Inflation Data",
+        "description": "The dollar has emerged the favored hedge for political uncertainty ahead of elections in France where the far-right National Rally party is expected to make significant gains, ING said.",
+        "link": "https://www.wsj.com/articles/yen-strengthens-slightly-on-report-of-japans-fx-intervention-warning-bdeabc79",
+        "id": "WP-WSJ-0001856660"
+      },
+      {
+        "title": "Oil Broadly Stable Ahead of U.S. Inflation Data This Week",
+        "description": "Oil prices were broadly stable early in the European session, as traders awaited key U.S. inflation data later in the week for more cues on the path of interest-rate cuts.",
+        "link": "https://www.wsj.com/articles/oil-futures-lower-investors-taking-profit-after-solid-weekly-gain-08a37a19",
+        "id": "WP-WSJ-0001856657"
+      }
+    ],
+    "date": "2024-06-24"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From Apple tree, a tempest brews in Eoropa's wide expanse,\n'Midst rules of digital marketplace, it's set to take a stance.\nWith search and ad, and app domain, where Godly power enhances,\nThis lore is forged of first charges, in Act's new fiery dance.\n\nPaladin of Energy, from Austral's distant shore,\nDoth join with Fission Uranium, in darkling mines ores bore.\nSeeking to build a kingdom grand, midst fuel of nuclear core,\nA global supplier to emerge, in this bold, audacious lore.\n\nHark! Hesitant German Bunds, in trading mire seep,\nDirectionless like a rudderless ship lost in the ocean's deep.\nAwaiting Ifo data's call, as Loki's kin doth creep,\nA weak pulse in market's heart, a hushed secret to keep.",
+    "feedItems": [
+      {
+        "title": "Apple Hit by First Charges Under New European Tech Law",
+        "description": "The charges are the first to be issued under the EU’s Digital Markets Act, which sets out a long list of rules aimed at boosting competition in digital advertising, online search and app ecosystems.",
+        "link": "https://www.wsj.com/articles/apple-to-face-first-charges-under-new-european-tech-law-bee2a51d",
+        "id": "WP-WSJ-0001857006"
+      },
+      {
+        "title": "Paladin Energy Agrees to Buy Fission Uranium",
+        "description": "Australian uranium company Paladin Energy has agreed to buy Canada’s Fission Uranium, aiming to create a globally significant supplier of the nuclear fuel.",
+        "link": "https://www.wsj.com/articles/paladin-energy-agrees-to-buy-fission-uranium-4e9a3169",
+        "id": "WP-WSJ-0001857010"
+      },
+      {
+        "title": "German Bunds Seen Trading Directionless Ahead of Ifo Data",
+        "description": "Bunds were lacking direction as the market awaited German Ifo data at 0800 GMT, which deserves more attention than usual after the surprisingly weak purchasing manager surveys on Friday, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/jgbs-fall-on-prospects-of-boj-rate-increases-24e3edc3",
+        "id": "WP-WSJ-0001856663"
+      }
+    ],
+    "date": "2024-06-24"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In South Africa's soil and timeless hill,\nA mad pursuit unfolds, for quartz they still.\nAre healing crystals pain they query not?\nThus, in their search, God's humble earth is robbed in lot.\n\nIn the Black Sea, Ukraine’s vessels flew,\nAgainst the tide of wars, unseen they grew.\nTheir wings unmanned, yet braced for battles high,\nTheir flight recalls God’s angels in the sky.\n\nBrother Kellner's soul hath flown on high too,\nInto the Lord's embrace, from mortal view.\nFrom Fox's cradle, his path was sown,\nNow in the Almighty's network, he's surely known.",
+    "feedItems": [
+      {
+        "title": "How 'Healing' Crystals Are Painful to Mine",
+        "description": "A global celebrity-driven craze for quartz has caused a rush to dig in backyards and hillsides in rural South Africa.",
+        "link": "https://www.wsj.com/articles/how-healing-crystals-are-painful-to-mine-2858ebfb",
+        "id": "WP-WSJ-0001856332"
+      },
+      {
+        "title": "How Ukraine's Naval Drones Turned the Tide in the Battle of the Black Sea",
+        "description": "Unmanned vessels developed in the fight against Russia are part of a revolution in modern warfare.",
+        "link": "https://www.wsj.com/articles/naval-drones-innovation-warfare-ukraine-russia-ce35adfa",
+        "id": "WP-WSJ-0001850851"
+      },
+      {
+        "title": "Died: Jamie Kellner, 77, helped launch Fox network.",
+        "description": "Died: Jamie Kellner, 77, helped launch Fox network.",
+        "link": "https://www.wsj.com/business/media/jamie-kellner-architect-of-fox-and-wb-networks-dies-at-77-b47ac001",
+        "id": "BDDFA19B-0F9D-4391-AFF5-187DD7FA48B8"
+      }
+    ],
+    "date": "2024-06-24"
+  }
+]
