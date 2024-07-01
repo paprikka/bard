@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Of Trump's companions, a maiden stands alone,\nAmongst knights of stature, her name hath little known.\nIn the dance of power, a jester in the hall,\nStefanik, a lily compared to Rubio tall.\n\nNext, the high tribunal, in summer's soft embrace,\nDecides upon Trump's protection, twixt truth and saving grace.\nAn unfamiliar darkness casts upon the race,\nFreedom or confinement, in the court's encircling space.\n\nLast, Bannon stands at the tower's looming gate,\nAn outcast yet a shadow, fuels the fire of debate.\nIn the grumble of the dungeon, he finds his twisted fate,\nA snail beneath the leaf, undeterred by the weight.",
+    "feedItems": [
+      {
+        "title": "As Trump's VP List Narrows, One Woman Remains---and She's a Long Shot",
+        "description": "Elise Stefanik is thought to be a lower-tier contender to Marco Rubio, Doug Burgum and J.D. Vance.",
+        "link": "https://www.wsj.com/articles/as-trumps-vp-list-narrows-one-woman-remainsand-shes-a-long-shot-fabedbe0",
+        "id": "WP-WSJ-0001870129"
+      },
+      {
+        "title": "Supreme Court Set to Decide Trump's Bid for Immunity",
+        "description": "Monday’s expected ruling, before the court’s summer break, could add more drama to presidential race.",
+        "link": "https://www.wsj.com/articles/donald-trump-immunity-supreme-court-ruling-7ce6415b",
+        "id": "WP-WSJ-0001861329"
+      },
+      {
+        "title": "Steve Bannon Is Heading to Prison. He'll Still Have Influence in Trump World.",
+        "description": "As he prepares to serve a contempt-of-Congress sentence, the former White House aide embraces his image as a “dangerous” voice.",
+        "link": "https://www.wsj.com/articles/steve-bannon-is-heading-to-prison-hell-still-have-influence-in-trump-world-9e1ac76e",
+        "id": "WP-WSJ-0001870961"
+      }
+    ],
+    "date": "2024-07-01"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Biden's fated doom approacheth, fair and clear,\nThe ancients' wisdom, to youthful hearts, did they forswear,\nHis rule and power, birthed from a wind's subtle shifts,\nNow Democrats harvest the storm that age so swiftly gifts.\n\nCross the briny expanse, in Gaullish markets rears a mighty wave,\nCurrency and bonds chant victory, the nation's coffers they save,\nAgainst the stormcrows' cawing, allies form a shield,\nBarring far-right's advance, in the second battle to be revealed.\n\nThe heart of Earth doth waver, gold's mighty future takes a fall,\nYet in the boundless void, no cries of doom do call,\nWith watchful eyes upon U.S. stagflation's dire birth,\nA new support for precious ore, rises from the earth.",
+    "feedItems": [
+      {
+        "title": "The Sad Inevitability of Biden's Reckoning",
+        "description": "Democrats are paying the price for overriding voter concerns about the president’s age, Molly Ball writes.",
+        "link": "https://www.wsj.com/articles/the-sad-inevitability-of-bidens-reckoning-464e4849",
+        "id": "WP-WSJ-0001871197"
+      },
+      {
+        "title": "French Markets, Euro Rally After First Round of Elections",
+        "description": "French stock markets, government bonds and the euro rallied on expectations of a French cross-party alliance to deny the far-right an overall majority in the second round of the elections.",
+        "link": "https://www.wsj.com/articles/french-markets-euro-rally-on-prospects-of-anti-far-right-alliance-in-france-a6ffcd92",
+        "id": "WP-WSJ-0001871599"
+      },
+      {
+        "title": "Gold Futures Fall But Remain Rangebound on Lack of Drivers",
+        "description": "Gold futures edged lower, having traded in a narrow range for weeks on a lack of stimulus but going forward, investors will look for data that points to U.S. stagflation, which will be supportive for the precious metal, MKS PAMP said.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-fed-path-remains-in-focus-15d82da2",
+        "id": "WP-WSJ-0001871214"
+      }
+    ],
+    "date": "2024-07-01"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Albion's heart a reckoning grows nigh,\nElection's mark dost not disturb the pound.\nThe Labour front, a crown they seek to plough,\nYet sterling's pulse, it dost not upward bound.\n\nFrom Hungary rings forth a strident horn,\nA champion of Trump exclaims his creed.\n\"Make Europe Great\", his motto worn with scorn,\nWith scepter of the Union takes the lead.\n\nIn Gallic lands where bonds of trade do sway,\nUncertainties from politics embroil.\nThe second round of vote doth cast a gray,\nYet through the storm, their yield retains its coil.",
+    "feedItems": [
+      {
+        "title": "UK Election Is Likely to Have Little Impact on Sterling",
+        "description": "The July 4 U.K. general election may have little impact on sterling as the opposition Labour Party is widely expected to secure a majority, ING said.",
+        "link": "https://www.wsj.com/articles/eur-usd-edges-lower-national-rally-wins-first-round-of-french-elections-afca5551",
+        "id": "WP-WSJ-0001871176"
+      },
+      {
+        "title": "Trump's Top Fan in Europe Grasps a Political Megaphone With EU Presidency",
+        "description": "The anti-immigration Hungarian leader Viktor Orban takes his turn in the bloc’s rotating presidency under the motto “Make Europe Great Again.”",
+        "link": "https://www.wsj.com/articles/trumps-top-fan-in-europe-grasps-a-political-megaphone-with-eu-presidency-71d6cc75",
+        "id": "WP-WSJ-0001870863"
+      },
+      {
+        "title": "Trading in French Bonds Could Be Choppy Ahead of Second Election Round",
+        "description": "The 10-year French government bond yield spread over German peers narrowed but price action in French bonds will likely be choppy until the next election round on Sunday, Mizuho said.",
+        "link": "https://www.wsj.com/articles/jittery-bond-traders-await-outcome-of-french-elections-6b69511f",
+        "id": "WP-WSJ-0001871219"
+      }
+    ],
+    "date": "2024-07-01"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Behold the tale of the oil, so fine,\nIts price doth rise, traders intertwine. \nLike hearty ale in a monk's holy feast,\nSpeculative gold doth on it increase.\n\nFrance's CAC-40, 'tis a merry chime,\nLike wine after Mass, it climbs in time.\nNo far-right rule, the people cheer,\nAn election outcome that brings no fear.\n\nAtos, stuck like a wagon in the mire,\nStrikes a deal, of new terms they acquire.\nLike a friar who's lost his flask of ale,\nSeeks solace and strength to set sail.",
+    "feedItems": [
+      {
+        "title": "Oil Prices Rise as Traders Continue to Bet on Market Tightening",
+        "description": "Oil prices rose as expectations for a tighter market continued to pull in speculative money, with the latest trader data showing the net long increased over the last week, ING said.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-supported-by-geopolitical-tensions-a7fc2fdb",
+        "id": "WP-WSJ-0001871227"
+      },
+      {
+        "title": "France's CAC-40 Expected to Open Sharply Higher After Elections",
+        "description": "France’s CAC-40 is expected to open around 2.7% higher, according to IG, due to expectations that the far-right won’t secure an overall majority after Sunday’s first-round elections.",
+        "link": "https://www.wsj.com/articles/nikkei-up-0-7-led-by-trading-houses-carmakers-1fa8e971",
+        "id": "WP-WSJ-0001871245"
+      },
+      {
+        "title": "Atos Strikes Agreement on Financial Rescue Terms",
+        "description": "Atos said it reached an agreement with a group of banks and bondholders on the terms of its financial restructuring as the struggling French IT firm seeks to shore up its coffers.",
+        "link": "https://www.wsj.com/articles/atos-strikes-agreement-on-financial-rescue-terms-84836a57",
+        "id": "WP-WSJ-0001871542"
+      }
+    ],
+    "date": "2024-07-01"
+  }
+]
