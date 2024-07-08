@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "A hurricane named Beryl, a storm fierce and cruel,\nReshapes the land's hide, a merciless tool.\nA thousand flights grounded, the tempest's wrath unfurled,\nBearing havoc from Caribbean to the New World.\n\nThe Sterling lies still, a sea 'neath calm skies,\nNo tempest nor fury in politics lies.\nMark well Starmer's entry, victory unfurls,\nPolitics' maelstrom around him whirls.\n\nOil's wealth declines, as ceasefire talks begin,\nGaza's plight and storm Beryl cause chagrin.\nTraders watch and worry, fate yet undetermined,\nWhile the flame of conflict is yet unextinguished, still unburned.",
+    "feedItems": [
+      {
+        "title": "Hurricane Beryl to Make Landfall in Texas After Ripping Through Caribbean",
+        "description": "More than a thousand flights were canceled as the state braced for the now Category 1 storm, which caused catastrophic damage during its path across the Caribbean.",
+        "link": "https://www.wsj.com/articles/hurricane-beryl-to-make-landfall-in-texas-after-ripping-through-caribbean-19347758",
+        "id": "WP-WSJ-0001886255"
+      },
+      {
+        "title": "U.K. Politics Are Unlikely to Move Sterling For Now",
+        "description": "Sterling is likely to remain little moved by U.K. politics for now as markets monitor Keir Starmer’s first week as Prime Minister after his widely-expected landslide victory in the general election on Thursday, ING said.",
+        "link": "https://www.wsj.com/articles/eur-edges-higher-french-elections-2nd-round-outcome-weighs-1e63b359",
+        "id": "WP-WSJ-0001885549"
+      },
+      {
+        "title": "Oil Slips Amid Gaza Ceasefire Talks, Hurricane Beryl Threat",
+        "description": "Oil prices edged lower as negotiations over a ceasefire and hostage deal in Gaza resumed and traders monitored the potential effect of Hurricane Beryl on U.S. production and operations.",
+        "link": "https://www.wsj.com/articles/oil-consolidates-as-traders-digest-mixed-u-s-employment-report-79c9fea5",
+        "id": "WP-WSJ-0001885554"
+      }
+    ],
+    "date": "2024-07-08"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In France, fair stocks fell and then did rise,\nIn wake of elections, to our surprise.\nLike wine uncorked, alliances tread,\nTowards political frailty, uncertainty spread.\n\nAwait we are, with bated breath keen,\nFor profit's whisper from the Chase's queen.\nLike an ale house dice throw, stakes grow high,\nOn indices price, where fortunes lie.\n\nWith the Citigroup's coffers ye shall hear tell,\nOf gains and losses, do they fare well?\nInflation's mirror held to June's light,\nWe pray for wealth in this fiscal night.",
+    "feedItems": [
+      {
+        "title": "French Stocks Recover From Initial Fall After Leftist Alliance Win",
+        "description": "French stocks rose while government bonds fell in early trading after a party alliance led by the far-left emerged first in the country’s parliamentary elections, pushing France toward political paralysis.",
+        "link": "https://www.wsj.com/articles/french-stocks-recover-from-initial-fall-after-leftist-alliance-win-db7a81ae",
+        "id": "WP-WSJ-0001886263"
+      },
+      {
+        "title": "Stock Futures Lower Ahead of Busy Earnings Week",
+        "description": "Investors are awaiting results from JPMorgan Chase and Citigroup, and will also get a fresh insight on inflation with June’s consumer-price and producer-price indexes.",
+        "link": "https://www.wsj.com/articles/stock-futures-lower-ahead-of-busy-earnings-week-4a920bed",
+        "id": "SB10230729580433794449404591156173564201078"
+      },
+      {
+        "title": "Stock Futures Lower Ahead of Busy Earnings Week",
+        "description": "Investors are awaiting results from JPMorgan Chase and Citigroup, and will also get a fresh insight on inflation with June’s consumer-price and producer-price indexes.",
+        "link": "https://www.wsj.com/articles/stock-futures-lower-ahead-of-busy-earnings-week-07cafb67",
+        "id": "SB10230729580433794449404591156162125960404"
+      }
+    ],
+    "date": "2024-07-08"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Amidst the morning's chirping song,\nGold does slip as rabbits dart along,\nYet it grasps the snail's steady pace,\nUnveiling June's lustrous face.\n\nThe goat bell tolls the election's end,\nIn banks, a stir, on time they depend.\nIn focus, French banks stand verily,\nPonder they, 'pon the votes' mystery.\n\nGuarded by a centrist's hand, \nMay the French-German bonds expand.\nLike loyal dogs in evening's gloam,\nTighten bonds that call France home.",
+    "feedItems": [
+      {
+        "title": "Gold Futures Slip But Broadly Keep Gains From U.S. Data-Driven Rally",
+        "description": "Gold was lower in early European trading but broadly held ground after it reached its highest price since early June on Friday, driven by softer-than-expected U.S. data.",
+        "link": "https://www.wsj.com/articles/gold-slips-in-a-possible-technical-correction-09a30a2a",
+        "id": "WP-WSJ-0001885551"
+      },
+      {
+        "title": "Credit Investors Need Time to Assess Election Impact on Banks",
+        "description": "In credit markets, the surprising outcome of the second round of the French election will be the main topic, with French banks being in focus, UniCredit Research said.",
+        "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-lower-open-8edcaec8",
+        "id": "WP-WSJ-0001885546"
+      },
+      {
+        "title": "Centrist-Led French Government Could See French-German Bond Spreads Tighten",
+        "description": "If a centrist/technocrat prime minister is installed in France and political uncertainty subsides, the 10-year French OAT-German Bund yield spread is likely to tighten, Nomura said.",
+        "link": "https://www.wsj.com/articles/jgbs-fall-on-growing-prospects-of-boj-policy-normalization-97c79f89",
+        "id": "WP-WSJ-0001885556"
+      }
+    ],
+    "date": "2024-07-08"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "'Tis Carlsberg, that Danish ale-house fine, \nBritvic they seek in their grand design,\nTo quench the thirst that does not call for wine,\nAnd lessen ye dependence on the hop-vines twine.\n\nAlas! The men of Samsung, take to their heels,\nTo strike a blow, for greater commonweals,\nThree days they vow, to stop the turning wheels,\nYet claim the lords, 'twill not disrupt our deals.\n\nIn lands afar, where the kangaroos roam,\nBusiness dips into savings, 'gainst the loan's heavy tome,\nStill, arrears are few, as if guided by gnome,\nThus speaks the banker, from his gilded home.",
+    "feedItems": [
+      {
+        "title": "Carlsberg to Buy Britvic for $4.2 Billion",
+        "description": "The Danish brewer agreed to buy London-listed soft drinks maker Britvic as part of a plan to expand in the non-alcoholic beverage market and reduce reliance on beer sales.",
+        "link": "https://www.wsj.com/articles/carlsberg-to-buy-britvic-for-4-23-billion-b04dfa39",
+        "id": "WP-WSJ-0001886176"
+      },
+      {
+        "title": "Thousands of Samsung Workers Walk out for Three-Day Strike",
+        "description": "Samsung said there were no immediate disruptions to production.",
+        "link": "https://www.wsj.com/articles/thousands-of-samsung-workers-walk-out-for-three-day-strike-85165ca2",
+        "id": "WP-WSJ-0001886152"
+      },
+      {
+        "title": "Australian Businesses Dipping Into Savings, but Arrears Still Low",
+        "description": "Australian businesses are dipping into savings to cover running costs and repay debts amid higher-for-longer rates, but arrears remain low for now, the head of business banking at the country’s largest lender said.",
+        "link": "https://www.wsj.com/articles/australian-businesses-dipping-into-savings-but-arrears-still-low-f861a8e7",
+        "id": "WP-WSJ-0001886102"
+      }
+    ],
+    "date": "2024-07-08"
+  }
+]
