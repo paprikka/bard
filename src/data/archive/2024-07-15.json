@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Wisconsian lands, the Trump kin does gain,\nWhere shot-cast clouds disrupt the court's refrain.\nUpon assassination's heels, the gathering's blight,\nOnce king's peril twines with convention's night.\n\nBank earnings approach, JPMorgan leading,\nCitigroup follows the financial tiding.\nStern lookouts eye banking system's plight,\nFor interest, higher-for-longer, fans the fright.\n\nKagame, hailed chief, cloak'd in election glory,\nLandslide dissembled by Rwanda's story,\nWhere poverty claws and neighbours contemn,\nIn Congo’s heart, issues joust and stem.",
+    "feedItems": [
+      {
+        "title": "Trump Is Gaining in Wisconsin, Where Shooting Casts Cloud Over Start of RNC",
+        "description": "The convention comes on the heels of the assassination attempt on former president.",
+        "link": "https://www.wsj.com/articles/wisconsin-trump-biden-polls-republican-national-convention-2cda6686",
+        "id": "WP-WSJ-0001901535"
+      },
+      {
+        "title": "JPMorgan, Citigroup to Kick Off Bank Earnings",
+        "description": "Investors will be on the lookout for more signs of weakness in the banking system, as well as the impact of higher-for-longer interest rates.",
+        "link": "https://www.wsj.com/articles/stock-futures-lower-ahead-of-busy-earnings-week-4a920bed",
+        "id": "SB10230729580433794449404591156173564201078"
+      },
+      {
+        "title": "Kagame's Expected Election Landslide Disguises Growing Problems for Rwanda",
+        "description": "The country struggles with high poverty rates and growing criticism of its meddling in neighboring Congo.",
+        "link": "https://www.wsj.com/articles/kagames-expected-election-landslide-disguises-growing-problems-for-rwanda-71d7b747",
+        "id": "WP-WSJ-0001904179"
+      }
+    ],
+    "date": "2024-07-15"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Golden yield, once in merry play,\nFalls soft as a dove in twilight's sway.\nA snail-like slide, shy of the sun's ray,\nLoyal to the $2,400 boulevard's array.\n\nFirm as a hound, gilt yield holds the day,\nA rabbit in the thicket, alert but at bay.\nAwaiting the morrow's inflation ballet,\nSeeks insight, as morning seeks the ray.\n\nOil, once proud as a hawk in mid-May,\nSlips, as Trump's fortunes sway.\nDark talks of the bullet's foray,\nIn Pennsylvania's dramatic play.",
+    "feedItems": [
+      {
+        "title": "Gold Futures Pare Gains After Thursday Rally But Stay Above $2,400 Mark",
+        "description": "Gold futures fell but remained above the $2,400 mark after the softer-than-expected U.S. inflation data on Thursday boosted the case for a dovish pivot towards easing monetary policy at the July Federal Reserve meeting, JPMorgan said.",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-in-likely-profit-taking-c70bec6e",
+        "id": "WP-WSJ-0001903710"
+      },
+      {
+        "title": "Gilt Yields Relatively Steady, Focus on Wednesday's U.K. Inflation Data",
+        "description": "Gilt yields were largely unchanged as investors looked ahead to Wednesday’s U.K. inflation data to gain insight on when the Bank of England could starting cutting interest rates.",
+        "link": "https://www.wsj.com/articles/climate-transition-jgbs-auction-may-struggle-to-attract-demand-60055c72",
+        "id": "WP-WSJ-0001903837"
+      },
+      {
+        "title": "Oil Slips on Stronger U.S. Dollar After Trump Assassination Attempt",
+        "description": "Oil prices edged down as the dollar gained, with investors speculating about the chances of Trump winning the upcoming U.S. election in the wake of the weekend shooting in Pennsylvania.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-supply-disruption-risks-may-support-b4a79019",
+        "id": "WP-WSJ-0001903748"
+      }
+    ],
+    "date": "2024-07-15"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "A tune to the Sachs of Goldman, their earnings now in light,\nFourth quarters bearing gold, in analysts' sight,\nVerily, the season of gain doth crest, \nIn this marketplace of fervour and incessant quest.\n\nNext, the sovereign dollar, amidst ebbing stocks doth tower,\nSurviving Trump's attempted fall, within the fatal hour,\nEconomies of orient lands, their growth doth slow,\nYet, market hearts scarce feel the blow.\n\nLastly, Swatch, the clockmaker, its profits lost in time,\nTo the Eastern realm's diminished chime.\nYet, brave do they face the year, fraught with dismay,\nIn pursuit of tomorrow, come what may.",
+    "feedItems": [
+      {
+        "title": "Goldman Sachs Earnings in Spotlight",
+        "description": "Earnings season revs up this week, with analysts expecting S&P 500 companies to report a fourth straight quarter of earnings growth.",
+        "link": "https://www.wsj.com/articles/jpmorgan-citigroup-to-kick-off-bank-earnings-7e5c0f36",
+        "id": "SB10230729580433794449404591164241961225036"
+      },
+      {
+        "title": "Dollar Edges Higher as Stocks Weaken, Limited Impact From Trump Assassination Attempt",
+        "description": "The safe-haven dollar edged higher, helped by falls in equities after data showed second-quarter Chinese economic growth slowed significantly, while the assassination attempt on Donald Trump had limited impact on markets, ING said.",
+        "link": "https://www.wsj.com/articles/safe-haven-currencies-may-garner-support-after-trump-assassination-attempt-ae7a29a0",
+        "id": "WP-WSJ-0001903705"
+      },
+      {
+        "title": "Swatch Profits Hit by Weaker Chinese Demand",
+        "description": "Swatch reported a steep drop in first-half sales and profits on weaker demand for luxury goods in China, and cautioned it expected the Chinese market to remain challenging until the end of the year.",
+        "link": "https://www.wsj.com/articles/swatch-group-posts-sales-decline-on-weak-demand-in-china-d4330c4d",
+        "id": "WP-WSJ-0001904152"
+      }
+    ],
+    "date": "2024-07-15"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Atos firm, news doth unfurl,\nA deal signed, in finance world whirl.\nTalks of rescue now lie in ruin,\nOnepoint's hopes, now desolation's boon.\n\nIn a land where drakes take wing and soar,\nLuxury shares on market floor.\nIn China's maw, demand wanes thin,\nFades the allure of earthly sin.\n\nBurberry's chief, cast out in the cold,\nAs company's woes, like tales of old.\nTurnaround stalled, no dividend feast,\nA fizzling effort, to say the least.",
+    "feedItems": [
+      {
+        "title": "Atos Signs $1.8 Billion Finance Deal With Banks, Bondholders",
+        "description": "The agreement, which was first flagged earlier this month, comes after rescue talks between Atos and a consortium which included shareholder Onepoint fell apart late June.",
+        "link": "https://www.wsj.com/articles/atos-signs-1-83-billion-finance-deal-with-banks-bondholders-34e6e553",
+        "id": "WP-WSJ-0001904158"
+      },
+      {
+        "title": "Luxury Shares Fall on China's Macroeconomic Challenges",
+        "description": "Shares in European luxury goods companies fell sharply as demand in the all-important Chinese market falters.",
+        "link": "https://www.wsj.com/articles/u-s-stock-index-futures-edge-higher-8ce13648",
+        "id": "WP-WSJ-0001903739"
+      },
+      {
+        "title": "Burberry Replaces CEO as Turnaround Effort Stalls",
+        "description": "British fashion brand Burberry replaced its chief executive officer and said it would halt its dividend amid a downturn in luxury spending—and after a turnaround effort showed signs of fizzling.",
+        "link": "https://www.wsj.com/articles/burberry-anticipates-operating-loss-on-turnaround-challenges-weak-demand-7ba77394",
+        "id": "WP-WSJ-0001904128"
+      }
+    ],
+    "date": "2024-07-15"
+  }
+]
