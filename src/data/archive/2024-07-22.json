@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Congress' hallowed halls, Brother Cheatle takes a stroll,\nTo answer queries sharp as swords, a tumult for his soul.\nA firestorm, a tempest brew'd, o'er Trump's close plight,\nEach lawmaker hath spake, \"We're stew'd!\" 'mid disbelief and spite.\n\nSister Harris' view is clear, on policy she does not steer,\nFrom Biden's path she shall not veer, if she commands the rudder.\nNo radical transforming gust, but steady wind is what she trusts,\nHer vessel steering just and just, no sudden turns to clutter.\n\nThen came the startling decree, Biden hath withdrawn, you see,\nCausing a stirring 'mongst the bee, to change their sweet production.\nTrump's allies, wielding a wealth repourt, lay into Harris without port,\nWhile Democrats in hopeful fort, await a youthful induction.",
+    "feedItems": [
+      {
+        "title": "Secret Service Director Heads to Congress",
+        "description": "Kimberly Cheatle’s appearance before the House Oversight Committee comes after a firestorm last week in which lawmakers expressed disbelief and anger over the near assassination of former President Donald Trump.",
+        "link": "https://www.wsj.com/articles/kimberly-cheatle-secret-service-house-oversight-committee-13a7aaf8",
+        "id": "WP-WSJ-0001920172"
+      },
+      {
+        "title": "How Kamala Harris Views Policy",
+        "description": "If she leads the Democratic ticket, the vice president would be unlikely to dramatically shift off the trajectory of President Biden’s agenda.",
+        "link": "https://www.wsj.com/articles/kamala-harris-policies-abortion-taxes-climate-d746f220",
+        "id": "WP-WSJ-0001920040"
+      },
+      {
+        "title": "Both Sides Abruptly Shift Campaign Strategies After Biden's Withdrawal",
+        "description": "Trump allies are already pouring millions into anti-Harris ads, while Democrats hope a new ticket will add a better and younger contrast with the GOP nominee.",
+        "link": "https://www.wsj.com/articles/both-sides-abruptly-shift-campaign-strategies-after-bidens-withdrawal-8f62392f",
+        "id": "WP-WSJ-0001920292"
+      }
+    ],
+    "date": "2024-07-22"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In realms of gold and fields of azure clear,  \nWhere wings of steel doth fall in tumult vast,  \nThe seafarer's hark brings investor's fear,  \nA summer storm, on fortunes overcast.  \n\nGold's wise hoarders dine on caution's meal,  \nAs throne stands empty of Biden's might,  \nTheir hunger cause the golden wheel to wheel,  \nTo still the tempest of the coming night.  \n\nAnd now, black liquid gold doth rise in worth,  \nOn wind of change its value gently sway,  \nPeace falls as Odin's carriage leave the earth,  \nIn restless hearts, the folk of Midgard pray.",
+    "feedItems": [
+      {
+        "title": "Ryanair Warns of Slump in Air Fares",
+        "description": "Ryanair said it expected its air fares this summer will be “materially lower” than last year, in an announcement that caused its share price to plummet on fears the post-covid boom in the airline industry is over.",
+        "link": "https://www.wsj.com/articles/ryanair-lowers-pricing-outlook-after-earnings-slip-c4e5de38",
+        "id": "WP-WSJ-0001920809"
+      },
+      {
+        "title": "Gold Rises on Safe-Haven Appetite After Biden Drops out of U.S. Election",
+        "description": "Gold prices crept higher on safe-haven demand and a weaker dollar as investors weighed Joe Biden’s decision to end his reelection bid.",
+        "link": "https://www.wsj.com/articles/gold-rises-in-likely-technical-recovery-40513bcb",
+        "id": "WP-WSJ-0001919988"
+      },
+      {
+        "title": "Oil Inches Higher on Softer U.S. Dollar After Biden Drops Out",
+        "description": "Oil prices edged higher on a softer dollar, supported by prospects the Fed will soon start cutting rates and after China’s unexpected decision to cut key rates in efforts to boost growth.",
+        "link": "https://www.wsj.com/articles/oil-prices-rise-in-likely-technical-rebound-b99fe394",
+        "id": "WP-WSJ-0001919992"
+      }
+    ],
+    "date": "2024-07-22"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "At the trading outpost, midst the merchant's chatter,\nBehold, a goat named Vodafone grows fatter.\nSelling twigs of Oak, a fortune makes,\nA snail's burden lifted for what it takes.\n\nWhere eastern dogs in market squabbles snarl,\nTrump's silver tariffs cast a deadly snarl.\nThe rabbit watches as the shadows creep,\nFearful of the losses sown so deep.\n\nIn whispers low, across worn cobbles hummed,\n\"Vivendi seeks new pastures, rightly plumed.\"\nA dove to London, a stag to Amsterdam,\nThe breaking dawn foretells their planned grand slam.",
+    "feedItems": [
+      {
+        "title": "Vodafone Offloads Further Stake in Vantage Towers",
+        "description": "Vodafone has sold a further 10% stake in Oak Holdings, the partnership that co-controls Vantage Towers, for $1.4 billion.",
+        "link": "https://www.wsj.com/articles/vodafone-group-sells-further-10-stake-in-vantage-towers-for-1-4-billion-5598a99e",
+        "id": "WP-WSJ-0001920906"
+      },
+      {
+        "title": "Trump Trade Tariffs Tarnish Outlook for Chinese Equities",
+        "description": "Chinese equities could be among the biggest losers in the event of a potential Trump election victory, according to Citi Wealth, on concerns about his trade policies.",
+        "link": "https://www.wsj.com/articles/nikkei-down-0-5-dragged-by-auto-electronics-stocks-a7e916cc",
+        "id": "WP-WSJ-0001919986"
+      },
+      {
+        "title": "Vivendi Chooses London and Amsterdam for Possible Unit Listings",
+        "description": "Vivendi said it would list its Canal+ TV business in London and its Havas advertising unit in Amsterdam if a proposed break-up plan goes ahead.",
+        "link": "https://www.wsj.com/articles/vivendi-plans-to-list-canal-in-london-havas-in-amsterdam-under-split-project-f5153442",
+        "id": "WP-WSJ-0001920874"
+      }
+    ],
+    "date": "2024-07-22"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon Galp's crest, an outlook shone austere,\nIts wealth forecast e'er rising in the bright sphere.\nBy upstream's steadfast strength, its fortunes increase,\nCrafting in the heart of finance a comforting peace.\n\nA sigh from the dollar, for Biden's high seat is undone. \nSubdued, it awaits the dawn of the unrisen son.\nPensive in its waiting, the currency's silent lament,\nFor rise or decline, in fresh polls' portent.\n\nThe Eurozone bond sits beneath the moon's frosty cheek,\nSeeking direction by the data, guidance it does seek.\nBusiness sentiment whispered throughout the week,\nTheir fate to be shaped by the outcome US indicators speak.",
+    "feedItems": [
+      {
+        "title": "Galp Upgrades Guidance After Profit Beat",
+        "description": "Galp slightly lifted its full-year financial outlook after second-quarter earnings topped forecasts, driven by its upstream unit.",
+        "link": "https://www.wsj.com/articles/galp-beats-market-forecasts-lifts-guidance-slightly-056da036",
+        "id": "WP-WSJ-0001920862"
+      },
+      {
+        "title": "Dollar Edges Lower After Biden Withdraws From Presidential Race",
+        "description": "The dollar’s reaction to Biden’s withdrawal has been subdued so far as such an announcement wasn’t ruled out and because investors will probably want to see what impact the decision will have in fresh polls, Unicredit Research said.",
+        "link": "https://www.wsj.com/articles/usds-reaction-to-bidens-withdrawal-likely-to-be-small-cba-says-579182b8",
+        "id": "WP-WSJ-0001919990"
+      },
+      {
+        "title": "Eurozone Bond Markets Await Data For Guidance This Week",
+        "description": "Eurozone fixed income markets will focus on business sentiment data this week, and await input from U.S. indicators on Friday, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/jgb-futures-edge-higher-tracking-gains-in-most-u-s-treasurys-50fc46a1",
+        "id": "WP-WSJ-0001919994"
+      }
+    ],
+    "date": "2024-07-22"
+  }
+]
