@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com/page/2_0006.html"/>
+<description>World News</description>
+<language>en-us</language>
+<pubDate>Mon, 29 Jul 2024 05:01:13 -0400</pubDate>
+<lastBuildDate>Mon, 29 Jul 2024 05:01:13 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com/page/2_0006.html</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: World News</title>
+<link>http://online.wsj.com/page/2_0006.html</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Why JD Vance Worries About Childlessness</title>
+<link>https://www.wsj.com/articles/why-jd-vance-worries-about-childlessness-00bb96cb</link>
+<description><![CDATA[The Republican vice presidential nominee linked low fertility to high housing costs, social isolation and a lack of patriotism.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 05:00:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936299</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Election 2024</wsj:articletype>
+</item>
+<item>
+<title>Philips Earnings Beat Forecasts as Orders Recover</title>
+<link>https://www.wsj.com/articles/royal-philips-backs-guidance-on-higher-earnings-6c29f0cf</link>
+<description><![CDATA[Philips’ earnings surpassed expectations, helped by insurance payments related to its sleep apnea devices, while order intake turned positive for the first time in two years, lifting shares in early trading.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 04:50:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936980</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Futures Gain to Start Big Week; Investors Await McDonald's Results</title>
+<link>https://www.wsj.com/articles/australia-shares-set-to-rise-ahead-of-key-economic-data-b1989434</link>
+<description><![CDATA[Stock futures were gaining to start a busy week that will bring more bluechip earnings, plus interest-rate decisions from the Federal Reserve and other major central banks.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 04:42:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936449</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Yen Rebound Puts Spotlight on BOJ Ahead of Meet</title>
+<link>https://www.wsj.com/articles/jpy-weakens-as-traders-assess-whether-boj-will-raise-rates-this-week-d632d9c8</link>
+<description><![CDATA[The yen has made a comeback right on the cusp of the BOJ’ policy decision on Wednesday, with markets pricing in cut before year-end which would aid the currency and deter speculation, Moody’s Analytics said.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 04:20:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936454</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Rise in U.S. Funding Needs Likely to Be Financed Via Treasury Bills</title>
+<link>https://www.wsj.com/articles/jgb-futures-edge-higher-supported-by-gains-in-u-s-treasurys-df8495e3</link>
+<description><![CDATA[Lackluster U.S. tax receipts and higher financing needs are expected to boost net T-bill issuance in the third and fourth quarter, BNP Paribas said as it increased its deficit estimate for 2024, adding that coupon auction size increases are likely in 2025/26 regardless of the election outcome.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 04:00:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936458</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Stock Futures Rise at Start of Bumper Earnings Week</title>
+<link>https://www.wsj.com/articles/jpmorgan-citigroup-to-kick-off-bank-earnings-7e5c0f36</link>
+<description><![CDATA[McDonald’s kicks off the earnings deluge in a week that will also include rate decisions from the Fed and other major central banks.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 03:53:00 -0400</pubDate>
+<guid isPermaLink="false">SB10230729580433794449404591164241961225036</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Plain)</wsj:articletype>
+</item>
+<item>
+<title>Stock Futures Rise at Start of Bumper Earnings Week</title>
+<link>https://www.wsj.com/articles/gdp-data-in-focus-after-stock-selloff-5156b115</link>
+<description><![CDATA[McDonald’s kicks off the earnings deluge in a week that will also include rate decisions from the Fed and other major central banks.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 03:49:00 -0400</pubDate>
+<guid isPermaLink="false">SB10621870049654453889304591189223866105388</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>MobileDeco1</wsj:articletype>
+</item>
+<item>
+<title>Bank of Japan to Meet as Volatile Yen, Sluggish Economy Fuel Rate Hike Debate</title>
+<link>https://www.wsj.com/articles/bank-of-japan-meets-as-volatile-yen-sluggish-economy-fuel-rate-hike-debate-6b83f4be</link>
+<description><![CDATA[With policymakers split on whether rate hikes will help or hurt consumer spending, question marks remain around what the Bank of Japan will do to bolster the economy.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 03:41:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001937109</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Asia Economy</wsj:articletype>
+</item>
+<item>
+<title>Mounting Mid-East Tensions Support Oil Prices</title>
+<link>https://www.wsj.com/articles/oil-edges-higher-amid-middle-east-tensions-383cb8e4</link>
+<description><![CDATA[Oil prices were getting support from rising tensions in the Middle East and the possibility of OPEC delaying an expected scale-back of production restrictions, Swissquote said.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 03:26:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936456</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Venezuela's Maduro Declares Victory and Third Six-Year Term After Disputed Election</title>
+<link>https://www.wsj.com/articles/venezuela-nicolas-maduro-election-vote-d9f99a1a</link>
+<description><![CDATA[Strongman Nicolás Maduro claimed an unlikely victory in the presidential election in a result that opposition leaders contested, saying the regime had likely falsified the vote count.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 02:57:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001934226</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Latin America News</wsj:articletype>
+</item>
+<item>
+<title>Pearson Expects Full-Year Results In Line With Views</title>
+<link>https://www.wsj.com/articles/pearson-expects-in-line-full-year-results-despite-lower-pretax-profit-8c3bd9b9</link>
+<description><![CDATA[Pearson said it was on track to meet its full-year financial forecasts despite reporting flat underlying earnings in the first half.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 02:54:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001937107</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Miguel Cardona and the Hatch Act</title>
+<link>https://www.wsj.com/articles/miguel-cardonas-hatch-act-offense-3fa5c99c</link>
+<description><![CDATA[The Education secretary attacks Republicans in a letter to student loan recipients.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 02:52:00 -0400</pubDate>
+<guid isPermaLink="false">SB12367772331369354169804591192830844006862</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Review &amp; Outlook (U.S.)</wsj:articletype>
+</item>
+<item>
+<title>Gold Gains as Rate-Cut Hopes Grow Ahead of Fed Meeting</title>
+<link>https://www.wsj.com/articles/gold-rises-aided-by-fed-rate-cut-hopes-a6582d47</link>
+<description><![CDATA[Gold futures edged up as hopes for a U.S. interest-rate cut grow ahead of the Fed meeting this week, while copper continued to weaken after dropping last week on concerns over Chinese demand.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 02:17:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001936451</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>NewsPlus</wsj:articletype>
+</item>
+<item>
+<title>Heineken Hit by Chinese Investment Writedown</title>
+<link>https://www.wsj.com/articles/heineken-lifts-profit-growth-target-after-revenue-beats-expectations-0a86176c</link>
+<description><![CDATA[Heineken shares fell after the Dutch brewer said a significant impairment in China weighed on its net earnings, while its updated guidance came in below market expectations.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 01:47:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001937010</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Inside the Race to Mine $92 Billion Worth of Deep Sea Minerals</title>
+<link>https://www.wsj.com/articles/inside-the-race-to-mine-92-billion-worth-of-deep-sea-minerals-5c6d320c</link>
+<description><![CDATA[The controversial race to mine the deep sea is ramping up around the world. Here’s why Norway is taking a leading role.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 00:03:00 -0400</pubDate>
+<guid isPermaLink="false">SB10724050698965873663904591197961941365724</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Plain)</wsj:articletype>
+</item>
+<item>
+<title>America's Post-Covid Factory Boom Is Running Out of Steam</title>
+<link>https://www.wsj.com/articles/americas-post-covid-factory-boom-is-running-out-of-steam-be118b70</link>
+<description><![CDATA[Companies are laying off employees and cutting production to counter falling orders and rising inventories.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 00:02:00 -0400</pubDate>
+<guid isPermaLink="false">WP-WSJ-0001934066</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Tuareg rebels in Mali killed dozens of Russian mercenaries in what appeared to be one of the deadliest attacks on Russian personnel in Africa since Moscow first sent Wagner Group fighters there in 2017.</title>
+<link>https://www.wsj.com/world/africa/dozens-of-russian-mercenaries-killed-in-attack-in-mali-3de51b36</link>
+<description><![CDATA[Tuareg rebels in Mali killed dozens of Russian mercenaries in what appeared to be one of the deadliest attacks on Russian personnel in Africa since Moscow first sent Wagner Group fighters there in 2017.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">514BCD31-C3EA-4F89-9776-E413F242EC58</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Smoke from wildfires ripping through the U.S. and Canada has created air-quality issues in parts of the West, with officials warning of reduced visibility in some places.</title>
+<link>https://www.wsj.com/us-news/climate-environment/wildfires-affect-air-quality-in-parts-of-the-u-s-099b6fb7</link>
+<description><![CDATA[Smoke from wildfires ripping through the U.S. and Canada has created air-quality issues in parts of the West, with officials warning of reduced visibility in some places. ]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">6AA859F5-5714-4D05-805A-3FD1A6C9E676</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Smoke from wildfires in the U.S. and Canada has created air-quality issues in parts of the West, with officials warning of reduced visibility in some places.</title>
+<link>https://www.wsj.com/us-news/climate-environment/wildfires-affect-air-quality-in-parts-of-the-u-s-099b6fb7</link>
+<description><![CDATA[Smoke from wildfires in the U.S. and Canada has created air-quality issues in parts of the West, with officials warning of reduced visibility in some places. ]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">6AA859F5-5714-4D05-805A-3FD1A6C9E676</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+<item>
+<title>Congress is again facing a deadline to fund the government without a clear plan, raising the specter of a government shutdown on Oct. 1 if no new legislation is approved.</title>
+<link>https://www.wsj.com/politics/republicans-preached-unity-in-milwaukee-but-come-home-to-a-mess-f493c638</link>
+<description><![CDATA[Congress is again facing a deadline to fund the government without a clear plan, raising the specter of a government shutdown on Oct. 1 if no new legislation is approved.]]></description>
+<content:encoded/>
+<pubDate>Mon, 29 Jul 2024 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">ED531A92-B997-4CB7-AC7B-8ED2F515B66D</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Deco Summary (Content)</wsj:articletype>
+</item>
+</channel>
+</rss>

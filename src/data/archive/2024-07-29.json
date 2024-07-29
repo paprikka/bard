@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the realm where brave men's seeds grow thin,\nVance foresees a grim and sorrowful sin.\nLinking low birth to a home high cost,\nLack of patriotism, all hope is lost.\n\nOn the morrow dawn, Philips hath won,\nThe battle in the market, a new day begun.\nSleep's guardian devices, claim their fame,\nIn early trading, they lift the game.\n\nFutures advance in the week's vast tide,\nAs investors await with cautious eyes wide.\nIn the great hall of McDonald's and banks,\nTheir result and rates, to them our thanks.",
+    "feedItems": [
+      {
+        "title": "Why JD Vance Worries About Childlessness",
+        "description": "The Republican vice presidential nominee linked low fertility to high housing costs, social isolation and a lack of patriotism.",
+        "link": "https://www.wsj.com/articles/why-jd-vance-worries-about-childlessness-00bb96cb",
+        "id": "WP-WSJ-0001936299"
+      },
+      {
+        "title": "Philips Earnings Beat Forecasts as Orders Recover",
+        "description": "Philips’ earnings surpassed expectations, helped by insurance payments related to its sleep apnea devices, while order intake turned positive for the first time in two years, lifting shares in early trading.",
+        "link": "https://www.wsj.com/articles/royal-philips-backs-guidance-on-higher-earnings-6c29f0cf",
+        "id": "WP-WSJ-0001936980"
+      },
+      {
+        "title": "Futures Gain to Start Big Week; Investors Await McDonald's Results",
+        "description": "Stock futures were gaining to start a busy week that will bring more bluechip earnings, plus interest-rate decisions from the Federal Reserve and other major central banks.",
+        "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-ahead-of-key-economic-data-b1989434",
+        "id": "WP-WSJ-0001936449"
+      }
+    ],
+    "date": "2024-07-29"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "=== poem START ===\nIn the realm where yen and samurai tread,\nUpon BOJ's meet, many eyes are spread,\nA timely cut, the markets predict,\nStirring tides where speculation's edict.\n\nBeneath Uncle Sam's star-spangled shield,\nLies a Treasury, on T-bills it builds,\nA deficit to toil, no matter the victor,\nAs more and more, we scribble our futures.\n\nAmid the clatter of a relentless trading fleet,\nMcDonald's trumpet heralds earnings feat,\nAll eyes to the central banks' decree,\nIn this arduous week, what fortunes will there be?\n=== poem END ===",
+    "feedItems": [
+      {
+        "title": "Yen Rebound Puts Spotlight on BOJ Ahead of Meet",
+        "description": "The yen has made a comeback right on the cusp of the BOJ’ policy decision on Wednesday, with markets pricing in cut before year-end which would aid the currency and deter speculation, Moody’s Analytics said.",
+        "link": "https://www.wsj.com/articles/jpy-weakens-as-traders-assess-whether-boj-will-raise-rates-this-week-d632d9c8",
+        "id": "WP-WSJ-0001936454"
+      },
+      {
+        "title": "Rise in U.S. Funding Needs Likely to Be Financed Via Treasury Bills",
+        "description": "Lackluster U.S. tax receipts and higher financing needs are expected to boost net T-bill issuance in the third and fourth quarter, BNP Paribas said as it increased its deficit estimate for 2024, adding that coupon auction size increases are likely in 2025/26 regardless of the election outcome.",
+        "link": "https://www.wsj.com/articles/jgb-futures-edge-higher-supported-by-gains-in-u-s-treasurys-df8495e3",
+        "id": "WP-WSJ-0001936458"
+      },
+      {
+        "title": "Stock Futures Rise at Start of Bumper Earnings Week",
+        "description": "McDonald’s kicks off the earnings deluge in a week that will also include rate decisions from the Fed and other major central banks.",
+        "link": "https://www.wsj.com/articles/jpmorgan-citigroup-to-kick-off-bank-earnings-7e5c0f36",
+        "id": "SB10230729580433794449404591164241961225036"
+      }
+    ],
+    "date": "2024-07-29"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From the heavens descends a week, heavy with gold,\nMcDonald's earnings, a feast for eyes to behold.\nJoining the feast, banks of power debate rate,\nWhilst traders, like monks, pray and wait.\n\nDebate is rife in the Japanese sphere,\nOn whether rates high will bring good cheer.\nUncertainty reigns, a heady brew,\nAs to what steps the Bank will pursue.\n\nOil's price rises, a potent ale, \nMid-East tensions tip the scale.\nOPEC, the brewer, doubts in its heart,\nDelaying the moment when restrictions depart.",
+    "feedItems": [
+      {
+        "title": "Stock Futures Rise at Start of Bumper Earnings Week",
+        "description": "McDonald’s kicks off the earnings deluge in a week that will also include rate decisions from the Fed and other major central banks.",
+        "link": "https://www.wsj.com/articles/gdp-data-in-focus-after-stock-selloff-5156b115",
+        "id": "SB10621870049654453889304591189223866105388"
+      },
+      {
+        "title": "Bank of Japan to Meet as Volatile Yen, Sluggish Economy Fuel Rate Hike Debate",
+        "description": "With policymakers split on whether rate hikes will help or hurt consumer spending, question marks remain around what the Bank of Japan will do to bolster the economy.",
+        "link": "https://www.wsj.com/articles/bank-of-japan-meets-as-volatile-yen-sluggish-economy-fuel-rate-hike-debate-6b83f4be",
+        "id": "WP-WSJ-0001937109"
+      },
+      {
+        "title": "Mounting Mid-East Tensions Support Oil Prices",
+        "description": "Oil prices were getting support from rising tensions in the Middle East and the possibility of OPEC delaying an expected scale-back of production restrictions, Swissquote said.",
+        "link": "https://www.wsj.com/articles/oil-edges-higher-amid-middle-east-tensions-383cb8e4",
+        "id": "WP-WSJ-0001936456"
+      }
+    ],
+    "date": "2024-07-29"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon Maduro's claim, a prince proclaims his reign,\nTouts victory, the bitter fruits of contested campaign,\nYet, voices rise in strife, foul play they suggest,\nElection's truth lost, in muddy contest.\n\nPearson, steady steed, trots on a straight way,\nSays \"fears thee not\", come what befalls the day.\nNo wealth gained or lost, in semester past,\nFraming future fortunes, in the cast of forecasts.\n\nIn the realm of lore, stern Cardona thrives,\nAn emissary's parchment, where battle jives.\nNo friend to the goats of dominant right,\nIn the mazes of rules, he lights a fight.",
+    "feedItems": [
+      {
+        "title": "Venezuela's Maduro Declares Victory and Third Six-Year Term After Disputed Election",
+        "description": "Strongman Nicolás Maduro claimed an unlikely victory in the presidential election in a result that opposition leaders contested, saying the regime had likely falsified the vote count.",
+        "link": "https://www.wsj.com/articles/venezuela-nicolas-maduro-election-vote-d9f99a1a",
+        "id": "WP-WSJ-0001934226"
+      },
+      {
+        "title": "Pearson Expects Full-Year Results In Line With Views",
+        "description": "Pearson said it was on track to meet its full-year financial forecasts despite reporting flat underlying earnings in the first half.",
+        "link": "https://www.wsj.com/articles/pearson-expects-in-line-full-year-results-despite-lower-pretax-profit-8c3bd9b9",
+        "id": "WP-WSJ-0001937107"
+      },
+      {
+        "title": "Miguel Cardona and the Hatch Act",
+        "description": "The Education secretary attacks Republicans in a letter to student loan recipients.",
+        "link": "https://www.wsj.com/articles/miguel-cardonas-hatch-act-offense-3fa5c99c",
+        "id": "SB12367772331369354169804591192830844006862"
+      }
+    ],
+    "date": "2024-07-29"
+  }
+]
