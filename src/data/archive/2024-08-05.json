@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From the southern sun to northern star's embrace,\nWith cunning and will, they've curbed the human chase.\nOnce bursting at brim, now since twenty-twenty's race,\nThe roaming souls in check, yet such calm may not hold trace.\n\nA brewing tempest doth the world's market face,\nWith futures plunged deep, in tumult's unforgiving space.\nNasdaq, S&P, even bitcoin lose their grace,\nAmong the sell-offs wild, there's a profound unease.\n\nNow doth the trades popular begin to unwind,\nWall Street's fretful whisperings echo in my mind.\nSits the Fed too long on rates, to cuts unkind?\nOh see, how forthcoming years’ wisdom we may find.",
+    "feedItems": [
+      {
+        "title": "How the U.S. and Mexico Drove Border Crossings Down in an Election Year",
+        "description": "Illegal crossings have plummeted to the lowest monthly level since 2020. But the situation might not last.",
+        "link": "https://www.wsj.com/articles/how-the-u-s-and-mexico-drove-border-crossings-down-in-an-election-year-6672071f",
+        "id": "WP-WSJ-0001952767"
+      },
+      {
+        "title": "Stock Futures Plunge as Global Selloff Intensifies",
+        "description": "The worldwide stock-market selloff deepened, Nasdaq and S&P 500 futures tumbled, and bitcoin slid.",
+        "link": "https://www.wsj.com/articles/stock-futures-plunge-as-global-selloff-intensifies-97b4532f",
+        "id": "SB12587114220001103978704591212550502350040"
+      },
+      {
+        "title": "2024's Most Popular Trades Are Unraveling",
+        "description": "Some on Wall Street worry the Fed waited too long to cut rates.",
+        "link": "https://www.wsj.com/articles/2024s-most-popular-trades-are-unraveling-28f1fbef",
+        "id": "WP-WSJ-0001952617"
+      }
+    ],
+    "date": "2024-08-05"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "The market's tumult, a rabbit in fright,\nFutures and bitcoin, in stark, chilling fall.\nIn the villa of stocks, no slow snail's delight,\nBut, oh sweet goat, all feel the thrall.\n\nWoodside gazes upon the greened land,\nPlucks plant of ammonia with billion'd hand.\nA dog chasing green, leaving oil and gas;\nYet fear not, the profits still amass.\n\nL'Oreal, the regal, to Galderma does turn,\nA piece of the pie, for wealth they yearn.\nA golden egg from Swiss hen's nest,\nBought and brought back to the French crest.",
+    "feedItems": [
+      {
+        "title": "Stock Futures Plunge as Global Selloff Intensifies",
+        "description": "The worldwide stock-market selloff deepened, Nasdaq and S&P 500 futures tumbled, and bitcoin slid.",
+        "link": "https://www.wsj.com/articles/u-s-stock-futures-plunge-as-global-selloff-intensifies-9bedda40",
+        "id": "SB12587114220001103978704591212493944668236"
+      },
+      {
+        "title": "Woodside to Buy Ammonia Plant From OCI Global for $2.35 Billion",
+        "description": "Woodside Energy will buy an ammonia plant under construction in Texas for around $2.35 billion as it seeks greener assets to balance a portfolio that generates most of its profits from oil and natural gas production.",
+        "link": "https://www.wsj.com/articles/woodside-to-buy-ammonia-plant-from-oci-global-for-2-35-billion-1e7d9cab",
+        "id": "WP-WSJ-0001955230"
+      },
+      {
+        "title": "L'Oreal Buys Stake in Swiss Skincare Company Galderma",
+        "description": "The French cosmetics giant said it was acquiring a 10% stake, valued at roughly $1.9 billion based on Friday’s closing stock price.",
+        "link": "https://www.wsj.com/articles/loreal-buys-stake-in-swiss-skincare-company-galderma-8613439d",
+        "id": "WP-WSJ-0001955189"
+      }
+    ],
+    "date": "2024-08-05"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Tehran, a leader didst lay low,\nIran's wrath, no man could slow.\nDespite pleas from U.S. and Arab ties,\nThe vengeful heart seldom complies.\n\nIn Israeli lands, 'tis a harsh sight,\nA war prolonged brings days of fright.\nReservists tire from the fray,\nTheir pockets thin, in disarray.\n\nIn lands of the rising sun, a fall,\nThe Nikkei's plunge doth appall.\nA weary figure, cruelly bled,\nBy weak U.S. jobs and yen's rise, 'tis led.",
+    "feedItems": [
+      {
+        "title": "Iran rejected U.S. and Arab efforts to temper its response to the killing in Tehran of Hamas's top political leader, as authorities investigated the security breaches that led to the attack.",
+        "description": "Iran rejected U.S. and Arab efforts to temper its response to the killing in Tehran of Hamas’s top political leader, as authorities investigated the security breaches that led to the attack.",
+        "link": "https://www.wsj.com/world/middle-east/iran-rebuffs-calls-for-restraint-in-its-response-to-killing-of-hamas-leader-309314e7",
+        "id": "5CA76FBF-5EE0-47C0-8A65-74AADFAEB701"
+      },
+      {
+        "title": "The protracted war in Gaza and long-running exchanges of fire with regional militias are taking a toll on Israeli reservists in the form of exhaustion and financial hardship.",
+        "description": "The protracted war in Gaza and long-running exchanges of fire with regional militias are taking a toll on Israeli reservists in the form of exhaustion and financial hardship.",
+        "link": "https://www.wsj.com/world/middle-east/everything-is-collapsing-israeli-reservists-confront-toll-of-protracted-war-430811e4",
+        "id": "C5D7CC1E-A884-4677-A912-8BD2D3256788"
+      },
+      {
+        "title": "Japan's Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data",
+        "description": "The Nikkei Stock Average closed down 12.4%, a historic fall triggered by disappointing U.S. jobs data and a further rise in the yen.",
+        "link": "https://www.wsj.com/articles/japan-stocks-fall-sharply-after-weak-u-s-jobs-data-yen-strengthening-3903689f",
+        "id": "WP-WSJ-0001954733"
+      }
+    ],
+    "date": "2024-08-05"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "A glut of silicon stone, forged in Odin's own fire,\nDrags Infineon's might to the mire.\nLess gold from gadgets, carriages and gears,\nThird the crow's call of lesser sales appears.\n\nSociete Generale, in the mead hall's din,\nFrees northern banks, their coffers full to the brim.\nWith the Swiss Union, they committed a pact,\nA horde of gold exchanged, a thousand million extracted.\n\nUpon fair Australia, a specter of fear starts,\nYoung men seek glory through the shadowed arts.\nThe threat grows, as deep as the sea is wide,\nReligion and race, fanning war's gruesome tide.",
+    "feedItems": [
+      {
+        "title": "Infineon Cuts Guidance Again as Chip  Glut Weighs on Recovery",
+        "description": "Infineon lowered its sales forecasts for the third time this year as the inventory glut that is pervading the semiconductor industry continues to translate into fewer orders for chips in smartphones, cars and industrial machinery.",
+        "link": "https://www.wsj.com/articles/infineon-lowers-sales-guidance-again-amid-slow-chip-market-recovery-231040ba",
+        "id": "WP-WSJ-0001955145"
+      },
+      {
+        "title": "Societe Generale to Sell U.K., Swiss Private Banks for $982 Million",
+        "description": "The French bank said it signed agreements with the Swiss-bank Union Bancaire Privee to sell SG Kleinwort Hambros and Societe Generale Private Banking Suisse.",
+        "link": "https://www.wsj.com/articles/societe-generale-to-sell-u-k-swiss-subsidiaries-to-ubp-for-982-million-c003215c",
+        "id": "WP-WSJ-0001955112"
+      },
+      {
+        "title": "Australia Raises Terrorism Threat Level",
+        "description": "Authorities say more young people are turning to racially or religiously inspired violence.",
+        "link": "https://www.wsj.com/articles/australia-raises-terrorism-threat-level-b6c67bfd",
+        "id": "WP-WSJ-0001955013"
+      }
+    ],
+    "date": "2024-08-05"
+  }
+]
