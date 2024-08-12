@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like goats in high pastures, they climb,\nAs stock futures edge to sublime,\nToward inflation's cruel snare,\nIn July's burnished glare.\n\nAgain, the goats thither incline,\nStock futures in a daring climb,\nA snail's blink to Wednesday's reveal,\nUnder the summer's golden wheel.\n\nThe rabbit in her burrow keen,\nAwaits the data yet unseen.\nGilt yields steady in their keep,\nWhile U.K. labour's secrets sleep.",
+    "feedItems": [
+      {
+        "title": "Stock Futures Edge Higher",
+        "description": "Investors’ attention is turning back to inflation this week, with the consumer-price index for July due Wednesday.",
+        "link": "https://www.wsj.com/articles/investors-remain-on-edge-as-stock-futures-slide-e75df13e",
+        "id": "SB10853699525332243684304591218543935371686"
+      },
+      {
+        "title": "Stock Futures Edge Higher",
+        "description": "Investors’ attention is turning back to inflation this week, with the consumer-price index for July due Wednesday.",
+        "link": "https://www.wsj.com/articles/stock-futures-plunge-as-global-selloff-intensifies-97b4532f",
+        "id": "SB12587114220001103978704591212550502350040"
+      },
+      {
+        "title": "Gilt Yields Relatively Steady Ahead of Key Data Releases This Week",
+        "description": "Gilt yields are relatively steady as investors await major data releases this week including U.K. labor market data on Tuesday, and U.K. and U.S. inflation data on Wednesday.",
+        "link": "https://www.wsj.com/articles/gilt-yields-relatively-steady-ahead-of-key-data-releases-this-week-21c3b825",
+        "id": "WP-WSJ-0001971553"
+      }
+    ],
+    "date": "2024-08-12"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In blackened abyss where Serpents dwell,\nOil embraces Thor's might, quaking under a spell,\nAs Midgard braces for a storm from Jotun-sire's well,\nThe eye of Heimdall keenly watches the prophecy foretell.\n\nA Sterling lingers on Fate's imperfect scale,\nWhilst data and numbers through Mimir's well doth sail,\nOdin’s ravens whisper of wealth turning pale,\nOn the BOE's forge, where interest-rate whims prevail.\n\nHear a tale from the East, where sunlight first gleams,\nOf Bharti, a wolf seeking wealth in foreign streams,\nAcquiring BT's rune, under Altice's moonbeam,\nA formidable alliance, their power supreme.",
+    "feedItems": [
+      {
+        "title": "Oil Edges Higher as Markets Brace for Iran Retaliation",
+        "description": "Oil prices edged higher as markets continued to closely monitor geopolitical risks, with Iran’s retaliation against Israel in response to the killing of Hamas’s political leader believed to be imminent.",
+        "link": "https://www.wsj.com/articles/oil-prices-mixed-as-traders-assess-divergent-signals-cfcdd909",
+        "id": "WP-WSJ-0001971551"
+      },
+      {
+        "title": "Sterling Could Fall if Key U.K. Data Miss Forecasts",
+        "description": "Sterling could fall as U.K. employment and inflation data later in the week might come in slightly below expectations, potentially boosting BOE interest-rate cut expectations, ING said.",
+        "link": "https://www.wsj.com/articles/usd-jpy-has-likely-bottomed-needs-rebound-to-shift-to-bullish-bias-d80d607a",
+        "id": "WP-WSJ-0001971549"
+      },
+      {
+        "title": "India's Bharti to Buy Altice Stake in BT",
+        "description": "Bharti has agreed to buy a 24.5% stake in BT from Altice for an undisclosed amount, but said it had no intention of making an offer for the U.K. telecom group.",
+        "link": "https://www.wsj.com/articles/bharti-global-to-acquire-24-5-stake-in-bt-from-altice-uk-0b678cb3",
+        "id": "WP-WSJ-0001971888"
+      }
+    ],
+    "date": "2024-08-12"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Fields of Gold, behold! A pact there grows,\nOsisko and the South seek gilded spree,\nTheir thirst for control, as freely it flows,\nIn merry Canada we'll see this decree.\n\nThe Dragon's Bank, with stern and watchful eyes,\nBravely embarks to test bond-riddled stress,\nThat lurking risk might brew no ill surprise,\nAle for serenity they wish to possess.\n\nFair Kamala, with hearty donors lined,\nPresses the soil of her Californian stead,\nWith Silicon's bigwigs she hath aligned,\nA wine-flushed election feast ahead she led.",
+    "feedItems": [
+      {
+        "title": "Gold Fields to Buy Canadian Miner Osisko",
+        "description": "Gold Fields is set to buy Osisko Mining for $1.6 billion, giving the South African company full control of the Windfall project in Canada as it seeks to secure supply with gold prices soaring.",
+        "link": "https://www.wsj.com/articles/gold-fields-to-buy-osisko-mining-for-1-6-billion-f83e2812",
+        "id": "WP-WSJ-0001971824"
+      },
+      {
+        "title": "China's Central Bank to Examine Financial Institutions' Bond Risks",
+        "description": "The People’s Bank of China is set to conduct stress tests on financial institutions’ exposure to bond holdings, in the latest effort to rein in a monthslong rally and prevent fallout risks.",
+        "link": "https://www.wsj.com/articles/chinas-central-bank-to-examine-financial-institutions-bond-risks-a4144b47",
+        "id": "WP-WSJ-0001971815"
+      },
+      {
+        "title": "Kamala Harris Taps California Roots---and Elite Donors---to Boost Election Bid",
+        "description": "The fundraiser drew $12 million and 700 people, including bigwigs from Silicon Valley.",
+        "link": "https://www.wsj.com/articles/kamala-harris-taps-california-rootsand-elite-donorsto-boost-election-bid-0f22298b",
+        "id": "WP-WSJ-0001971680"
+      }
+    ],
+    "date": "2024-08-12"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Syria’s heart, ‘neath desert’s palm and date,\nA spectre rises ‘gainst decency’s state.\nUngodly force born half a decade past,\nNow thrives anew in chaos unsurpassed.\n\nIn vaulted halls of mercantile grace,\nMen paid the price for unbridled pace.\nThey rallied, borrowed, gambled in the fray,\nNow rue the losses of the tumultuous day.\n\nUpon the Eastern front, Ukraine thus stands,\nIn Russian soil, they mark with firm hands.\nQuick gains won tenfold, ‘midst a year of strife,\nYet outnumbered still, they wager life.",
+    "feedItems": [
+      {
+        "title": "In Syria's Hinterlands, the U.S. Wages a Hidden Campaign Against a Resurgent Islamic State",
+        "description": "Defeated by American-led forces half a decade ago, the terrorist group is rebounding amid the chaos of the Middle East.",
+        "link": "https://www.wsj.com/articles/in-syrias-hinterlands-the-u-s-wages-a-hidden-campaign-against-a-resurgent-islamic-state-f22c44df",
+        "id": "WP-WSJ-0001964428"
+      },
+      {
+        "title": "Investors Borrowed Like Crazy During the Rally. Now They're Paying the Price.",
+        "description": "Behind the market tumult of the past month: the rapid unwind of several popular trades and the heavy use of leverage",
+        "link": "https://www.wsj.com/articles/investors-borrowed-like-crazy-during-the-rally-now-theyre-paying-the-price-608115e7",
+        "id": "WP-WSJ-0001969431"
+      },
+      {
+        "title": "Ukraine's Russia Incursion Faces Dilemma After Quick Gains",
+        "description": "Following a year of brutal defensive warfare, Ukraine’s new operation has quickly taken territory in Russia’s Kursk province. But Kyiv’s forces are still outgunned and outnumbered in most places.",
+        "link": "https://www.wsj.com/articles/ukraines-russia-incursion-faces-dilemma-after-quick-gains-b098ffd0",
+        "id": "WP-WSJ-0001971205"
+      }
+    ],
+    "date": "2024-08-12"
+  }
+]
