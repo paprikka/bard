@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In the dance of coins so grand and bold,\nThe Euro goat climbs on data's fold.\nOutpacing hound of U.S. grip,\nHer gains extend on every slip.\n\nThe golden rabbit marks the dawn,\nAs futures rise, the bear is drawn.\nYet Swissquote snail with cautious gaze,\nForesees a hound’s rebounding days.\n\nNo stir of data, quiet and still,\nGilt yields edge lower on the hill.\nSilent as the shadow's streak,\nAwaiting whispers of the week.",
+    "feedItems": [
+      {
+        "title": "Euro Could Extend Gains on Upcoming Data",
+        "description": "The euro could extend its rise against the dollar if eurozone wage data remains elevated and U.S. economic data is weaker, ING said.",
+        "link": "https://www.wsj.com/articles/jpy-weakens-slightly-on-risk-appetite-04acae8a",
+        "id": "WP-WSJ-0001987640"
+      },
+      {
+        "title": "Gold Futures Rise on Downbeat U.S. Dollar, Rate Cut Hopes",
+        "description": "Gold futures rose after reaching a record in early Asian trading on persistent dollar weakness, but Swissquote Bank reckons a rebound in the currency is plausible.",
+        "link": "https://www.wsj.com/articles/gold-steady-possible-technical-correction-may-weigh-a28e9d78",
+        "id": "WP-WSJ-0001987636"
+      },
+      {
+        "title": "Gilt Yields Edge Lower in Absence of Key Data Releases",
+        "description": "Gilt yields declined in the absence of market-moving data releases on Monday and ahead of U.K. public finances data and preliminary PMI data later this week.",
+        "link": "https://www.wsj.com/articles/jgbs-edge-lower-focus-on-20-year-auction-boj-gov-uedas-testimony-eaa2cfa6",
+        "id": "WP-WSJ-0001987642"
+      }
+    ],
+    "date": "2024-08-19"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of sable liquid so absorbed in greed, \nIn Far East land, demand doth surely bleed. \nAn eight percent descent the scribes decreed,\nUpon the roiling market, heed this deed.\n\nNext stanza surely yeasts a bitter brew,\nOf German aid to Ukraine, no longer due.\nThe trumpet's call is silenced on review,\nIn frosty heart of Berlin this did accrue.\n\nLastly, hear of seven-and-eleven's plight,\nCanadian suitors ask to claim their right.\nA dance of commerce in the moon’s twilight,\nVying for the hand 'neath neon light.",
+    "feedItems": [
+      {
+        "title": "Oil Prices Fall as China Demand Concerns Offset Supply Risks",
+        "description": "Oil prices fell, as the prospect of weak demand in China offset any gains from risks to supply, with apparent demand in the country falling 8% on year in July according to government data, ANZ Research said.",
+        "link": "https://www.wsj.com/articles/oil-edges-lower-amid-demand-concerns-4536b07f",
+        "id": "WP-WSJ-0001987638"
+      },
+      {
+        "title": "Rheinmetall Falls on Reports of German Military Aid Cut to Ukraine",
+        "description": "The German government is set to stop meeting new requests for military support from Kyiv with immediate effect, the Frankfurter Allgemeine Zeitung reported on Saturday.",
+        "link": "https://www.wsj.com/articles/rheinmetall-shares-fall-on-reports-of-german-military-aid-cut-to-ukraine-af579203",
+        "id": "WP-WSJ-0001988052"
+      },
+      {
+        "title": "7-Eleven Operator Mulls Bid From Canada's Alimentation Couche-Tard",
+        "description": "Seven & i Holdings, the Japanese operator of 7-Eleven convenience stores and other retail chains, is studying a takeover offer from Canadian convenience store operator Alimentation Couche-Tard.",
+        "link": "https://www.wsj.com/articles/7-eleven-operator-mulls-takeover-offer-from-canadas-alimentation-couche-tard-c3822f5e",
+        "id": "WP-WSJ-0001987999"
+      }
+    ],
+    "date": "2024-08-19"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In England, 'neath the grey sky and thunder bark,\nA fresh tempest stirs within the market stark.\nThe Coffers' Key's slight sway hath instilled a spark,\nAnd prices waver like longboats lost in the dark.\n\nIn the midst of battle, the maiden fierce and wise,\nRises to the fore, her gaze steady on the prize.\nKamala of the Free, whose fame through the land flies,\nWith gathered host at convention 'neath the starry skies.\n\nOn Albion's 'sceptered isle', a rebellion quelled,\nWith iron-willed Starmer at helm, the disorder felled.\nYet lurking beneath the calm, concerns yet dwell,\nOf kin from distant shores, their numbers swelled.",
+    "feedItems": [
+      {
+        "title": "U.K. Rate Cut Invigorates Property Market",
+        "description": "U.K. property demand rose after the Bank of England’s rate cut in August, while the average price of property coming to the market fell from July’s average price, according to data from Rightmove.",
+        "link": "https://www.wsj.com/articles/u-k-rate-cut-invigorates-property-market-5ec78a28",
+        "id": "WP-WSJ-0001987924"
+      },
+      {
+        "title": "What Kamala Harris Has to Prove at the Democratic National Convention",
+        "description": "The presidential race has been upended in the last few weeks, with Kamala Harris now at the top of the Democratic ticket. WSJ’s Aaron Zitner explains what’s at stake for the party at the Democratic convention.",
+        "link": "https://www.wsj.com/articles/what-kamala-harris-has-to-prove-at-the-democratic-national-convention-ecc8c3de",
+        "id": "SB10424190061759074513204591240282170481322"
+      },
+      {
+        "title": "The U.K. Stamped Out Anti-Immigration Riots---Now Comes the Hard Part",
+        "description": "Prime Minister Keir Starmer is credited for quickly reasserting law and order to the streets. Now he must address the root causes of the riots, in particular, concerns about near-record levels of both legal and illegal immigration.",
+        "link": "https://www.wsj.com/articles/the-u-k-stamped-out-anti-immigration-riotsnow-comes-the-hard-part-d98466c4",
+        "id": "WP-WSJ-0001985018"
+      }
+    ],
+    "date": "2024-08-19"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Pepper…and Salt, saith the scribe's report,\nA tale of seasons, mild and sort.\nPass the ale, let's make a jest,\nGod's humor in it, we are blessed.\n\nRunaround, of the Monday's tale,\nA quest with mind, not foot nor sail.\nLaughter rings, in cloister's hush,\nAs monks seek answers, in the dusk.\n\nWhat's News, echoed world-wide,\nStories unfold, far and wide.\nIn this cask of God's own brew,\nFindeth truth, both old and new.",
+    "feedItems": [
+      {
+        "title": "Pepper…and Salt",
+        "description": "",
+        "link": "https://www.wsj.com/articles/pepperand-salt-0af5ce0b",
+        "id": "WP-WSJO-0000052318"
+      },
+      {
+        "title": "Runaround (Monday Crossword, August 19)",
+        "description": "",
+        "link": "https://www.wsj.com/articles/runaround-monday-crossword-august-19-e4adf3f6",
+        "id": "WP-WSJ-0001959507"
+      },
+      {
+        "title": "What's News: World-Wide",
+        "description": "What’s News: World-Wide",
+        "link": "https://www.wsj.com/articles/whats-news-world-wide-b6a0cbff",
+        "id": "SB10197285038405924759404591239360979330014"
+      }
+    ],
+    "date": "2024-08-19"
+  }
+]
