@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Fair Germania dost struggle in her task,\nHer enterprises weakened, left to ask,\nAn echo trembles through her grand facades,\nShe's caught in strife's unyielding, iron-clad clasp.\n\nAstir is oil, the lifeblood of the land,\nIn Libya and Levante shifts in sand,\nTensions rise, fresh woes hand in hand,\nNations quaking 'fore the strife's command.\n\nThe metal of the world, so precious gold,\nIts bullish path in futures bold foretold,\nAttuned to whispers of prosperity's hold,\nA test at hand, its tale yet to unfold.",
+    "feedItems": [
+      {
+        "title": "German Business Increasingly in Trouble",
+        "description": "Sentiment at German companies edged lower this month, as Europe’s largest economy shows little sign of a recovery amid a persistent manufacturing slump.",
+        "link": "https://www.wsj.com/articles/german-business-increasingly-in-trouble-ifo-survey-says-035c3916",
+        "id": "WP-WSJ-0002004139"
+      },
+      {
+        "title": "Oil Prices Rise on Rising Levant, Libya Concerns",
+        "description": "Oil prices jumped as Middle East tensions intensified. Geopolitics was in focus over the weekend as Israel and Hezbollah exchanged blows in southern Lebanon, while Libya’s political situation worsened, Citi said.",
+        "link": "https://www.wsj.com/articles/oil-gains-price-volatility-likely-near-term-8b696a40",
+        "id": "WP-WSJ-0002003625"
+      },
+      {
+        "title": "Comex Gold Futures' Bullish Trajectory Still Intact, Chart Shows",
+        "description": "Comex gold futures’ bullish trajectory is still intact, based on the daily chart, RHB Retail Research said, and the precious metal could test nearest resistance at the $2,600 level.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-aided-by-lower-treasury-yields-620acf75",
+        "id": "WP-WSJ-0002003623"
+      }
+    ],
+    "date": "2024-08-26"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In yonder Wall's marketplace, futures bright,\nBy Friday's rally cued, climb to great height.\nTheir gain, as sturdy as a goat's might,\nIs fuelled, as ordered goods take flight.\n\nThe looming cut of rates, a worrying sight,\nInto our Dollar's strength shall bite.\nMuch like a hound at bay in the moonlight,\nForetells NatWest, of its potential plight.\n\nIBM, a giant of renowned might,\nChina's land they choose to slight.\nAnd so, a rabbit in the night,\nTo other lands, they transfer their knight.",
+    "feedItems": [
+      {
+        "title": "Index Records in Sight on Wall Street",
+        "description": "Stock futures ticked higher after Friday’s Fed-fueled rally, with durable-goods orders due",
+        "link": "https://www.wsj.com/articles/investors-await-clues-on-interest-rate-cuts-a9dec7a0",
+        "id": "SB11546431899340124103204591242743379740406"
+      },
+      {
+        "title": "Looming Rate Cuts by Fed Point to Dollar Weakness",
+        "description": "Growing confidence in the prospects of Federal Reserve interest-rate cuts and a soft landing for the U.S. economy are increasingly strong headwinds for the dollar, NatWest Markets said.",
+        "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-boosted-by-fed-rate-cut-hopes-65670b6c",
+        "id": "WP-WSJ-0002003627"
+      },
+      {
+        "title": "IBM Shuts China R&D Operations in Latest Retreat by U.S. Companies",
+        "description": "The closure will affect more than 1,000 people and functions will move to other overseas facilities including India, employees at a virtual meeting were told.",
+        "link": "https://www.wsj.com/articles/ibm-shuts-china-r-d-operations-in-latest-retreat-by-u-s-companies-b37cd9a0",
+        "id": "WP-WSJ-0002004057"
+      }
+    ],
+    "date": "2024-08-26"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In lands where Euro bright doth gleam, fiscal voyagers sail,\nUnmoved their bond-yields remain, on interest's gale.\nWaiting anchor'd for Ifo's measure, so fair\nIn hopes of central banks' favor, they dare.\n\nLo, in lands of the East, where no Norseman prowls,\nThe chief of XPeng, his fortune he avows.\nInvesting in his own clan's might,\nThe stock leaps forth, in the market's night.\n\n\"True American\", a title fraught with fight,\nCampaigns tear apart, their claims ignite.\nTrump and Vance guard their value's shore,\nWhile Harris sees opportunity, even for the poor.",
+    "feedItems": [
+      {
+        "title": "Eurozone Government-Bond Yields Trade Flat, Await Ifo Data",
+        "description": "Eurozone government-bond yields were little changed at the start of the week as investors are focusing on the prospect of interest-rate cuts by the European Central Bank and the Federal Reserve.",
+        "link": "https://www.wsj.com/articles/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-82df266b",
+        "id": "WP-WSJ-0002003629"
+      },
+      {
+        "title": "XPeng Stock Jumps After Chief Executive Boosts Shareholding",
+        "description": "XPeng stock jumped in Hong Kong after the Chinese automaker disclosed that its chief executive bought over 2 million of the company’s shares.",
+        "link": "https://www.wsj.com/articles/xpeng-stock-jumps-after-chief-executive-boosts-shareholding-69568848",
+        "id": "WP-WSJ-0002003923"
+      },
+      {
+        "title": "Campaign Lays Bare Debate Over What It Means to Be a 'Real American'",
+        "description": "Trump and Vance have emphasized protecting American values from outside threats, while Harris has focused on the U.S. as a land of opportunity for all—including newcomers.",
+        "link": "https://www.wsj.com/articles/campaign-lays-bare-debate-over-what-it-means-to-be-a-real-american-815bf205",
+        "id": "WP-WSJ-0002003429"
+      }
+    ],
+    "date": "2024-08-26"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Oriental land, a tale of tricks doth spring,\nOf Nvidia chips forbidden, yet unseen.\nThrough shadows brokers cloak their secret dealings,\nTheir power drawn from cyberspace, yet clean. \n\nIn the realm of gold and power, the men of banks hold reign.\nOn matters far and wide they have a say,\nYet when called to place their faith in sovereign rule,\nTheir tongues fall silent, coins hidden away.\n\nHark! A voice from German lands begins to stir,\nA man named Björn doth seek to change the tide.\nIn postwar years could far-right power take hold?\nThe polls whisper of a shifting stride.",
+    "feedItems": [
+      {
+        "title": "China's AI Engineers Are Secretly Accessing Banned Nvidia Chips",
+        "description": "Brokers are making overseas computing power available with a high degree of anonymity.",
+        "link": "https://www.wsj.com/articles/chinas-ai-engineers-are-secretly-accessing-banned-nvidia-chips-58728bf3",
+        "id": "WP-WSJ-0002000017"
+      },
+      {
+        "title": "Big-Bank CEOs Like to Wield Influence---Except in Presidential Politics",
+        "description": "Top bankers weigh in frequently on issues from immigration to tariffs, but they almost never contribute directly to presidential campaigns.",
+        "link": "https://www.wsj.com/articles/big-bank-ceos-like-to-wield-influenceexcept-in-presidential-politics-ec31fe2e",
+        "id": "WP-WSJ-0002000928"
+      },
+      {
+        "title": "The Man Who Would Make Germany Right-Wing Again",
+        "description": "Björn Höcke wants to be the first politician to head a far-right regional government in postwar Germany. Polls say he has a chance.",
+        "link": "https://www.wsj.com/articles/the-man-who-would-make-germany-right-wing-again-fd2b97f4",
+        "id": "WP-WSJ-0001996941"
+      }
+    ],
+    "date": "2024-08-26"
+  }
+]
