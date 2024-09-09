@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Big Lots, brave merchant of humble wares,\nSuccumbs to the chill of despair's cold snare.\nFrom Nexus Capital, salvation's keys,\nIn search of a future beyond bankruptcy's seas.\n\nIn the realm of coin and the merchant's delight,\nRecovery whispers on the winds of the night.\nFrom the ashes of loss, gain takes its flight,\nA bountiful yield to end a torrid week's plight.\n\nOnce more to the well, the market does lean,\nTaking stock of its fate in the market's grand scheme.\nFear's icy grip loosens, in hope's gentle gleam,\nA healthful revival from an economy's dream.",
+    "feedItems": [
+      {
+        "title": "Big Lots Files for Bankruptcy, Enters Sale Agreement",
+        "description": "U.S. discount retail chain Big Lots has filed for bankruptcy and agreed to sell itself to an affiliate of private-equity firm Nexus Capital.",
+        "link": "https://www.wsj.com/articles/discount-retailer-big-lots-files-for-bankruptcy-agrees-to-sale-to-nexus-capital-415dbc9a",
+        "id": "WP-WSJ-0002034868"
+      },
+      {
+        "title": "Stock Futures Gain After Torrid Week of Losses",
+        "description": "Markets looked to be on course to recoup a little of the ground lost in recent sessions over concerns about the health of the U.S. economy.",
+        "link": "https://www.wsj.com/articles/stock-futures-gain-after-torrid-week-of-losses-63db8932",
+        "id": "SB11146226869597913637904591282864094963224"
+      },
+      {
+        "title": "Stock Futures Gain After Torrid Week of Losses",
+        "description": "Markets looked to be on course to recoup a little of the ground lost in recent sessions over concerns about the health of the U.S. economy.",
+        "link": "https://www.wsj.com/articles/stock-futures-fall-ahead-of-jobs-report-89e0b044",
+        "id": "SB11955770958182113823804591276882595824592"
+      }
+    ],
+    "date": "2024-09-09"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Firstly, heed Æthelred's tale so grim,\nOf the Euro, faced with plight so dim.\nConditions dire in the Central Bank's hold,\nWith Tribune Swissquote forewarning unfold,\nA fate awaits if inflation won't brim.\n\nNow, Æthelred's saga takes different course,\nTo profits beyond Entain's force.\nTheir net from gaming soars high as the raven,\nAs if propelled by Odin's favor from heaven,\nExceeding the predictions charted by their source.\n\nFinally, my audience, lend your ears,\nTo a tale of the East that Æthelred shares.\nIn Nippon, bonds of yore earn desire,\nMorgan Stanley's seers with their gaze of fire,\nSee support strong as the Nordic spears.",
+    "feedItems": [
+      {
+        "title": "Euro Could Fall if ECB Signals Further Rate Cuts",
+        "description": "The euro could give back some of its recent gains if the European Central Bank cuts interest rates on Thursday and indicates sufficient inflation progress to ease policy further, Swissquote Bank said.",
+        "link": "https://www.wsj.com/articles/dollar-rises-but-fed-rate-cut-bets-limit-gains-7db0562a",
+        "id": "WP-WSJ-0002034840"
+      },
+      {
+        "title": "Entain Online Gaming Revenue Tops Forecasts",
+        "description": "Entain said its online net gaming revenue has grown ahead of expectations so far in the second half of year, with the positive momentum of the second quarter continuing.",
+        "link": "https://www.wsj.com/articles/entain-online-net-gaming-revenue-grows-ahead-of-expectations-f7d2f202",
+        "id": "WP-WSJ-0002034802"
+      },
+      {
+        "title": "Demand Seen Supportive for Ultralong Japanese Government Bonds",
+        "description": "Supply-demand dynamics should be supportive for the super-long maturity sector of the Japanese government bond yield curve, Morgan Stanley Research said.",
+        "link": "https://www.wsj.com/articles/german-bunds-to-stay-supported-but-room-to-fall-further-looks-limited-aa33aa94",
+        "id": "WP-WSJ-0002034785"
+      }
+    ],
+    "date": "2024-09-09"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the land where dragons dwell, a toast is held in their honor,\nFor China's gates swing wide, not for menace, but for donor.\nNow bellows forth the cask of trade, the vintner's hand tis firm,\nIn health the grape of knowledge grows, to foreign vines we turn.\n\nYet cross the ocean, banners low, a sullen ale doth flow,\nIn the month ascrib'd to autumn's wake, the stocks in sorrow grow.\nSince days of old, September's cold hath seemed not stocks' fair friend,\nDrink deep the bitter broth of fate, on market's whim we depend.\n\nIn far-off India, skills are fraught, with golden tongues they jest,\nA cheat's rye ale doth flow with ease through the exam's bitter test.\nA darkened mead they do purvey, 'gainst honor they conspire,\nFor 'neath their guise of tutoring lies a cesspool of mire.",
+    "feedItems": [
+      {
+        "title": "China Opens More Sectors to Foreign Investment",
+        "description": "China deepened its push to further open up the economy, eliminating restrictions on the manufacturing sector and expanding opportunities for foreign investment in the health sector.",
+        "link": "https://www.wsj.com/articles/china-opens-more-sectors-to-foreign-investment-403363e2",
+        "id": "WP-WSJ-0002034564"
+      },
+      {
+        "title": "September Is Once Again a Tough Month for Stocks",
+        "description": "The S&P 500 fell 4.2% last week on concerns about the health of the U.S. economy. Going back to 1928, September has been stocks’ weakest month of the year.",
+        "link": "https://www.wsj.com/articles/september-is-once-again-a-tough-month-for-stocks-8392fe0a",
+        "id": "WP-WSJ-0002031927"
+      },
+      {
+        "title": "Gangs Are Making Millions Helping Indians Cheat on Exams",
+        "description": "Middle-class families pay tens of thousands of dollars to help their children get an unlawful edge in make-or-break exams.",
+        "link": "https://www.wsj.com/articles/gangs-are-making-millions-helping-indians-cheat-on-exams-32500cce",
+        "id": "WP-WSJ-0002030123"
+      }
+    ],
+    "date": "2024-09-09"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "As Johnson's House doth quake like startled hare,\nIn heat of dance with bill's pertinacious dare.\nA ruffled goat midst wolves, must stand with guile,\nTo steer the vessel past the tempest's snare.\n\nAs Edmundo, of far Venezuela, fled,\nLike snail to Spain, his timid shadow spread.\nAn election won, yet homeland left behind,\nA dirge for democracy silently read.\n\nIn courts, the judge declaimed in wisdom clear,\nWagers shall mark congressional career.\nLike gamblers bidding on a rabbit's race,\nThe future now a packaged good for purchase, dear.",
+    "feedItems": [
+      {
+        "title": "Speaker Johnson faces the challenge of passing a bill to fund the government while averting a House GOP revolt in the heat of the election.",
+        "description": "Speaker Johnson faces the challenge of passing a bill to fund the government while averting a House GOP revolt in the heat of the election.",
+        "link": "https://www.wsj.com/politics/policy/speaker-mike-johnson-survived-the-spring-now-comes-the-fall-88f27df4",
+        "id": "B07BA14E-EB12-458B-A4FE-51BC146946DF"
+      },
+      {
+        "title": "Venezuelan opposition figure Edmundo González, who the U.S. said won July's presidential election, arrived in Spain to seek asylum in a blow to the nation's democracy movement.",
+        "description": "Venezuelan opposition figure Edmundo González, who the U.S. said won July’s presidential election, arrived in Spain to seek asylum in a blow to the nation’s democracy movement.",
+        "link": "https://www.wsj.com/world/americas/venezuelan-leader-who-challenged-strongman-in-vote-flees-to-spain-9a93b716",
+        "id": "9C3CC542-A339-4663-ACF5-A0E0230846FD"
+      },
+      {
+        "title": "A federal judge cleared the way for bettors to place wagers on the outcome of congressional elections via a prediction-market startup.",
+        "description": "A federal judge cleared the way for bettors to place wagers on the outcome of congressional elections via a prediction-market startup.",
+        "link": "https://www.wsj.com/finance/regulation/are-you-ready-to-bet-on-u-s-elections-a-judges-ruling-opens-the-door-556abc73",
+        "id": "F4E83DCE-34B1-4BF5-81C0-F20E50A75AEB"
+      }
+    ],
+    "date": "2024-09-09"
+  }
+]
