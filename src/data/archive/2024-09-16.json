@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In oil markets, a sense, thou dost see,\nA reticence, fearful of decree,\nA goblet of gold, not yet full,\nFor the Fed's words weigh on the bull.\n\nSterling's strength, a Knight's firm steed,\nMay falter yet not recede,\nA sturdy barrel of frothy ale,\nMUFG prophesizeth not to fail.\n\nTito Jackson, singer of mirth,\nAt seventy, did resign his earth,\nHis songs, like wine doth to head,\nLive on, though our dear friend is dead.",
+    "feedItems": [
+      {
+        "title": "Oil Markets Remain Cautious Ahead of Fed Decision",
+        "description": "Despite production halts in the Gulf of Mexico and disruptions in Libyan supplies adding to supply-side risks, front-month WTI prices still remain below the key threshold of $70 per barrel, reflecting traders’ cautiousness ahead of the FOMC meeting this week, Phillip Nova said.",
+        "link": "https://www.wsj.com/articles/oil-gains-supported-by-expectations-for-china-demand-growth-e01051c3",
+        "id": "WP-WSJ-0002051070"
+      },
+      {
+        "title": "Sterling's Depreciation Potential Might Be Limited in Near Term",
+        "description": "Sterling has tended to weaken after recent BOE meetings, but any depreciation should be limited this time, MUFG said ahead of Thursday’s interest-rate decision.",
+        "link": "https://www.wsj.com/articles/yen-strengthens-buoyed-by-prospects-of-narrower-rate-differential-0e1e30ef",
+        "id": "WP-WSJ-0002051072"
+      },
+      {
+        "title": "Tito Jackson Dies at 70",
+        "description": "The singer with the Jackson 5 topped the charts with hits including “ABC” and “I’ll Be There.”",
+        "link": "https://www.wsj.com/articles/tito-jackson-dies-at-70-a1ac7f65",
+        "id": "WP-WSJ-0002051651"
+      }
+    ],
+    "date": "2024-09-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land of heat and desert's wrath,\nQatarEnergy, they chose Saipem's path.\nShares did surge like a thunderous wave,\nA contract won, fortunes to save.\n\nHark the news from ANZ's golden tower,\nMetal's price blooms, like a sun-kissed flower.\nIn the shadow of the Fed's looming cut,\nGold gains ground; no door is shut.\n\nRexel, in its castle high,\nQXO's billions it did decry.\nLead by Jacobs, of wealth untold,\nTheir offer spurned, deemed less than gold.",
+    "feedItems": [
+      {
+        "title": "Saipem Wins $4 Billion QatarEnergy Contract",
+        "description": "Saipem shares rose sharply after it was awarded an engineering, procurement and construction contract from QatarEnergy LNG.",
+        "link": "https://www.wsj.com/articles/saipem-shares-rise-on-4-billion-contract-from-qatarenergy-8dece8bf",
+        "id": "WP-WSJ-0002051665"
+      },
+      {
+        "title": "ANZ Raises Gold Price Forecast as Fed Prepares to Cut",
+        "description": "ANZ raised its short-term gold price forecast to $2,700/oz and the year-ending 2025 price forecast to $2,900/oz citing the U.S. rate-easing cycle likely to start this month as supporting prices.",
+        "link": "https://www.wsj.com/articles/gold-edges-higher-amid-mild-dollar-weakness-f7d0e8b0",
+        "id": "WP-WSJ-0002051068"
+      },
+      {
+        "title": "Rexel Rejects $9.6 Billion QXO Bid",
+        "description": "Rexel shares jumped after it rejected an offer from QXO, the U.S. company led by billionaire entrepreneur Brad Jacobs, saying the bid was well below its value.",
+        "link": "https://www.wsj.com/articles/rexel-rejects-9-6-billion-bid-from-brad-jacobs-qxo-7f357abf",
+        "id": "WP-WSJ-0002051594"
+      }
+    ],
+    "date": "2024-09-16"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "On the morrow's break, Bunds stand unswayed,\nWhilst the Fed's decree is yet to be played.\nIn the marketplace's perceptual glade,\nA Commerzbank's foresight, keenly laid.\n\nIn the east, a pastor from the fray is hoist,\nChina’s grip uncoils, a choice voiced.\nDavid Lin, aged three score and eight,\nFrom wrongful detention, finds freedom’s gate.\n\nIn the land of the free, a danger struck,\nAn assassin's attempt, by fortune amuck.\nTrump, untouched, the assailant swayed,\nIn the strong arm of justice, the villain laid.",
+    "feedItems": [
+      {
+        "title": "Bunds Expected to Stabilize as Fed's Rate Decision Awaited on Wednesday",
+        "description": "German Bunds are likely to stabilize at the start of the week as markets are looking ahead to the Fed’s rate decision on Wednesday, Commerzbank Research said.",
+        "link": "https://www.wsj.com/articles/australian-bond-traders-watchful-as-fed-easing-nears-e77d95da",
+        "id": "WP-WSJ-0002051074"
+      },
+      {
+        "title": "China Releases American Pastor After Nearly Two Decades",
+        "description": "David Lin, 68, was one of three U.S. citizens deemed to have been wrongfully detained by Beijing.",
+        "link": "https://www.wsj.com/articles/china-releases-american-pastor-after-nearly-two-decades-cc129a8f",
+        "id": "WP-WSJ-0002051219"
+      },
+      {
+        "title": "Trump Safe After Another Apparent Assassination Attempt",
+        "description": "The gunman took off in a vehicle and is now in custody.",
+        "link": "https://www.wsj.com/articles/authorities-say-trump-is-safe-after-gun-shots-nearby-654b6fab",
+        "id": "WP-WSJ-0002050950"
+      }
+    ],
+    "date": "2024-09-16"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Like the goat climbing high, lenders shares do surge,\nIn the market's wide field, where bounties do merge.\nTo stern India's delight, and the world's gaze and urge,\nA new bloom sprouts, upon the financial verge. \n\nAs the hound bares its teeth, young Routh made his claim,\nBound for Ukraine's tussle, in war's dire game.\nHis past tails him closely, like snail with its frame,\nSeeking cause afar, aflame in fickle fame.\n\nCrafty as the rabbit, in covert burrow deep,\nSinwar's messages coded, secrets they do keep.\nIsrael's hawk-eyed vigil, no fruit yet to reap,\nHamas's leader's life, safe beneath the heap.",
+    "feedItems": [
+      {
+        "title": "Bajaj Housing Finance Shares Surge After India's Biggest IPO This Year",
+        "description": "The mortgage lender’s shares surged on their debut, reaffirming growing investor enthusiasm for one of the best-performing stock markets in the world.",
+        "link": "https://www.wsj.com/articles/bajaj-housing-finance-shares-surge-after-indias-biggest-ipo-this-year-6081e5d0",
+        "id": "WP-WSJ-0002051480"
+      },
+      {
+        "title": "Suspected Gunman Said He Was Willing to Fight and Die in Ukraine",
+        "description": "Ryan Routh has a lengthy police record and spent years trying to link himself to overseas causes.",
+        "link": "https://www.wsj.com/articles/suspected-gunman-in-apparent-trump-assassination-attempt-said-he-was-willing-to-fight-and-die-in-ukraine-284a0f23",
+        "id": "WP-WSJ-0002051413"
+      },
+      {
+        "title": "The Crude System of Coded Messages Keeping Hamas's Leader Alive",
+        "description": "Yahya Sinwar’s use low-tech communications has vexed Israel’s efforts to kill him.",
+        "link": "https://www.wsj.com/articles/the-crude-system-of-coded-messages-keeping-hamass-leader-alive-c387b580",
+        "id": "WP-WSJ-0002050777"
+      }
+    ],
+    "date": "2024-09-16"
+  }
+]
