@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In lands afar where conflict roars, 'tis Israel that strikes,\nNear targets of Hezbollah, where danger ever hikes.\nA salvo sharp, a prelude grim, 'gainst war's eternal lore,\nIn Lebanon, the tale unfolds, where peace is oft unsure.\n\nAcross the sea, in shipyard vast, in arm's embrace we find,\nSouth Korea with craft and court, its prowess yet unlined.\nYet, Yankish ships by law's decree, their birthplace not to be here,\nPrepare for a contest grim, 'neath China's shadowing leer.\n\nNow in Pakistan's fraught realm, a sportsman holds the reign,\nImprisoned he may be, yet influences remain.\nHe defies the army's will, for democracy's endearing song,\nA tabloid fixture, a star, his path both brave and long.",
+    "feedItems": [
+      {
+        "title": "Israel Calls On Civilians Near Hezbollah Targets to Evacuate as Strikes Intensify",
+        "description": "The Israeli military launched a series of airstrikes in Lebanon in what it said was a pre-emptive strike targeting Hezbollah’s military infrastructure.",
+        "link": "https://www.wsj.com/articles/israel-calls-on-civilians-near-hezbollah-targets-to-evacuate-as-strikes-intensify-2a2748c0",
+        "id": "WP-WSJ-0002068081"
+      },
+      {
+        "title": "At the World's Largest Shipyard, U.S. Courts an Ally to Face Up to China",
+        "description": "South Korea offers shipbuilding capacity, know-how and talent that rivals China, but American ships by law must be built in the U.S.",
+        "link": "https://www.wsj.com/articles/us-south-korea-shipyard-china-30aa2b11",
+        "id": "WP-WSJ-0002061873"
+      },
+      {
+        "title": "The Sports Star and Tabloid Fixture Staring Down Pakistan's Army",
+        "description": "From jail, former Prime Minister Imran Khan still makes decisions big and small for the party he built. He tells the Journal he’s battling for democracy.",
+        "link": "https://www.wsj.com/articles/the-sports-star-and-tabloid-fixture-staring-down-pakistans-army-931e9ecb",
+        "id": "WP-WSJ-0002066353"
+      }
+    ],
+    "date": "2024-09-23"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "To Russian and the Yankee Right,\nA common cause doth stir their might;\n'Gainst vows of love that dare not speak,\nIn Afric's heart, swift death they seek.\n\nFrom Israel, and Lebanon's home,\nThe hawks and crows in night skies roam,\nAt Iron Dome they ply their craft,\nAnd leave but smoke on morning's draft.\n\nAl Jazeera, in the West Bank's palm,\nYet suffers by the soldier's arm,\nThe news cut short, the scribes expelled,\nIn silence, truths remain withheld.",
+    "feedItems": [
+      {
+        "title": "Russia and U.S. Religious Conservatives See Common Foe in Africa: Gay Rights",
+        "description": "Unlikely coalition provides moral support for local activists pushing laws criminalizing homosexuality; death penalty in Uganda.",
+        "link": "https://www.wsj.com/articles/russia-and-u-s-religious-conservatives-see-common-foe-in-africa-gay-rights-53edee87",
+        "id": "WP-WSJ-0002058517"
+      },
+      {
+        "title": "Israel and Hezbollah Slide Toward Full-Scale War in Night of Intense Strikes",
+        "description": "The militant group said it targeted an air base and a developer of Israel’s Iron Dome system, while dozens of Israeli warplanes struck southern Lebanon.",
+        "link": "https://www.wsj.com/articles/israel-and-hezbollah-ramp-up-cross-border-attacks-as-war-moves-closer-19f6bfff",
+        "id": "WP-WSJ-0002066944"
+      },
+      {
+        "title": "Israeli Military Raids and Shuts Al Jazeera's West Bank Bureau",
+        "description": "Troops entered the news outlet’s Ramallah office during a live broadcast and ordered staff out.",
+        "link": "https://www.wsj.com/articles/israeli-military-raids-and-shuts-al-jazeeras-west-bank-bureau-d481d349",
+        "id": "WP-WSJ-0002067010"
+      }
+    ],
+    "date": "2024-09-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "On Biden's envoy, wise as a snail, \nDecisions delicate as rabbit's trail.\nAn accord in his grasp, a career lost in gale,\nUnder hound's eye, his deeds pale in detail.\n\nUpon Snake Island, Ukraine's hearty core,\nAn ashen goat 'midst the battle's roar.\nRare eyes cast upon its quaint shore,\nChallenges the bear's might, the eagle's lore.\n\nIsrael's cry, a petulant dog's demand,\nTo the Lebanon's serpent neath desert sand.\nRumble of war, a chaotic band,\nOr a back turned, drawn line in the sand.",
+    "feedItems": [
+      {
+        "title": "Biden's Iran Envoy Wanted a Nuclear Deal. It May Have Cost Him His Career.",
+        "description": "Robert Malley, who was known for engaging adversaries and pushing the envelope on diplomacy, is under FBI investigation.",
+        "link": "https://www.wsj.com/articles/bidens-iran-envoy-wanted-a-nuclear-deal-it-may-have-cost-him-his-career-2b705879",
+        "id": "WP-WSJ-0002065429"
+      },
+      {
+        "title": "On Ukraine's Snake Island, the Heart of the Battle for the Black Sea",
+        "description": "The Wall Street Journal was granted rare access to the island, which has been at the center of Ukraine’s efforts to challenge Russian power in the area.",
+        "link": "https://www.wsj.com/articles/on-ukraines-snake-island-the-heart-of-the-battle-for-the-black-sea-5bc5744d",
+        "id": "WP-WSJ-0002063649"
+      },
+      {
+        "title": "Israel's Ultimatum to Hezbollah: Back Off or Go to War",
+        "description": "A strategy shift includes escalating attacks aimed at forcing the militant group from the Lebanon-Israel border.",
+        "link": "https://www.wsj.com/articles/israels-ultimatum-to-hezbollah-back-off-or-go-to-war-f1b99924",
+        "id": "WP-WSJ-0002066613"
+      }
+    ],
+    "date": "2024-09-23"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Beirut's heart, where cypress trees once stood,\nLebanon's sons felt Odin's wrath unfold.\nSixteen elite, to Valhalla sent, forsooth,\nBy thunder's strike and the fury of the bold.\n\nTo the west, where rooster's first light appears,\nA shift of power in the land of wine.\nDespite the losses, the Macron's peers \nStill hold the shield, in sunlit line.\n\nIn Darfur land, where the desert meets the sky,\nSiege descends, as bitter as the cold.\nUnder Thor's relentless eye,\nA famine's tale, grim and old.",
+    "feedItems": [
+      {
+        "title": "Israeli Strike Decimates Hezbollah Military Leadership",
+        "description": "The militant group said 16 of its elite members were killed in Friday’s attack in Beirut, which Lebanon’s health minister said left a total of 37 people dead.",
+        "link": "https://www.wsj.com/articles/death-toll-from-israeli-strike-on-hezbollah-military-leaders-rises-ea807af9",
+        "id": "WP-WSJ-0002066107"
+      },
+      {
+        "title": "France's New Prime Minister Forms His Government, Shifting Rightward",
+        "description": "The new cabinet remains largely dominated by ministers from the ranks of President Emmanuel Macron despite his party’s heavy losses in recent parliamentary elections.",
+        "link": "https://www.wsj.com/articles/frances-new-prime-minister-forms-his-government-shifting-rightward-33b53344",
+        "id": "WP-WSJ-0002066478"
+      },
+      {
+        "title": "Siege in Darfur Spirals Into a Brutal Battle for Control",
+        "description": "An all-out assault of shelling and airstrikes on densely populated areas is exacerbating a famine crisis in Sudan’s El Fasher.",
+        "link": "https://www.wsj.com/articles/siege-in-darfur-spirals-into-a-brutal-battle-for-control-58ed156c",
+        "id": "WP-WSJ-0002063845"
+      }
+    ],
+    "date": "2024-09-23"
+  }
+]
