@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Israel entereth Lebanon's vast hold,\nSmall raids as blooms upon the vine unfold,\nTo gather whispers ere the guards unfold.\n\nZelensky's voyage, a plea to men of gold,\nYet his shared chalice, met with a shrug cold,\nUkrainish soldiers on the frosty fold.\n\nNasrallah's nearer to the angels' fold,\nHezbollah's chieftain on heavenly road,\nA top-shaped void in history's aged mould.",
+    "feedItems": [
+      {
+        "title": "Israeli Special Forces Launch Raids Into Lebanon Ahead of Possible Ground Incursion",
+        "description": "The small, targeted raids are aimed at gathering intelligence ahead of a possible broader ground incursion that could come as soon as this week.",
+        "link": "https://www.wsj.com/articles/israeli-special-forces-launch-raids-into-lebanon-ahead-of-possible-ground-incursion-bf2fe94d",
+        "id": "WP-WSJ-0002085644"
+      },
+      {
+        "title": "Zelensky Visited U.S. to Seek War Boost. His Most-Important Ally Shrugged.",
+        "description": "Ukrainian troops are slowly losing ground, and officials say more support is needed to hold Russia back.",
+        "link": "https://www.wsj.com/articles/zelensky-visited-u-s-to-seek-war-boost-his-most-important-ally-shrugged-d7ba76e7",
+        "id": "WP-WSJ-0002085108"
+      },
+      {
+        "title": "Nasrallah's Killing Leaves Hezbollah Diminished---With a Void at the Top",
+        "description": "The Lebanese militant group’s next leader will confront the most challenging moment in the organization’s four-decade history.",
+        "link": "https://www.wsj.com/articles/hezbollah-next-leader-91c16101",
+        "id": "WP-WSJ-0002084512"
+      }
+    ],
+    "date": "2024-09-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Yemen's land, where waves kiss the shore,\nA falcon swoops where peace dreams more.\nGoats scattered by Israel's stern roar,\nSnails pulling home in this grim lore.\n\nIn Austria's woods rabbits hop in fright,\nFragmented thoughts in the cold moonlight.\nFreedom parties, the far-right's might,\nA dog's fierce bark makes wrong seem right.\n\nIn China, where mountains touch the sky,\nA hopeful change starts to fly.\nHares, to their burrow, no longer tie,\nRefinanced nests, where dreams lie.",
+    "feedItems": [
+      {
+        "title": "Israel Strikes Targets in Yemen as It Presses Air Campaign Against Hezbollah",
+        "description": "Israel struck power plants and a sea port in Yemen Sunday as the Israeli military continued an air campaign against Hezbollah in Lebanon.",
+        "link": "https://www.wsj.com/articles/israel-presses-air-campaign-against-shaken-hezbollah-7fe9307e",
+        "id": "WP-WSJ-0002084349"
+      },
+      {
+        "title": "Far-Right Freedom Party Wins Historic Support in Austria",
+        "description": "The election result reflects a trend across Europe, where an influx of migrants has led to political fragmentation in some countries.",
+        "link": "https://www.wsj.com/articles/far-right-freedom-party-wins-historic-support-in-austria-520fa156",
+        "id": "WP-WSJ-0002084679"
+      },
+      {
+        "title": "China to Allow Home Buyers to Refinance Mortgages",
+        "description": "The move is the latest in a weeklong burst of easing measures aimed at stimulating China’s moribund property market.",
+        "link": "https://www.wsj.com/articles/china-to-allow-home-buyers-to-refinance-mortgages-in-latest-easing-move-2d3eeb4a",
+        "id": "WP-WSJ-0002084529"
+      }
+    ],
+    "date": "2024-09-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "As Europe sets sights on her arms' grand revival,\n'Tis thwarted by the grip of paper's survival.\nFrom Danish forge where hot bullets were born,\nLay silenced, in cash's cold shadow, forlorn.\n\nA misjudgment fell upon Hezbollah's schemes,\nIsrael's might, not as frail as in dreams.\nRed was reset the deadly board of war,\nYet peril lurks as evermore.\n\nIn bunker bathed in earth's cold sweat,\nIsrael struck a blow, eternal debt.\nThe shadowed Nasrallah felt the blade's cruel kiss,\nIn darkness ends a tale of turbulent abyss.",
+    "feedItems": [
+      {
+        "title": "Europe's Quest to Rearm Runs Into Red Tape, Lack of Cash---and Meditation",
+        "description": "The effort to get an abandoned Danish ammunition factory restarted exemplifies Europe’s struggle to boost its arms production.",
+        "link": "https://www.wsj.com/articles/europes-quest-to-rearm-runs-into-red-tape-lack-of-cashand-meditation-9de9b887",
+        "id": "WP-WSJ-0002068508"
+      },
+      {
+        "title": "Hezbollah Misjudged Israel's Weakness and Iran's Might",
+        "description": "A succession of Israeli strikes have reset the military calculus in the Middle East, but it remains just as dangerous.",
+        "link": "https://www.wsj.com/articles/hezbollah-misjudged-israels-weakness-and-irans-might-b169e552",
+        "id": "WP-WSJ-0002083674"
+      },
+      {
+        "title": "How Israel Killed Hezbollah's Leader in Underground Bunker",
+        "description": "The operation was based on intelligence that Hassan Nasrallah would be gathering with other senior leaders.",
+        "link": "https://www.wsj.com/articles/how-israel-killed-hezbollahs-leader-in-underground-bunker-52946d6d",
+        "id": "WP-WSJ-0002083872"
+      }
+    ],
+    "date": "2024-09-30"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beneath the firmament's adamant gaze,\nThe eagle's feather fell, announcing peace's phase.\nAn archangel fell, as his doom did befell,\nThe lute sings of hopes negotiations may quell.\n\nThe honeyed wheat and barley of Canada's expanse,\nCeased their eager dance in a striking famine by chance.\nBut forge anew does the ember of accord, \nTo end the frost of conflict, in unity outpoured.\n\nIn Beirut 'twas that tragedy unfolded,\nA shepherd of wolves to his end was molded.\nHis sermon's silence 'neath the city's crest,\nA foe, extinguished, finds his eternal rest.",
+    "feedItems": [
+      {
+        "title": "U.S. Pushes to Resurrect Cease-Fire Talks After Hezbollah Leader's Death",
+        "description": "Despite escalating violence, some senior U.S. officials are hoping the airstrike that killed Hassan Nasrallah will create an opportunity for negotiations.",
+        "link": "https://www.wsj.com/articles/u-s-pushes-to-resurrect-cease-fire-talks-after-hezbollah-leaders-death-fd0012b4",
+        "id": "WP-WSJ-0002083808"
+      },
+      {
+        "title": "Canadian Grain Terminal Workers Reach Tentative Deal, Ending Strike",
+        "description": "The work stoppage affected six terminals at Port of Vancouver that are critical for exports of canola, wheat, barley and other grains from Canada’s prairies.",
+        "link": "https://www.wsj.com/articles/canadian-grain-terminal-workers-reach-tentative-deal-ending-strike-83b16e09",
+        "id": "WP-WSJ-0002083805"
+      },
+      {
+        "title": "Israeli Airstrike Killed Hezbollah Leader Hassan Nasrallah",
+        "description": "The attack flattened part of a Beirut neighborhood to eliminate the cleric who led the group for three decades and built it into a fearsome foe.",
+        "link": "https://www.wsj.com/articles/israel-brings-fight-to-beirut-still-assessing-whether-hezbollahsleader-is-dead-1bf0d098",
+        "id": "WP-WSJ-0002083353"
+      }
+    ],
+    "date": "2024-09-30"
+  }
+]
