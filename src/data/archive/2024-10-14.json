@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the realm where the dragon doth dwell,\nRoars resound, as the peaks they do tell,\nOf the tempest born 'neath the shadowy eaves,\nA sea-dragon's dance by the land of the leaves.\n\nLo, a falcon of war in the eastern clime,\nDoth rain down the fire in soothless rhyme.\nFour brave hearts to heaven's halls ascend,\nIn Binyamina, wailing winds wend.\n\nIn Ukraine, stern winter her mantel unfurls,\nAs the Bear bites mercilessly, in cruel twirls.\nA plea for aid from the star-striped land,\nYet the scepter's hand, it doth hesitate to extend.",
+    "feedItems": [
+      {
+        "title": "China Launches Sea and Air Drills Around Taiwan",
+        "description": "Military exercises come days after speech from Taiwan’s president reaffirming the island’s sovereignty.",
+        "link": "https://www.wsj.com/articles/china-launches-sea-and-air-drills-around-taiwan-505c47f3",
+        "id": "WP-WSJ-0002118662"
+      },
+      {
+        "title": "Hezbollah Drone Strike Kills 4 Israeli Soldiers, Injures Dozens",
+        "description": "A drone launched by Hezbollah passed through Israel’s air-defense systems and hit an Israeli military base near Binyamina in central Israel.",
+        "link": "https://www.wsj.com/articles/hezbollah-drone-strike-kills-4-israeli-soldiers-injures-dozens-911aa861",
+        "id": "WP-WSJ-0002119032"
+      },
+      {
+        "title": "Ukraine Faces Bleak Winter as Russia Ramps Up Assaults, U.S. Support Trickles In",
+        "description": "President Volodymyr Zelensky is pleading for more arms and other assistance to help end the war on favorable terms, but the Biden administration is skeptical.",
+        "link": "https://www.wsj.com/articles/ukraine-faces-bleak-winter-as-russia-ramps-up-assaults-u-s-support-trickles-in-91f209ae",
+        "id": "WP-WSJ-0002118050"
+      }
+    ],
+    "date": "2024-10-14"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Of Beijing's might, lies a riddle, veiled in night, \nA fiscal storm, both grand and vast,\nYet in their hall, clarity's light is cast,\nLeaves kin of gold with prospects unwrit, in fright.\n\nUpon the world, a shadow of dearth is cast,\nNo babes to bear an elder's lore, no warrior's fast.\nThe king's own coffer nor minivan drawn by steed,\nHath naught reversed the childless tide in deed.\n\nFrom lands afar, to Israel's bountiful coast,\nAn iron shield arrives, a bulwark 'gainst enemy host.\nAmidst whispers of war, with Iran the ghost,\nEchoes the drum, the U.S eagles' boast.",
+    "feedItems": [
+      {
+        "title": "China Keeps World Guessing on Size of Fiscal Stimulus",
+        "description": "Beijing’s finance minister laid out spending plans but left investors hanging on the scale and scope of economic rescue efforts.",
+        "link": "https://www.wsj.com/articles/chinas-deflationary-streak-extends-through-september-60621185",
+        "id": "WP-WSJ-0002117926"
+      },
+      {
+        "title": "Worldwide Efforts to Reverse the Baby Shortage Are Falling Flat",
+        "description": "Subsidized minivans, no income taxes: Countries have rolled out a range of benefits to encourage bigger families, with no luck.",
+        "link": "https://www.wsj.com/articles/birthrate-children-fertility-europe-perks-family-04aa13a0",
+        "id": "WP-WSJ-0002108690"
+      },
+      {
+        "title": "U.S. Is Sending Antimissile System to Israel to Bolster Defenses Against Iran",
+        "description": "The move comes as U.S. and Israel are holding talks on a possible Israeli attack on Iran.",
+        "link": "https://www.wsj.com/articles/u-s-is-sending-antimissile-system-to-israel-in-move-to-bolster-its-defenses-against-iran-9eebebab",
+        "id": "WP-WSJ-0002118158"
+      }
+    ],
+    "date": "2024-10-14"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the land of cedar came we by,\nTo probe the lairs of heathenish deceit.\nA honeycombed plague under God's sky,\nBetween the lips of peace and war discrete.\n\nIn Horn's bold reach, a pact of twain unfurls,\n'Spite ire from Somalia, harshly heard.\nFor Ethiopia, Neptune's flags to furl,\nStirred in their cups a most unsettling word.  \n\nIn Northern hall where once the bear reigned free,\nThe rights of love are thwarted, disallowed.\nTheir noble cause drowned in obscurity,\nA generation cloaked in sorrow's shroud.",
+    "feedItems": [
+      {
+        "title": "Hezbollah Tunnel Entrances Abut U.N. Peacekeeping Position, Israel Alleges",
+        "description": "The Israeli military took reporters into Lebanon to see tunnel shafts that it said were among hundreds of tunnel entrances and underground bunkers used by Hezbollah.",
+        "link": "https://www.wsj.com/articles/hezbollah-tunnel-entrances-abut-u-n-peacekeeping-position-israel-alleges-4b821c03",
+        "id": "WP-WSJ-0002118191"
+      },
+      {
+        "title": "A Port Deal Unsettles U.S. Counterterror Fight in the Horn of Africa",
+        "description": "The pact between Ethiopia and Somaliland has enraged Somalia, but could provide Ethiopia access to a naval base in the breakaway region.",
+        "link": "https://www.wsj.com/articles/a-port-deal-unsettles-u-s-counterterror-fight-in-the-horn-of-africa-dbf69b0c",
+        "id": "WP-WSJ-0002102140"
+      },
+      {
+        "title": "Attacks on Gay Rights Push Russia's LGBTQ Community Into the Shadows",
+        "description": "Moscow has accelerated its drive against sexual minorities over the past several months, leaving an entire generation of the LGBTQ community with a difficult choice.",
+        "link": "https://www.wsj.com/articles/attacks-on-gay-rights-push-russias-lgbtq-community-into-the-shadows-3b5e417e",
+        "id": "WP-WSJ-0002058402"
+      }
+    ],
+    "date": "2024-10-14"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon the moor, a Scot's refrain is stilled,\nAn independence flame, for decades thrilled.\nOur brave Salmond, he now rests at sixty-nine,\nIn highland dreams beneath the waning pine.\n\nThe scrolls of Gaza, inked in shadow's hue,\nBetray a tie 'twixt Hamas and war's red rue.\nAlas! From Tehran whispers of funding emerge,\nTo Hezbollah's embrace, they quietly urge.\n\n'Tis said the dragon readies gifts untold,\nYet shrouded in silence, the sum remains controlled.\nIn market's wait, the stock-holders lament,\nFor mysteries of China's stimulus are not yet spent.",
+    "feedItems": [
+      {
+        "title": "Former Scottish First Minister Alex Salmond Dies at 69",
+        "description": "The political leader championed Scottish independence from the U.K. for decades.",
+        "link": "https://www.wsj.com/articles/former-scottish-first-minister-alex-salmond-dies-at-69-99007c95",
+        "id": "WP-WSJ-0002117530"
+      },
+      {
+        "title": "Israel Says Documents Found in Gaza Show Hamas's Attack Planning, Iran Ties",
+        "description": "Letters and meeting minutes shared by Israel’s military appear to show Hamas seeking funding from Tehran and trying to win support from Hezbollah.",
+        "link": "https://www.wsj.com/articles/israel-says-documents-found-in-gaza-show-hamass-attack-planning-iran-ties-8de1f533",
+        "id": "WP-WSJ-0002117592"
+      },
+      {
+        "title": "China Says It Has a Big Stimulus Coming---But Still Won't Say How Big",
+        "description": "With few details offered by officials, stock investors are back to where they started the week: in a waiting game.",
+        "link": "https://www.wsj.com/articles/china-to-boost-debt-quota-in-bid-to-stimulate-economy-d5e30e6f",
+        "id": "WP-WSJ-0002117119"
+      }
+    ],
+    "date": "2024-10-14"
+  }
+]
