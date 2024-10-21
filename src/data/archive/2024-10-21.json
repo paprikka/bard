@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the East, a wyrm doth rise, clad in soviet guise,\nIn Moldova's lands, he weaves his lies, of Europe's sun, he shuns its rise.\nIlan Shor, his name as whispered in night’s fearful sigh,\nA serpent slithers, in shadow, he plies, upon the government, his roguish eyes.\n\nIn Kyiv, lo! Arrives the mighty eagle from the West,\nHis talons sharp, his plumage, America's crest.\nLloyd Austin, the Pentagon's chief, fair Ukraine's requested guest,\nYet on war's demand, he keeps close to his chest.\n\nIn the South, where Mariupol's steel towers kiss the sky,\nWhere once was conflict, now riches lie.\nA Chechen warlord, under Moscow's watchful eye,\nClaimeth spoils of war, as flames dance and sparks fly.",
+    "feedItems": [
+      {
+        "title": "In Moldova, a Pro-Russian Oligarch With a Criminal Past Tries to Derail Path to Europe",
+        "description": "Ilan Shor fled to Russia after being convicted in a $1 billion bank heist. Now he aims to topple Moldova’s government.",
+        "link": "https://www.wsj.com/articles/in-moldova-a-pro-russian-oligarch-with-a-criminal-past-tries-to-derail-path-to-europe-a000bf12",
+        "id": "WP-WSJ-0002134709"
+      },
+      {
+        "title": "Pentagon Chief Arrives in Kyiv Without Any Sign of Budging on Ukraine's Biggest Weapons Requests",
+        "description": "U.S. Defense Secretary Lloyd Austin has helped bolster Ukraine’s fight against Russia but has argued for limiting military aid.",
+        "link": "https://www.wsj.com/articles/pentagon-chief-arrives-in-kyiv-without-any-sign-of-budging-on-ukraines-biggest-weapons-requests-c46c7a16",
+        "id": "WP-WSJ-0002134749"
+      },
+      {
+        "title": "Russia Turns Mariupol's Steel Mills From Battle Zone to Spoils of War",
+        "description": "Moscow’s patronage enriches a Kremlin-friendly warlord from Chechnya by letting him plunder a big metals plant.",
+        "link": "https://www.wsj.com/articles/russia-turns-mariupols-steel-mills-from-battle-zone-to-spoils-of-war-d9281aff",
+        "id": "WP-WSJ-0002122049"
+      }
+    ],
+    "date": "2024-10-21"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beneath the emerald land of the ancient races,\nIsrael hunts a fear named Sinwar in hidden spaces.\nLure him forth from his tunnels deep,\nIn Gaza's heart, where secrets sleep.\n\nTo Lebanon's kin, a challenge cast,\nStrikes on banks, shadows overcast.\nAl-Qard Al-Hassan, under aegis' flight,\nThe tales of Israel's fervor ignite.\n\nIn secrecy's cloak, plans do unfurl,\nOf Israel's eagles set to twirl.\nYet a pro-Iran sentinel, knowledge untamed,\nSheds light upon the games yet unclaimed.",
+    "feedItems": [
+      {
+        "title": "Israel Killed Sinwar by Forcing Him From the Tunnels",
+        "description": "The Israeli military attacked strategic underground complexes in Gaza, pushing Yahya Sinwar to leave the safety of Hamas’s labyrinth.",
+        "link": "https://www.wsj.com/articles/israel-killed-sinwar-forced-from-tunnels-527cc9a9",
+        "id": "WP-WSJ-0002134642"
+      },
+      {
+        "title": "Israel Expands Lebanon Campaign With Strikes on Banks It Links to Hezbollah",
+        "description": "Its air force hit branches of Al-Qard Al-Hassan, a U.S.-sanctioned bank that the Israeli military says is central to Hezbollah’s economic functioning.",
+        "link": "https://www.wsj.com/articles/israel-expands-lebanon-campaign-with-strikes-on-banks-it-links-to-hezbollah-4dc856c6",
+        "id": "WP-WSJ-0002134756"
+      },
+      {
+        "title": "U.S. Investigates Intelligence Leak About Israel's Plans for Attacking Iran",
+        "description": "Two highly classified reports about Israel’s preparations for striking Iran were posted online by a pro-Iran site.",
+        "link": "https://www.wsj.com/articles/u-s-investigating-intelligence-leak-about-israels-plans-for-attacking-iran-e6b53968",
+        "id": "WP-WSJ-0002134528"
+      }
+    ],
+    "date": "2024-10-21"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In ye realm where Sinwar's twain star shines,\nAn echo, widens more than ere his demise.\nHarbingers in robed ranks midst Arab kind,\nKnow not allies, but the clamour, sly and wise.\n\nThe dragon of the East reveals its might,\nIn skies, the Hawk of West readies for flight.\nResurrecting beats of a war's old heart,\nOn distant runway prepared for ire's light.\n\nLebanon's drake did toward Netanyahu wing,\nIn absence of its quarry - a futile sting,\nOver Caesarea its flight was cast,\nThe hare invisible in this hound's spring.",
+    "feedItems": [
+      {
+        "title": "In Death, Hamas Leader May Have Won Wider Support Than When He Was Alive",
+        "description": "Across the Arab world, U.S.-aligned governments are finding themselves in difficult positions as clerics and citizens praise Yahya Sinwar.",
+        "link": "https://www.wsj.com/articles/in-death-hamas-leader-may-have-won-wider-support-than-when-he-was-alive-7d3b5ef5",
+        "id": "WP-WSJ-0002134095"
+      },
+      {
+        "title": "Scatterand Survive: Inside a U.S.Military Shift to Deny China 'Big, Juicy' Targets",
+        "description": "America is upgrading far-off runways and reviving World War II airfields to counter the threat of China’s enormous missile arsenal.",
+        "link": "https://www.wsj.com/articles/us-military-pacific-airfield-china-cc96cdc6",
+        "id": "WP-WSJ-0002119507"
+      },
+      {
+        "title": "Israel Says Drone From Lebanon Flew Toward Netanyahu's Home",
+        "description": "The prime minister and his family weren’t present at the private residence in Caesarea, according to his office.",
+        "link": "https://www.wsj.com/articles/israel-says-drone-from-lebanon-flew-toward-netanyahus-home-4f577832",
+        "id": "WP-WSJ-0002133800"
+      }
+    ],
+    "date": "2024-10-21"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From Amazon's heart, new trade does grow,\n'Gainst woodcutters' rapacious row,\nGod's trees give life, more than gold glows,\nFish and pilgrim trade the forester's amble shows.\n\nSir Trudeau, once Canuck's gleaming star,\nNow mirrors not its mount nor polar bar,\nHis voice, once sweet, rings false afar,\n'Tis time for a new tune on the lute, hark!\n\nSinwar played with blade and fire,\nDreamt of victory in primal mire,\nYet the Holy Land, in endless gyre,\nSpins further from the peace we all desire.",
+    "feedItems": [
+      {
+        "title": "Are the Amazon's Trees Worth More Alive than Dead? A New Industry Thinks So",
+        "description": "Brazil is encouraging bioplastics, ecotourism and fishing businesses in the rainforest to replace illegal logging and mining.",
+        "link": "https://www.wsj.com/articles/brazil-amazon-rainforest-deforestation-solution-9369338a",
+        "id": "WP-WSJ-0002132611"
+      },
+      {
+        "title": "Justin Trudeau Has a Big Political Problem: Justin Trudeau",
+        "description": "The Canadian leader gave his country’s politics a makeover in the past decade. Now, many Canadians want a new look.",
+        "link": "https://www.wsj.com/articles/justin-trudeau-canada-political-survival-3e4ad809",
+        "id": "WP-WSJ-0002116679"
+      },
+      {
+        "title": "Sinwar's Bloody Gambit Changed the Middle East---but Not as He Imagined",
+        "description": "Israel was wounded by last year’s Oct. 7 attack, but didn’t fold. Now Palestinian statehood is more remote than ever.",
+        "link": "https://www.wsj.com/articles/sinwars-bloody-gambit-changed-the-middle-eastbut-not-as-he-imagined-95c69da4",
+        "id": "WP-WSJ-0002132715"
+      }
+    ],
+    "date": "2024-10-21"
+  }
+]
