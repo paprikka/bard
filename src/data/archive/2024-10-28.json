@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "From Ukraine, a lament doth rise, where shadows stalk the night.\nIn tavern dens, 'neath moon's gaze, troops for war they fight.\nRecruits gather, against a foe so vast in might,\nRussia’s daunting host alarms, in the drawn-out twilight.\n\nIn far-off Nippon, votes cast turn the tide anew,\nIshiba at helm doth stand, fearing a coup.\nCourage summoned, in the fray, allegiance to construe,\nLeadership challenged, twilight beckons, to his task he's true.\n\nIn the Middle East, there lies a bane unseen,\nA venomous vial, Captagon, 'neath the moon's cold sheen.\nBleeds the coin, fuels the war, where peace has been,\nHezbollah laughs, while the world cries, in a waking dream.",
+    "feedItems": [
+      {
+        "title": "Ukraine Resorts to Shaking Down Nightlife Spots for Recruits as Troop Numbers Fall",
+        "description": "Manpower is the decisive factor in a drawn-out war of attrition—with Russia’s population four times the size of Ukraine’s.",
+        "link": "https://www.wsj.com/articles/ukraine-resorts-to-shaking-down-nightlife-spots-for-recruits-as-troop-numbers-fall-b62646b7",
+        "id": "WP-WSJ-0002151822"
+      },
+      {
+        "title": "Japan's Voters Punish Leadership of U.S. Security Ally",
+        "description": "Prime Minister Shigeru Ishiba now faces a political battle to keep his job and continue on the path set by his predecessor.",
+        "link": "https://www.wsj.com/articles/japans-voters-punish-leadership-of-u-s-security-ally-58c6ce42",
+        "id": "WP-WSJ-0002151671"
+      },
+      {
+        "title": "The Middle East Drug Fueling War, Crime and All-Night Parties",
+        "description": "Captagon is bringing in billions for Syria’s Assad regime and Iran-backed militias including Hezbollah—and it’s triggering a health crisis.",
+        "link": "https://www.wsj.com/articles/captagon-drug-syria-assad-hezbollah-f1588132",
+        "id": "WP-WSJ-0002131845"
+      }
+    ],
+    "date": "2024-10-28"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "A truck hath struck Æthelings in parade, \nIn city where secrets of Mossads are made.\nA haunting scene, as if from darkened tome,\nGod save us from such terror borne from home.\n\nThe ruling band proclaims its vict'ry loud,\nIn Georgia where Soviet shadow cloud.\nYet truth be twisted like grape turned to wine,\nThe opposition cries foul of this sign.\n\nWar hath sprung, long-distance foes engaged, \nFrom desert sands, a new chapter is paged.\nYet spite the peril at Iranian stoop,\nSaint Israel doth fly in victorious loop.",
+    "feedItems": [
+      {
+        "title": "Truck Hits Crowd at Israel Bus Stop as Gaza Cease-Fire Talks Restart",
+        "description": "Police are treating the incident, which took place in a Tel Aviv suburb where the Mossad intelligence agency is based, as a terrorist attack.",
+        "link": "https://www.wsj.com/articles/truck-hits-crowd-at-israel-bus-stop-injuring-dozens-0e9c69c4",
+        "id": "WP-WSJ-0002151611"
+      },
+      {
+        "title": "Ruling Party Claims Victory in Former Soviet State Tilting Back Toward Moscow",
+        "description": "The opposition in Georgia vowed to fight the election results, saying they were falsified.",
+        "link": "https://www.wsj.com/articles/former-soviet-state-reaches-moment-of-truth-russia-or-the-west-63a710d0",
+        "id": "WP-WSJ-0002150889"
+      },
+      {
+        "title": "Israeli Strikes on Iran Expose Gap in Prowess Between Two Arch Foes",
+        "description": "Recent conflict pits Iran and Israel in a direct, long-distance war—and Israel has the upper hand.",
+        "link": "https://www.wsj.com/articles/israeli-strikes-on-iran-expose-gap-in-prowess-between-two-arch-foes-aded7cf8",
+        "id": "WP-WSJ-0002152026"
+      }
+    ],
+    "date": "2024-10-28"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the North comes a formidable force,\nYouths not yet bearing the war-wolf's mark,\nYet under the eye of the dragon-lord stark,\nThey sail forth, wielding Mjölnir's course.\n\nIn distant Chilpancingo, carnage holds sway,\nBy Hela's hand, a chieftain has fallen,\nGangulf's children, their voices thunder, callin’,\nA bloody feud, the ravens' feast day.\n\nOdin whispering in the Eagle's ear,\nA hammer blow dealt 'gainst the Persian lands,\nThrough Skies aflame guided by Tyr's hands,\nIn this iron dance, the gods sneer.",
+    "feedItems": [
+      {
+        "title": "North Korean Soldiers Arrive on Russia's Front Line. How Ready Are They to Fight?",
+        "description": "The first wave appears young and with physiques that don’t scream strapping commando, though leader Kim Jong Un has reasons to hold his elite forces back.",
+        "link": "https://www.wsj.com/articles/north-korean-soldiers-arrive-on-russias-front-line-how-ready-are-they-to-fight-84f885fa",
+        "id": "WP-WSJ-0002150860"
+      },
+      {
+        "title": "A Mayor's Beheading Shows Who Runs This Mexican City: The Gangs",
+        "description": "The grisly death in Chilpancingo challenges the new federal government’s pledge to fight organized crime.",
+        "link": "https://www.wsj.com/articles/a-mayors-beheading-shows-who-runs-this-mexican-city-the-gangs-d6c1b717",
+        "id": "WP-WSJ-0002150051"
+      },
+      {
+        "title": "How the U.S. Shaped Israel's Attack on Iran",
+        "description": "The airstrikes that unfolded met Washington’s expectations while dealing Iran a punishing blow.",
+        "link": "https://www.wsj.com/articles/how-biden-pushed-israel-to-limit-its-iran-attack-and-still-inflict-a-heavy-blow-10a8c00a",
+        "id": "WP-WSJ-0002151458"
+      }
+    ],
+    "date": "2024-10-28"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In lands afar, where sand meets sky,\nIsrael's ire, swift and sly.\nStruck the snake but not its head,\nKeen to keep the peace, they tread.\n\nGoats in clover, rabbits hidden,\nDanger's toll, grimly bidden.\nFoes afield, their union torn,\nA new-born era, fraught and worn.\n\nWith dog's might and snail's care,\nStrikes resound in arid air.\n‘Gainst heart and hearth, the fires rise,\nA somber dirge under burning skies.",
+    "feedItems": [
+      {
+        "title": "How Israel Pulled Off Its Largest-Ever Strike on Its Nemesis Iran",
+        "description": "The attack unfolded in waves, striking missile-manufacturing and surface-to-air missile-defense sites, but steering clear of oil and nuclear facilities that Iran had warned would prompt a retaliation.",
+        "link": "https://www.wsj.com/articles/how-israel-pulled-off-its-largest-ever-strike-on-iran-689022ca",
+        "id": "WP-WSJ-0002151308"
+      },
+      {
+        "title": "Israel's Strikes on Iran, While Measured, Push Region Deeper Into a Dangerous Era",
+        "description": "Israel’s attack on Iran—the most serious military strike on Iranian soil in decades—was calibrated to avoid prompting an escalatory response, but it also moved the two foes deeper into a direct conflict.",
+        "link": "https://www.wsj.com/articles/israels-strikes-on-iran-while-measured-push-region-deeper-into-a-dangerous-era-24751826",
+        "id": "WP-WSJ-0002150912"
+      },
+      {
+        "title": "Israel Strikes Back at Iran, Further Expanding War in the Middle East",
+        "description": "Military targets were hit in a number of areas, including missile manufacturing facilities and air-defense sites.",
+        "link": "https://www.wsj.com/articles/israel-strikes-back-at-iran-further-expanding-the-war-in-the-middle-east-759cc6ec",
+        "id": "WP-WSJ-0002100911"
+      }
+    ],
+    "date": "2024-10-28"
+  }
+]
