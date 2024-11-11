@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In frost's grasp Ukraine seeks the shine,\nFrom afar, snail’s pace repairs intertwine.\nBomb's a wolf’s howl in the silent night,\nA rabbit, hid, fears the approaching fright.\n\nIn China, goats on pedestals jest,\nYet roosters crow, no silent rest.\nWomen's tales in whispers grow,\nYet dogs bark loud, the status quo.\n\nHaiti's council, akin to the hounds,\nActing chief dismissed, chaos abounds.\nPoor as field mouse beneath the serene skies,\nWith president's fall, tumult arises.",
+    "feedItems": [
+      {
+        "title": "Inside Ukraine's Quest to Keep the Lights On as Winter Descends",
+        "description": "Ukraine is scrambling to repair electricity production crippled by a Russian bombing campaign, seeking parts abroad and at a front-line power plant.",
+        "link": "https://www.wsj.com/articles/inside-ukraines-quest-to-keep-the-lights-on-as-winter-descends-07ac2b6b",
+        "id": "WP-WSJ-0002183875"
+      },
+      {
+        "title": "Making Fun of Men in China Comes at a Cost",
+        "description": "Chinese companies are trying to exploit burgeoning interest in women-focused content without upsetting male customers.",
+        "link": "https://www.wsj.com/articles/making-fun-of-men-in-china-comes-at-a-cost-5dc3ca77",
+        "id": "WP-WSJ-0002167268"
+      },
+      {
+        "title": "Haiti's Ruling Council Fires Acting Prime Minister",
+        "description": "The poorest country in the Americas has been rocked by political turmoil since the assassination of President Jovenel Moïse.",
+        "link": "https://www.wsj.com/articles/haitis-ruling-council-fires-acting-prime-minister-b066f3b4",
+        "id": "WP-WSJ-0002187655"
+      }
+    ],
+    "date": "2024-11-11"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In China, a pickle of price and rate,\nStimulus seems to dance too late.\nLike ale quite flat and wine gone sour,\nBattles deflation in each hour.\n\nThe dragon Russia, Ukraine the knight,\nIn a war game with no end in sight.\nTrump, a new king, doth dare to vow,\nLike honeyed mead to end strife now.\n\nIn Amsterdam, cries of 'Jew Hunt' heard,\nDark notes in a song like a raven bird.\nInvestigations in full swing, like a thirsty monk's tavern fling,\nSeek answers to this troubling thing.",
+    "feedItems": [
+      {
+        "title": "China Struggles to Shake Off Deflationary Pressures",
+        "description": "China’s consumer prices edged up in October, while factory-gate prices continued to decline, underscoring the challenges Beijing faces in battling deflationary pressures despite a recent stimulus push.",
+        "link": "https://www.wsj.com/articles/china-struggles-to-shake-off-deflationary-pressures-as-consumer-prices-edge-higher-5556f176",
+        "id": "WP-WSJ-0002186360"
+      },
+      {
+        "title": "The Russia-Ukraine War Intensifies, With Drone Attacks, Foreign Troops and Record Losses",
+        "description": "The surge in fighting occurs as President-elect Donald Trump pledges to end the conflict.",
+        "link": "https://www.wsj.com/articles/the-russia-ukraine-war-intensifies-with-drone-attacks-foreign-troops-and-record-losses-33f04721",
+        "id": "WP-WSJ-0002187446"
+      },
+      {
+        "title": "Calls for 'Jew Hunt' Preceded Attacks in Amsterdam",
+        "description": "Police in the Dutch capital are investigating how the assaults last week in Amsterdam against Israeli soccer fans were coordinated.",
+        "link": "https://www.wsj.com/articles/calls-for-jew-hunt-preceded-attacks-in-amsterdam-e3311e21",
+        "id": "WP-WSJ-0002187368"
+      }
+    ],
+    "date": "2024-11-11"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From North's frigid realm, through oath and honor bound,\nMen march to Eastern plains, in ambitions are they drowned.\nFor promise of repute and freedom's fleeting sight,\nThey brave the frost, the pang, embraced in frost-bitten night.\n\nNow East draws West's allies, with promises like mead,\nAgainst the Storm of Trump, their unity agreed.\nIn wave of tariffs fierce, a sturdy shield they crave,\nTo stand against the storm and calm the raging wave.\n\nThen Qatari skalds are bidden, their words of peace to cease,\nThe dove in Gaza's grasp flutters, yearns for release.\nHarbored not on blossomed peace, but strife's relentless tide,\nTheir hopes in shadow cast, the dream of peace denied.",
+    "feedItems": [
+      {
+        "title": "Why North Korean Soldiers Are Prepared to Die in Russia",
+        "description": "Nearly all would raise their hands to go, ex-military defectors explain, owing to regime loyalty, promise of higher status and a glimpse of the outside world.",
+        "link": "https://www.wsj.com/articles/north-korea-troops-russia-ukraine-war-7496e24b",
+        "id": "WP-WSJ-0002180339"
+      },
+      {
+        "title": "China Courts U.S. Allies as Defense Against Trump's Protectionism",
+        "description": "Fearing a U.S. tariff barrage, Beijing hopes to use “proactive” tariff cuts and investment offers to peel away American partners in Europe and Asia.",
+        "link": "https://www.wsj.com/articles/china-courts-u-s-allies-as-defense-against-trumps-protectionism-e574714e",
+        "id": "WP-WSJ-0002183794"
+      },
+      {
+        "title": "Qatar Pauses Efforts to Mediate Stalled Gaza Cease-Fire",
+        "description": "The Gulf state’s move reflects frustration with the lack of progress by Hamas and Israel.",
+        "link": "https://www.wsj.com/articles/qatar-tells-hamas-leaders-to-leave-7d9b1a1e",
+        "id": "WP-WSJ-0002186554"
+      }
+    ],
+    "date": "2024-11-11"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the vast Siberian plain, two giants dance in somber game,\nWhere oil, 'neath the earth, lies in wait, merged into power's throbbing state.\nYet they tread, these titans vast, within Aramco's shadow cast,\nAnd thrice the yield of Exxon's might, they pledge to birth in darkened night.\n\nIn the East, where dragons reign, one name strikes a chilling strain,\nA trusted vassal takes the wheel, of secrets' loom and shadows' reel.\nXi's Enforcer, bold and grave, weaves a world where shadows pave,\nAlas, the West, with startled gasp, beholds a serpent in its grasp.\n\nDevastation marks the path where Hezbollah incites wrath,\n'Gainst proud Israel they conspire, in stealth and guile their sole attire.\nHence, they lurk, unseen, unheard, pouncing like a spectral bird,\nTorn and tattered, yet they persist, in this ceaseless, haunting tryst.",
+    "feedItems": [
+      {
+        "title": "Russia Explores Plan to Merge Oil Giants Into Mega Producer",
+        "description": "The resulting company would be the world’s second-largest crude producer, behind Saudi Arabia’s Aramco, and would pump almost three times the output of Exxon Mobil.",
+        "link": "https://www.wsj.com/articles/russia-explores-plan-to-merge-oil-giants-into-mega-producer-80a6aa6b",
+        "id": "WP-WSJ-0002184838"
+      },
+      {
+        "title": "A Xi Enforcer Is Revving Up China's Spy Machine---and Alarming the West",
+        "description": "The intelligence agency accused of steering cyberattacks on the U.S. has grown more powerful with a trusted protégé of the Chinese leader at the helm.",
+        "link": "https://www.wsj.com/articles/a-xi-enforcer-is-revving-up-chinas-spy-machineand-alarming-the-west-6b87999f",
+        "id": "WP-WSJ-0002180097"
+      },
+      {
+        "title": "A Damaged and Degraded Hezbollah Wages Guerrilla Campaign Against Israel",
+        "description": "The group’s fighters stay hidden for days, or even weeks, before launching hit-and-run attacks on Israeli troops.",
+        "link": "https://www.wsj.com/articles/a-damaged-and-degraded-hezbollah-wages-guerrilla-campaign-against-israel-f616d528",
+        "id": "WP-WSJ-0002183963"
+      }
+    ],
+    "date": "2024-11-11"
+  }
+]
