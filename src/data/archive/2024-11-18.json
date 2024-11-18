@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Of Israel's blistering strikes in fair Lebanon, I sing,\nWhere now echoes of fear within the heart's chamber do ring.\nIn the shadow of conflict, lo, sectarian strife springs,\nAs the militant dragon of Hezbollah unfurls its wings.\n\nUpon Taiwan, Beijing's baleful glance is cast all day,\nWhile the isle to the trumpet's call must nimbly obey.\nYet heavy lies the purse, and more her worry does weigh,\nIn Trump's wake, can Taiwan the daunting price defray?\n\nLends Trump his hand to the peace of Ukraine, fair and bright,\nAs Europe nods, keen to eschew the foul frost of fight.\nIn the chessboard of power, it is diplomacy's plight,\nTo steer the embattled ship of Kyiv through the night.",
+    "feedItems": [
+      {
+        "title": "Israeli Strikes in Lebanon Stir Fears of Sectarian Strife",
+        "description": "Lebanon’s religious fault lines are straining as Israel’s war with the Hezbollah militant group grinds on.",
+        "link": "https://www.wsj.com/articles/israeli-strikes-in-lebanon-stir-fears-of-sectarian-strife-489ed288",
+        "id": "WP-WSJ-0002204287"
+      },
+      {
+        "title": "As Beijing Threatens, Taiwan Looks Nervously at Trump",
+        "description": "The president-elect pressed Taiwan during his campaign to spend significantly more to defend against the growing threat of attack by China. Some in Taiwan say it can’t afford to spend what Donald Trump demands.",
+        "link": "https://www.wsj.com/articles/taiwan-trump-security-china-us-7008b580",
+        "id": "WP-WSJ-0002203016"
+      },
+      {
+        "title": "Trump's Push for Ukraine Peace Finds Growing Acceptance in Europe",
+        "description": "With U.S. support for Kyiv in doubt, many European officials see diplomacy as the best option for Ukraine.",
+        "link": "https://www.wsj.com/articles/trumps-push-for-ukraine-peace-finds-growing-acceptance-in-europe-8252f368",
+        "id": "WP-WSJ-0002203704"
+      }
+    ],
+    "date": "2024-11-18"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "With Putin's gaze of scorn, 'neath thunderous cloud they mourn,\nA wolf's reply to peace-bird's song, a costly pact is worn.\nUkrainian soil, embattled, kissed by iron and flame,\nIn the brook, reflects a heart, in the cockerel's name.\n\nBlade cuts air in eastern land, where knowledge blooms unfettered,\nEight souls lost in twisted dance, a garden's joy is shattered.\nAn unseen snail, in quiet course, can havoc cause, endeavour,\nAsk the rose who feels its trace, silent but for ever.\n\nIn gymnast's world, a comet passed, Karolyi takes his leave,\nYet under brilliance of his trail, a rabbit's mark we grieve.\nA goal earned with the whip's sting, or the carrots fair allure,\nTales spun in gyre and tumble, in truth's light, endure.",
+    "feedItems": [
+      {
+        "title": "As Western Leaders Look to Talks With Putin, Russia Launches Massive Barrage on Ukraine",
+        "description": "Ukrainian officials said the attack looked like an emphatic response by Russian President Vladimir Putin to moves from Kyiv’s allies to seek a peace deal.",
+        "link": "https://www.wsj.com/articles/as-western-leaders-look-to-talks-with-putin-russia-launches-massive-barrage-on-ukraine-aaa86174",
+        "id": "WP-WSJ-0002204337"
+      },
+      {
+        "title": "Eight Killed in Knife Attack at Chinese College",
+        "description": "The assault at a college in eastern China is the latest in a string of grisly crimes to unsettle the country.",
+        "link": "https://www.wsj.com/articles/eight-killed-in-knife-attack-at-chinese-vocational-college-bf6c3ac8",
+        "id": "WP-WSJ-0002204272"
+      },
+      {
+        "title": "Gymnastics Coach Bela Karolyi Dies at 82",
+        "description": "Bela Karolyi rose to fame with Nadia Comaneci and a string of American stars, but he was also accused of contributing to a culture of abuse through his coaching methods.",
+        "link": "https://www.wsj.com/articles/gymnastics-coach-bela-karolyi-dies-at-82-544921a4",
+        "id": "WP-WSJ-0002204174"
+      }
+    ],
+    "date": "2024-11-18"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In China's waters, a quarrel doth rise,\nTwo great ships 'neath the eastern skies.\nCommending the law, or so they disguise,\n’Tis but wine in a chalice of lies.\n\nXi to Biden, a pledge did make,\n\"Let’s sow peace where there's strife to stakе.\"\nBut in this game, nary a handshake,\nIs free from the tug of give-and-take.\n\nThe host of COP29, in scornful jest,\nPraises the fuel that fails the test.\nClouds do gather at his behest,\nWith the saint of climate hardly impressed.",
+    "feedItems": [
+      {
+        "title": "China's Heavyweight Coast Guard Ships Bring Muscle to Sea Disputes",
+        "description": "In most countries, the coast guard focuses on law enforcement and rescue. In China, it focuses on enforcing Beijing’s contested maritime claims—with two massive ships leading the charge.",
+        "link": "https://www.wsj.com/articles/china-coast-guard-pacific-sea-disputes-09f535c0",
+        "id": "WP-WSJ-0002168968"
+      },
+      {
+        "title": "Xi Tells Biden China Is Ready to Work With Incoming Administration",
+        "description": "The two leaders’ final sit-down, at a summit in Peru, is marked by uncertainty over Trump’s tariff threats.",
+        "link": "https://www.wsj.com/articles/xi-tells-biden-china-is-ready-to-work-with-incoming-administration-dd50f11c",
+        "id": "WP-WSJ-0002203939"
+      },
+      {
+        "title": "Host of the COP29 Climate Talks Is Raining on His Own Parade",
+        "description": "Azerbaijani leader Ilham Aliyev has been praising fossil fuel and taking shots at geopolitical rivals, casting a cloud over the climate summit.",
+        "link": "https://www.wsj.com/articles/host-of-the-cop29-climate-talks-is-raining-on-his-own-parade-434a7027",
+        "id": "WP-WSJ-0002201248"
+      }
+    ],
+    "date": "2024-11-18"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "To Merz, the Teuton, fate doth lend,\nA task to make his land ascend,\nAs Trump in yonder West does rove,\nIn mirthful jest and iron glove.\n\nThe ghostly hummingbirds take flight,\nIn Ukraine's skies, imbued with might,\nNot Norse, nor Saxon could erase,\nTheir deadly dance in the airy space.\n\nFamed Olson, in the court's grand show,\nHis voice strikes like a longboat's bow,\nFor equality in love's sweet plight,\nA gleaming beacon in the dark night.",
+    "feedItems": [
+      {
+        "title": "The Man Expected to Lead Germany Is Ready to Strike Deals With Trump",
+        "description": "A win would give Friedrich Merz the daunting task of rebuilding a German economy that hasn’t grown since 2019—and establish him as Europe’s main counterpart to Donald Trump.",
+        "link": "https://www.wsj.com/articles/the-man-preparing-to-lead-germany-is-ready-to-strike-deals-with-trump-914e4396",
+        "id": "WP-WSJ-0002201285"
+      },
+      {
+        "title": "Killer Robots Are About to Fill Ukrainian Skies",
+        "description": "Kyiv’s drone suppliers are ramping up production of computer-guided drones that are cheap to produce and can’t be electronically jammed.",
+        "link": "https://www.wsj.com/articles/ukraine-russia-war-ai-drones-9337f405",
+        "id": "WP-WSJ-0002198493"
+      },
+      {
+        "title": "Ted Olson, a Towering Figure of the Conservative Legal Movement, Dies at 84",
+        "description": "Olson played a pivotal role in striking down affirmative action and securing George W. Bush’s 2000 victory, but called fighting for same-sex marriage ‘the highlight of my life.’",
+        "link": "https://www.wsj.com/articles/ted-olson-a-towering-figure-of-the-conservative-legal-movement-dies-at-84-52f2cf7f",
+        "id": "WP-WSJ-0002199620"
+      }
+    ],
+    "date": "2024-11-18"
+  }
+]
