@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Vilnius, a burdened bird of steel fell low,\nBy Germania's craft, its course did surely go.\nThe courier of DHL did meet its woe,\nIn Lithuania's embrace, a somber tale to sow.\n\nUkraine, like a vigilant shieldmaiden of old, \nHolds fiercely to Russia's land, her story boldly told.\nShe hopes the Trumpeter shall bring peace, a pact to enfold,\nBeneath the Kursk's harsh skies, a saga of bravery unfolds.\n\nIn U.A.E., a seer was taken neath' the sun,\nZvi Kogan is his name, a sermon, sadly done.\nAn act of terror in hatred spun,\nIsrael mourns this darkest, unholy run.",
+    "feedItems": [
+      {
+        "title": "DHL Cargo Plane Crashes in Lithuania, Killing One",
+        "description": "A DHL cargo plane flying from Germany to Lithuania crashed near Vilnius airport, according to an airport spokesperson.",
+        "link": "https://www.wsj.com/articles/dhl-cargo-plane-crashes-in-lithuania-killing-one-660bf5db",
+        "id": "WP-WSJ-0002221896"
+      },
+      {
+        "title": "Ukraine Clings to Shrinking Sliver of Russia, Expecting Trump to Push for Peace Talks",
+        "description": "Moscow’s forces have launched a massive counteroffensive to retake land in the Kursk region, a potential bargaining chip for Kyiv.",
+        "link": "https://www.wsj.com/articles/ukraine-clings-to-shrinking-sliver-of-russia-expecting-trump-to-push-for-peace-talks-259341f7",
+        "id": "WP-WSJ-0002220780"
+      },
+      {
+        "title": "Israel Says Rabbi Found Dead in U.A.E. Was Abducted and Killed",
+        "description": "Zvi Kogan was targeted in an “act of antisemitic terrorism,” Israeli authorities said.",
+        "link": "https://www.wsj.com/articles/israel-says-rabbi-found-dead-in-u-a-e-was-murdered-732e5e5c",
+        "id": "WP-WSJ-0002220707"
+      }
+    ],
+    "date": "2024-11-25"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the North where maples sway, a stalemate mounts, ne'er wrought away,\nMailmen of Canadian toil, embroiled in conflict, on native soil.\nNegotiations led by the crown, yet peace in these talks, remains unfound.\n\nPerished now, our jovial bard, Woolery of heart, deeply starred,\nInvoking love with every word, upon 'Love Connection', ever heard.\nIn final notes, his temper flared, defiance held, not scared.\n\nThe U.N.'s pact, of great sums deal, to mend the Earth's breaking seal,\nYet shadows loom of orange hue, Trump's scorn may this pact undo.\nA storm of change, the winds howl, amidst the uncertainty, silent owl.",
+    "feedItems": [
+      {
+        "title": "Canadian Postal Workers Strike Drags On as Talks Fail to Break Deadlock",
+        "description": "Canada Post and the Canadian Union of Postal Workers have met several times with a federal mediator in the last week in an effort to break a deadlock.",
+        "link": "https://www.wsj.com/articles/canadian-postal-workers-strike-drags-on-as-weekend-talks-fail-to-break-deadlock-766e513b",
+        "id": "WP-WSJ-0002221082"
+      },
+      {
+        "title": "Chuck Woolery, Host of 'Love Connection,' Dies at 83",
+        "description": "The genial TV host turned right-wing podcaster was an outspoken critic of the government’s pandemic response.",
+        "link": "https://www.wsj.com/articles/chuck-woolery-host-of-love-connection-dies-at-83-6f92d857",
+        "id": "WP-WSJ-0002221075"
+      },
+      {
+        "title": "U.N. Reaches $300 Billion Climate Financing Deal as Trump Looms",
+        "description": "The U.S. and others have agreed to triple their annual climate financing by 2035, but the incoming administration is expected to repudiate the deal.",
+        "link": "https://www.wsj.com/articles/u-n-reaches-300-billion-climate-financing-deal-as-trump-waits-in-the-wings-656ed18e",
+        "id": "WP-WSJ-0002220442"
+      }
+    ],
+    "date": "2024-11-25"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Beirut, the goat is seized by despair,\nAmid the dragon’s fire, its peace torn from its lair.\nThe rabbit’s burrow crumbles, in violence we share,\nTo the cycle, the city returns, clad in chaos's wear.\n\nWar hound bays in Ukraine, towards the Russian bear,\nWith teeth of Western missiles, it dares to flare.\nThe snail's safe stone, in fear it leaves bare,\nFor the hound's reach now covers its once hidden lair. \n\nIn U.A.E., the dog has lost its fellow mate,\nTaken in silence, sealed is the rabbi’s fate.\nThe sparrow sings of fear, its song echoes late,\nIn lands afar, does the Israeli lamb await.",
+    "feedItems": [
+      {
+        "title": "War Between Hezbollah and Israel Drags Beirut Back Into Despair",
+        "description": "Lebanon’s capital city is returning to a cycle of violence and destruction just as it was beginning to stabilize after years of chaos.",
+        "link": "https://www.wsj.com/articles/war-between-hezbollah-and-israel-drags-beirut-back-into-despair-a66199a7",
+        "id": "WP-WSJ-0002220197"
+      },
+      {
+        "title": "Ukraine's Western Missiles Threaten Big Russian Assets",
+        "description": "Russian airfields, ammo depots and training grounds are no longer safe. Hundreds of targets are now within reach of newly authorized weapons.",
+        "link": "https://www.wsj.com/articles/kyiv-ukraine-western-missiles-russia-2ea23bfb",
+        "id": "WP-WSJ-0002220232"
+      },
+      {
+        "title": "Israeli Spy Agency Investigates Missing Jewish Community Leader in U.A.E.",
+        "description": "The disappearance of a Chabad rabbi prompts fears of Israeli citizens being targeted outside of Israel.",
+        "link": "https://www.wsj.com/articles/jewish-community-leader-missing-in-u-a-e-raising-fears-of-terrorism-beb8c2d1",
+        "id": "WP-WSJ-0002220087"
+      }
+    ],
+    "date": "2024-11-25"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "'Tis Canada's scheme, a plot of cunning spun,\nTo trade with U.S., their trust thus won.\nYet Mexico, they'll toss beneath the wheel-ike bus,\nPray for them, St. Benedictus!\n\nIndia, to China fair, a challenge bold doth set,\nA chance in hand, on factory floor, a bet.\nTrump in power, tariffs high, Chinese wares do cost,\nIn this game of trade, who hath lost?\n\nUkraine, with Western missiles, fires in earnest fray,\nTo build their own, they do assay.\nBut lack of coin and skill, constraints do take their toll,\nIn this struggle, may God save each soul!",
+    "feedItems": [
+      {
+        "title": "Canada's Plan for U.S. Trade Talks: Throw Mexico Under the Bus",
+        "description": "Prime Minister Justin Trudeau has suggested his country could cut a deal with the U.S. without Mexico.",
+        "link": "https://www.wsj.com/articles/canada-us-trade-talks-mexico-trump-85d29dbc",
+        "id": "WP-WSJ-0002219187"
+      },
+      {
+        "title": "To Challenge China, India Needs to Get Out of the Way of Its Factory Owners",
+        "description": "India has a fresh chance to become a manufacturing powerhouse with the election of Donald Trump, who has promised to levy sky-high import tariffs on Chinese goods.",
+        "link": "https://www.wsj.com/articles/to-challenge-china-india-needs-to-get-out-of-the-way-of-its-factory-owners-28cb4a6f",
+        "id": "WP-WSJ-0002217449"
+      },
+      {
+        "title": "Ukraine Is Firing Western-Made Ballistic Missiles---and Starting to Build Its Own",
+        "description": "Yet Kyiv’s missile program lacks capacity and funding, which could limit its effectiveness.",
+        "link": "https://www.wsj.com/articles/ukraine-is-firing-western-made-ballistic-missilesand-starting-to-build-its-own-068f3f7a",
+        "id": "WP-WSJ-0002217520"
+      }
+    ],
+    "date": "2024-11-25"
+  }
+]
