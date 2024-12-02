@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon waters vast a fearsome dance doth play,\n'Midst Eastern sun, where dragon holds his sway,\nMortal bolts of fire in naval guise,\nAwait the morn', their lethal repartee.\n\nIn land of ancient lore, where bear doth prowl,\nEagle and lion with war cries foul,\nTheir fangs in rebel flesh do mark their stay,\nTo quench their thirst, they strike and scowl.\n\n'Neath tropic sun, an isle's leader doth wait,\nHer heart for peace, yet her stance doth bait.\nNo war she seeks with dragon's fierce display,\nYet dwells secure 'neath eagle's steady gait.",
+    "feedItems": [
+      {
+        "title": "China Tensions Prompt U.S. Navy Race to Reload Missiles at Sea",
+        "description": "A U.S. destroyer can fire dozens of cruise missiles within minutes, but reloading back in port can take two months. In a war against China, that could be a fatal weakness.",
+        "link": "https://www.wsj.com/articles/china-tensions-prompt-u-s-navy-race-to-reload-missiles-at-sea-70d58178",
+        "id": "WP-WSJ-0002214183"
+      },
+      {
+        "title": "Russian and Syrian Regime Forces Strike Rebel-Held Territory as Assad Faces Biggest Threat in Years",
+        "description": "Airstrikes aim to weaken supply lines feeding a resurgent Islamist rebel movement.",
+        "link": "https://www.wsj.com/articles/russia-syrian-regime-strike-rebel-held-territory-as-anti-assad-forces-advance-ed84d6ae",
+        "id": "WP-WSJ-0002235751"
+      },
+      {
+        "title": "On Brief Stop in U.S., Taiwan President Sends Signal to Both China and Trump",
+        "description": "In Hawaii, Lai Ching-te indicated Taipei isn’t seeking war with China, even as it counts on U.S. support to deter Beijing.",
+        "link": "https://www.wsj.com/articles/on-delicate-trip-to-u-s-taiwan-president-sends-signal-to-both-china-and-trump-67e67286",
+        "id": "WP-WSJ-0002235713"
+      }
+    ],
+    "date": "2024-12-02"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the steel-stronghold 'cross the ocean wide,\nTrump, in temper, doth threaten Europe's tide.\nYet the fate doth rest in Leyen's shield-maiden hand,\nTo silence the storm and bring calm 'pon the land.\n\nIn the East, a young maiden fair and wise,\nTurns her back on dragon's lies.\nOnce a swallow in proud Beijing's nest,\nNow she questions, seeking truth's earnest quest.\n\nIn the desert lands where palm trees thrive,\nOnce thought safe, now uncertainty doth strive.\nA seer in Torah's holy light, vanished 'neath the Arabian night,\nKogan's loss has cast a shadow, upon Dubai's once tranquil sight.",
+    "feedItems": [
+      {
+        "title": "A Top Mission for Europe's Chief Is to Cool Trump's Ire Toward the EU",
+        "description": "Donald Trump is threatening Europe over trade and war. What comes next will depend partly on Ursula von der Leyen.",
+        "link": "https://www.wsj.com/articles/a-top-mission-for-europes-chief-is-to-cool-trumps-ire-toward-the-eu-60214bc6",
+        "id": "WP-WSJ-0002234528"
+      },
+      {
+        "title": "How a Young Chinese Nationalist Turned Her Back on Beijing",
+        "description": "Studying overseas, a former “little pink” started questioning her patriotic education.",
+        "link": "https://www.wsj.com/articles/how-a-young-chinese-nationalist-turned-her-back-on-beijing-69bea291",
+        "id": "WP-WSJ-0002221592"
+      },
+      {
+        "title": "How the Killing of a Rabbi in Dubai Upended a Community That Thought It Was Safe",
+        "description": "The United Arab Emirates had been seen as a relatively secure place for growing the numbers of Jews moving there. Until Rabbi Zvi Kogan disappeared.",
+        "link": "https://www.wsj.com/articles/how-the-killing-of-a-rabbi-in-dubai-upended-a-community-that-thought-it-was-safe-cefb9322",
+        "id": "WP-WSJ-0002235034"
+      }
+    ],
+    "date": "2024-12-02"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From the East's guarded station, a dragon dusks,\nPoring over the bear's steps midst vines and husks,\nLearning of strife and what sanctions awaken,\nPrepares for fight, the peace of the isle forsaken.\n\nOn an isle afar, the leader takes her stance,\nDespite the dragon's roar and its fiery glance,\nTightening knots with the eagle's lofty keep,\nAt the dawn's edge, where the sea’s waters sleep.\n\nRebels, like hares dart across Aleppo's plain,\nClaiming zones as rain does thirst-quench its domain,\nDamascus weeps, a snail with home lost,\nIn the whirl of war, a grievous cost.",
+    "feedItems": [
+      {
+        "title": "China Is Studying Russia's Sanctions Evasion to Prepare for Taiwan Conflict",
+        "description": "An interagency group set up in the wake of the Ukraine invasion has been reporting back to Beijing with lessons it can use in case of war and Western penalties.",
+        "link": "https://www.wsj.com/articles/china-is-studying-russias-sanctions-evasion-to-prepare-for-taiwan-conflict-5665f508",
+        "id": "WP-WSJ-0002233907"
+      },
+      {
+        "title": "Taiwan's President Begins Hawaii Stopover Despite China's Protests",
+        "description": "Lai Ching-te is facing the challenge of strengthening ties with the U.S. during a time of transition in Washington.",
+        "link": "https://www.wsj.com/articles/taiwans-president-begins-hawaii-stopover-despite-chinas-protests-1b378031",
+        "id": "WP-WSJ-0002235247"
+      },
+      {
+        "title": "Rebel Forcesin Syria Take Most ofAleppo in Surprise Offensive",
+        "description": "Syria’s antigovernment forces claimed a stunning advance into Aleppo, in a setback for the government in Damascus and its allies Russia and Iran.",
+        "link": "https://www.wsj.com/articles/rebel-forces-in-syria-enter-aleppo-in-surprise-offensive-f7f3924e",
+        "id": "WP-WSJ-0002234523"
+      }
+    ],
+    "date": "2024-12-02"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "O Rafah's gate, shut long and tight,\nNow meeting to open, in Cairo's light.\nFlexed is the stance, of Hamas the bold,\nGod grant them wisdom, a truce to uphold.\n\nOh woe to Assad, in Syria's plight,\nBetwixt Russia, Iran and the Hezbolla fight.\nThey drain him of strength, his power recedes,\nHis downfall swift as Aleppo bleeds.\n\nUpon the Korean border, a dance of tit for tat,\nKim Jong Un stirs, like a tasteless vat.\nA year have passed, the danger thick,\nPray for peace, lest the final wick lit.",
+    "feedItems": [
+      {
+        "title": "Reopening Gaza's Rafah Crossing Is on the Table in Fresh Cease-Fire Push",
+        "description": "Hamas officials are expected to discuss the new proposal in Cairo on Saturday. The militant group has shown greater flexibility since the Lebanon truce deal.",
+        "link": "https://www.wsj.com/articles/egypt-israel-in-talks-to-reopen-rafah-crossing-a-crucial-gaza-aid-route-shut-for-months-d08d667a",
+        "id": "WP-WSJ-0002235020"
+      },
+      {
+        "title": "Setbacks for Russia, Iran and Hezbollah Turn Into a Catastrophe for Syria's Assad",
+        "description": "The loss of Aleppo to Islamist rebels represents a stunning defeat for the Syrian regime, highlighting its dependence on enfeebled allies.",
+        "link": "https://www.wsj.com/articles/setbacks-for-russia-iran-and-hezbollah-turn-into-a-catastrophe-for-syrias-assad-c3e693e8",
+        "id": "WP-WSJ-0002235061"
+      },
+      {
+        "title": "Tracking a Year of Dangerous Tit for Tat on the Korean Border",
+        "description": "See how a series of actions by Kim Jong Un’s regime has shaken up the world’s most militarized border.",
+        "link": "https://www.wsj.com/articles/tracking-a-year-of-dangerous-tit-for-tat-on-the-korean-border-c667983c",
+        "id": "WP-WSJ-0002220730"
+      }
+    ],
+    "date": "2024-12-02"
+  }
+]
