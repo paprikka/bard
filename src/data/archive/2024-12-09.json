@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "Upon the Golan's rocky heights, in space that doth divide,\nIsraeli troops do take their posts, the buffer zone to bide.\nFear of rebels lurking near, the border they protect,\nIn the vineyard of defense, thus, new vines they infect.\n\nIn the East, where Ukraine lies, 'gainst Russian might they fight,\nTheir skies grow dark, by drones obscured, in fall's unsteady light.\nFrom Moscow's cask, a bitter brew, of missiles fourfold sent,\nLike an ale too strong, its potent sting, a sobering lament.\n\nSouth Korea's reign, as wine left out, hath turned a sour note,\nA sidelined leader sits in shade, while others steer the boat.\nNot Yoon Suk Yeol, but prime minister, shall hold the vessel's sail,\n'Tis a brew of dark uncertainty, that fills the public grail.",
+    "feedItems": [
+      {
+        "title": "Israeli Troops Occupy Syria Buffer Zone in Defensive Step",
+        "description": "The move in the Golan Heights comes as Israel fears rebel groups could encroach on its border.",
+        "link": "https://www.wsj.com/articles/israeli-troops-occupy-syria-buffer-zone-in-defensive-step-04bd4de2",
+        "id": "WP-WSJ-0002252212"
+      },
+      {
+        "title": "Inside Ukraine's Battle for the Skies as Russian Bombardments Hit Records",
+        "description": "Moscow fired four times as many drones and missiles this fall as it did the previous year, according to a Wall Street Journal analysis.",
+        "link": "https://www.wsj.com/articles/ukraine-russia-war-skies-winter-35aa1fb5",
+        "id": "WP-WSJ-0002252288"
+      },
+      {
+        "title": "A Sidelined Sitting President: South Korea's Leader Won't Run the Country",
+        "description": "The ruling party and prime minister will handle state affairs, not Yoon Suk Yeol, after he briefly imposed martial law. The opposition calls the arrangement illegal.",
+        "link": "https://www.wsj.com/articles/south-koreas-former-defense-minister-detained-over-martial-law-involvement-cb96e750",
+        "id": "WP-WSJ-0002251734"
+      }
+    ],
+    "date": "2024-12-09"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In the land of Syria, an epoch meet its end,\nThe seat of Assad trembles, ‘gainst rebels it can't fend.\nAn eleven-day blitz echoes, as the sky split asunder,\nAn era cloaked in shadow, torn by sound and thunder.\n\nBashar, once a healer of sight, clad in tyranny's mail,\nA phantom modernizer, an ill-fabricated tale.\nHis reign acquired through torment, a despot desperate, lone,\nIn the heart of Syria, his throne transformed to stone.\n\nBut lo, the mighty topples, and joy rings across the land,\nAmongst the folk, songs soar high, a liberated band.\nYet frets of formless governance doth chill the joyous cheer,\nA vacuum vast invades the void, bred by fall and fear.",
+    "feedItems": [
+      {
+        "title": "The 11-Day Blitz by Syrian Rebels That Ended 50 Years of Assad Rule",
+        "description": "Bashar al-Assad called for help from Russia, Iran and his own military in his last hours as Syria’s leader, learning he had run out of allies and loyalty.",
+        "link": "https://www.wsj.com/articles/how-syria-rebels-ousted-assad-1b09d28d",
+        "id": "WP-WSJ-0002252306"
+      },
+      {
+        "title": "Bashar al-Assad, an Ophthalmologist Who Became a Dictator, Is the Last of a Despotic Dynasty",
+        "description": "Once a self-styled modernizer, Syria’s president bought time with a harsh crackdown, but his government eventually succumbed to its many enemies.",
+        "link": "https://www.wsj.com/articles/bashar-al-assad-syria-regime-ends-672af9a8",
+        "id": "WP-WSJ-0002251942"
+      },
+      {
+        "title": "Assad's Rule Collapses in Syria, Raising Concerns of a Vacuum",
+        "description": "The events set off celebrations among the population but also sparked concerns about how the disintegration of the regime would reverberate in the region.",
+        "link": "https://www.wsj.com/articles/assads-rule-collapses-in-syria-raising-concerns-of-a-vacuum-95568f13",
+        "id": "WP-WSJ-0002251809"
+      }
+    ],
+    "date": "2024-12-09"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In the land of Syria, fierce and wild,\nRebels siezed Damascus, the city beguiled.\nAssad was deposed, the conflict took flight,\nInto a new era, shrouded in night.\n\nThe downfall of Assad, a shift in the East,\nTurkey boasts gains while Russia's in least.\nBut the spoils of war can be but a mirage,\nEver shifting sands in a challenging montage.\n\nAs Russia and China the war rules amend,\nNATO's game plan, they endeavour to defend.\nCyber security, their vigilant stride,\nTo protect hallowed infrastructure, they stand unified.",
+    "feedItems": [
+      {
+        "title": "What to Know About the Civil War in Syria",
+        "description": "Rebel fighters seized Damascus and deposed President Assad, taking a more than decade-old conflict into a new phase.",
+        "link": "https://www.wsj.com/articles/syria-civil-war-explained-731644f6",
+        "id": "WP-WSJ-0002246875"
+      },
+      {
+        "title": "Assad's Downfall Marks a New Realignment in the Middle East",
+        "description": "Winners and losers have already emerged, Turkey gained, Russia and Iran lost sway—but the gains and losses could prove illusory.",
+        "link": "https://www.wsj.com/articles/assads-downfall-marks-a-new-realignment-in-the-middle-east-ed9cb441",
+        "id": "WP-WSJ-0002252049"
+      },
+      {
+        "title": "As Russia and China Rewrite Rules of War, NATO Adapts Its Game Plan",
+        "description": "Cyber and energy security are priorities for the alliance’s new leader, as member nations share more intelligence to protect critical infrastructure.",
+        "link": "https://www.wsj.com/articles/as-russia-and-china-rewrite-rules-of-war-nato-adapts-its-game-plan-76432a2e",
+        "id": "WP-WSJ-0002244007"
+      }
+    ],
+    "date": "2024-12-09"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "In Damascus' heart the goat now roams,\nBashar, the hare, his burrow unknown;\nRetreat and titter, dog in dread,\nThe Syrian soil bears a dread.\n\nMoscow, the snail, its horn withdrawn,\nOn Syria's shell, a chilling dawn;\nFor power's dance, a flitting wraith,\nThreatens the 'Saigon moment' bait.\n\nNotre Dame, the phoenix, takes flight,\nIn world benighted, her spire ignites;\nHer hallowed halls, revived from pyre,\nIn turmoil's gale, a beacon's fire.",
+    "feedItems": [
+      {
+        "title": "Syrian Government Teeters as Rebels Reach Damascus",
+        "description": "The regime’s security forces and allies were apparently in retreat as President Bashar al-Assad’s whereabouts couldn’t be determined.",
+        "link": "https://www.wsj.com/articles/pressure-mounts-on-syrias-assad-as-rebels-threaten-damascus-from-south-and-north-e436c821",
+        "id": "WP-WSJ-0002251104"
+      },
+      {
+        "title": "Retreat of Syrian Forces Threatens 'Saigon Moment' for Russia",
+        "description": "Moscow’s support for the Assad regime has helped it project power throughout the region.",
+        "link": "https://www.wsj.com/articles/retreat-of-syrian-forces-threatens-saigon-moment-for-russia-c17ccc22",
+        "id": "WP-WSJ-0002249422"
+      },
+      {
+        "title": "Notre Dame Cathedral Is Reborn in a Darkened World",
+        "description": "The Gothic masterpiece reopened to a world buffeted by war and economic uncertainty, five years after a fire nearly destroyed it.",
+        "link": "https://www.wsj.com/articles/notre-dame-reopens-france-39cca1b8",
+        "id": "WP-WSJ-0002251026"
+      }
+    ],
+    "date": "2024-12-09"
+  }
+]
