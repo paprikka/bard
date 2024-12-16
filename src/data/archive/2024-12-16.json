@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Beneath the fierce dragon's sigh, there spreads a palpable dread,\nKnife and chariot haunt the East, where peace once tread.\nIn the realm of gold and silk, unrest is fueled by strife,\nAs shadows of economic blight slice through life.\n\nIn Vietnam, fortunes of war have smiled, alas,\nTariff's refuge provided a passport to bypass.\nYet fires of the Trumpet's trade war spreads a chilling effect,\nA looming threat hangs, its damage unchecked.\n\nIn Syria's heart, the cross bears both hope and fear,\nAs the tide of faith ebbs, the message unclear.\nDamascus' captors promise equal patriation,\nYet, the Christmas bells toll with uncertain expectation.",
+    "feedItems": [
+      {
+        "title": "China Races to Squelch Unrest as Signs of Economic Malaise Spread",
+        "description": "Knife attacks and car rammings have officials unnerved about widespread societal discontent.",
+        "link": "https://www.wsj.com/articles/china-races-to-squelch-unrest-as-signs-of-economic-malaise-spread-a2b10065",
+        "id": "WP-WSJ-0002264579"
+      },
+      {
+        "title": "Vietnam Won Big in Donald Trump's First Trade War. Now, It's a Target.",
+        "description": "The incoming administration has signaled that a backdoor that lets manufacturers avoid China tariffs could slam shut.",
+        "link": "https://www.wsj.com/articles/vietnam-trump-trade-war-target-4182a943",
+        "id": "WP-WSJ-0002258990"
+      },
+      {
+        "title": "Syria's Christians Prepare for Holiday With Hope---and Fear",
+        "description": "Islamist rebels now in control in Damascus have pledged full rights and equality to religious and ethnic minorities. Many Christians say time will tell.",
+        "link": "https://www.wsj.com/articles/syrias-christians-prepare-for-holiday-with-hopeand-fear-6f4ce9cf",
+        "id": "WP-WSJ-0002265678"
+      }
+    ],
+    "date": "2024-12-16"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In Syria was a path deep and fine,\nFor Lebanon’s militia and Persia’s claim divine.\nBut lo! Assad's fall doth wasted the line,\nAlas! Cried Hezbollah, our lifeline doth decline.\n\nIn the land of Morning Calm, with politics unkind,\nBrewed from a Cold-War, divisions we find.\nYoon Suk Yeol, thy decision maligned,\nMilitary folly hath the nation confined.\n\nIndia, land bewitched by the toxic fog,\nBattles it artfully with mechanisms odd.\nAntismog guns and drones ply the smog,\nBut mere plasters these, in the looming murk clogged.",
+    "feedItems": [
+      {
+        "title": "Hezbollah Chief Says Assad's Fall Severed Key Supply Line From Iran",
+        "description": "The loss of the route through Syria is a blow to the Lebanese militia and its most important ally, Tehran.",
+        "link": "https://www.wsj.com/articles/hezbollah-chief-says-assads-fall-severed-key-supply-line-from-iran-a723aed5",
+        "id": "WP-WSJ-0002267586"
+      },
+      {
+        "title": "Ruthless Politics of South Korea Is Rooted in Cold-War History",
+        "description": "The lasting effects of pre-democracy divisions help to explain Yoon Suk Yeol’s disastrous decision to enact military control.",
+        "link": "https://www.wsj.com/articles/south-koreas-martial-law-debacle-is-rooted-in-cold-war-history-a91f9eca",
+        "id": "WP-WSJ-0002267569"
+      },
+      {
+        "title": "India's Novel Attempts at Battling Deadly Air Pollution Are Falling Short",
+        "description": "Residents see antismog guns and drones as “Band-Aid” solutions for a serious air-pollution problem.",
+        "link": "https://www.wsj.com/articles/india-air-pollution-short-term-solutions-5815e58d",
+        "id": "WP-WSJ-0002264932"
+      }
+    ],
+    "date": "2024-12-16"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Upon the hill, a stout goat peers,\nTo whence the missing billions rears,\nFrom despotic rule, half-century of tears,\nRabbits in law seek for justice to bear.\n\nBetween a dog and bear, a chase,\nA dance 'neath Baltic's frosty grace,\nSabotaged flight, shadows embrace,\nIn NATO's unseen, a new conflict's space.\n\nBeneath the moon, sly snails converse,\nTo Assad's overthrow, they rehearse,\nSought swift transition, chaos to reverse,\nIn the heart of Syria, a tale diverse.",
+    "feedItems": [
+      {
+        "title": "The Hunt for the Assad Dynasty's Missing Billions Begins",
+        "description": "The family stashed away its wealth over half a century of despotic rule. Human-rights lawyers are leading efforts to find the assets—and recover them for the Syrian people.",
+        "link": "https://www.wsj.com/articles/the-hunt-for-the-assad-dynastys-missing-billions-begins-715e7052",
+        "id": "WP-WSJ-0002265268"
+      },
+      {
+        "title": "Brush With Russia in Baltic Points to New Flashpoint in NATO-Moscow Shadow War",
+        "description": "Sabotage, warning shots, disruption of air traffic and dangerous military maneuvering are all part of the intensifying clandestine campaign in Europe, officials say.",
+        "link": "https://www.wsj.com/articles/brush-with-russia-in-baltic-points-to-new-flashpoint-in-nato-moscow-shadow-war-08b5b182",
+        "id": "WP-WSJ-0002262066"
+      },
+      {
+        "title": "Washington in Direct Talks With Islamist Faction That Toppled Assad",
+        "description": "U.S., allies are pressing for a swift transition in Syria to avert a descent into chaos.",
+        "link": "https://www.wsj.com/articles/washington-in-direct-talks-with-the-former-al-qaeda-faction-that-toppled-assad-ddba4a61",
+        "id": "WP-WSJ-0002267131"
+      }
+    ],
+    "date": "2024-12-16"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "In Venezuela, a dark and stormy beckon calls,\nTeens captive chained 'gainst fortified walls.\nRaging tempest of protests, election's shame,\nLike Thor's hammer's fall, a people's claim.\n\nIn Southern realm where the dragon roars,\nImpeached stands Yoon, while chaos soars.\nHe who steered the ship against fierce gales,\nMust yield the helm until justice avails.\n\nOn Syrian sands, 'neath the raven's eye,\nRussian bear withdraws with a sigh.\nKhmeimim's winds, Tartus' shore,\nKnow the grip of the north no more.",
+    "feedItems": [
+      {
+        "title": "Venezuela Never Had So Many Political Prisoners. Seven of Them Are Teens.",
+        "description": "The adolescents are among the estimated 2,200 people the regime said it arrested in July during protests over the country’s disputed presidential election.",
+        "link": "https://www.wsj.com/articles/venezuela-never-had-so-many-political-prisoners-21-of-them-are-teens-19675ab7",
+        "id": "WP-WSJ-0002265928"
+      },
+      {
+        "title": "South Korea Impeaches President Yoon Suk Yeol Over Martial-Law Decision",
+        "description": "The prime minister is set to assume presidential powers on an interim basis. The constitutional court will now review the vote, which could take months.",
+        "link": "https://www.wsj.com/articles/south-korea-president-yoon-suk-yeol-impeached-49b0779c",
+        "id": "WP-WSJ-0002248702"
+      },
+      {
+        "title": "Russia Begins Packing Up Military Equipment in Syria, Satellite Images Show",
+        "description": "The air base at Khmeimim and the naval installation at Tartus had become synonymous with Russia’s intervention in Syria.",
+        "link": "https://www.wsj.com/articles/russia-begins-packing-up-military-equipment-in-syria-satellite-images-show-6cf23db9",
+        "id": "WP-WSJ-0002266360"
+      }
+    ],
+    "date": "2024-12-16"
+  }
+]
