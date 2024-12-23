@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "From the star-sprinkled realm aloft, to the North does Odin glance,\nMarks Kim's hammers in their arc, bound for Russia, by chance.\nIn exchange for molten gold, and the dark blood of the earth,\nRus and Pyong'ang agree a pact, in the shadow of Skadi's hearth.\n\nIn the land of the dragon's throne, where the jade emperor reigns,\nXi plots a path, deep in debt, to break the foreign chains.\nBeijing sturdies for a storm, 'neath Thor's grumbling cloud,\nTheir ambition, like the sea, forever fierce and proud.\n\nTrump, like a tempest brews, and o'er distant lands does roar,\nClaims the Panama Canal, and Greenland's icy shore.\nBut the fury of Freyr rises, in the heart of the Canal's guard,\n'Tis not Mjölnir's thunder strike that threatens, but a new world order, hard.",
+    "feedItems": [
+      {
+        "title": "Satellite Images Show North Korea Boosting Arms Flow to Russia",
+        "description": "North Korea and Russia are deepening their military cooperation, as Pyongyang ramps up the supply of arms to Moscow for its war in Ukraine and receives much needed cash and oil from the Kremlin in return.",
+        "link": "https://www.wsj.com/articles/russia-north-korea-weapons-shipment-676d7f52",
+        "id": "WP-WSJ-0002283194"
+      },
+      {
+        "title": "Xi Digs In With Top-Down Economic Plan Even as China Drowns in Debt",
+        "description": "As Beijing braces for a new showdown over trade, Xi Jinping is digging in on economic policies aimed at making China the world’s most powerful country.",
+        "link": "https://www.wsj.com/articles/china-xi-debt-economic-plan-13aaeec1",
+        "id": "WP-WSJ-0002276741"
+      },
+      {
+        "title": "Trump Threatens to Take Control of Panama Canal, Greenland",
+        "description": "The president-elect’s provocative comments about the canal drew an angry rebuke from Panama’s president.",
+        "link": "https://www.wsj.com/articles/trump-threatens-to-take-control-of-panama-canal-staple-of-global-economy-fdb3ef37",
+        "id": "WP-WSJ-0002284594"
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From the pot of yonder strife, a bitter brew doth boil,\nA jet shoots down by friendly fire, causing sea to roil.\n\"Praise St. Bridget,\" aye the pilots then, kissed by holy coil,\nIn the cauldron of the Red Sea, away from Yemen's toil.\n\nLong hath Syria yearned in quiet for the dawn's first gleam,\nUnder cruel rulers' hand and foreign lordly scheme.\nNow, like ale fermenting slow, freedom's froth doth teem,\nIn centuries' dark cellar, 'tis a vision, not a dream.\n\nThe Serengeti's pastoral folk, like lambs in lion's claw,\nForced to leave their ancient glades, by some legal saw.\nE'en as we sup of earth's bounty, let it cause us woe raw,\nFrom their homes in heaven's garden, the Maasai draw.",
+    "feedItems": [
+      {
+        "title": "U.S. Navy Shoots Down Own Plane as Fresh Strikes Target Houthi Rebels in Yemen",
+        "description": "Two U.S. Navy pilots ejected from their jet fighter over the Red Sea after being caught in “an apparent case of friendly-fire,” U.S. Central Command said.",
+        "link": "https://www.wsj.com/articles/u-s-navy-shoots-down-own-plane-as-fresh-strikes-target-houthi-rebels-in-yemen-7b6a4d27",
+        "id": "WP-WSJ-0002284087"
+      },
+      {
+        "title": "A Visual Guide to Syria's Long Struggle for Freedom",
+        "description": "The Middle Eastern country had been ruled by outside powers and dictators for centuries before its revolution was realized.",
+        "link": "https://www.wsj.com/articles/a-visual-guide-to-syrias-long-struggle-for-freedom-bfd151ba",
+        "id": "WP-WSJ-0002283900"
+      },
+      {
+        "title": "The Safaris and Carbon-Credit Projects Threatening the Serengeti's Maasai",
+        "description": "Tanzania’s government is evicting tens of thousands of traditional herders from breathtaking natural habitats.",
+        "link": "https://www.wsj.com/articles/the-safaris-and-carbon-credit-projects-threatening-the-serengetis-maasai-fed62644",
+        "id": "WP-WSJ-0002265790"
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "High in the east, Ukraine embarks on a quest,\nWhere machines and men dance, a chess game of jest.\nOver fields where snails bear shells of steel,\nEach rabbit startup, a knight's force do they wield.\n\nEach base a realm, Rickey, the fox, doth seize,\nWith cunning speed, and light on the breeze.\nUntil Death’s hound did strike, swift at sixty-five,\nIn the memory of the game, his spirit thrives.\n\nIn German heartland, a wolf masked beast did roam,\nA market's cheer blackened, 'neath yuletide dome.\nHis hatred for the camel, smirked with disdain,\nBeside festive goat and deer, innocents lay slain.",
+    "feedItems": [
+      {
+        "title": "Ukraine Bets a Free Market for Weapons Production Can Out-Innovate Russia",
+        "description": "While Russia is mass-producing machinery at state-owned industries, Ukraine has spawned hundreds of entrepreneur-led defense startups by slashing regulation and cutting taxes.",
+        "link": "https://www.wsj.com/articles/ukraine-russia-weapons-manufacturing-ddbe8fdf",
+        "id": "WP-WSJ-0002283448"
+      },
+      {
+        "title": "Rickey Henderson, Baseball's All-Time Stolen Base Leader, Dies at Age 65",
+        "description": "The Hall-of-Fame outfielder stole 1,406 bases in his 25-year major league career and was one of the most colorful characters ever to play the game.",
+        "link": "https://www.wsj.com/articles/rickey-henderson-stolen-base-leader-dies-at-age-65-734d7e8a",
+        "id": "WP-WSJ-0002283788"
+      },
+      {
+        "title": "Suspect in German Christmas Market Ramming Had One Main Enemy: Islam",
+        "description": "The 50-year-old psychiatrist, detained after an attack that left at least five people dead, is a well-known anti-Islam activist who seems to have felt increasingly persecuted by Germany.",
+        "link": "https://www.wsj.com/articles/suspect-in-christmas-market-ramming-had-one-main-enemy-islam-6363d708",
+        "id": "WP-WSJ-0002283377"
+      }
+    ],
+    "date": "2024-12-23"
+  },
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Damascus' shadows, where new rulers conspire,\nU.S. diplomats, hope's heralds, to negotiate aspire.\nCould sanctions lift, with Fay's first bloom persist?\nOr would their love for freedom, like morning mist, evanesce?\n\nOn Russia's moors, old war steeds stir and shine,\nArmored relics of Soviet mark, to battle they consign.\nIn a war song of iron and fire, a requiem of the dove,\nThey count the cost: eleven thousand dreams, ploughed beneath by rove.\n\nIn the world's corners, three faces mask a lie,\nBeneath  mundane facades, Putin's silent spies hide.\nSuburban mum, war scribe, Arctic seer, three threads in a weave,\nChampioned shadows, veiled by intrigue, in spy fiction they live.",
+    "feedItems": [
+      {
+        "title": "The West Auditions Syria's New Leaders",
+        "description": "Senior U.S. diplomats visit Damascus, as Washington and Brussels weigh lifting sanctions against the country’s transitional government.",
+        "link": "https://www.wsj.com/articles/the-west-auditions-syrias-new-leaders-4df503ca",
+        "id": "WP-WSJ-0002281564"
+      },
+      {
+        "title": "Russia Taps Soviet-Era Stockpiles as Armored-Vehicle Supply Dwindles",
+        "description": "Moscow has stepped up efforts to refurbish old equipment, including Soviet-era tanks used as props in films, after losing an estimated 11,000 armored combat vehicles in the Ukraine war.",
+        "link": "https://www.wsj.com/articles/russia-taps-soviet-era-stockpiles-as-armored-vehicle-supply-dwindles-6f8f8df2",
+        "id": "WP-WSJ-0002274336"
+      },
+      {
+        "title": "The Global Hunt for Putin's 'Sleeper Agents'",
+        "description": "A quiet suburban mom, a hard-drinking war correspondent and an Arctic researcher were hiding in plain sight, championed by the Kremlin’s No. 1 fan of spy fiction.",
+        "link": "https://www.wsj.com/articles/sleeper-agents-putin-global-hunt-a7978f84",
+        "id": "WP-WSJ-0002274508"
+      }
+    ],
+    "date": "2024-12-23"
+  }
+]
