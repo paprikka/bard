@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "In Syria's land, so marred by strife and anguish,\nWith hearts of valor, leaders venture thus,\nA phoenix from the ashes, they seek to furnish,\nFrom sanctions harsh and years of conflict Octobers.\n\nOh, woe to the Jeju flight, departed from Bangkok's measure,\nSilenced be the lilt of one hundred seventy-nine,\nA requiem rings for those we deeply treasure,\nIn one of the darkest tales of aviation presented to time.\n\nAzerbaijan's trust in Russia hath been cast asunder,\nProclaims Aliyev, his faith in Putin's apology shorn,\nAn airplane's fall, a friendship thrust in thunder,\nEchoes waning influence over lands once Soviet-born.",
+    "feedItems": [
+      {
+        "title": "Syria Looks to Pick Up the Pieces of Its Shattered Economy",
+        "description": "The country’s inexperienced leaders are trying to figure out how to revive an economy decimated by sanctions and years of conflict.",
+        "link": "https://www.wsj.com/articles/syria-looks-to-pick-up-the-pieces-of-its-shattered-economy-40a5cab9",
+        "id": "WP-WSJ-0002294183"
+      },
+      {
+        "title": "South Korean Plane Crash Kills 179 in One of Deadliest Aviation Disasters in Years",
+        "description": "The flight, operated by Jeju Air, had departed from Bangkok with 175 passengers and six crew members aboard.",
+        "link": "https://www.wsj.com/articles/at-least-28-killed-in-plane-crash-in-south-korea-670db7c2",
+        "id": "WP-WSJ-0002293853"
+      },
+      {
+        "title": "Azerbaijan Accuses Russia of Coverup in Kazakhstan Plane Crash",
+        "description": "Azeri President Ilham Aliyev says Vladimir Putin’s apology isn’t enough, in a confrontation that shows Moscow’s waning influence over former Soviet territories.",
+        "link": "https://www.wsj.com/articles/azerbaijan-accuses-russia-of-coverup-in-kazakhstan-plane-crash-456908d4",
+        "id": "WP-WSJ-0002294260"
+      }
+    ],
+    "date": "2024-12-30"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Upon the final voyage sails a hero, Carter bold,\nIn the heart of the White House, tales of strife were told.\nThough Iran'a chains pulled taut, and the coffer did fold,\nIn the shadow of peace, his tale was retold.\n\nIn the year of twenty-four, under Yggdrasil's bough did rest,\nBrave hearts who fought the battle, on this world's noble quest.\nNavalny and master Quincy, in saga's book were pressed,\nTheir tales in the Skald's song, by Odin's throne confessed.\n\nIn lands of shaken Haiti, where even hounds dare not tread,\nFrom Port-au-Prince the people flee, by terror's wildfire spread.\nUpon a trail cliff-hung, their rugged path is led,\nIn escape from the gang's harsh reign, their life's frail thread is thread.",
+    "feedItems": [
+      {
+        "title": "Jimmy Carter, Former U.S. President and Nobel Peace Prize Winner, Dies at 100",
+        "description": "His single term in the White House was marked by the Iran hostage crisis and economic problems but was followed by decades of humanitarian work and the Nobel Peace Prize.",
+        "link": "https://www.wsj.com/articles/jimmy-carter-president-dead-b8a5f926",
+        "id": "WP-WSJ-0000697633"
+      },
+      {
+        "title": "Remembrances: Those Who Died in 2024",
+        "description": "From Alexei Navalny to Quincy Jones, a look at notable deaths in The Wall Street Journal during the year.",
+        "link": "https://www.wsj.com/articles/notable-people-celebrity-deaths-2024-1907f3cc",
+        "id": "WP-WSJ-0002281855"
+      },
+      {
+        "title": "Haitians Flee Gangs on a Mountain Trail 'Where Even the Dogs Don't Go'",
+        "description": "Urban warfare drives tens of thousands of Haitians out of Port-au-Prince along one of the last remaining escape routes, a rugged cliff-side footpath.",
+        "link": "https://www.wsj.com/articles/haiti-port-au-prince-migrants-hiking-trail-1d189e7c",
+        "id": "WP-WSJ-0002292882"
+      }
+    ],
+    "date": "2024-12-30"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "From the Orient did the threat rise,\nWith tariffs the new dragon's guise.\nA wine too sour to savor,\nBoomerangs the fraught flavor.\n\nUpon the swine, the butcher doth feast,\nFraud multiplies like yeast in yeast.\nBroken Tooth the scoundrel known,\nIn the fiendish web he hath sown.\n\nA toast to Charles, once so keen,\nIn cable's kingdom, a true Dean.\nHomeward now his soul must wander,\nYet in our screens, still we ponder.",
+    "feedItems": [
+      {
+        "title": "China Has Limited Firepower to Counter U.S. Tariffs",
+        "description": "While Beijing has already brandished the ways it could hit back at Trump‘s levies, such retaliation risks boomeranging.",
+        "link": "https://www.wsj.com/articles/china-has-limited-firepower-to-counter-u-s-tariffs-108df7e9",
+        "id": "WP-WSJ-0002283172"
+      },
+      {
+        "title": "The Elusive Crime Boss Linked to Billion-Dollar 'Pig Butchering' Scams",
+        "description": "The Chinese mobster known as Broken Tooth has played a central role in the emergence of a virulent new form of cyber fraud.",
+        "link": "https://www.wsj.com/articles/china-mafia-broken-tooth-wan-kuok-koi-online-fraud-scam-70c09afb",
+        "id": "WP-WSJ-0002277384"
+      },
+      {
+        "title": "Charles Dolan, Cable-TV Pioneer Behind HBO and AMC, Dies at 98",
+        "description": "The Cablevision founder’s holdings stretched from local TV systems to Madison Square Garden.",
+        "link": "https://www.wsj.com/articles/charles-dolan-cable-tv-pioneer-behind-hbo-and-amc-dies-298782b8",
+        "id": "WP-WSJ-0000774870"
+      }
+    ],
+    "date": "2024-12-30"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "From Neom's sandy expanse, a vision daring and grand, \nWhere workers wilt 'neath the prince's regal hand. \nGoats in the grove, their fate tied to the land, \nIn silent mourning, they make their silent stand.\n\nLike a hare cowed by the falcon in the sky, \nPutin's words fall short, with naught but a sigh. \nA snail's stoic shell, a futile attempt to deny, \nThe tragic end of those destined to fly.\n\nThe progressive moon dips behind the mountain's might,\nWhile the dog of populism barks in the twilight. \nRabbits retreat, gripped by an uncertain plight,\nAs economic winter blights the hopeful night.",
+    "feedItems": [
+      {
+        "title": "Epic Construction Site in the Saudi Desert Is a Hazard for Workers",
+        "description": "Gang rape, suicides and highway deaths plague Neom, the futuristic vision of Crown Prince Mohammed.",
+        "link": "https://www.wsj.com/articles/saudi-arabia-construction-site-neom-8c1dd4bf",
+        "id": "WP-WSJ-0002265472"
+      },
+      {
+        "title": "Putin Apologizes Over 'Tragic Incident' Involving Crashed Plane",
+        "description": "The Russian leader’s phone call to Azerbaijan’s president stopped short of acknowledging responsibility for the crash of an Azerbaijan Airlines plane that killed 38.",
+        "link": "https://www.wsj.com/articles/putin-apologizes-to-azerbaijans-leader-over-tragic-incident-71a3d1c9",
+        "id": "WP-WSJ-0002293547"
+      },
+      {
+        "title": "The Progressive Moment in Global Politics Is Over",
+        "description": "Weak economic growth and record immigration are driving gains by the right, especially populists—and the trend is set to continue.",
+        "link": "https://www.wsj.com/articles/global-politics-conservative-right-shift-ea0e8d05",
+        "id": "WP-WSJ-0002288046"
+      }
+    ],
+    "date": "2024-12-30"
+  }
+]
