@@ -1,0 +1,122 @@
+[
+  {
+    "author": {
+      "name": "Conchobar mac Dubhthach",
+      "id": "conchobar",
+      "avatar": "cat-3.webp",
+      "description": "An Irish bard of yore, who weaves dulcet melodies that capture hearts with tender love songs. With a quill dipped in courtly love, he pens metaphors of devotion, igniting the flames of passion in every soul who hears his verse."
+    },
+    "newsMedieval": "Upon the Red Sea's troubled shore, with heart and hammer sore,\nThorn'd rebels rise from Yemen's depth, to test Israel's core.\nYet, 'tis not the Houthis whom we scorn, but patrons in Tehran,\nFrom 'cross the dissevered world their ill-born schemes do span.\n\nA token show of aid unwinds, a thread of silver spun,\nTo Syria's embattled land, beneath the waning sun.\nYet Washington treads gingerly, and veers from terror's blight,\nAn unseen dance on shifting sands, in darkness of the night.\n\nIn Venezuela's shadow'd hall, a game of power unrolls,\nSeeking foreign hostages to satisfy foul tolls.\nMaduro's hand has dealt the blow towards the dawning Trump domain,\nAn age-old ploy of puppeteers who pull the world's cruel reigns.",
+    "feedItems": [
+      {
+        "title": "Israel's Red Sea Conundrum: Hit the Houthis or Iran",
+        "description": "The Yemen-based rebels pose a lingering threat, and some security analysts argue that their patrons in Tehran should be in Israel’s crosshairs.",
+        "link": "https://www.wsj.com/articles/israels-red-sea-conundrum-hit-the-houthis-or-iran-75a196eb",
+        "id": "WP-WSJ-0002303571"
+      },
+      {
+        "title": "U.S. to Ease Aid Restrictions for Syria in Limited Show of Support for New Government",
+        "description": "The move reflects Washington’s wariness about the U.S.-designated terror organization that leads the country.",
+        "link": "https://www.wsj.com/articles/u-s-to-ease-aid-restrictions-for-syria-in-limited-show-of-support-for-new-government-26835e9c",
+        "id": "WP-WSJ-0002304016"
+      },
+      {
+        "title": "Venezuelan Regime Hunts for Foreign Hostages to Pressure Its Rivals",
+        "description": "Maduro has turned up the heat on the incoming Trump administration by recently seizing 50 foreigners, several of them American passport holders.",
+        "link": "https://www.wsj.com/articles/venezuelan-regime-hunts-for-foreign-hostages-to-pressure-its-rivals-29ef997b",
+        "id": "WP-WSJ-0002303144"
+      }
+    ],
+    "date": "2025-01-06"
+  },
+  {
+    "author": {
+      "name": "Guillemette de Ventadour",
+      "id": "guillemette",
+      "avatar": "cat-2.webp",
+      "description": "A whimsical troubadour from Occitania, who cherishes the company of nature's gentle creatures. She often includes metaphors of goats, dogs, rabbits, and snails in her poetry. Her writing style is terse."
+    },
+    "newsMedieval": "Tehran, like a rabbit seized by hound,\nA weakened beast midst confrontation, found.\nTrump's second reign, its visage does confound,\nJust as the year turns, so the fears abound.\n\nA shepherd, Biden, arms gives without bound,\nTo Israel, like dogs, they do surround.\nAs arms sales soar, the hawks in war have found,\nAll safe amidst this chaos most profound.\n\nA garden new, in Syria's hallowed ground,\nEducation like a snail, does confound.\nIslamic rule, their vision does surround,\nIn conflict, even gentle hearts are wound.",
+    "feedItems": [
+      {
+        "title": "A Weakened Iran Prepares to Face Trump 2.0",
+        "description": "Tehran is bracing for a tough confrontation with the incoming Trump administration while holding a weak hand after setbacks in 2024.",
+        "link": "https://www.wsj.com/articles/a-weakened-iran-prepares-to-face-trump-2-0-66ae0fbc",
+        "id": "WP-WSJ-0002303134"
+      },
+      {
+        "title": "U.S. Plans $8 Billion Sale of Arms, Including Bombs, to Israel",
+        "description": "The Biden administration notified Congress of a weapons package for Israel that is one of the largest new arms sales since the war in Gaza began.",
+        "link": "https://www.wsj.com/articles/u-s-plans-8-billion-sale-of-arms-including-bombs-to-israel-6f184397",
+        "id": "WP-WSJ-0002303138"
+      },
+      {
+        "title": "Syria's New Islamic Government Creates Controversy With Education Overhaul",
+        "description": "Documents released this week by the new government in Syria spur concerns about whether it will seek to impose a conservative Islamic worldview.",
+        "link": "https://www.wsj.com/articles/syrias-new-islamic-government-creates-controversy-with-education-overhaul-006cd52e",
+        "id": "WP-WSJ-0002302216"
+      }
+    ],
+    "date": "2025-01-06"
+  },
+  {
+    "author": {
+      "name": "Brother Arnulfus",
+      "id": "arnulfus",
+      "avatar": "dog-1.webp",
+      "description": "A Benedictine monk who doth write devotional poems in Ænglish, praising God and the saints. His poems are often humorous, short, and satirical. They often contain metaphors of alcohol, especially wine or ale."
+    },
+    "newsMedieval": "In the heart of boot-bearing Italy's span,\nFair Cecilia doth in strange alms cower,\nSmidst the shadows cast by Iran's power,\nAnd the watchful gaze of Uncle Sam's clan.\n\nIn the orient land where morning sun doth pan,\nA decree of martial might brings the hour,\nYet Yoon Suk Yeol stands rigid, refuses to lower,\nAs his guards rebut the arrest's advance.\n\nIn the realm where dragon roars and tyrants rule,\nBeijing's ire on Trump's kinship doth unfurl.\nDraughts of sanctions poured like ale in bowl,\nA toast to Taiwan, in defense game no fool.",
+    "feedItems": [
+      {
+        "title": "Italy, Caught Between U.S. and Iran, Seeks to Free Journalist",
+        "description": "The case of Cecilia Sala, who is detained in Iran, is a test for Italy’s government as it gets caught up in Tehran’s shadow war with the U.S.",
+        "link": "https://www.wsj.com/articles/italy-caught-between-u-s-and-iran-seeks-to-free-journalist-cecilia-sala-5bb496c1",
+        "id": "WP-WSJ-0002301781"
+      },
+      {
+        "title": "South Korea's Impeached President Fends Off Arrest Attempt Over Martial-Law Decree",
+        "description": "Yoon Suk Yeol’s bodyguards thwarted investigators in another tense showdown resulting from his short-lived martial law decree.",
+        "link": "https://www.wsj.com/articles/south-koreas-impeached-president-fends-off-arrest-attempt-over-martial-law-decree-89ead876",
+        "id": "WP-WSJ-0002299315"
+      },
+      {
+        "title": "China Adds to Sanctions of U.S. Defense Contractors Over Taiwan Arms Sales",
+        "description": "Beijing sent a fresh warning to President-elect Donald Trump of the tools it can use to protect national interests.",
+        "link": "https://www.wsj.com/articles/china-adds-to-sanctions-of-u-s-defense-contractors-over-taiwan-arms-sales-547d8cde",
+        "id": "WP-WSJ-0002299885"
+      }
+    ],
+    "date": "2025-01-06"
+  },
+  {
+    "author": {
+      "name": "Æthelred the Skald",
+      "id": "aethelred",
+      "avatar": "cat-1.webp",
+      "description": "A Norse poet who doth regale his audience with tales of gods and heroes, praising their might and prowess. He references Norse mythology and history in his poems. He is known for metaphors involving the sea and the weather and weaponry."
+    },
+    "newsMedieval": "Lo! A tempest brews in eastmost lands, where Palest shores await,\nAs UNRWA, a beacon, soon might meet an untimely fate,\nWhere meals are served, and knowledge reaped, and weary souls find balm,\nWill silence reign o'er hallowed paths, will this be Midgard's qualm?\n\nAl Jazeera, once a sturdy ship, sails boldly in West Bank's tide,\nYet muzzle by the PA's hand, it can no longer ride.\nO'er territories, strife doth seethe, a grim and bloody dance,\nFor ruler's scepter and kingly seat in the bitter heart of want's expanse.\n\nComes the tale of brave Jim Knaub, a warrior on wheel-ed steed,\nIn life's fierce race, he took the fore, bound by neither fear nor need,\nParaplegics to him looked, their spirits taking flight,\nIn his echo rings the gallant jest - why walk when one can delight in flight?",
+    "feedItems": [
+      {
+        "title": "What the End of a U.N. Agency Would Mean for Palestinians",
+        "description": "Israeli legislation will effectively halt work by Unrwa, the U.N. organization that provides food, education and medical treatment in the Palestinian territories.",
+        "link": "https://www.wsj.com/articles/what-the-end-of-unrwa-would-mean-for-palestinians-e84f58d0",
+        "id": "WP-WSJ-0002296039"
+      },
+      {
+        "title": "Palestinian Authority Bans Al Jazeera in West Bank",
+        "description": "The ban comes as the PA battles militants from Hamas and its allies for control over parts of the West Bank, a fight that could shape the struggle for leadership of the Palestinian cause.",
+        "link": "https://www.wsj.com/articles/palestinian-authority-bans-al-jazeera-in-west-bank-a5c7729d",
+        "id": "WP-WSJ-0002299993"
+      },
+      {
+        "title": "Jim Knaub, Premier Wheelchair Racer, Dies at 68",
+        "description": "He motivated and challenged fellow paraplegics: ‘Why walk when you can fly?’",
+        "link": "https://www.wsj.com/articles/jim-knaub-dies-premier-wheelchair-racer-9dc04783",
+        "id": "WP-WSJ-0002297503"
+      }
+    ],
+    "date": "2025-01-06"
+  }
+]
